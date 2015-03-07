@@ -40,8 +40,9 @@ permalink: /talks/
 * [Challenge Eclipse - Ask the Architecture Council](http://www.eclipsecon.org/2010/sessions/index3b81.html?id=1209)
 
 ## 2009
-*[From Acceleo.org to Eclipse Modeling](http://www.eclipsecon.org/summiteurope2009/sessions9f0a.html?id=971) at Eclipse Summit Europe, Ludwigsburg
-*[Team Work with Models : Compare and Merge with EMF Compare in Galileo](https://www.eclipsecon.org/2009/sessions5cad.html?id=461) at EclipseCon, San Francisco
+
+* [From Acceleo.org to Eclipse Modeling](http://www.eclipsecon.org/summiteurope2009/sessions9f0a.html?id=971) at Eclipse Summit Europe, Ludwigsburg
+* [Team Work with Models : Compare and Merge with EMF Compare in Galileo](https://www.eclipsecon.org/2009/sessions5cad.html?id=461) at EclipseCon, San Francisco
 
 ## 2008
 
