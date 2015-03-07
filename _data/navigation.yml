@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: All Posts
+  url: /posts/
+
+- title: Talks and Papers
+  url: /talks/

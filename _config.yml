@@ -1,14 +1,63 @@
-# Site settings
-title: CTO @ Obeo
-email: cedric.brun@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Building kick-ass products in Eclipse and on Eclipse.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cedric.brun.io" # the base hostname & protocol for your site
-twitter_username:  bruncedric
-github_username:  cbrun
+# Site wide configuration
 
-# Build settings
-markdown: kramdown
+title:            CTO @ Obeo
+locale:           en_US
+url:              
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Cédric Brun
+  avatar: bio-photo.jpg
+  bio: " Building kick-ass products in Eclipse and on Eclipse."
+  email: cedric.brun@obeo.fr
+  disqus-shortname: 
+  twitter: bruncedric
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-60481050-1
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: cbrun
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
 gems:
   - jekyll-sitemap
