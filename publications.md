@@ -25,6 +25,8 @@ permalink: /publications/
 
 [15 EMF projects in 25 minutes](http://cedric.brun.io/eclipsecon-europe-2012-slides/) at EclipseCon Europe, ([slides](http://cedric.brun.io/eclipsecon-europe-2012-slides/))
 
+[Tutorial: building webapp (backbone.js, ..) generator with Eclipse Modeling ](https://plus.google.com/+C%C3%A9dricBrun/posts/EKgDZ1grtEv) Breizhcamp, Rennes.
+
 [Understanding Eclipse Modeling](http://www.eclipsedaytoulouse.com/programme/#modeling) at Eclipse Day Toulouse [video](https://www.youtube.com/watch?v=sFf34a5u92U)
 
 [Interview: Opees and Polarsys at the core of Obeo's strategy](https://www.youtube.com/watch?v=DD-miRQlnQc) at Eclipse Day Toulouse
@@ -33,6 +35,12 @@ permalink: /publications/
 
 
 ## 2011
+
+[Building tools for software re-architecture](https://sites.google.com/site/jugsummercamp/) at JugSummer Camp, La Rochelle
+
+[What the heck is Eclipse Modeling and why should you care !](http://www.eclipsedayparis.com/) at EclipseDay Paris ([slides](http://www.eclipsedayparis.com/2011/uploads/slides2011/CedricBrun_EclipseModeling.pdf))
+
+
 
 ## 2010
 
