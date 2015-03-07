@@ -35,11 +35,19 @@ permalink: /talks/
 
 ## 2010
 
+* [Eclipse Modeling Panel](http://www.eclipsecon.org/2010/sessions/index8474.html?id=1528) at EclipseCon, San Francisco
+* [Diff, Merge and Patch your models with Helios](http://www.eclipsecon.org/2010/sessions/index8b56.html?id=1169) at EclipseCon, San Francisco
+* [Challenge Eclipse - Ask the Architecture Council](http://www.eclipsecon.org/2010/sessions/index3b81.html?id=1209)
+
 ## 2009
+
+
 
 ## 2008
 
 ## 2007
 
+* [Setting up a Domain Specific Tooling](http://www.eclipsecon.org/summiteurope2007/index337e.html?page=detail/&id=17) at Eclipse Summit Europe, Ludwigsburg ([slides](http://www.eclipsecon.org/summiteurope2007/presentations/ESE2007_SettingUpDSMtooling.pdf))
+* [EMF Compare: One Year Later](http://www.eclipsecon.org/summiteurope2007/index34ed.html?page=detail/&id=24) at Eclipse Summit Europe, Ludwigsburg ([slides](http://www.eclipsecon.org/summiteurope2007/presentations/ESE2007_EMFCompare.pdf))
 
 
