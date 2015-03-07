@@ -1,0 +1,12 @@
+# Site settings
+title: CTO @ Obeo
+email: cedric.brun@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Building kick-ass products in Eclipse and on Eclipse.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cedric.brun.io" # the base hostname & protocol for your site
+twitter_username:  bruncedric
+github_username:  cbrun
+
+# Build settings
+markdown: kramdown
