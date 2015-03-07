@@ -30,7 +30,8 @@ permalink: /talks/
 
 * [Building tools for software re-architecture](https://sites.google.com/site/jugsummercamp/) at JugSummer Camp, La Rochelle
 * [What the heck is Eclipse Modeling and why should you care !](http://www.eclipsedayparis.com/) at EclipseDay Paris ([slides](http://www.eclipsedayparis.com/2011/uploads/slides2011/CedricBrun_EclipseModeling.pdf))
-* [Collaborative Modeling : The New Deal](http://www.iwmcp.org/2011/page.php?id=36) Keynote at IWMCP, Zurich
+* [Collaborative Modeling : The New Deal](http://www.iwmcp.org/2011/page.php?id=36) Keynote at IWMCP, Zurich ([slides](http://dl.acm.org/citation.cfm?id=2000411&dl=ACM&coll=DL&CFID=484729923&CFTOKEN=19061534))
+* [Collaborative Modeling : The New Deal](https://www.eclipsecon.org/europe2011/sessions/collaborative-modeling-new-deal.html) at EclipseCon Europe, Ludwigsburg
 
 
 ## 2010
