@@ -10,3 +10,5 @@ github_username:  cbrun
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap
