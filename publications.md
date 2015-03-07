@@ -23,9 +23,14 @@ permalink: /publications/
 
 ## 2012
 
-[Understanding Eclipse Modeling] at Eclipse Day Toulouse [video](https://www.youtube.com/watch?v=sFf34a5u92U)
+[15 EMF projects in 25 minutes](http://cedric.brun.io/eclipsecon-europe-2012-slides/) at EclipseCon Europe, ([slides](http://cedric.brun.io/eclipsecon-europe-2012-slides/))
 
-[Interview: Opees and Polarsys at the core of Obeo's strategy](https://www.youtube.com/watch?v=DD-miRQlnQc)
+[Understanding Eclipse Modeling](http://www.eclipsedaytoulouse.com/programme/#modeling) at Eclipse Day Toulouse [video](https://www.youtube.com/watch?v=sFf34a5u92U)
+
+[Interview: Opees and Polarsys at the core of Obeo's strategy](https://www.youtube.com/watch?v=DD-miRQlnQc) at Eclipse Day Toulouse
+
+[Your custom modeling environment definition made easy. At last!](http://www.eclipsecon.org/2013/sessions/your-custom-modeling-environment-definition-made-easy-last) at EclipseCon, Boston
+
 
 ## 2011
 
