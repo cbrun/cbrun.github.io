@@ -30,7 +30,7 @@ permalink: /talks/
 
 * [Building tools for software re-architecture](https://sites.google.com/site/jugsummercamp/) at JugSummer Camp, La Rochelle
 * [What the heck is Eclipse Modeling and why should you care !](http://www.eclipsedayparis.com/) at EclipseDay Paris ([slides](http://www.eclipsedayparis.com/2011/uploads/slides2011/CedricBrun_EclipseModeling.pdf))
-
+* [Collaborative Modeling : The New Deal](http://www.iwmcp.org/2011/page.php?id=36) Keynote at IWMCP, Zurich
 
 
 ## 2010
@@ -45,6 +45,7 @@ permalink: /talks/
 
 ## 2008
 
+* BRUN, Cédric et PIERANTONIO, Alfonso. [Model differences in the eclipse modeling framework](http://www.cepis.org/upgrade/files/2008-II-pierantonio.pdf). UPGRADE, The European Journal for the Informatics Professional, 2008, vol. 9, no 2, p. 29-34.
 ## 2007
 
 * [Setting up a Domain Specific Tooling](http://www.eclipsecon.org/summiteurope2007/index337e.html?page=detail/&id=17) at Eclipse Summit Europe, Ludwigsburg ([slides](http://www.eclipsecon.org/summiteurope2007/presentations/ESE2007_SettingUpDSMtooling.pdf))
