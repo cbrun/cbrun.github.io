@@ -1,0 +1,36 @@
+---
+layout: post
+title: Measuring Performances
+date: '2011-08-10T01:26:00.000-07:00'
+author: Cédric Brun
+tags:
+- performance
+- obeo
+- emf compare
+- eclipse
+modified_time: '2011-08-10T04:57:50.981-07:00'
+thumbnail: http://3.bp.blogspot.com/-FdR-1a_XLBs/TkJTMoasu4I/AAAAAAAAAiM/FtGlBhOvdE4/s72-c/perfsingletest.png
+blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1396678905777386614
+blogger_orig_url: http://model-driven-blogging.blogspot.com/2011/08/measuring-performances.html
+---
+
+<div style="text-align: left;">Performance is a feature, your users are needing it and so is your product. The code is changing, always, keeping track of the effect of those changes on the performance is not easy but it is as important as fixing bugs.</div>
+<br />You don't control what you don't measure. The Eclipse Platform built a performance measure framework for their own needs. The API is pretty simple but the implementation, on the other hand is quite complex, querying for instance system specific commands to retrieve the memory state depending on the platform. Launching a performance test built with this is not easy, neither is getting the result in a human readable way.
+<br />
+<br />Our needs were not as complex as the platform ones, we're not trying to measure the number of microseconds a Shell needs to be instantiated on every platform, we're not trying to launch thousands of performance tests for each of our component.<div>
+<br /></div><div>We decided to write a small framework to measure performance, <a href="https://github.com/pcdavid">Pierre-Charles</a> did the first iteration and I'm applying it on EMF Compare now. This framework is using JUnit4 annotations so that one can easily transform an end user scenario into a performance test. First warning : this framework is<b> n<span>ot </span></b><span style="font-weight:bold;">suited for micro-benchmarking at all !</span>
+<br />
+<br /><div>Second warning : this framework is <b>not without overhead</b> either, it's filling an EMF model with the measures (which might take a bit of memory if you write thousands of tests) .  </div><div>
+<br /></div><div>On the other hand, the output of the test suite execution is this EMF model, allowing us to quite easily browse the results, generate reports,  and even more interestingly to <b>compare</b> two snapshots ! It's completely standalone and is not requiring more than Java, Junit, and the EMF Core Runtime.</div><div>
+<br /></div><div>In a nutshell, this framework is convenient if you want to measure tasks in the order of seconds, and memory usage if you're looking at megabytes.</div><div>
+<br /></div><div>So far it's giving you <b>memory usage</b> (through JMX) and <b>system time</b> for each tests, it's running the tests several times with a "<b>warmup</b>" phase launching the test but not measuring.</div><div>
+<br /></div><div>A test looks like this :</div><div>
+<br /></div><div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><img src="http://3.bp.blogspot.com/-FdR-1a_XLBs/TkJTMoasu4I/AAAAAAAAAiM/FtGlBhOvdE4/s400/perfsingletest.png" border="0" alt="" id="BLOGGER_PHOTO_ID_5639161159894219650" style="display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 400px; height: 90px; " /></span></div><div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; ">
+<br /></span></div><div><span class="Apple-style-span"><span class="Apple-style-span" style="color: rgb(0, 0, 0); ">The test class :</span></span></div><div><span class="Apple-style-span"><span class="Apple-style-span" style="color: rgb(0, 0, 0); ">
+<br /></span></span></div><div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><img src="http://3.bp.blogspot.com/-ARe4Rz2VSm8/TkJT2DHKmjI/AAAAAAAAAiU/2bcVvjdckR8/s400/perftestclass.png" border="0" alt="" id="BLOGGER_PHOTO_ID_5639161871434684978" style="display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 400px; height: 198px; " /></span></div><div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; ">
+<br /></span></div><div><span class="Apple-style-span"><span class="Apple-style-span" style="color: rgb(0, 0, 0); ">And the Test Suite :</span></span></div><div><span class="Apple-style-span"><span class="Apple-style-span" style="color: rgb(0, 0, 0); ">
+<br /></span></span></div><div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><img src="http://1.bp.blogspot.com/-fbmHXIyy4Lo/TkJUNDYsdKI/AAAAAAAAAic/j8WQElVfDkI/s400/perfsuite.png" border="0" alt="" id="BLOGGER_PHOTO_ID_5639162266645197986" style="display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 400px; height: 123px; " /></span></div><div><span class="Apple-style-span">
+<br /></span></div><div>
+<br /></div><div>It's here if you want to give it a try, it's EPL, it's on github, feel free to fork it :</div><div>  <a href="https://github.com/Obeo/fr.obeo.performance">https://github.com/Obeo/fr.obeo.performance</a></div><div>
+<br /></div><div>
+<br /></div></div>
