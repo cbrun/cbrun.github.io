@@ -40,15 +40,18 @@ permalink: /talks/
 * [Challenge Eclipse - Ask the Architecture Council](http://www.eclipsecon.org/2010/sessions/index3b81.html?id=1209)
 
 ## 2009
-
+*[From Acceleo.org to Eclipse Modeling](http://www.eclipsecon.org/summiteurope2009/sessions9f0a.html?id=971) at Eclipse Summit Europe, Ludwigsburg
 
 
 ## 2008
 
 * BRUN, Cédric et PIERANTONIO, Alfonso. [Model differences in the eclipse modeling framework](http://www.cepis.org/upgrade/files/2008-II-pierantonio.pdf). UPGRADE, The European Journal for the Informatics Professional, 2008, vol. 9, no 2, p. 29-34.
+
+
 ## 2007
 
 * [Setting up a Domain Specific Tooling](http://www.eclipsecon.org/summiteurope2007/index337e.html?page=detail/&id=17) at Eclipse Summit Europe, Ludwigsburg ([slides](http://www.eclipsecon.org/summiteurope2007/presentations/ESE2007_SettingUpDSMtooling.pdf))
 * [EMF Compare: One Year Later](http://www.eclipsecon.org/summiteurope2007/index34ed.html?page=detail/&id=24) at Eclipse Summit Europe, Ludwigsburg ([slides](http://www.eclipsecon.org/summiteurope2007/presentations/ESE2007_EMFCompare.pdf))
+* [Acceleo, un générateuropen source pour des développements dirigé par les modèles](http://scenari-platform.org/projects/others/files/solutionslinux2007.pdf) at Solutions Linux, Paris
 
 
