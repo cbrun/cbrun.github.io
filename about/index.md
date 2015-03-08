@@ -21,4 +21,4 @@ Obeo is now one of the 11 Strategic Members of the Eclipse Fundation and [has mo
 
 I was there when Obeo was only 4 peoples in a single room and we are now close to 60 peoples spread out over France and just starting to take over the world.
 
-I'm managing a team of talented developpers, growing a number of products from proof of concepts to operational-ready and adapting the company organization and practices over time.
+I'm managing a team of talented developpers, growing a number of products from proof of concepts to operational-ready and contributing to adapting the company organization and practices over time.
