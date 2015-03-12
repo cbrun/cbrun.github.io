@@ -35,7 +35,7 @@ I'm often asked how is that making us different from service companies. It makes
 * It gives use deep incentives to have a strong quality in the products or the business model collapse. We are able to provide support at such a small price only if the number of fixes we have to make post release is reduced too. Furthermore, as I mentioned earlier we are also distributing products based on Sirius on our own.
 
 * We have no choice than investing in the technology in a sustainable way. Evolving the technologies to offer more and more value for the users while keeping the risks under complete control and having a clear and cheap migration path.
-As an example, that's why Sirius will migrate your Viewpoint and Representations models from version to version or that upgrading is actually fairly easy despite some internal refafactorings.
+As an example, that's why Sirius will migrate your Viewpoint and Representations models from version to version or that upgrading is actually fairly easy despite some internal refactorings.
 
 
 Of course every organization out there want to ship products which a high level of quality and add new features now and then but in our case **such decisions in Sirius directly affect a decent part of our income**.
