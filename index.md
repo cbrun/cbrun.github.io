@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+excerpt: "The blog of Cedric Brun, Eclipse commiter, CTO at Obeo"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: sample-image-1.jpg
