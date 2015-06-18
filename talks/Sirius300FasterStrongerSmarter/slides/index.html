@@ -149,7 +149,7 @@
 								<th>Version</th>
 								<th>Date</th>
 								<th>Total Closed</th>
-								<th>%</th>
+								<th>Feature Requests</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -233,13 +233,13 @@
 					</ul>
 				</section>
 
-				<section>
+				<section >
 					<h2>Query langage validation</h2>
-					<img alt="" src="pics/interpreters-in-sirius.png">
+					<img alt="" src="pics/sirius-interpreters.png">
 				</section>
 
 				<section>
-					<h2>What is the type of $container ?</h2>
+					<h2>What is the type of <tt>var:container</tt> ?</h2>
 					<ul>
 						<li>Several potential types</li>
 					</ul>
@@ -296,7 +296,7 @@
 								<li>Colors transformed from full-blown EObject to Immutable
 									DataType</li>
 								<li>detection and correction of leaks</li>
-								<li>reduce usage of Adapters/li>
+								<li>reduce usage of Adapters</li>
 							</ul>
 						</li>
 						<li>Save Strategy</li>
@@ -353,18 +353,19 @@
 					<ul>
 						<li>You know OCL ? Then you know AQL</li>
 						<li>No implicit variables
-							<p class="fragment roll-in">
-								<small>[name/] is invalid and should be self.name</small>
+							<p class="fragment roll-in"><small>
+								<code>[name/] is invalid become
+								 be self.name</code></small>
 							</p>
 							<p class="fragment roll-in">
-								<small>
-									[self.eContents()->select(name.startsWith('A'))/] is invalid
-									and should be [self.eContents()->select(<b>i | i</b>.name.startsWith('A')/]
-								</small>
+								<small><code>
+									[self.eContents()->select(name.startsWith('A'))/] 
+									is invalid and become self.eContents()->select(<b>i | i</b>.name.startsWith('A')
+								</code></small>
 							</p>
 							<p class="fragment roll-in">
-								<small>self.referenceWithNoValue.someOtherAttribute =>
-									has no evaluation error, returns "Nothing" </small>
+								<small><code>self.referenceWithNoValue.someOtherAttribute
+									has no evaluation error, returns "Nothing" </code></small>
 							</p>
 						</li>
 
@@ -486,6 +487,13 @@
 						<li>Team Ramp Up on Eclipse.org : done</li>
 						<li>Join the XX new authors every day on the forum</li>
 						<li>Download the Package</li>
+					</ul>
+				</section>
+				
+				<section data-background="pics/gallery-background.png">
+					<h2>Getting in touch</h2>
+					<ul>
+						<li>Get your entry in the gallery through <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=448492">Bug 448492</a></b></li>
 					</ul>
 				</section>
 
