@@ -76,7 +76,13 @@
 				</section>
 
 				<section>
+					<h3>Children location when resizing a container</h3>
+					<img alt="" src="pics/containerResize-changedBehavior.gif">
+				</section>
+
+				<section>
 					<h2>Positionning Things</h2>
+					<img alt="" src="pics/distribute_WithUniformGap.png">
 					<ul>
 						<li>Snap To Shape enabled by default for new diagrams</li>
 						<li>Snap To Grid now used when an element is created</li>
@@ -96,6 +102,7 @@
 					 -->
 				<section>
 					<h2>Edges Layouting</h2>
+					<img alt="" src="pics/moveNode-edgeImpact-changedBehavior.gif">
 					<ul>
 						<li>Only closest segment is updated when moving a source or
 							target or reconnecting</li>
@@ -135,13 +142,13 @@
 				</section>
 
 				<section>
-					
+
 					<table>
 						<thead>
 							<tr>
 								<th>Version</th>
 								<th>Date</th>
-								<th>Total Closed</th>								
+								<th>Total Closed</th>
 								<th>%</th>
 							</tr>
 						</thead>
@@ -150,63 +157,55 @@
 								<td>1.0.0<small>(Luna)</small></td>
 								<td><small>June 14</small></td>
 								<td>100</td>
-								<td>2</td>								
+								<td>2</td>
 							<tr>
 							<tr>
 								<td>1.0.1</td>
 								<td><small>Aug 14</small></td>
 								<td>20</td>
 								<td>-</td>
-								
 							<tr>
 							<tr>
 								<td>2.0.0</td>
 								<td><small>Oct 14</small></td>
 								<td>113</td>
 								<td>27</td>
-								
 							<tr>
 							<tr>
 								<td>2.0.1</td>
 								<td><small>Nov 14</small></td>
 								<td>2</td>
 								<td>-</td>
-								
 							<tr>
 							<tr>
 								<td>2.0.2</td>
 								<td><small>Dec 14</small></td>
 								<td>15</td>
 								<td>-</td>
-								
 							<tr>
 							<tr>
 								<td>2.0.3</td>
 								<td><small>Jan 15</small></td>
 								<td>16</td>
 								<td>-</td>
-								
 							<tr>
 							<tr>
 								<td>2.0.4</td>
 								<td><small>Feb 15</small></td>
 								<td>8</td>
 								<td>-</td>
-								
 							<tr>
 							<tr>
 								<td>2.0.5</td>
 								<td><small>Apr 15</small></td>
 								<td>8</td>
 								<td>-</td>
-								
 							<tr>
 							<tr>
 								<td>3.0.0<small>(Mars)</small></td>
 								<td><small>Jun 14</small></td>
 								<td>213</td>
 								<td>35</td>
-								
 							<tr>
 							<tr>
 								<td></td>
@@ -354,15 +353,19 @@
 					<ul>
 						<li>You know OCL ? Then you know AQL</li>
 						<li>No implicit variables
-							<p class="fragment roll-in"><small>[name/] is invalid and should be
-								self.name</small></p>
-							<p class="fragment roll-in"><small>
-								[self.eContents()->select(name.startsWith('A'))/] is invalid and
-								should be [self.eContents()->select(<b>i | i</b>.name.startsWith('A')/]
-							</small></p>
-							<p class="fragment roll-in"><small>self.referenceWithNoValue.someOtherAttribute
-								=> has no evaluation error, returns "Nothing"
-								</small></p>
+							<p class="fragment roll-in">
+								<small>[name/] is invalid and should be self.name</small>
+							</p>
+							<p class="fragment roll-in">
+								<small>
+									[self.eContents()->select(name.startsWith('A'))/] is invalid
+									and should be [self.eContents()->select(<b>i | i</b>.name.startsWith('A')/]
+								</small>
+							</p>
+							<p class="fragment roll-in">
+								<small>self.referenceWithNoValue.someOtherAttribute =>
+									has no evaluation error, returns "Nothing" </small>
+							</p>
 						</li>
 
 						<li>Classic operations : filter, collect</li>
