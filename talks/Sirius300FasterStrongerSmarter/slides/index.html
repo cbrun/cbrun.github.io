@@ -76,12 +76,16 @@
 				</section>
 
 				<section data-transition="none">
-					<h3>Children location when resizing a container</h3>
+					<h3>
+						Resizing a container<small>(1.0)</small>
+					</h3>
 					<img alt="" src="pics/containerResize-changedBehavior_old.gif">
 				</section>
 
 				<section data-transition="none">
-					<h3>Children location when resizing a container</h3>
+					<h3>
+						Resizing a container<small>(2.0)</small>
+					</h3>
 					<img alt="" src="pics/containerResize-changedBehavior_new.gif">
 				</section>
 
@@ -106,18 +110,17 @@
 					</section>
 					 -->
 				<section data-transition="none">
-					<h2>Edges Layouting</h2>
+					<h2>
+						Edges Layouting <small>(1.0)</small>
+					</h2>
 					<img alt="" src="pics/moveNode-edgeImpact-changedBehavior_old.gif">
 				</section>
 
 				<section data-transition="none">
-					<h2>Edges Layouting</h2>
+					<h2>
+						Edges Layouting <small>(2.0)</small>
+					</h2>
 					<img alt="" src="pics/moveNode-edgeImpact-changedBehavior_new.gif">
-					<ul class="fragment roll-in">
-						<li>Only closest segment is updated when moving a source or
-							target or reconnecting</li>
-						<li>Action to explicitely remove a bend point</li>
-					</ul>
 				</section>
 
 				<section data-background="pics/wonder.jpg">
@@ -126,23 +129,40 @@
 				</section>
 
 
-				<section>
-					<h2>Anchor on borders</h2>
+				<section data-background="#ffffff" data-transition="fade">
+					<h2 style="color: gray;">Anchor on borders <small>1.0</small></h2>
+					<img alt="" src="pics/sirius/imageborder-before.png">
+				</section>
+				
+				
+				<section data-background="#ffffff" data-transition="fade">
+					<h2 style="color: gray;">Anchor on borders <small>3.0</small></h2>
 					<img alt="" src="pics/sirius/imageborder-after.png">
 				</section>
 
-				<section>
-					<h2>Underligned and Strikethrough style for labels</h2>
+				<section data-background="#ffffff">
+					<h2 style="color: gray;">Underligned and Strikethrough
+						style for labels</h2>
+					<img alt="" src="pics/underline.png">
 				</section>
 
-				<section>
-					<h2>Compartments</h2>
+				<section data-background="#ffffff">
+					<h2 style="color: gray;">Compartments</h2>
+					<img alt="" src="pics/compartments.png">
+					<ul class="fragment fade-in">
+						<li style="color: gray;">dynamic number of comparments</li>
+						<li style="color: gray;">leverage queries</li>
+						<li><img alt="" src="pics/compartments-h-or-v.png"></li>
+					</ul>
 				</section>
 
-				<section>
-					<h2>Compartments (bis)</h2>
+				<section data-background="#ffffff">
+					<h2 style="color: gray;">Freshly painted</h2>
+					<ul class="fragment fade-in">
+						<li style="color: gray;">Finishing corner cases for 3.1</li>
+						<li style="color: gray;">Report weird things on the <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Sirius">Bugzilla</a></li>
+					</ul>
 				</section>
-
 
 				<section>
 					<h2>Demo</h2>
@@ -226,8 +246,8 @@
 							<tr>
 								<td></td>
 								<td></td>
-								<td>426</td>
-								<td>64</td>
+								<td><b>426</b></td>
+								<td><b>64</b></td>
 								<td></td>
 							<tr>
 						</tbody>
@@ -249,21 +269,30 @@
 
 				<section>
 					<h2>Query langages</h2>
+					<img alt="" src="pics/queries-in-odesign.png">
 				</section>
 
 				<section data-background="pics/sirius-interpreters.png"></section>
 
 				<section>
-					<h2>
+					<h4>
 						What is the type of
-						<tt>var:container</tt>
+						<tt>var:source</tt>
 						?
-					</h2>
-					<h3 class="fragment fade-in">Several</h3>
+					</h4>
+					<img alt="" src="pics/typed-edge-mapping.png">
+					<h3 class="fragment fade-in">
+						<img alt="" src="pics/typed-edge-creation.png">
+					</h3>
 				</section>
 
 				<section>
-					<h2>Requires stronger information from Query implementation</h2>
+					<h2>Type analysis within the Action Language</h2>
+					<img alt="" src="pics/typed-change-context.png">
+				</section>
+
+				<section>
+					<h2>Requires stronger type information from Interpreters</h2>
 					<ul>
 						<li>Reference support in aql:</li>
 						<li>Implemented in feature:, var:</li>
@@ -271,6 +300,8 @@
 						<li>No support in legacy <%%> and ocl:</li>
 					</ul>
 				</section>
+
+
 			</section>
 
 			<section>
@@ -339,7 +370,7 @@
 								<td>Close Project</td>
 								<td>55</td>
 								<td>55</td>
-								<td>294</td>
+								<td>-294</td>
 								<td>-246</td>
 							</tr>
 						</table>
@@ -394,7 +425,7 @@
 				</section>
 
 				<section data-background="./pics/watch.jpg">
-					<h2 class="fragment fade-in">Implementation specifically
+					<h2 style="text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;" class="fragment fade-in">Implementation specifically
 						tailored for the Sirius use case</h2>
 				</section>
 
@@ -452,15 +483,16 @@
 
   -->
 				<section data-background="#ffffff">
-					<h2 style="color: darkgray;">Queries engines -- Overhead bench</h2>
+					<h2 style="color: gray;" >Queries engines -- Overhead bench</h2>
 					<img alt="" src="pics/sirius/sirius-query-bench.png">
 				</section>
 
 				<section data-background="./pics/aql-timeline-back.png">
-					<h2 style="text-align: top; color: darkgray;">Timeline</h2>
+					<h2 style="text-align: top; color: gray;">Timeline</h2>
 				</section>
 
 				<section>
+
 					<h3>Starting now for deployement in Q4 : consider it</h3>
 					<h4 class="fragment roll-in'">
 						Still using
@@ -472,6 +504,10 @@
 						<code>[/]</code>
 						: prepare your queries so that migrating is easy
 					</h4>
+				</section>
+
+				<section>
+					<img alt="" src="pics/install-aql.png">
 				</section>
 
 				<section data-background="./pics/sirius-background.png">
@@ -514,16 +550,19 @@
 				<section>
 					<h2>Migrating</h2>
 					<ul>
-						<li class="fragment fade-in">Models are automatically migrated by the
-							runtime.</li>
+						<li class="fragment fade-in">The runtime automatically .odesign and .aird models</li>
 						<li class="fragment fade-in">Easy process :
 							<ol>
-								<li class="fragment fade-in"> Check release notes for user-visible changes.
-								<img alt="" src="pics/sirius-release-notes.png"></li>
+								<li class="fragment fade-in">Check release notes for
+									user-visible changes. <img alt=""
+									src="pics/sirius-release-notes.png">
+								</li>
 								<li class="fragment fade-in">Change update-site, versions</li>
-								<li class="fragment fade-in">In case of impacting API change, re-check the <a
+								<li class="fragment fade-in">In case of impacting API
+									change, re-check the <a
 									href="https://www.eclipse.org/sirius/doc/Release_Notes.html">release
-										notes</a></li>
+										notes</a>
+								</li>
 							</ol>
 						</li>
 					</ul>
@@ -567,9 +606,12 @@
 				<section>
 					<h2>Take Aways</h2>
 					<ul>
-						<li>Team Ramp Up on Eclipse.org : done</li>
-						<li>Join the XX new authors every day on the forum</li>
-						<li>Download the Package</li>
+						<li>Sirius : "State of The Art" modeling tools.</li>
+						<li>Join the <b>~15 new authors every month</b> on the <a
+							href="https://www.eclipse.org/forums/index.php/f/262/">Eclipse</a></li>
+						<li>Obeo Designer Community Edition : all in one package <img
+							alt="" src="pics/od-ce-download.png">
+						</li>
 					</ul>
 				</section>
 
