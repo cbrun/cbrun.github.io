@@ -59,10 +59,9 @@
 				</p>
 			</section>
 
-			<section data-transition="slide" data-background="#4d7e65"
+			<section data-transition="slide" data-background="#ffffff"
 				data-background-transition="zoom">
-				<h2>The last few years...</h2>
-				<img class="fragment roll-in" src="pics/TODO.png" />
+				<img alt="" src="pics/sirius-timeline.png">
 			</section>
 
 			<section>
@@ -73,11 +72,17 @@
 
 				<section>
 					<h2>Diagram User Experience</h2>
+					<img class="fragment fade-in" alt="" src="pics/grumpycat.jpg">
 				</section>
 
-				<section>
+				<section data-transition="none">
 					<h3>Children location when resizing a container</h3>
-					<img alt="" src="pics/containerResize-changedBehavior.gif">
+					<img alt="" src="pics/containerResize-changedBehavior_old.gif">
+				</section>
+
+				<section data-transition="none">
+					<h3>Children location when resizing a container</h3>
+					<img alt="" src="pics/containerResize-changedBehavior_new.gif">
 				</section>
 
 				<section>
@@ -100,14 +105,24 @@
 						</ul>
 					</section>
 					 -->
-				<section>
+				<section data-transition="none">
 					<h2>Edges Layouting</h2>
-					<img alt="" src="pics/moveNode-edgeImpact-changedBehavior.gif">
-					<ul>
+					<img alt="" src="pics/moveNode-edgeImpact-changedBehavior_old.gif">
+				</section>
+
+				<section data-transition="none">
+					<h2>Edges Layouting</h2>
+					<img alt="" src="pics/moveNode-edgeImpact-changedBehavior_new.gif">
+					<ul class="fragment roll-in">
 						<li>Only closest segment is updated when moving a source or
 							target or reconnecting</li>
 						<li>Action to explicitely remove a bend point</li>
 					</ul>
+				</section>
+
+				<section>
+					<h2>Beautiful editors</h2>
+
 				</section>
 
 
@@ -222,11 +237,8 @@
 
 				<section>
 					<h2>Definition Tooling : demo</h2>
-				</section>
 
-				<section>
-					<h2>Definition Tooling : Small things which matters</h2>
-					<ul>
+					<ul class="fragment fade-in">
 						<li>Image path validation and selection wizard</li>
 						<li>Quick Outline</li>
 						<li>Prioritized sub menus</li>
@@ -234,12 +246,11 @@
 					</ul>
 				</section>
 
-				<section >
+				<section>
 					<h2>Query langages</h2>
 				</section>
 
-				<section data-background="pics/sirius-interpreters.png">
-				</section>
+				<section data-background="pics/sirius-interpreters.png"></section>
 
 				<section>
 					<h2>
@@ -247,9 +258,7 @@
 						<tt>var:container</tt>
 						?
 					</h2>
-					<ul>
-						<li>Several potential types</li>
-					</ul>
+					<h3 class="fragment fade-in">Several</h3>
 				</section>
 
 				<section>
@@ -270,6 +279,12 @@
 					<h2>Faster</h2>
 				</section>
 
+				<section data-background="./pics/many.jpg">
+					<h2 class="fragment fade-in"
+						style="text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">Goal
+						: 1 Million Model Element</h2>
+				</section>
+
 
 				<section data-background="./pics/sirius-background.png">
 					<h2>Constant improvements</h2>
@@ -279,17 +294,7 @@
 					</ul>
 				</section>
 
-				<section data-background="./pics/sirius-background.png">
-					<h2>Goal : 1 Million Model Element</h2>
-					<ul>
-						<li>This gives room for analysis + decent data</li>
-					</ul>
-					<ul>
-						<li>Faster runtime to give more room to your logic</li>
-						<li>Decent Mem usage</li>
-						<li>UI reacts correctly</li>
-					</ul>
-				</section>
+
 
 
 				<section data-background="./pics/sirius-background.png">
@@ -318,17 +323,19 @@
 				<section data-background="./pics/sirius-background.png">
 					<h2>Tables</h2>
 					<ul>
-						<li>SWT Refreshes now done as a batch</li>
-						<li>Table model refresh improvements</li>
-					</ul>
-				</section>
-
-				<section data-background="./pics/sirius-background.png">
-					<h2>UI</h2>
-					<ul>
-						<li>Model Element Selection Dialogs for big models</li>
-						<li>Right-click latency in the explorer</li>
-						<li>Better integration with EEF (property views)</li>
+						<li>UI Runtime
+							<ul>
+								<li>Model Element Selection Dialogs for big models</li>
+								<li>Right-click latency in the explorer</li>
+								<li>Better integration with EEF (property views)</li>
+							</ul>
+						</li>
+						<li>Tables
+							<ul>
+								<li>SWT Refreshes now done as a batch</li>
+								<li>Table model refresh improvements</li>
+							</ul>
+						</li>
 					</ul>
 				</section>
 
@@ -357,25 +364,21 @@
 					<h2>Language Characteristics</h2>
 					<ul>
 						<li>You know OCL ? Then you know AQL</li>
-						<li>No implicit variables
+						<li class="fragment roll-in">No implicit variables
 							<p class="fragment roll-in">
 								<small> <code>[name/] is invalid become be
-										self.name</code></small>
-							</p>
-							<p class="fragment roll-in">
-								<small><code>
+										self.name</code></small> <small><code>
 										[self.eContents()->select(name.startsWith('A'))/] is invalid
 										and become self.eContents()->select(<b>i | i</b>.name.startsWith('A')
-									</code></small>
-							</p>
-							<p class="fragment roll-in">
-								<small><code>self.referenceWithNoValue.someOtherAttribute
+									</code></small> <small><code>self.referenceWithNoValue.someOtherAttribute
 										has no evaluation error, returns "Nothing" </code></small>
 							</p>
 						</li>
 
-						<li>Classic operations : filter, collect</li>
-						<li>Convenient operations : eInverse(), eResource()..</li>
+						<li class="fragment roll-in">Classic operations : filter,
+							collect</li>
+						<li class="fragment roll-in">Convenient operations :
+							eInverse(), eResource()..</li>
 					</ul>
 				</section>
 
