@@ -120,7 +120,7 @@
 					</ul>
 				</section>
 
-				<section>
+				<section data-background="pics/wonder.jpg">
 					<h2>Beautiful editors</h2>
 
 				</section>
@@ -239,10 +239,11 @@
 					<h2>Definition Tooling : demo</h2>
 
 					<ul class="fragment fade-in">
+						<li>Workspace class loading is BACK</li>
 						<li>Image path validation and selection wizard</li>
 						<li>Quick Outline</li>
 						<li>Prioritized sub menus</li>
-						<li>Workspace class loading</li>
+						<li>...</li>
 					</ul>
 				</section>
 
@@ -264,10 +265,10 @@
 				<section>
 					<h2>Requires stronger information from Query implementation</h2>
 					<ul>
-						<li>No support in legacy <%%> and ocl:</li>
-						<li>Improvements in [/]</li>
-						<li>Implemented in feature:, var:</li>
 						<li>Reference support in aql:</li>
+						<li>Implemented in feature:, var:</li>
+						<li>Improvements in [/]</li>
+						<li>No support in legacy <%%> and ocl:</li>
 					</ul>
 				</section>
 			</section>
@@ -288,20 +289,71 @@
 
 				<section data-background="./pics/sirius-background.png">
 					<h2>Constant improvements</h2>
-					<ul>
-						<li>Sirius 2.0 : save,context menus,...</li>
-						<li>Sirius 3.0 : refresh, memory,...</li>
-					</ul>
+					<small>
+						<table>
+							<thead>
+								<tr>
+									<td>&nbsp;</td>
+									<td>Sirius 1.0 (sec)</td>
+									<td>Sirius 3.0 (sec)</td>
+									<td>Sirius 1.0 (MB)</td>
+									<td>Sirius 3.0 (MB)</td>
+								</tr>
+							</thead>
+							<tr>
+								<td>Open Huge Project</td>
+								<td>80</td>
+								<td>55</td>
+								<td>276</td>
+								<td>223</td>
+							</tr>
+							<tr>
+								<td>Open Big Class Diagram</td>
+								<td>11</td>
+								<td>5</td>
+								<td>24</td>
+								<td>29</td>
+							</tr>
+							<tr>
+								<td>Refresh Big Class Diagram</td>
+								<td>0,731</td>
+								<td>0,596</td>
+								<td>0</td>
+								<td>0</td>
+							</tr>
+							<tr>
+								<td>Save After Diagram Change</td>
+								<td>26</td>
+								<td>20</td>
+								<td>0</td>
+								<td>0</td>
+							</tr>
+							<tr>
+								<td>Close Diagam</td>
+								<td>0,1</td>
+								<td>0,1</td>
+								<td>-6</td>
+								<td>-6</td>
+							</tr>
+							<tr>
+								<td>Close Project</td>
+								<td>55</td>
+								<td>55</td>
+								<td>294</td>
+								<td>-246</td>
+							</tr>
+						</table>
+					</small>
 				</section>
 
 
 
 
 				<section data-background="./pics/sirius-background.png">
-					<h2>Core runtime</h2>
+					<h2>Big operations</h2>
 					<ul>
-						<li>Memory Footprint
-							<ul>
+						<li>Models Footprint, ~20% improvement
+							<ul class="fragment fade-in">
 								<li>use of MinimalEObject</li>
 								<li>Colors transformed from full-blown EObject to Immutable
 									DataType</li>
@@ -309,28 +361,26 @@
 								<li>reduce usage of Adapters</li>
 							</ul>
 						</li>
-						<li>Save Strategy</li>
-						<li>Diagram Refresh</li>
-						<li>Improvements in the Image cache...</li>
+						<li class="fragment fade-in">Save Strategy</li>
+						<li class="fragment fade-in">Diagram Refresh</li>
+						<li class="fragment fade-in">Improvements in the Image
+							cache...</li>
 					</ul>
 				</section>
 
 
-				<section data-background="./pics/sirius-background.png">
-					<h2>Memory usage improvements</h2>
-				</section>
 
 				<section data-background="./pics/sirius-background.png">
-					<h2>Tables</h2>
+					<h2>Latency</h2>
 					<ul>
-						<li>UI Runtime
+						<li class="fragment fade-in">UI Runtime
 							<ul>
 								<li>Model Element Selection Dialogs for big models</li>
 								<li>Right-click latency in the explorer</li>
 								<li>Better integration with EEF (property views)</li>
 							</ul>
 						</li>
-						<li>Tables
+						<li class="fragment fade-in">Tables
 							<ul>
 								<li>SWT Refreshes now done as a batch</li>
 								<li>Table model refresh improvements</li>
@@ -341,22 +391,21 @@
 
 				<section data-background="./pics/acceleo-background.png">
 					<h2>Acceleo Query Language</h2>
-					<h3>a new Kid in town</h3>
+				</section>
+
+				<section data-background="./pics/watch.jpg">
+					<h2 class="fragment fade-in">Implementation specifically
+						tailored for the Sirius use case</h2>
 				</section>
 
 				<section data-background="./pics/acceleo-background.png">
-					<h2>Implementation specifically tailored for the Sirius use
-						case</h2>
 					<ul>
 						<li>Many variables for a given expression</li>
-						<li><tt>null</tt> values are common</li>
+						<li><code>null</code> values are common</li>
 						<li>Navigation with many steps aggregating data</li>
-						<li>Many possible types, context which is constantly changing
-							(interactive use)</li>
-						<li>The need to extend the language very easily : Java
-							Services</li>
-						<li>Small and most importantly predictable overhead.</li>
-						<li>Predictable order in query results</li>
+						<li>Interactive use : context is constantly changing</li>
+						<li>Complex or custom logic : Java Services</li>
+						<li>Predictable ordering and performance overhead .</li>
 					</ul>
 				</section>
 
@@ -383,6 +432,12 @@
 				</section>
 
 				<section data-background="./pics/acceleo-background.png">
+					<h2>Not strictly compatible* with MTL</h2>
+					<h4 class="fragment fade-in">*: but a subset of MTL works for
+						both</h4>
+				</section>
+				<!--
+				<section data-background="./pics/acceleo-background.png">
 					<h2>Implementation Characteristics</h2>
 					<ul>
 						<li>Small : 100 classes of non-generated code</li>
@@ -395,23 +450,29 @@
 					</ul>
 				</section>
 
-				<section data-background="./pics/acceleo-background.png">
-					<h2>Queries engines -- Overhead bench</h2>
+  -->
+				<section data-background="#ffffff">
+					<h2 style="color: darkgray;">Queries engines -- Overhead bench</h2>
 					<img alt="" src="pics/sirius/sirius-query-bench.png">
 				</section>
 
-				<section data-background="./pics/acceleo-background.png">
-					<h2>Roadmap for AQL</h2>
-					<ul>
-						<li>Shipped in Mars with as an <b>Experimental</b> feature
-						</li>
-						<li>Already adopted in EcoreTools, in progress for UML
-							Designer</li>
-						<li>More adoption in Obeo's product before October</li>
-						<li>Sirius 3.1 => AQL Recommended query engine for production</li>
-					</ul>
+				<section data-background="./pics/aql-timeline-back.png">
+					<h2 style="text-align: top; color: darkgray;">Timeline</h2>
 				</section>
 
+				<section>
+					<h3>Starting now for deployement in Q4 : consider it</h3>
+					<h4 class="fragment roll-in'">
+						Still using
+						<code><%%></code>
+						:consider it
+					</h4>
+					<h4 class="fragment roll-in'">
+						Using
+						<code>[/]</code>
+						: prepare your queries so that migrating is easy
+					</h4>
+				</section>
 
 				<section data-background="./pics/sirius-background.png">
 					<h2>Demo</h2>
@@ -422,18 +483,21 @@
 				<section>
 					<h2>Me too !</h2>
 					<ul>
-						<li>Performances will vary depending on your .odesign
-							specification</li>
-						<li>Focus for queries with a parameter n=>number of elements
-							in the diagram instead of n=>number of elements in the model.</li>
-						<li>Measure, Improve, Repeat</li>
+						<li>Performances depends on your .odesign specification</li>
+						<li>Focus on queries wich would depend on the number of
+							elements in the <b>whole</b> model
+						</li>
+						<li>Measure*, Improve, Repeat <small class="fragment fade-in">*:
+								Sirius embedded profiler is one click away<img alt=""
+								src="pics/sirius-profiler.png">
+						</small></li>
 					</ul>
 				</section>
 			</section>
 
 
 			<section>
-				<section data-transition="slide" data-background="#B47F6E"
+				<section data-transition="slide" data-background="pics/roadmap.jpg"
 					data-background-transition="zoom">
 					<h2>Roadmap</h2>
 					<h3>2015/2016</h3>
@@ -443,17 +507,28 @@
 
 				<section>
 					<h2>Sirius 3.0 is a major version</h2>
-					<h3>Don't Panic</h3>
+					<img class="fragment roll-in" alt="" src="pics/panic.jpg">
 				</section>
 
 
 				<section>
 					<h2>Migrating</h2>
 					<ul>
-						<li>Change update-site, versions</li>
-						<li>In case of impacting API change, check the release note</li>
-						<li>(EcoreTools and UML Designer had no impact whatsoever)</li>
+						<li class="fragment fade-in">Models are automatically migrated by the
+							runtime.</li>
+						<li class="fragment fade-in">Easy process :
+							<ol>
+								<li class="fragment fade-in"> Check release notes for user-visible changes.
+								<img alt="" src="pics/sirius-release-notes.png"></li>
+								<li class="fragment fade-in">Change update-site, versions</li>
+								<li class="fragment fade-in">In case of impacting API change, re-check the <a
+									href="https://www.eclipse.org/sirius/doc/Release_Notes.html">release
+										notes</a></li>
+							</ol>
+						</li>
 					</ul>
+					<small class="fragment fade-in">(EcoreTools and UML
+						Designer had no impact whatsoever)</small>
 				</section>
 
 
@@ -512,7 +587,7 @@
 
 
 				<section style="text-align: left;">
-					<h1>THE END</h1>
+					<h1>TO BE CONTINUED...</h1>
 
 				</section>
 		</div>
