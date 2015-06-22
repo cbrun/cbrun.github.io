@@ -4,6 +4,11 @@ title: Talks and Papers
 permalink: /talks/
 ---
 
+## 2015
+
+* [Sirius 3.0 : Faster, Stronger and Smarter Diagram Editors](http://cedric.brun.io/talks/Sirius300FasterStrongerSmarter/slides/#/) at EclipseCon France, Toulouse.
+* [Breathe Life Into Your Designer!](http://siriuslab.github.io/talks/BreatheLifeInYourDesigner/slides/index.html) at EclipseCon France, Toulouse.
+
 ## 2014
 
 * [Sirius + Xtext = ♥](https://www.eclipsecon.org/europe2014/session/sirius-xtext-%E2%99%A5) at EclipseCon Europe, Ludwigsburg, Germany. 
