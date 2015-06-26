@@ -151,10 +151,15 @@
 				<section data-background="#ffffff">
 					<h2 style="color: gray;">Compartments</h2>
 					<img alt="" src="pics/compartments.png">
-					<ul class="fragment fade-in">
-						<li><img alt="" src="pics/compartments-h-or-v.png"></li>
-						<li style="color: gray;">dynamic number of comparments</li>
+					<ul >
+						<li class="fragment fade-in" ><img alt="" src="pics/compartments-h-or-v.png"></li>
+					        <li class="fragment fade-in" style="color: gray;">Full blown "Mapping"
+						     <ul>
+<li style="color: gray;">dynamic number of comparments</li>
 						<li style="color: gray;">leverage queries</li>
+</ul>
+						</li>
+						
 					</ul>
 				</section>
 
@@ -185,7 +190,7 @@
 							<tr>
 								<th>Version</th>
 								<th>Date</th>
-								<th>Total Closed</th>
+								<th>Closed</th>
 								<th>Feature Requests</th>
 							</tr>
 						</thead>
@@ -245,7 +250,7 @@
 								<td>35</td>
 							<tr>
 							<tr>
-								<td></td>
+								<td>Total</td>
 								<td></td>
 								<td><b>426</b></td>
 								<td><b>64</b></td>
@@ -256,17 +261,7 @@
 				</section>
 
 
-				<section>
-					<h2>Definition Tooling : demo</h2>
-
-					<ul class="fragment fade-in">
-						<li>Workspace class loading is BACK</li>
-						<li>Image path validation and selection wizard</li>
-						<li>Quick Outline</li>
-						<li>Prioritized sub menus</li>
-						<li>...</li>
-					</ul>
-				</section>
+				
 
 				<section>
 					<h2>Query languages</h2>
@@ -299,6 +294,18 @@
 						<li>Implemented in feature:, var:</li>
 						<li>Improvements in [/]</li>
 						<li>No support in legacy <%%> and ocl:</li>
+					</ul>
+				</section>
+
+				<section>
+					<h2>Definition Tooling : demo</h2>
+
+					<ul class="fragment fade-in">
+						<li>Workspace class loading is BACK</li>
+						<li>Image path validation and selection wizard</li>
+						<li>Quick Outline</li>
+						<li>Prioritized sub menus</li>
+						<li>...</li>
 					</ul>
 				</section>
 
@@ -477,7 +484,7 @@
 				</section>
 
 				<section data-background="./pics/aql-timeline-back.png">
-					<h2 style="text-align: top; color: gray;">Timeline</h2>
+					<h2 style="text-align: top; color: gray;">Timeline for AQL</h2>
 				</section>
 
 				<section>
@@ -491,7 +498,7 @@
 					<h4 class="fragment roll-in'">
 						Using
 						<code>[/]</code>
-						: prepare your queries so that migrating is easy
+						: prepare your queries so that upgrading get easy
 					</h4>
 				</section>
 
@@ -533,15 +540,15 @@
 
 
 				<section>
-					<h2>Migrating</h2>
+					<h2>Upgrading</h2>
 					<ul>
-						<li class="fragment fade-in">The runtime automatically .odesign and .aird models</li>
+						<li class="fragment fade-in">The runtime handles .odesign and .aird models for you</li>
 						<li class="fragment fade-in">Easy process :
 							<ol>
 								<li class="fragment fade-in">Check release notes for user-visible changes. <img alt="" src="pics/sirius-release-notes.png">
 								</li>
 								<li class="fragment fade-in">Change update-site, versions</li>
-								<li class="fragment fade-in">In case of impacting API change, re-check the <a href="https://www.eclipse.org/sirius/doc/Release_Notes.html">release notes</a>
+								<li class="fragment fade-in">In case of impacting API change, re-check the <a href="https://www.eclipse.org/sirius/doc/Release_Notes.html">release notes</a> for instructions
 								</li>
 							</ol>
 						</li>
@@ -554,9 +561,9 @@
 				<section>
 					<h2>3.1 is planned for November</h2>
 					<ul>
-						<li>More flexibility for diagram UX</li>
+						<li>Diagram UX improvements (specify selected elements after a tool application...)</li>
 						<li>Compartments feature complete</li>
-						<li>Bullet-proof AQL</li>
+						<li>Bullet-proof AQL query engine</li>
 						<li>More performance and scalability improvements</li>
 					</ul>
 				</section>
@@ -577,7 +584,7 @@
 						<li>Edges from/to list elements</li>
 						<li>Tighter integration with the workspace</li>
 						<li>Scalability, Performance, Headless</li>
-						<li>Your priority</li>
+						<li class="fragment roll-in"><b>Your priority</b></li>
 					</ul>
 				</section>
 			</section>
@@ -586,15 +593,15 @@
 				<section>
 					<h2>Take Aways</h2>
 					<ul>
-						<li>Sirius : "State of The Art" modeling tools.</li>
-						<li>Join the <b>~15 new authors every month</b> on the <a href="https://www.eclipse.org/forums/index.php/f/262/">Eclipse</a></li>
-						<li>Obeo Designer Community Edition : all in one package <img alt="" src="pics/od-ce-download.png">
+						<li class="fragment fade-in">Sirius : "State of The Art" modeling tools.</li>
+						<li class="fragment fade-in">Join the <b>~15 new authors every month</b> on the <a href="https://www.eclipse.org/forums/index.php/f/262/">Eclipse</a></li>
+						<li class="fragment roll-in">Obeo Designer Community Edition : all in one package <img alt="" src="pics/od-ce-download.png">
 						</li>
 					</ul>
 				</section>
 
 				<section data-background="pics/gallery-background.png">
-					<h2>Getting in touch</h2>
+					<h2>Used Sirius already ?</h2>
 					<ul>
 						<li>Get your entry in the gallery through <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=448492">Bug 448492</a></b></li>
 					</ul>
