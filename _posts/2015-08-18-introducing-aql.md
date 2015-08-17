@@ -7,7 +7,9 @@ categories: [upcoming]
 ## Background and motivation
 
 One of the key factor making Sirius so flexible is the ability to rely on queries when defining your graphical mapping. 
-Every configurable field rendered with a yellow background in the tooling specification editor can be set either with a literlal value or with a query which will be interpreted at runtime. Sirius can be extended with new query interpreters through Eclipse plugins, each having its own prefix.
+Every configurable field rendered with a yellow background in the tooling specification editor can be set either with a literlal value or with a query which will be interpreted at runtime.
+
+Sirius can be extended with new query interpreters through Eclipse plugins, each having its own prefix.
 
 <figure>
     <a href="{{ site.url }}/images/blog/aql-completion.png"><img src="{{ site.url }}/images/blog/aql-completion.png"></a>    
@@ -15,7 +17,8 @@ Every configurable field rendered with a yellow background in the tooling specif
 </figure>
 
 Sirius bundles a few of those interpreters, notably `feature:`, `var:`, or `service:` which are direct access either to a model element feature, a context variable or a Java service. 
-These interpreters have the tiniest overhead you can think of. For everything else, `[/]` is there and is the reference implementation. It is an OCL variant used in Acceleo 3.x and based on the MOFM2T OMG Standard.
+
+These interpreters have the tiniest overhead you can think of. For everything else, `[/]` is the reference implementation : an OCL variant used in Acceleo 3.x and based on the MOFM2T OMG Standard.
 
 Another interpreter bring the `<%%>` syntax, it was the first interpreter supported by Sirius (long before Sirius was even named 'Sirius') and is using Acceleo 2 behind the scene. 
 The Acceleo2 syntax is a mix in between XPath and OCL syntax, it has been deprecated long ago (and as such has to be installed through a [specific update site](http://download.eclipse.org/sirius/updates/legacy)) but you might still find it in .odesign models which originated before Sirius was contributed to Eclipse.
@@ -24,10 +27,10 @@ Being `<%%>`, `[/]` or even the "forever experimental" `ocl:`, every interpreter
 during a single diagram refresh, a given query might be evaluated thousands of times, each time on different `EObjects` which would not even necessarly share a common type.
 
 This *worked* but sometime would lead to fairly complex code just to *integrate* things. To make the MTL interpreter happy enough to evaluate the query we had to create templates in memory keeping the parameters signature, comparing the signatures with the new context for each variable change and evicting those templates at some point.
+
 Fairly complex code generaly means complex bugs and sub-optimal performance and/or memory usage.
 
-The interpreter is a cornerstone of the flexibility provided by Sirius, it also is a key player in the performance you'll get in the end, so as heavy users of Sirius where painfully migrating from `<%%>` to `[/]` we quickly noticed that we would be better of with 
-an implementation specificaly tailored for Sirius and that it would come at a fraction of the cost of all those migrations.
+The interpreter is a cornerstone of the flexibility provided by Sirius, it also is a key player in the performance you'll get in the end, so as heavy users of Sirius where painfully migrating from `<%%>` to `[/]` we quickly noticed that we would be better of with an implementation specificaly tailored for Sirius and that it would come at a fraction of the cost of all those migrations.
 
 ## A new interpreter
 
@@ -41,9 +44,11 @@ With Sirius 3.0 we started a new interpreter implementation with the goal of bei
 * a very narrow dependency surface: only the very central parts of EMF, Guava and Antlr so that we could easily deploy it server-side or in standalone scenarios.
 
 Last summer the proof of concept phase quickly demonstrated that we would not be able to be 100% compatible with the implementation of `[/]` without inheriting limits in the context of Sirius. 
+
 Here is a specific example :
 
 In MTL `[name/]` is a valid expression, though depending on the available variables it might mean *The variable named name* or *The 'name' attribute of the self object*
+
 This is a usefull feature for a template language when 99% of the templates have no parameters besides `self` :  this reduce the clutter and lead to a template which is more readable:
 
 <figure>
@@ -53,7 +58,11 @@ This is a usefull feature for a template language when 99% of the templates have
 
 But in the context of an expression defined in a .odesign model : there are **always more than one available variable **: the selected object, the text value entered by the user, the possible sources or targets of an edge and so on.
 
-Using the implicit *self* makes you .odesign file actually way harder to maintain and understand. Furthermore from an implementation point of view, "implicit **self** " induces runtime overhead : when a new variable has been set or has a new value, the previous AST parsed from a String had to be invalidated. Again, in the context of Sirius variables values or type are changing **a lot** and are not necessarly sharing a common type besides EObject (this allows us to mix Ecore based instances or UML one in a single editor for instance). All these factors led to a runtime which might reparses and re-link a query because a variable changed its value with a completely new type.
+Using the implicit *self* makes you .odesign file actually way harder to maintain and understand. 
+
+Furthermore from an implementation point of view, "implicit **self** " induces runtime overhead : when a new variable has been set or has a new value, the previous AST parsed from a String had to be invalidated. Again, in the context of Sirius variables values or type are changing **a lot** and are not necessarly sharing a common type besides EObject (this allows us to mix Ecore based instances or UML one in a single editor for instance). 
+
+All these factors led to a runtime which might reparses and re-link a query because a variable changed its value with a completely new type.
 
 That's just one example (among several others), that led us re-consider those choices at the cost of a language which would not be 100% compatible. As such both interpreters will co-exist but the benefits the new one bring should be so strong that this transition time will be kept reasonnable.
 
@@ -116,6 +125,7 @@ The benchmark is a composed of synchronized diagram descriptions, one for each i
 * `Service over AQL` : uses the same Java services as service: but dispatch those through aql, for comparison.
 
 I created a diagram instance for every diagram description on top of a simple Ecore model, the corresponding diagrams have 3267 elements (node, edges, list items). After a "warmup" phase,  I trigger an explicit *refresh* of the diagram while profiling with Yourkit in tracing (non-adaptative) mode.
+
 Then I split the methods call-tree to break down the time spent in three categories: 
 
 * calling external code/eAllContents : 'external' is EMF here. This is the time spent in doing eGet() or eAllContents() for instance. 
@@ -129,8 +139,7 @@ A few small things you can notice already :
 - <%%> and  [/] tend to have a bigger overhead regarding variables management. That's because their implementation are eagerly creating data structures each time a new variable is set.
 - <%%> spent less time in eGet/eAllContents. That's because this 10 years old implementation benefits from an eAllContents() algorithm which prunes subtrees based on a small analysis of the accessible metamodels.
 
-The main thing you should notice : **there is not much reasons to prefer anything other than AQL**. Indeed `feature:` will always be faster if what you need is a direct access to an attribute or reference but AQL has the same overhead that direct service calls 
-and gives you better analysis and validation capabilities in your .odesign.
+The main thing you should notice : **there is not much reasons to prefer anything other than AQL**. Indeed `feature:` will always be faster if what you need is a direct access to an attribute or reference but AQL has the same overhead that direct service calls and gives you better analysis and validation capabilities in your .odesign.
 
 ## Plan for Sirius 3.1 (release in mid-October)
 
