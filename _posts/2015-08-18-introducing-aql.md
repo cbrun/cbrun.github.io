@@ -32,6 +32,7 @@ an implementation specificaly tailored for Sirius and that it would come at a fr
 ## A new interpreter
 
 With Sirius 3.0 we started a new interpreter implementation with the goal of being a perfect fit Sirius:
+
 * Support static and **dynamic** Ecore models, no required compilation phase
 * **the least possible overhead at evaluation time for an interpreted language**: the evaluation actually goes forward and will not even try to validate or compile the expressions. Errors are tracked and captured along the way.
 * **strong validation**: types are checked at validation time (in the .odesign editor) and metamodels are analyzed to do some basic type inference and avoid false positive errors.
@@ -59,12 +60,14 @@ That's just one example (among several others), that led us re-consider those ch
 Introducing AQL : Acceleo Query Language.
 
 As languages, AQL and MTL are very close yet there are some notable differences:
+
 * there is no implicit variable reference
 * auto-collect and auto-flatten : there is no such thing as a List of List in AQL. 
 * type literals can't be in the form of somePackage::someSubPackage::SomeType but instead someSubPackage::SomeType should be directly used
 * you can only have Lists or Sets as collections and the order of their elements is always deterministic.
 
 From an implementation point of view AQL:
+
 * is small : 100 non generated Java files
 * works with both dynamic or generated Ecore models.
 * is fast at runtime with minimal overhead
@@ -91,7 +94,6 @@ With Sirius 3.0 a first version of the AQL interpreter has been released as **Ex
 
 EcoreTools has been the early-early adopter and has migrated with the Mars release. UML Designer is also using AQL on the master branch since July and more migrations will follow in the upcoming months.
 
---------------------------------------
 ## First benchmarks
 
 
@@ -105,6 +107,7 @@ Here is the first bench we made in order to position the different interpreters 
 </figure>
 
 The benchmark is a composed of synchronized diagram descriptions, one for each interpreters. They are strictly equivalent from an end-user point of view.
+
 * `[/]` is using the Acceleo MTL interpreter
 * `<%%>` is using the Acceleo2/Legacy interpreter
 * `AQL` uses the AQL interpeter
@@ -114,6 +117,7 @@ The benchmark is a composed of synchronized diagram descriptions, one for each i
 
 I created a diagram instance for every diagram description on top of a simple Ecore model, the corresponding diagrams have 3267 elements (node, edges, list items). After a "warmup" phase,  I trigger an explicit *refresh* of the diagram while profiling with Yourkit in tracing (non-adaptative) mode.
 Then I split the methods call-tree to break down the time spent in three categories: 
+
 * calling external code/eAllContents : 'external' is EMF here. This is the time spent in doing eGet() or eAllContents() for instance. 
 * managing variables : during a single refresh the interpreter state changes thousands of times, this is the time spent in managing these changes.
 * interpreter dispatch : the CPU time used by the interpreter to decide what to call (eGet, eAllContents, a java service...).
@@ -121,13 +125,13 @@ Then I split the methods call-tree to break down the time spent in three categor
 All these numbers are relativised with 100% being the total time of a given refresh, which in this case was in the order of 500ms to 1sec. 
 
 A few small things you can notice already :
+
 - <%%> and  [/] tend to have a bigger overhead regarding variables management. That's because their implementation are eagerly creating data structures each time a new variable is set.
 - <%%> spent less time in eGet/eAllContents. That's because this 10 years old implementation benefits from an eAllContents() algorithm which prunes subtrees based on a small analysis of the accessible metamodels.
 
 The main thing you should notice : **there is not much reasons to prefer anything other than AQL**. Indeed `feature:` will always be faster if what you need is a direct access to an attribute or reference but AQL has the same overhead that direct service calls 
 and gives you better analysis and validation capabilities in your .odesign.
 
---------------------------------------
 ## Plan for Sirius 3.1 (release in mid-October)
 
 Since the Sirius 3.0 release we are ramping up : 
