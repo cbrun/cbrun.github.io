@@ -28,7 +28,7 @@ during a diagram refresh, a given query might be evaluated thousands of times, e
 
 This *worked* but sometime would lead to fairly complex code just to *integrate* things. To make the MTL interpreter (`[/]`) happy enough to evaluate the query we had to create templates in memory keeping the parameters signature, comparing the signatures with the new context for each variable change and evicting those templates at some point.
 
-Fairly complex code generaly means complex bugs and sub-optimal performance and/or memory usage.
+Fairly complex code generaly means subtle bugs and sub-optimal performance and/or memory usage.
 
 The interpreter is a cornerstone of the flexibility provided by Sirius, it also is a key player in the performance you'll get in the end, so as heavy users of Sirius where painfully migrating from `<%%>` to `[/]` we quickly noticed that we would be better of with an implementation specificaly tailored for Sirius and that it would come at a fraction of the cost of all those migrations.
 
@@ -121,7 +121,7 @@ Here is the first bench we made in order to position the different interpreters 
     <figcaption>Sirius 3.0 Interpreters Overhead</figcaption>
 </figure>
 
-The benchmark is a composed of synchronized diagram descriptions, one for each interpreters. They are strictly equivalent from the end-user point of view.
+The benchmark is a composed of synchronized diagram descriptions, one for each interpreter. They are strictly equivalent from the end-user point of view.
 
 * `[/]` is using the Acceleo MTL interpreter
 * `<%%>` is using the Acceleo2/Legacy interpreter
@@ -140,10 +140,11 @@ Then I split the methods call-tree to break down the time spent in three categor
 
 All these numbers are relativised with 100% being the total time of a given refresh, which in this case was in the order of 500ms to 1sec. 
 
+
 A few small things you can notice already :
 
-- <%%> and  [/] tend to have a bigger overhead regarding variables management. That's because their implementation are eagerly creating data structures each time a new variable is set.
-- <%%> spent less time in eGet/eAllContents. That's because this 10 years old implementation benefits from an eAllContents() algorithm which prunes subtrees based on a small analysis of the accessible metamodels.
+- `<%%>` and  `[/]` tend to have a bigger overhead regarding variables management. That's because their implementation are eagerly creating data structures each time a new variable is set.
+- `<%%>` spent less time in eGet/eAllContents. That's because this 10 years old implementation benefits from an `eAllContents()` algorithm which prunes subtrees based on a small analysis of the accessible metamodels.
 
 The main thing you should notice : **there is not much reasons to prefer anything other than AQL**. Indeed `feature:` will always be faster if what you need is a direct access to an attribute or reference but AQL has the same overhead that direct service calls and gives you better analysis and validation capabilities in your .odesign.
 
