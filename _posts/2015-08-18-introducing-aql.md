@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  AQL - a new interpreter for Sirius
-categories: [upcoming]
+categories: [eclipse]
 ---
 
 TL;DR: we've been working on a new query interpreter for Sirius which is small, simple, fast, extensible and bring richer validation. It's been released for early adopters with Sirius 3.0 but will be the recommended
@@ -10,7 +10,7 @@ interpreter for Sirius 3.1 in October. The MTL interpreter (`[/]`) will be depre
 ## Background and motivation
 
 One of the key factor making Sirius so flexible is the ability to rely on queries when defining your graphical mapping. 
-Every configurable field rendered with a yellow background in the tooling specification editor can be set either with a literlal value or with a query which will be interpreted at runtime.
+Every configurable field rendered with a yellow background in the tooling specification editor can be set either with a literal value or with a query which will be interpreted at runtime.
 
 Sirius can be extended with new query interpreters through Eclipse plugins, each having its own prefix.
 
@@ -23,15 +23,15 @@ Some interpreters are available by default notably `feature:`, `var:`, or `servi
 
 For everything else, `[/]` is the reference implementation : an OCL variant used in Acceleo 3.x and based on the MOFM2T OMG Standard.
 
-A specific plugin bring the `<%%>` syntax, it was the first interpreter supported by Sirius (long before Sirius was even named 'Sirius') and is using Acceleo 2 behind the scene. 
+A specific plugin bring the `<%%>` syntax which was the first interpreter supported by Sirius (long before Sirius was even named 'Sirius') and is using Acceleo 2 behind the scene. 
 The Acceleo2 syntax is a mix in between XPath and OCL syntax, it has been deprecated long ago (and as such has to be installed through a [specific update site](http://download.eclipse.org/sirius/updates/legacy)) but you might still find it in .odesign models which originated before Sirius was contributed to Eclipse.
 
 Being `<%%>`, `[/]` or even the "forever experimental" `ocl:`, every interpreter was implemented by integrating a pre-existing language and trying to make him happy about the dynamic nature of Sirius :
-during a diagram refresh, a given query might be evaluated thousands of times, each time on different `EObjects` which would not even necessarly share a common type.
+during a diagram refresh, a given query might be evaluated thousands of times, each time on different `EObjects` which would not even necessarly share a common type, each time  with different variables values.
 
 This *worked* but sometime would lead to fairly complex code just to *integrate* things. To make the MTL interpreter (`[/]`) happy enough to evaluate the query we had to create templates in memory keeping the parameters signature, comparing the signatures with the new context for each variable change and evicting those templates at some point.
 
-Fairly complex code generaly means subtle bugs and sub-optimal performance and/or memory usage.
+Fairly complex code generally means subtle bugs, sub-optimal performance and/or memory usage.
 
 The interpreter is a cornerstone of the flexibility provided by Sirius, it also is a key player in the performance you'll get in the end, so as heavy users of Sirius where painfully migrating from `<%%>` to `[/]` we quickly noticed that we would be better of with an implementation specificaly tailored for Sirius and that it would come at a fraction of the cost of all those migrations.
 
@@ -55,7 +55,7 @@ Here is a specific example :
 
 In MTL `[name/]` is a valid expression, though depending on the available variables it might mean *The variable named name* or *The 'name' attribute of the self object*
 
-This is a usefull feature for a template language when 99% of the templates have no parameters besides `self` :  this reduce the clutter and lead to a template which is more readable:
+This is a useful feature for a template language when 99% of the templates have no parameters besides `self`:  this cut the clutter and lead to a template which is more readable:
 
 <figure>
     <a href="{{ site.url }}/images/blog/acceleo-template.png"><img src="{{ site.url }}/images/blog/acceleo-template.png"></a>    
@@ -117,7 +117,7 @@ EcoreTools has been the early-early adopter and has migrated with the Mars relea
 
 We started to measure performances and overhead compared to the other interpreters as even if it was one of the important factor, no specific effort had been made already besides keeping the implementation small and straightforward.
 
-Here is the first bench we made in order to position the different interpreters based on their overhead. Projects to reproduce these measures are [published on Github](https://github.com/cbrun/sirius-interpreters-benchmark) if you feel like giving it a shot.
+Here is the first bench we made to compare the different interpreters overhead. Projects to reproduce these measures are [published on Github](https://github.com/cbrun/sirius-interpreters-benchmark) if you feel like giving it a shot.
 
 <figure>
     <a href="{{ site.url }}/images/blog/sirius-query-bench-setup.png"><img src="{{ site.url }}/images/blog/sirius-query-bench-setup.png"></a>    
@@ -152,8 +152,8 @@ All these numbers are relativised with 100% being the total time of a given refr
 
 A few small things you can notice already :
 
-- We are focusing **at most** on `40%` of the refresh time which is in the 200 to 500ms range.
-- `<%%>` and  `[/]` tend to have a bigger overhead regarding variables management. That's because their implementation are eagerly creating data structures each time a new variable is set.
+- We are focusing **at most** on `40%` of the refresh time: in the 200 to 500ms range.
+- `<%%>` and  `[/]` tend to have a bigger overhead managing variables. That's because their implementation are eagerly creating data structures each time a new value is set.
 - `<%%>` spent less time in eGet/eAllContents. That's because this 10 years old implementation benefits from an `eAllContents()` algorithm which prunes subtrees based on a small analysis of the accessible metamodels.
 
 The main thing you should notice : **there is not much reasons to prefer anything other than AQL**. Indeed `feature:` will always be faster if what you need is a direct access to an attribute or reference but AQL has the same overhead that direct service calls and gives you better analysis and validation capabilities in your .odesign.
