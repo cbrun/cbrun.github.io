@@ -90,7 +90,7 @@ From an implementation point of view AQL:
 * is smart at validation time by considering the union types in its analysis
 * is easy to re-use, extend and integrate in other contexts.
 
-AQL is a pure Java framework  : `org.eclipse.acceleo.query.jar` and is part of the Acceleo project. Here are its dependencies :
+AQL is a pure Java library  : `org.eclipse.acceleo.query.jar` and is part of the Acceleo project. Here are its dependencies :
 
 <figure>
     <a href="{{ site.url }}/images/blog/aql-deps.png"><img src="{{ site.url }}/images/blog/aql-deps.png"></a>    
@@ -110,7 +110,7 @@ With Sirius 3.0 a first version of the AQL interpreter has been released as **Ex
     <figcaption>Install AQL experimental support in Sirius 3.0</figcaption>
 </figure>
 
-EcoreTools has been the early-early adopter and has migrated with the Mars release. UML Designer is also using AQL on the master branch since July and more migrations will follow in the upcoming months.
+[EcoreTools](https://www.eclipse.org/ecoretools/) has been the early-early adopter and has migrated with the Mars release. [UML Designer](http://www.umldesigner.org/) is also using AQL on the master branch since July and more migrations will follow in the upcoming months.
 
 ## First benchmarks
 
