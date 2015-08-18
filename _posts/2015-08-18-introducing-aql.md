@@ -37,7 +37,7 @@ The interpreter is a cornerstone of the flexibility provided by Sirius, it also 
 
 ## A new interpreter
 
-With Sirius 3.0 we started a new interpreter implementation with the goal of being a perfect fit Sirius:
+With Sirius 3.0 we started a new interpreter implementation with the goal of being a perfect fit for Sirius:
 
 * Support static and **dynamic** Ecore models, no compilation phase required 
 * **the least possible overhead at evaluation time for an interpreted language**: the evaluation actually goes forward and will not even try to validate or compile the expressions. Errors are tracked and captured along the way.
