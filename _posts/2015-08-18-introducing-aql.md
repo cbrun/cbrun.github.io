@@ -4,6 +4,9 @@ title:  AQL - a new interpreter for Sirius
 categories: [upcoming]
 ---
 
+TL;DR: we've been working on a new query interpreter for Sirius which is small, simple, fast, extensible and bring richer validation. It's been released for early adopters with Sirius 3.0 but will be the recommended
+interpreter for Sirius 3.1 in October. The MTL interpreter (`[/]`) will be deprecated at some point, this moment depending on how fast the community adopts the new `aql:` interpreter.
+
 ## Background and motivation
 
 One of the key factor making Sirius so flexible is the ability to rely on queries when defining your graphical mapping. 
@@ -117,8 +120,8 @@ We started to measure performances and overhead compared to the other interprete
 Here is the first bench we made in order to position the different interpreters based on their overhead. Projects to reproduce these measures are [published on Github](https://github.com/cbrun/sirius-interpreters-benchmark) if you feel like giving it a shot.
 
 <figure>
-    <a href="{{ site.url }}/images/blog/sirius-query-bench.png"><img src="{{ site.url }}/images/blog/sirius-query-bench.png"></a>    
-    <figcaption>Sirius 3.0 Interpreters Overhead</figcaption>
+    <a href="{{ site.url }}/images/blog/sirius-query-bench-setup.png"><img src="{{ site.url }}/images/blog/sirius-query-bench-setup.png"></a>    
+    <figcaption>Benchmarking Environment</figcaption>
 </figure>
 
 The benchmark is a composed of synchronized diagram descriptions, one for each interpreter. They are strictly equivalent from the end-user point of view.
@@ -126,8 +129,8 @@ The benchmark is a composed of synchronized diagram descriptions, one for each i
 * `[/]` is using the Acceleo MTL interpreter
 * `<%%>` is using the Acceleo2/Legacy interpreter
 * `AQL` uses the AQL interpeter
-* `Service:` uses the service: interpreter which basically just does a dispatch to a Java method
-* `feature:` : is a direct access to an EStructuralFeature
+* `Service:` uses the service: interpreter which dispatch to a Java method defined by the Specifier
+* `feature:` : is only using direct access to a attributes, references or hardcoded logic for eAllContents for instance.
 * `Service over AQL` : uses the same Java services as service: but dispatch those through aql, for comparison.
 
 I created a diagram instance for every diagram description on top of a simple Ecore model, the corresponding diagrams have 3267 elements (node, edges, list items). After a "warmup" phase,  I trigger an explicit *refresh* of the diagram while profiling with Yourkit in tracing (non-adaptative) mode.
@@ -141,8 +144,15 @@ Then I split the methods call-tree to break down the time spent in three categor
 All these numbers are relativised with 100% being the total time of a given refresh, which in this case was in the order of 500ms to 1sec. 
 
 
+<figure>
+    <a href="{{ site.url }}/images/blog/sirius-query-bench.png"><img src="{{ site.url }}/images/blog/sirius-query-bench.png"></a>    
+    <figcaption>Sirius 3.0 Interpreters Overhead</figcaption>
+</figure>
+
+
 A few small things you can notice already :
 
+- We are focusing **at most** on `40%` of the refresh time which is in the 200 to 500ms range.
 - `<%%>` and  `[/]` tend to have a bigger overhead regarding variables management. That's because their implementation are eagerly creating data structures each time a new variable is set.
 - `<%%>` spent less time in eGet/eAllContents. That's because this 10 years old implementation benefits from an `eAllContents()` algorithm which prunes subtrees based on a small analysis of the accessible metamodels.
 
