@@ -1,11 +1,16 @@
- ---
+---
 layout: post
 title:  EclipseCon Europe 2015 and Sirius 3.1
 categories: [eclipse]
 draft: true
 ---
 
-![Welcome in Germany !](../images/blog/ludwigsburg.jpg)
+![Welcome in Germany !]()
+
+<figure>
+    <a href="../images/blog/ludwigsburg.jpg"><img src="../images/blog/ludwigsburg.jpg"></a>    
+    <figcaption>Welcome in Germany !</figcaption>
+</figure>
 
 EclipseCon Europe 2015 is over now. This conference is the one in which the "Eclipse Family" spirit is the most pervasive and because of that one might experience slight sadness when the conference is over.
 This [tweet](https://twitter.com/alex_schl/status/662556186986864640) from Alexandra reflects quite well the feeling
