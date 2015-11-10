@@ -8,7 +8,7 @@ draft: true
 ![Welcome in Germany !]()
 
 <figure>
-    <a href="../images/blog/ludwigsburg.jpg"><img src="../images/blog/ludwigsburg.jpg"></a>    
+    <a href="{{ site.url }}/images/blog/ludwigsburg.jpg"><img src="{{ site.url }}/images/blog/ludwigsburg.jpg"></a>    
     <figcaption>Welcome in Germany !</figcaption>
 </figure>
 
@@ -41,12 +41,12 @@ He actually designed an `.odesign` to design `.odesigns` with instant graphical 
 The presentation style was quite fun, as it can only be for such a 'meta' project. I can only recommend you check it out as it's been captured and published [on youtube](https://www.youtube.com/watch?v=JAoJRfM4uVs&list=PLy7t4z5SYNaR0yp9EQ9txQhO-JgCLJAga&index=32).
 
 
-![IncQuery gets Sirius!](../images/blog/incquery.png)
+![IncQuery gets Sirius!]({{ site.url }}/images/blog/incquery.png)
  
 Another talk, another subject : [IncQuery gets Sirius: faster and better diagrams](https://www.eclipsecon.org/europe2015/session/incquery-gets-sirius-faster-and-better-diagrams) where Akos Horvath from IncQuery Labs explored how Sirius could integrate with IncQuery to achieve a complete incrementality. As you may -- or may not -- be aware, Sirius is projectional and offers you a lot of flexibility in how you want your model elements to be projected in a diagram view. The downside of this flexibility is Sirius can't easily decide if there is a new node to create, to update, or to delete based on what has changed on the model. The only way to know for sure that something needs to be updated is to refresh it and see if it has changed in the process. That's why we work quite a lot on making sure this process is as fast as possible but IncQuery can helps when this "as fast as possible" is "not fast enough". If you are willing to spare some heap memory,  IncQuery can boost your diagram editor! Have a look [on the slides](https://www.eclipsecon.org/europe2015/sites/default/files/slides/iqgetsSirius_eclipsecon_15_ha_final_0.pdf)
 
 
-![Breathe life into your Designer!](../images/blog/breathlife.png)
+![Breathe life into your Designer!]({{ site.url }}/images/blog/breathlife.png)
 
 And because we all love blinking LED's, Melanie presented a session describing how to animate your models with Sirius and the [Gemoc technologies !](http://gemoc.org/). See the [slides here](http://fr.slideshare.net/melbats/eclipsecon-eu-2015-breathe-life-into-your-designer) for more information.
 
