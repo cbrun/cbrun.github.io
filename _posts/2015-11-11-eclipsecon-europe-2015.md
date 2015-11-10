@@ -24,7 +24,10 @@ Right before the conference Pierre-Charles [announced](https://dev.eclipse.org/m
 This version brings nice improvements so that you can easily build **state of the art** modeling tools : with vertical and horizontal compartments or new graphic capabilities for ports, but it also mark the graduation of [AQL](http://cedric.brun.io/eclipse/introducing-aql/) as the recommended query langage for your .odesign files. We landed then in this beautiful part of Germany with many things to discuss and were ready for the onslaught of questions. If you're wondering yourself, have a look on [Maxime's presentation: Sirius 3.1 - Stronger, Faster and Smarter Diagram Editors](http://mporhel.github.io/slides/2015_EclipseConEU_Sirius31_StrongerFasterSmarter/#/)
 
 
-![Obeo Team at ECE 2015](https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg)
+<figure>
+    <a href="https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg"><img src="https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg"></a>    
+    <figcaption>Obeo Team at ECE 2015</figcaption>
+</figure>
 
 Of course many interesting discussions ensued but the energizing factor was : our users are enthusiastic ! I can't stress enough how this feels, indeed in the day-to-day we are so much focused on the things *which are not quite right* or on this *use case which we think we should support better* that we tend to forget about all the other things which are making Sirius awesome. Conferences are the time when your users are charging you up.
 
@@ -36,17 +39,25 @@ First, a lightning talk by Max Bureck : [A Sirius editor to define Sirius editor
 
 He actually designed an `.odesign` to design `.odesigns` with instant graphical feedback.
 
-![EcoreTool's odesign](https://pbs.twimg.com/media/CN9yy2nWwAAlxIQ.png:large)
+<figure>
+    <a href="https://pbs.twimg.com/media/CN9yy2nWwAAlxIQ.png:large"><img src="https://pbs.twimg.com/media/CN9yy2nWwAAlxIQ.png:large"></a>    
+    <figcaption>EcoreTool's odesign</figcaption>
+</figure>
 
 The presentation style was quite fun, as it can only be for such a 'meta' project. I can only recommend you check it out as it's been captured and published [on youtube](https://www.youtube.com/watch?v=JAoJRfM4uVs&list=PLy7t4z5SYNaR0yp9EQ9txQhO-JgCLJAga&index=32).
 
+<figure>
+    <a href="{{ site.url }}/images/blog/incquery.png"><img src="{{ site.url }}/images/blog/incquery.png"></a>    
+    <figcaption>IncQuery gets Sirius!</figcaption>
+</figure>
 
-![IncQuery gets Sirius!]({{ site.url }}/images/blog/incquery.png)
- 
 Another talk, another subject : [IncQuery gets Sirius: faster and better diagrams](https://www.eclipsecon.org/europe2015/session/incquery-gets-sirius-faster-and-better-diagrams) where Akos Horvath from IncQuery Labs explored how Sirius could integrate with IncQuery to achieve a complete incrementality. As you may -- or may not -- be aware, Sirius is projectional and offers you a lot of flexibility in how you want your model elements to be projected in a diagram view. The downside of this flexibility is Sirius can't easily decide if there is a new node to create, to update, or to delete based on what has changed on the model. The only way to know for sure that something needs to be updated is to refresh it and see if it has changed in the process. That's why we work quite a lot on making sure this process is as fast as possible but IncQuery can helps when this "as fast as possible" is "not fast enough". If you are willing to spare some heap memory,  IncQuery can boost your diagram editor! Have a look [on the slides](https://www.eclipsecon.org/europe2015/sites/default/files/slides/iqgetsSirius_eclipsecon_15_ha_final_0.pdf)
 
 
-![Breathe life into your Designer!]({{ site.url }}/images/blog/breathlife.png)
+<figure>
+    <a href="{{ site.url }}/images/blog/breathlife.png"><img src="{{ site.url }}/images/blog/breathlife.png"></a>    
+    <figcaption>Breathe life into your Designer!</figcaption>
+</figure>
 
 And because we all love blinking LED's, Melanie presented a session describing how to animate your models with Sirius and the [Gemoc technologies !](http://gemoc.org/). See the [slides here](http://fr.slideshare.net/melbats/eclipsecon-eu-2015-breathe-life-into-your-designer) for more information.
 
