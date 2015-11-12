@@ -36,7 +36,7 @@ Of course many interesting discussions happened but the energizing factor was : 
 Another remarkable thing for us was the variety of tools we got to see: different domains,different goals, different methodologies, but always the same will to build a beautiful and usable product. That's what we want to support, that's where we are going. 
 
 
- **SiriusCon** is just around the corner, the first international event dedicated to Sirius another opportunity to learn and share.
+ **SiriusCon** is just around the corner, the first international event dedicated to Sirius, **another opportunity to learn and share**.
 
 <figure>
     <a href="{{ site.url }}/images/blog/ece-siriuscon.jpg"><img src="{{ site.url }}/images/blog/ece-siriuscon.jpg"></a>    
