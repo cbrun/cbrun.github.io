@@ -22,7 +22,7 @@ This was a busy and exhausting week -- especially for those like me who just lan
 Looking at the overall conference :
 
 * the **content was really good**, amoung the best years (if not the best!). Thank you for submitting such good talks we could choose from!
-* we had a lot of fun as a [Program Committee](https://www.eclipsecon.org/europe2015/about-pc), we worked as a team and I'm quite proud of the result
+* we had a lot of fun as a [Program Committee](https://www.eclipsecon.org/europe2015/about-pc){:target="_blank"}, we worked as a team and I'm quite proud of the result
 * the Eclipse community *is a family*, just look at how people react when you step in the bar, not even having unpacked your luggage yet, now compare with what happens when you meet family which you barely see each year. That's right. Same spirit.
 <figure>
     <a href="http://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"><img src="http://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"></a>    
