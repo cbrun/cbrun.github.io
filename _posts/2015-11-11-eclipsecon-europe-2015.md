@@ -34,8 +34,12 @@ Of course many interesting discussions ensued but the energizing factor was : ou
 
 Another remarkable thing for us was the breadth of tools we got to see from your users: different domains,different goals, different methodologies, but always the same will to build a beautiful and usable product. That's what we want to support, that's where we are going.
 
-Etienne presented talk giving a pretty good overview of what Sirius can do and how it is being used, you should probably start by having a look at the presentation [on youtube](https://www.youtube.com/watch?v=Rhd3MZ6DQ3g&list=PLy7t4z5SYNaR0yp9EQ9txQhO-JgCLJAga&index=79) if you are still wondering about what Sirius does.
+<figure>
+    <a href="{{ site.url }}/images/blog/etienne-pres-sirius.jpg"><img src="{{ site.url }}/images/blog/etienne-pres-sirius.jpg"></a>    
+    <figcaption>Etienne Presenting : A graphic model is worth a thousand words</figcaption>
+</figure>
 
+Etienne presented talk giving a pretty good overview of what Sirius can do and how it is being used, you should probably start by having a look at the presentation [on youtube](https://www.youtube.com/watch?v=Rhd3MZ6DQ3g&list=PLy7t4z5SYNaR0yp9EQ9txQhO-JgCLJAga&index=79) if you are still wondering about what Sirius does.
 
 <figure>
     <a href="{{ site.url }}/images/blog/breathlife.png"><img src="{{ site.url }}/images/blog/breathlife.png"></a>    
