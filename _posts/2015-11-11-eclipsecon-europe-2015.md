@@ -29,9 +29,12 @@ Looking at the overall conference :
     <figcaption>ECE 2015 had an awesome program!</figcaption>
 </figure>
 
+
 Of course many interesting discussions happened but the energizing factor was : our users are enthusiastic, eager and passionate! I can't stress enough how this feels; in the day-to-day development we are so much focused on the things *which are not quite right* or on this *use case which we should support better* that we tend to forget about all the other things which are making Sirius amazing. Conferences such as EclipseCon Europe are occasions for your users to charge you up.
 
+
 Another remarkable thing for us was the breadth of tools we got to see from your users: different domains,different goals, different methodologies, but always the same will to build a beautiful and usable product. That's what we want to support, that's where we are going. 
+
 
  **SiriusCon** is just around the corner, the first international event dedicated to Sirius another opportunity to learn and share.
 
