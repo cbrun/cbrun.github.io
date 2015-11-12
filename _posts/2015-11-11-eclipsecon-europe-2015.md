@@ -19,7 +19,6 @@ This was a busy and exhausting week -- especially for those like me who just lan
     <figcaption>Welcome to Germany !</figcaption>
 </figure>
 
-
 Right before the conference Pierre-Charles [announced](https://dev.eclipse.org/mhonarc/lists/sirius-dev/msg00132.html) the general availability of Sirius 3.1 ([new noteworthy](https://www.eclipse.org/sirius/whatsnew3-1.html), [release notes](https://www.eclipse.org/sirius/doc/Release_Notes.html) ). 
 
 This version brings pleasants improvements to empower you in building **state of the art** modeling tools, among other things :  vertical and horizontal compartments, new graphic capabilities for ports... This version also mark the graduation of [AQL](http://cedric.brun.io/eclipse/introducing-aql/) as the recommended query langage for your `.odesign` files. 
