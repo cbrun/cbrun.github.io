@@ -2,7 +2,6 @@
 layout: post
 title:  EclipseCon Europe 2015 and Sirius 3.1
 categories: [eclipse]
-draft: true
 ---
 
 EclipseCon Europe 2015 is over now. This conference is the one in which the "Eclipse Family" feeling is the most inescapable. The downside of this is that one might experience a slight melancholy when the conference is over.
