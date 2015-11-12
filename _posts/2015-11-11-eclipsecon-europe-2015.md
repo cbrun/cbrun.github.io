@@ -86,13 +86,14 @@ Looking at the overall conference :
 
 
 ---------------------------------------
+But that's not it. What will we do with all that energy ?
 
 <figure>
     <a href="{{ site.url }}/images/blog/ece-siriuscon.jpg"><img src="{{ site.url }}/images/blog/ece-siriuscon.jpg"></a>    
     <figcaption>SiriusCon is in 3 weeks !</figcaption>
 </figure>
 
-But that's not it. What will we do with all that energy ? SiriusCon is just around the corner, an international event dedicated to Sirius. It's free, it's in Paris. The program is out already and is packed with content for both beginners and advanced users. A 'clinic' will be held all day long where you'll be able to question the experts and come with your own tooling. 
+**SiriusCon** is just around the corner, an international event dedicated to Sirius. It's free, it's in Paris. The program is out already and is packed with content for both beginners and advanced users. A 'clinic' will be held all day long where you'll be able to question the experts and come with your own tooling. 
 
 3rd of December 2015 in **3 weeks**
 
