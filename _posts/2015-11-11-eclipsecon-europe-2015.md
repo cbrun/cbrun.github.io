@@ -12,11 +12,11 @@ This [tweet](https://twitter.com/alex_schl/status/662556186986864640) from Alexa
 <blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr">Where are all the people? :-( <a href="https://twitter.com/eclipsecon">@eclipsecon</a> I&#39;m having awesomeness withdrawal symptoms already...</p>&mdash; Alex Schladebeck (@alex_schl) <a href="https://twitter.com/alex_schl/status/662556186986864640">6 Novembre 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This was a busy and exhausting week -- especially for those like me who just landed on the old continent from the bay area --  but on the other hand it was **fabulously energizing !**
+This was a busy and exhausting week -- especially for those like me who just landed on the old continent from the bay area --  but on the other hand it was **fabulously energizing!**
 
 <figure>
     <a href="{{ site.url }}/images/blog/ludwigsburg.jpg"><img src="{{ site.url }}/images/blog/ludwigsburg.jpg"></a>    
-    <figcaption>Welcome to Germany !</figcaption>
+    <figcaption>Welcome to Germany!</figcaption>
 </figure>
 
 Right before the conference Pierre-Charles [announced](https://dev.eclipse.org/mhonarc/lists/sirius-dev/msg00132.html) the general availability of Sirius 3.1 ([new noteworthy](https://www.eclipse.org/sirius/whatsnew3-1.html), [release notes](https://www.eclipse.org/sirius/doc/Release_Notes.html) ). 
@@ -30,7 +30,7 @@ Because of all those changes we landed in this beautiful part of Germany with ma
     <figcaption>Obeo Team at ECE 2015</figcaption>
 </figure>
 
-Of course many interesting discussions ensued but the energizing factor was : our users are enthusiastic, eager and passionate ! I can't stress enough how this feels; in the day-to-day development we are so much focused on the things *which are not quite right* or on this *use case which we should support better* that we tend to forget about all the other things which are making Sirius amazing. Conferences such as EclipseCon Europe are occasions for your users to charge you up.
+Of course many interesting discussions ensued but the energizing factor was : our users are enthusiastic, eager and passionate! I can't stress enough how this feels; in the day-to-day development we are so much focused on the things *which are not quite right* or on this *use case which we should support better* that we tend to forget about all the other things which are making Sirius amazing. Conferences such as EclipseCon Europe are occasions for your users to charge you up.
 
 Another remarkable thing for us was the breadth of tools we got to see from your users: different domains,different goals, different methodologies, but always the same will to build a beautiful and usable product. That's what we want to support, that's where we are going.
 
@@ -46,7 +46,7 @@ Etienne presented talk giving a pretty good overview of what Sirius can do and h
     <figcaption>Breathe life into your Designer!</figcaption>
 </figure>
 
-And because we all love blinking LED's, Melanie presented a session describing how to animate your models with Sirius and the [Gemoc technologies !](http://gemoc.org/). See the [slides here](http://fr.slideshare.net/melbats/eclipsecon-eu-2015-breathe-life-into-your-designer) for more information.
+And because we all love blinking LED's, Melanie presented a session describing how to animate your models with Sirius and the [Gemoc technologies!](http://gemoc.org/). See the [slides here](http://fr.slideshare.net/melbats/eclipsecon-eu-2015-breathe-life-into-your-designer) for more information.
 
 ---------------------------------------
 
@@ -76,12 +76,12 @@ In a nutshell : **if you are willing to spare some heap memory,  IncQuery can bo
 
 Looking at the overall conference :
 
-* the **content was really good**, amoung the best years (if not the best!). Thank you for submitting such good talks we could choose from !
+* the **content was really good**, amoung the best years (if not the best!). Thank you for submitting such good talks we could choose from!
 * we had a lot of fun as a [Program Committee](https://www.eclipsecon.org/europe2015/about-pc), we worked as a team and I'm quite proud of the result
 * the Eclipse community *is a family*, just look at how people react when you step in the bar, not even having unpacked your luggage yet, now compare with what happens when you meet family which you barely see each year. That's right. Same spirit.
 <figure>
     <a href="http://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"><img src="http://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"></a>    
-    <figcaption>ECE 2015 had an awesome program !</figcaption>
+    <figcaption>ECE 2015 had an awesome program!</figcaption>
 </figure>
 
 
@@ -90,7 +90,7 @@ But that's not it. What will we do with all that energy ?
 
 <figure>
     <a href="{{ site.url }}/images/blog/ece-siriuscon.jpg"><img src="{{ site.url }}/images/blog/ece-siriuscon.jpg"></a>    
-    <figcaption>SiriusCon is in 3 weeks !</figcaption>
+    <figcaption>SiriusCon is in 3 weeks!</figcaption>
 </figure>
 
 **SiriusCon** is just around the corner, an international event dedicated to Sirius. It's free, it's in Paris. The program is out already and is packed with content for both beginners and advanced users. A 'clinic' will be held all day long where you'll be able to question the experts and come with your own tooling. 
