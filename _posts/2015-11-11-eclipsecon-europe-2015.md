@@ -50,7 +50,7 @@ And because we all love blinking LED's, Melanie presented a session describing h
 
 A trend started with the last few EclipseCon : talks speaking about Sirius which are not from Obeo. At ECE 2015 two talks were especially noteworthy in this regard as they were tackling fairly detailed and specific areas.
 
-First, a lightning talk by Max Bureck : [A Sirius editor to define Sirius editors](https://www.eclipsecon.org/europe2015/session/sirius-editor-define-sirius-editors)
+First, a lightning talk by Max Bureck : [A Sirius editor to define Sirius editors](https://www.eclipsecon.org/europe2015/session/sirius-editor-define-sirius-editors). 
 
 He actually designed an `.odesign` to design `.odesigns` with instant graphical feedback.
 
