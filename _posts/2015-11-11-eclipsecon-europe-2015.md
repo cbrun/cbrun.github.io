@@ -12,7 +12,7 @@ draft: true
     <figcaption>Welcome to Germany !</figcaption>
 </figure>
 
-EclipseCon Europe 2015 is over now. This conference is the one in which the "Eclipse Family" feeling is the most inescapable and because of that one might experience a slight melancholy when the conference is over.
+EclipseCon Europe 2015 is over now. This conference is the one in which the "Eclipse Family" feeling is the most inescapable. The downside of this is that one might experience a slight melancholy when the conference is over.
 This [tweet](https://twitter.com/alex_schl/status/662556186986864640) from Alexandra reflects quite well the mood
 
 >Where are all the people? :-( @eclipsecon I'm having awesomeness withdrawal symptoms already...
