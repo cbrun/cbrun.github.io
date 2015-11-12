@@ -9,8 +9,6 @@ EclipseCon Europe 2015 is over now. This conference is the one in which the "Ecl
 
 This [tweet](https://twitter.com/alex_schl/status/662556186986864640) from Alexandra reflects quite well the mood
 
->Where are all the people? :-( @eclipsecon I'm having awesomeness withdrawal symptoms already...
-
 <blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr">Where are all the people? :-( <a href="https://twitter.com/eclipsecon">@eclipsecon</a> I&#39;m having awesomeness withdrawal symptoms already...</p>&mdash; Alex Schladebeck (@alex_schl) <a href="https://twitter.com/alex_schl/status/662556186986864640">6 Novembre 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
