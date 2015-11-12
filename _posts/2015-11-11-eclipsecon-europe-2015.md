@@ -5,8 +5,6 @@ categories: [eclipse]
 draft: true
 ---
 
-![Welcome in Germany !]()
-
 <figure>
     <a href="{{ site.url }}/images/blog/ludwigsburg.jpg"><img src="{{ site.url }}/images/blog/ludwigsburg.jpg"></a>    
     <figcaption>Welcome to Germany !</figcaption>
