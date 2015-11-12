@@ -9,7 +9,7 @@ draft: true
 
 <figure>
     <a href="{{ site.url }}/images/blog/ludwigsburg.jpg"><img src="{{ site.url }}/images/blog/ludwigsburg.jpg"></a>    
-    <figcaption>Welcome in Germany !</figcaption>
+    <figcaption>Welcome to Germany !</figcaption>
 </figure>
 
 EclipseCon Europe 2015 is over now. This conference is the one in which the "Eclipse Family" feeling is the most inescapable and because of that one might experience a slight melancholy when the conference is over.
