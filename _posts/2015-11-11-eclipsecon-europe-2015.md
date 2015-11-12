@@ -19,6 +19,33 @@ This was a busy and exhausting week -- especially for those like me who just lan
     <figcaption>Welcome to Germany!</figcaption>
 </figure>
 
+Looking at the overall conference :
+
+* the **content was really good**, amoung the best years (if not the best!). Thank you for submitting such good talks we could choose from!
+* we had a lot of fun as a [Program Committee](https://www.eclipsecon.org/europe2015/about-pc), we worked as a team and I'm quite proud of the result
+* the Eclipse community *is a family*, just look at how people react when you step in the bar, not even having unpacked your luggage yet, now compare with what happens when you meet family which you barely see each year. That's right. Same spirit.
+<figure>
+    <a href="http://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"><img src="http://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"></a>    
+    <figcaption>ECE 2015 had an awesome program!</figcaption>
+</figure>
+
+Of course many interesting discussions happened but the energizing factor was : our users are enthusiastic, eager and passionate! I can't stress enough how this feels; in the day-to-day development we are so much focused on the things *which are not quite right* or on this *use case which we should support better* that we tend to forget about all the other things which are making Sirius amazing. Conferences such as EclipseCon Europe are occasions for your users to charge you up.
+
+Another remarkable thing for us was the breadth of tools we got to see from your users: different domains,different goals, different methodologies, but always the same will to build a beautiful and usable product. That's what we want to support, that's where we are going. 
+
+ **SiriusCon** is just around the corner, the first international event dedicated to Sirius another opportunity to learn and share.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/ece-siriuscon.jpg"><img src="{{ site.url }}/images/blog/ece-siriuscon.jpg"></a>    
+    <figcaption>SiriusCon is in 3 weeks!</figcaption>
+</figure>
+
+ It's free, it's in Paris. The program is out already and is packed with content for both beginners and advanced users. A 'clinic' will be held all day long where you'll be able to question the experts and come with your own tooling. 
+
+3rd of December 2015 in **3 weeks**
+
+Now let's get back to EclipseCon Europe.
+
 Right before the conference Pierre-Charles [announced](https://dev.eclipse.org/mhonarc/lists/sirius-dev/msg00132.html) the general availability of Sirius 3.1 ([new noteworthy](https://www.eclipse.org/sirius/whatsnew3-1.html), [release notes](https://www.eclipse.org/sirius/doc/Release_Notes.html) ). 
 
 This version brings pleasants improvements to empower you in building **state of the art** modeling tools, among other things :  vertical and horizontal compartments, new graphic capabilities for ports... This version also mark the graduation of [AQL](http://cedric.brun.io/eclipse/introducing-aql/) as the recommended query langage for your `.odesign` files. 
@@ -29,10 +56,6 @@ Because of all those changes we landed in this beautiful part of Germany with ma
     <a href="https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg"><img src="https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg"></a>    
     <figcaption>Obeo Team at ECE 2015</figcaption>
 </figure>
-
-Of course many interesting discussions ensued but the energizing factor was : our users are enthusiastic, eager and passionate! I can't stress enough how this feels; in the day-to-day development we are so much focused on the things *which are not quite right* or on this *use case which we should support better* that we tend to forget about all the other things which are making Sirius amazing. Conferences such as EclipseCon Europe are occasions for your users to charge you up.
-
-Another remarkable thing for us was the breadth of tools we got to see from your users: different domains,different goals, different methodologies, but always the same will to build a beautiful and usable product. That's what we want to support, that's where we are going.
 
 <figure>
     <a href="{{ site.url }}/images/blog/etienne-pres-sirius.jpg"><img src="{{ site.url }}/images/blog/etienne-pres-sirius.jpg"></a>    
@@ -74,29 +97,7 @@ In a nutshell : **if you are willing to spare some heap memory,  IncQuery can bo
 
 ---------------------------------------
 
-Looking at the overall conference :
+All in all a great conference, thanks to the Eclipse Foundation staff and to the community at large for making it happen. I'm looking forward for the next one.
 
-* the **content was really good**, amoung the best years (if not the best!). Thank you for submitting such good talks we could choose from!
-* we had a lot of fun as a [Program Committee](https://www.eclipsecon.org/europe2015/about-pc), we worked as a team and I'm quite proud of the result
-* the Eclipse community *is a family*, just look at how people react when you step in the bar, not even having unpacked your luggage yet, now compare with what happens when you meet family which you barely see each year. That's right. Same spirit.
-<figure>
-    <a href="http://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"><img src="http://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"></a>    
-    <figcaption>ECE 2015 had an awesome program!</figcaption>
-</figure>
-
-
----------------------------------------
-But that's not it. What will we do with all that energy ?
-
-<figure>
-    <a href="{{ site.url }}/images/blog/ece-siriuscon.jpg"><img src="{{ site.url }}/images/blog/ece-siriuscon.jpg"></a>    
-    <figcaption>SiriusCon is in 3 weeks!</figcaption>
-</figure>
-
-**SiriusCon** is just around the corner, an international event dedicated to Sirius. It's free, it's in Paris. The program is out already and is packed with content for both beginners and advanced users. A 'clinic' will be held all day long where you'll be able to question the experts and come with your own tooling. 
-
-3rd of December 2015 in **3 weeks**
-
-Did I mention it's **free** ? Well, it is, but it doesn't mean we have infinite rooms so [register now](http://www.siriuscon.org/register.php), **places are limited**!
-
+Next stop : **SiriusCon** in Paris where I hope we'll meet. Did I mention it's  **free** ? Well, it is, but it doesn't mean we have infinite rooms so [register now](http://www.siriuscon.org/register.php), **places are limited**!
 
