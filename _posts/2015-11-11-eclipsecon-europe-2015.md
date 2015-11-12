@@ -12,12 +12,13 @@ This [tweet](https://twitter.com/alex_schl/status/662556186986864640) from Alexa
 <blockquote class="twitter-tweet" lang="fr"><p lang="en" dir="ltr">Where are all the people? :-( <a href="https://twitter.com/eclipsecon">@eclipsecon</a> I&#39;m having awesomeness withdrawal symptoms already...</p>&mdash; Alex Schladebeck (@alex_schl) <a href="https://twitter.com/alex_schl/status/662556186986864640">6 Novembre 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+This was a busy and exhausting week -- especially for those like me who just landed on the old continent from the bay area --  but on the other hand it was **fabulously energizing !**
+
 <figure>
     <a href="{{ site.url }}/images/blog/ludwigsburg.jpg"><img src="{{ site.url }}/images/blog/ludwigsburg.jpg"></a>    
     <figcaption>Welcome to Germany !</figcaption>
 </figure>
 
-This was a busy and exhausting week -- especially for those like me who just landed on the old continent from the bay area --  but on the other hand it was **fabulously energizing !**
 
 Right before the conference Pierre-Charles [announced](https://dev.eclipse.org/mhonarc/lists/sirius-dev/msg00132.html) the general availability of Sirius 3.1 ([new noteworthy](https://www.eclipse.org/sirius/whatsnew3-1.html), [release notes](https://www.eclipse.org/sirius/doc/Release_Notes.html) ). 
 
