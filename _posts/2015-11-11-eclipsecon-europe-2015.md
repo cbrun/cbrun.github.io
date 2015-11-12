@@ -65,7 +65,7 @@ Because of all those changes we landed in this beautiful part of Germany with ma
     <figcaption>Etienne Presenting : A graphic model is worth a thousand words</figcaption>
 </figure>
 
-Etienne presented talk giving a pretty good overview of what Sirius can do and how it is being used, you should probably start by having a look at the presentation [on youtube](https://www.youtube.com/watch?v=Rhd3MZ6DQ3g&list=PLy7t4z5SYNaR0yp9EQ9txQhO-JgCLJAga&index=79){:target="_blank"} if you are still wondering about what Sirius does.
+Etienne presented a talk giving a pretty good overview of what Sirius can do and how it is being used, you should probably start by having a look at the presentation [on youtube](https://www.youtube.com/watch?v=Rhd3MZ6DQ3g&list=PLy7t4z5SYNaR0yp9EQ9txQhO-JgCLJAga&index=79){:target="_blank"} if you are still wondering about when this technology helps.
 
 <figure>
     <a href="{{ site.url }}/images/blog/breathlife.png"><img src="{{ site.url }}/images/blog/breathlife.png"></a>    
@@ -73,6 +73,13 @@ Etienne presented talk giving a pretty good overview of what Sirius can do and h
 </figure>
 
 And because we all love blinking LED's, Melanie presented a session describing how to animate your models with Sirius and the [Gemoc technologies!](http://gemoc.org/){:target="_blank"}. See the [slides here](http://fr.slideshare.net/melbats/eclipsecon-eu-2015-breathe-life-into-your-designer){:target="_blank"} for more information.
+
+Of course *Tiger* the cat was also there and enjoyed the IOT Playground.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/cat.jpg"><img src="{{ site.url }}/images/blog/cat.jpg"></a>    
+    <figcaption>Arduino Designer + Tiger the cat</figcaption>
+</figure>
 
 ---------------------------------------
 
