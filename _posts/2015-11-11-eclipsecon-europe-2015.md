@@ -23,8 +23,7 @@ Right before the conference Pierre-Charles [announced](https://dev.eclipse.org/m
 
 This version brings pleasants improvements to empower you in building **state of the art** modeling tools, among other things :  vertical and horizontal compartments, new graphic capabilities for ports... This version also mark the graduation of [AQL](http://cedric.brun.io/eclipse/introducing-aql/) as the recommended query langage for your `.odesign` files. 
 
-Because of all those changes we landed in this beautiful part of Germany with many things to discuss and were ready for the wave of questions. Most of them should be anwered by [Maxime's presentation: Sirius 3.1 - Stronger, Faster and Smarter Diagram Editors](http://mporhel.github.io/slides/2015_EclipseConEU_Sirius31_StrongerFasterSmarter/#/)
-
+Because of all those changes we landed in this beautiful part of Germany with many topics to discuss and were ready for the wave of questions. Most of them should be anwered by [Maxime's presentation: Sirius 3.1 - Stronger, Faster and Smarter Diagram Editors](http://mporhel.github.io/slides/2015_EclipseConEU_Sirius31_StrongerFasterSmarter/#/) if you could not make it to the conference.
 
 <figure>
     <a href="https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg"><img src="https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg"></a>    
@@ -36,6 +35,16 @@ Of course many interesting discussions ensued but the energizing factor was : ou
 Another remarkable thing for us was the breadth of tools we got to see from your users: different domains,different goals, different methodologies, but always the same will to build a beautiful and usable product. That's what we want to support, that's where we are going.
 
 Etienne presented talk giving a pretty good overview of what Sirius can do and how it is being used, you should probably start by having a look at the presentation [on youtube](https://www.youtube.com/watch?v=Rhd3MZ6DQ3g&list=PLy7t4z5SYNaR0yp9EQ9txQhO-JgCLJAga&index=79) if you are still wondering about what Sirius does.
+
+
+<figure>
+    <a href="{{ site.url }}/images/blog/breathlife.png"><img src="{{ site.url }}/images/blog/breathlife.png"></a>    
+    <figcaption>Breathe life into your Designer!</figcaption>
+</figure>
+
+And because we all love blinking LED's, Melanie presented a session describing how to animate your models with Sirius and the [Gemoc technologies !](http://gemoc.org/). See the [slides here](http://fr.slideshare.net/melbats/eclipsecon-eu-2015-breathe-life-into-your-designer) for more information.
+
+---------------------------------------
 
 A trend started with the last few EclipseCon : talks speaking about Sirius which are not from Obeo. At ECE 2015 two talks were especially noteworthy in this regard as they were tackling fairly detailed and specific areas.
 
@@ -56,13 +65,6 @@ The presentation style was quite fun, as it can only be for such a 'meta' projec
 </figure>
 
 Another talk, another subject : [IncQuery gets Sirius: faster and better diagrams](https://www.eclipsecon.org/europe2015/session/incquery-gets-sirius-faster-and-better-diagrams) where Akos Horvath from IncQuery Labs explored how Sirius could integrate with IncQuery to achieve a complete incrementality. As you may -- or may not -- be aware, Sirius is projectional and offers you a lot of flexibility in how you want your model elements to be projected in a diagram view. The downside of this flexibility is Sirius can't easily decide if there is a new node to create, to update, or to delete based on what has changed on the model. The only way to know for sure that something needs to be updated is to refresh it and see if it has changed in the process. That's why we work quite a lot on making sure this process is as fast as possible but IncQuery can helps when this "as fast as possible" is "not fast enough". If you are willing to spare some heap memory,  IncQuery can boost your diagram editor! Have a look [on the slides](https://www.eclipsecon.org/europe2015/sites/default/files/slides/iqgetsSirius_eclipsecon_15_ha_final_0.pdf)
-
-<figure>
-    <a href="{{ site.url }}/images/blog/breathlife.png"><img src="{{ site.url }}/images/blog/breathlife.png"></a>    
-    <figcaption>Breathe life into your Designer!</figcaption>
-</figure>
-
-And because we all love blinking LED's, Melanie presented a session describing how to animate your models with Sirius and the [Gemoc technologies !](http://gemoc.org/). See the [slides here](http://fr.slideshare.net/melbats/eclipsecon-eu-2015-breathe-life-into-your-designer) for more information.
 
 ---------------------------------------
 
