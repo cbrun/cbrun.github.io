@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 ## 2015
-
+* [Sirius : Origins, Present, Future](http://cedric.brun.io/talks/SiriusOriginsPresentFuture/#/) at SiriusCon 2015, France, Paris
 * [Domain Globalization: Using Languages to Support Technical and Social Coordination](http://www.springer.com/us/book/9783319261713) within the book 'Globalizing Domain-Specific Languages', Springer.
 * [A Solution to the TTC'15 Model Execution Case Using the GEMOC Studio](https://hal.inria.fr/hal-01152342/), Transformation Tool Contest 2015.
 * [Sirius 3.0 : Faster, Stronger and Smarter Diagram Editors](http://cedric.brun.io/talks/Sirius300FasterStrongerSmarter/slides/#/) at EclipseCon France, Toulouse.
