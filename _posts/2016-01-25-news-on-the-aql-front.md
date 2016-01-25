@@ -51,7 +51,7 @@ env.registerServicePackage(YourOwnVersionOfEObjectService.class);
 
 ## 1<->1 mapping with Java classes
 
-With AQL you are not limited to "returning the standard types the language no about".  This is especially useful when you want to return something which has a bit more structure than a primitive type.
+With AQL you are not limited to "returning the standard types the language know about".  This is especially useful when you want to return something which has a bit more structure than a primitive type.
 Let's say you want to do a bit of statistic on your model. You can write a service like this, here making use of the Apache Common Math library :
 
 {% highlight java%}
@@ -131,11 +131,9 @@ And the code assist will pick up this information
 Type literals used to be handled specifically in the grammar in the first versions of AQL. We had to do this required because of the ``JustSomeType`` syntax which we supported at first.
 Once we decided to drop this support and make the type prefix mandatory``someEPackage::JustSomeType``, then we could make sure AQL would handle the type literals just like any other type.
 
-Things like :
 
-`aql:self.eAllContents(self.eClass())`
+Things like `aql:self.eAllContents(self.eClass())` are now possible and will return all the children of type compatible with "self".
 
-are now possible and will return all the children of type compatible with "self".
 
 Furthermore if you *need* a type literal as a parameter in your own service, you just have to have a first parameter with the type : `Set<EClass>`. Yes, that's an important point, any type in AQL is possibly a **union** of several existing types, hence the collection here.
 As such the syntax for creating Sets or collections can be used as a substitute for type literals.
