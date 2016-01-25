@@ -87,7 +87,7 @@ public double getPercentile(DescriptiveStatistics stat, Double p) {
 
 You have to **explicitely** decide which of the methods of the `DescriptiveStatistics` class will be exposed, by default AQL will not expose any.
 
-Once you did that you can start querying your model, here let's see what is the standard deviation of my family first names :
+Once you did that you can start querying your model, here let's see what is the standard deviation of the length of a family first names:
 
 <figure>
     <a href="{{ site.url }}/images/blog/aql-stats-service.png"><img src="{{ site.url }}/images/blog/aql-stats-service.png"></a>    
