@@ -104,17 +104,17 @@ We can extend the `getStats()` with an annotation as such :
 
 {% highlight java%}
 @Documentation(
-			value = "Returns a dataset suitable for statistic queries",
-			params = {				
-			},
-			result = "The dataset instance which can be queried..",
-			examples = {
-				@Example(
-					expression = "self.members.name.size()->getStats()",
-					result = "DescriptiveStatistics{...}"
-				)
-			}
+	value = "Returns a dataset suitable for statistic queries",
+	params = {				
+	},
+	result = "The dataset instance which can be queried..",
+	examples = {
+		@Example(
+			expression = "self.members.name.size()->getStats()",
+			result = "DescriptiveStatistics{...}"
 		)
+	}
+)
 {% endhighlight %}
 
 And the code assist will pick up this information
