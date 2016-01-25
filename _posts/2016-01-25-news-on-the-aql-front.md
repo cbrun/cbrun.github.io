@@ -161,7 +161,7 @@ Introducing this capability means the user doesn't have to cast types using `.oc
 
 ## Migrating from Acceleo2 to AQL in the tests
 
-Beside these improvements we also worked quite a lot in polishing, testing and improving the existing code. The Sirius project used to evaluate thousands of **Acceleo 2** expressions in the JUnit and swtbot tests. A large part of those expressions have been migrated to AQL and we are now quite close to a complete migration. This will open the door to a simpler and faster packaging and test story for the Sirius project (You can track progress in this regard throug [Bug 478878](https://bugs.eclipse.org/bugs/show_bug.cgi?id=478878) ) 
+Beside these improvements we also worked quite a lot in polishing, testing and improving the existing code. The Sirius project used to evaluate thousands of **Acceleo 2** expressions in the JUnit and swtbot tests. A large part of those expressions have been migrated to AQL and we are now quite close to a complete migration. This will open the door to a simpler and faster packaging and test story for the Sirius project (You can track progress in this regard through [Bug 478878](https://bugs.eclipse.org/bugs/show_bug.cgi?id=478878) ) 
 
 
 
