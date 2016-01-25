@@ -1,16 +1,15 @@
 ---
 layout: post
 title:  Some news on the AQL front
-categories: [eclipse]
-draft:true
+categories: [upcoming]
 ---
 
 
 The [Acceleo Query Language](https://www.eclipse.org/sirius/doc/specifier/general/Writing_Queries.html#aql) implementation has been [announced in August](http://cedric.brun.io/eclipse/introducing-aql/) and is the recommended interpreter starting 
-with Sirius 3.1. As we prepare the Eclipse Mars.2 release I'd like to take a few minutes to share a few of the niceties AQL brings beside the runtime performance. This is not an exhaustive list, there are many more nice things going on ;)
+with Sirius 3.1. As we prepare the Eclipse Mars.2 release I'd like to take a few minutes to share a few of the niceties AQL brings beside the raw performance. This is not an exhaustive list.
 
 
-## A language extensible through Java Methods
+## A language extensible using Java Methods
 
 The whole language execution semantic is defined through Java methods.
 
@@ -129,28 +128,37 @@ And the code assist will pick up this information
 
 ## Unification of type literals
 
-Type literals used to be handled specifically in the grammar in the first versions of AQL. This was required because of the ``JustSomeType`` syntax which we supported at first instead of the ``someEPackage::JustSomeType`` which is now mandatory.
-This had the nice side effect of enabling AQL to handle the type literals just like any other types.
+Type literals used to be handled specifically in the grammar in the first versions of AQL. We had to do this required because of the ``JustSomeType`` syntax which we supported at first.
+Once we decided to drop this support and make the type prefix mandatory``someEPackage::JustSomeType``, then we could make sure AQL would handle the type literals just like any other type.
 
 Things like :
+
 `aql:self.eAllContents(self.eClass())`
 
 are now possible and will return all the children of type compatible with "self".
 
 Furthermore if you *need* a type literal as a parameter in your own service, you just have to have a first parameter with the type : `Set<EClass>`. Yes, that's an important point, any type in AQL is possibly a **union** of several existing types, hence the collection here.
+As such the syntax for creating Sets or collections can be used as a substitute for type literals.
 
-## Type inference
+<figure>
+    <a href="{{ site.url }}/images/blog/aql-typeliterals.png"><img src="{{ site.url }}/images/blog/aql-typeliterals.png"></a>    
+    <figcaption>A type literal being a Set containing EClasses</figcaption>
+</figure>
+
+
+## Type inference at validation time
 
 AQL is designed to apply no check during evaluation but instead capture errors if there are some. On the other hand we added pretty strong verifications at validation time and now also provide type inference based on predicates result.
 
-Starting with the version 4.0, Sirius can leverage this type inference to be more precise in the type of the variables within an If block for instance. The benefit for end users can be illustrated with this:
+Starting with the version 4.0, Sirius can leverage this type inference to be more precise in the type of the variables within an If block for instance. See the following example :
 
 <figure>
     <a href="{{ site.url }}/images/blog/aql-tool-inference-comments.png"><img src="{{ site.url }}/images/blog/aql-tool-inference-comments.png"></a>    
     <figcaption>Use of predicates based type inference in the .odesign editor</figcaption>
 </figure>
 
-Introducing this capability means you'll have less of a need to cast types with `.oclAsType()`
+Introducing this capability means the user doesn't have to cast types using `.oclAsType()` and gets validation errors which are more useful.
+
 
 Beside these improvements we also worked quite a lot in polishing, testing and improving the existing code. The Sirius project used to evaluate thousands of **Acceleo 2** expressions in the JUnit and swtbot tests. A large part of those expressions have been migrated to AQL and we are now quite close to a complete migration. This will open the door to a simpler and faster packaging and test story for the Sirius project (You can track progress in this regard throug [Bug 478878](https://bugs.eclipse.org/bugs/show_bug.cgi?id=478878) ) 
 
