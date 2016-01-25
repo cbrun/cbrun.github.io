@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Some news on the AQL front
-categories: [upcoming]
+categories: [eclipse]
 ---
 
 
