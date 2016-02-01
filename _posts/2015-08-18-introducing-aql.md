@@ -2,6 +2,7 @@
 layout: post
 title:  AQL - a new interpreter for Sirius
 categories: [eclipse]
+tags: [eclipse, acceleo, sirius]
 ---
 
 TL;DR: we've been working on a new query interpreter for Sirius which is small, simple, fast, extensible and bring richer validation. It's been released for early adopters with Sirius 3.0 but will be the recommended
