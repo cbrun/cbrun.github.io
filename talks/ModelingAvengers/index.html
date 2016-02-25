@@ -1,0 +1,682 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+
+<title>Modeling Avengers – Open Source Technology Mix for Saving the World</title>
+
+<meta name="description" content="The talk will then evaluate how useful open-source technologies are in addressing this class of problems and how modeling can be used to support sustainability, enable broader engagement of the community, and facilitate more informed decision-making.
+">
+<meta name="author" content="Cédric Brun and Benoit Combemale">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+<link rel="stylesheet" href="css/reveal.css">
+<link rel="stylesheet" href="css/theme/black.css" id="theme">
+
+<!-- Code syntax highlighting -->
+<link rel="stylesheet" href="lib/css/zenburn.css">
+
+<!-- Printing and PDF exports -->
+<script>
+	var link = document.createElement('link');
+	link.rel = 'stylesheet';
+	link.type = 'text/css';
+	link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css'
+			: 'css/print/paper.css';
+	document.getElementsByTagName('head')[0].appendChild(link);
+</script>
+
+<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+</head>
+
+<body>
+
+	<div class="reveal">
+
+		<!-- Any section element inside of this container is displayed as a slide -->
+		<div class="slides">
+
+			<section data-background="pics/world-shift.jpg" style="text-align: left;">
+				<h3>Modeling Avengers</h3>
+				<h2>OSS Technology Mix for Saving the World</h2>
+
+				<p style="text-align: right;">
+					<small><a href="http://cedric.brun.io/">Cédric Brun</a>, OBEO (<a href="http://twitter.com/bruncedric">@bruncedric</a>)</small><br /> <small><a href="http://people.irisa.fr/Benoit.Combemale/">Benoit Combemale</a>, INRIA and Univ. Rennes 1 (<a href="http://twitter.com/bcombemale">@bcombemale</a>)</small>
+				</p>
+				<p style="text-align: right;">
+					<small>Slides available at http://cedric.brun.io/talks/ModelingAvengers/</small>
+				</p>
+
+			</section>
+
+
+			<section data-background="#ffffff">
+				<h2>GEMOC</h2>
+				<ul>
+					<li class="fragment fade-in">The GEMOC ANR project (<a href="http://gemoc.org/ins">http://gemoc.org/ins</a>):
+						<p>
+							<q style="color: gray;" cite="http://gemoc.org"> A Language Workbench for concurrent execution and simulation of heterogeneous models </q>
+						</p>
+					</li>
+					<li class="fragment fade-in">The GEMOC Initiative (<a href="http://gemoc.org/">http://gemoc.org/</a>):
+						<p>
+							<q style="color: gray;" cite="http://gemoc.org">GEMOC is an open international initiative that aims to coordinate and disseminate the research results regarding the support of the coordinated use of various modeling languages that will lead to the concept of globalization of modeling
+								languages, that is, the use of multiple modeling languages to support coordinated development of diverse aspects of a system.</q>
+						</p>
+					</li>
+				</ul>
+			</section>
+
+			<section data-background="pics/gemoc-initiative-map.png" style="color: gray;">
+				<p></p>
+			</section>
+
+
+
+			<section>
+				<section data-background="pics/board.jpg" style="color: black;">
+					<div class="fragment roll-in" style="background: rgba(255, 255, 255, 0.4);">
+						<p>French National Institute for Agricultural Research</p>
+						<img src="pics/INRA_logo.jpg" />
+					</div>
+				</section>
+
+				<section data-background="pics/water.jpg">
+					<h1>&nbsp</h1>
+					<h1>&nbsp</h1>
+					<h1>&nbsp</h1>
+					<h2 class="fragment fade-in">Water resource management in agriculture</h2>
+				</section>
+
+
+
+
+				<section>
+					<h5>Cultivator</h5>
+					<ul>
+						<li>Which field to use for growing what ?</li>
+						<li>How would the crops grows?</li>
+						<li>When would I have to add water ?</li>
+						<li>Machines ? Peoples ?</li>
+					</ul>
+					<h4 class="fragment fade-in">Complex System, optimization with multiple factors (weather, costs, resourcess)</h4>
+				</section>
+
+				<section>
+					<h2></h2>
+					<ul>
+						<li><span class="fragment highlight-blue">Cultivator</span> has to book for water one year in advance</li>
+						<li><span class="fragment highlight-blue">Administration</span> has to make sure there is twice the quantity which has been booked for the whole region.</li>
+						<li><span class="fragment highlight-blue">Domain expert (INRA)</span> wants to defines and assess new cultures activities</li>
+					</ul>
+					<h5 class="fragment fade-in" style="color: #1b91ff;">Multiple stakeholders, multiple concerns and scales</h5>
+				</section>
+
+
+				<section data-background="pics/cockpit.jpg">
+					<div class="fragment fade-in" style="background: rgba(0, 0, 0, 0.4)">
+						<h2>
+							What We<small>*</small> do
+						</h2>
+						<p>build domain specific tools for supporting design and analysis of complex software or embedded systems from multiple viewpoints.</p>
+						<small>*: modeling community</small>
+					</div>
+				</section>
+			</section>
+			<section>
+				<section data-background="pics/test.jpg">
+					<h2>How our technologies and techniques would fare in such context?</h2>
+				</section>
+
+
+				<section data-background="pics/warning.jpg">
+					<p class="fragment fade-in" style="background: rgba(0, 0, 0, 0.4)">
+					<p
+						<b>Disclaimer:</b> this experiment is not about the science itself but about how to use the OSS modeling technologies. <br> This is a <b>toy</b>, but a <b>toy</b> complex enough that we can learn from it.
+					</p>
+				</section>
+
+
+				<section>
+					<h2>Process</h2>
+					<ol>
+						<li class="fragment fade-in">State your resources (Machines, peoples, fields)</li>
+						<li class="fragment fade-in">Pick some climate model</li>
+						<li class="fragment fade-in">Pick some cultures</li>
+						<li class="fragment fade-in">Deduce a possible planning</li>
+						<li class="fragment fade-in">See how the biomass would grow</li>
+						<li class="fragment fade-in">See how much irrigation we would need</li>
+						<li class="fragment roll-in">do it again !</li>
+					</ol>
+				</section>
+
+
+				<section data-background="white">
+					<table style="margin-left: -60px; margin-right: auto;">
+						<thead>
+							<tr>
+								<td></td>
+								<td><img src="pics/emf_logo.png"></td>
+								<td><img src="pics/sirius_logo.png"></td>
+								<td><img src="pics/xtext_logo.png"></td>
+								<td><img src="pics/optaplanner_logo.png"></td>
+								<td><img src="pics/gemoc_logo.png"></td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><small>Language Engineers</small></td>
+								<td>Domain</td>
+								<td>Viewpoint <small>(Graph Editor)</small></td>
+								<td>Grammar <small>(Textual Editor)</small></td>
+								<td>Constraints and Goals <small>(Score function)</small></td>
+								<td>Behavioral Semantic <small>(animator)</small></td>
+							</tr>
+							<tr>
+								<td><small>Language Users</small></td>
+								<td>Data</td>
+								<td>Views and static checking</td>
+								<td>Text</td>
+								<td>Optimization</td>
+								<td>Execution, simulation</td>
+							</tr>
+							<tr></tr>
+						</tbody>
+					</table>
+				</section>
+
+				<section data-background="pics/show.jpg">
+					<h2>Demo time</h2>
+					<img class="fragment fade-in" src="pics/gemoc-studio.png" />
+				</section>
+			</section>
+
+			<section data-background="#ffffff">
+				<section>
+					<h2>Domain Specific Models</h2>
+				</section>
+
+				<section>
+					<h2>EMF as the Captain</h2>
+				</section>
+
+
+				<section>
+					<h2>Several Ecore models</h2>
+					<img src="pics/agrodsl-meta.png" />
+				</section>
+
+				<section>
+					<h2>Activities DSL</h2>
+					<img src="pics/agro-activitiesecore.png" />
+				</section>
+
+
+				<section>
+					<h2>Exploitation DSL</h2>
+					<img src="pics/agro-exploitationecore.png" />
+				</section>
+
+				<section>
+					<h2>Simulation DSL</h2>
+					<img src="pics/agro-simulationecore.png" />
+				</section>
+
+				<section>
+					<h2>Scientific DSL</h2>
+					<img src="pics/agro-scientificecore.png" />
+				</section>
+
+				<section>
+					<h2>Benefit #1 : API</h2>
+					<pre>
+						<code class="java" data-trim>
+ public static void main(String[] args) {
+    // ...
+    Exploitation exploitation = loadFromFile(args[1]);
+    for (WorkGroup group : exploitation.getGroups()) {
+      System.out.println(group.getName());
+
+      for (Culture cultureAssignedToThisGroup : group.getCultures()) {
+        for (ExploitationActivity activity : cultureAssignedToThisGroup
+            .getActivities()) {
+          System.out.println(activity.getName());
+          System.out.println(activity.getFrequency());
+          System.out.println(activity.getStartDate());
+          System.out.println(activity.getEndDate());
+        }
+    // ...
+					</code>
+					</pre>
+				</section>
+
+				<section>
+					<h2>Benefit #2: seamless data reuse</h2>
+					<pre>
+						<code class="java" data-trim>
+ public class ClimateDataResourceImpl extends ResourceImpl {
+
+  public ClimateDataResourceImpl(URI uri) {
+    super(uri);
+  }
+
+  @Override
+  protected void doLoad(InputStream inputStream, Map<?, ?> options)
+      throws IOException {
+    getContents().clear();
+    ClimateData climate = SimulationFactory.eINSTANCE.createClimateData();
+    String content = CharStreams.toString(new InputStreamReader(inputStream,
+        Charsets.US_ASCII));
+
+    List<String> lines = Lists.newArrayList(Splitter.on('\n')
+        .omitEmptyStrings().split(content));
+
+    // ...
+					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						</code>
+					</pre>
+				</section>
+
+				<section>
+					<h2>Question : what scale of data ?</h2>
+					<p>TODO numbers</p>
+				</section>
+
+				<section>
+					<h2>Benefit #3: the other Modeling technologies</h2>
+				</section>
+
+
+			</section>
+
+			<section>
+				<section data-background="pics/tools.jpg">
+					<h2 class="fragment fade-in" style="background: rgba(0, 0, 0, 0.4)">Tools</h2>
+				</section>
+
+				<section>
+					<h2>Textual Syntax : Xtext is Hulk</h2>
+				</section>
+
+				<section>
+					<h2>Grammar</h2>
+				</section>
+
+				<section>
+					<img src="pics/agro-activity-definition.png" />
+				</section>
+
+				<section>
+					<h2>Benefit #1: predicates, expressions, conditions</h2>
+				</section>
+
+
+				<section>
+					<h2>Graphical Syntax: Sirius as the Iron Man</h2>
+				</section>
+
+				<section>
+					<h2>Viewpoint Specification</h2>
+					<img src="pics/vsm.png" />
+				</section>
+
+				<section>
+					<h2>Benefit #1: Dynamic Editing</h2>
+					<img src="pics/dynamic-shapes.png" />
+				</section>
+
+				<section>
+					<h2>Benefit #2: Table editors</h2>
+					<img src="pics/agro-climate-series.png" />
+				</section>
+
+				<section>
+					<h2>Benefit #3: Animation</h2>
+				</section>
+
+
+				<section>
+					<h2>Barely scratched the surface</h2>
+					<ul>
+						<li>Eclipse ICE and Science WG</li>
+						<li>Generating reports using Acceleo <img src="pics/agro-gensimuhtml.png" /></li>
+						<li>Comparing alternatives using EMF Compare</li>
+						<li>...</li>
+					</ul>
+				</section>
+			</section>
+
+			<section data-background="#ffffff">
+				<section data-background="pics/analysis.jpg">
+					<h2 class="fragment fade-in" style="color: white; background: rgba(0, 0, 0, 0.4)">Analysis</h2>
+				</section>
+
+
+				<section>
+					<img src="pics/optaPlannerLogo.png" />
+					<h2>is Thor</h2>
+				</section>
+
+				<section>
+					<h2>Planning problems</h2>
+					<p>
+						If you need to <span class="fragment highlight-blue">optimize goals</span> under <span class="fragment highlight-blue">constraints</span> while having <span class="fragment highlight-blue">limited resources</span>.
+					</p>
+					<p class="fragment fade-in">NP class of problems</p>
+				</section>
+
+				<section data-transition="fade-out">
+					<h2>OptaPlanner + EMF</h2>
+					<pre>
+						<code class="java" data-trim data-noescape>
+@PlanningEntity(
+     difficultyComparatorClass = ActivityWorkDifficultyComparator.class
+     )
+public interface ActivityWork extends EObject {
+//...
+@PlanningVariable(valueRangeProviderRefs = {"days"})
+	Day getScheduledOn();
+//...	
+}</code>
+					</pre>
+
+					<pre>
+						<code class="java" data-trim data-noescape>
+@PlanningEntity(
+     difficultyComparatorClass = ResourceAllocationDifficultyComparator.class
+     )
+public interface ResourceAllocation extends EObject {
+//...
+@PlanningVariable(valueRangeProviderRefs = {"resources"})
+	Resource getResource();
+//...	
+}</code>
+					</pre>
+				</section>
+
+
+				<section data-transition="fade-out">
+					<h2>OptaPlanner + EMF</h2>
+					<pre>
+						<code class="java" data-trim data-noescape>
+<mark>@PlanningEntity</mark>(
+     difficultyComparatorClass = ActivityWorkDifficultyComparator.class
+     )
+public interface ActivityWork extends EObject {
+//...
+@PlanningVariable(valueRangeProviderRefs = {"days"})
+	Day getScheduledOn();
+//...	
+}</code>
+					</pre>
+
+					<pre>
+						<code class="java" data-trim data-noescape>
+<mark>@PlanningEntity</mark>(
+     difficultyComparatorClass = ResourceAllocationDifficultyComparator.class
+     )
+public interface ResourceAllocation extends EObject {
+//...
+@PlanningVariable(valueRangeProviderRefs = {"resources"})
+	Resource getResource();
+//...	
+}</code>
+					</pre>
+				</section>
+
+				<section data-transition="fade-out">
+					<h2>OptaPlanner + EMF</h2>
+					<pre>
+						<code class="java" data-trim data-noescape>
+@PlanningEntity(
+     difficultyComparatorClass = ActivityWorkDifficultyComparator.class
+     )
+public interface ActivityWork extends EObject {
+//...
+<mark>@PlanningVariable</mark>(valueRangeProviderRefs = {"days"})
+	Day getScheduledOn();
+//...	
+}</code>
+					</pre>
+
+					<pre>
+						<code class="java" data-trim data-noescape>
+@PlanningEntity(
+     difficultyComparatorClass = ResourceAllocationDifficultyComparator.class
+     )
+public interface ResourceAllocation extends EObject {
+//...
+<mark>@PlanningVariable</mark>(valueRangeProviderRefs = {"resources"})
+	Resource getResource();
+//...	
+}</code>
+					</pre>
+				</section>
+
+
+				<section>
+					<h2>Score Function</h2>
+					<pre>
+						<code class="java" data-trim data-noescape>
+public Score calculateScore(SimulationSolution solution) {
+  int hardScore = 0;
+  int softScore = 0;
+  //...
+  /*
+   * Constraint: all the resources which are required should be allocated.
+   */
+  for (ResourceAllocation alloc : solution.getSimulation().getAllocations()) {
+    if (alloc.getResource() == null) {
+      hardScore += mediumPenalty(1);
+      addFeedback(
+          alloc.getWork(),
+          (createFeedback(FeedbackLevel.ERROR, "A required resource of kind "
+              + alloc.getKind().getName() + " is missing.")));
+    }
+  }
+  
+  //...
+ return HardSoftScore.valueOf(hardScore, softScore)
+ }
+</code>
+					</pre>
+				</section>
+
+				<section>
+					<h2>Copy and Mutations</h2>
+					<pre>
+						<code class="java" data-noescape>
+@PlanningSolution
+public class SimulationSolution implements Solution<HardSoftScore>,
+                             PlanningCloneable<SimulationSolution> {
+
+// the EObject representing the problem to be mutated
+  private Schedule schedule;
+
+  public SimulationSolution(Schedule schedule) {
+    this.schedule = schedule;
+  }
+//...
+@ValueRangeProvider(id = "days")
+ public List<Day> getDays() {
+   return schedule.getClimateData().getDays();
+ }
+
+@ValueRangeProvider(id = "resources")
+ public List<Resource> getResources() {
+   return schedule.getExploitation().getResources();
+}
+//...
+public SimulationSolution planningClone() {
+    Schedule copy = EcoreUtil.copy(this.schedule);
+    EcoreUtil.resolveAll(copy);
+    return new SimulationSolution(copy);
+  }
+
+}	
+
+						
+						
+						
+						</code>
+					</pre>
+				</section>
+
+
+				<section>
+					<img src="pics/agro-schedule-per-surface.png" />
+				</section>
+			</section>
+
+
+
+			<section>
+				<section>
+					<h2>What we learned ?</h2>
+				</section>
+
+				<section data-background="pics/sirius-gallery.png">
+					<h2 class="fragment fade-in" style="background: rgba(0, 0, 0, 0.4)">Technologies meant to do this</h2>
+				</section>
+
+				<section>
+					<h2 class="fragment fade-in" style="background: rgba(0, 0, 0, 0.4)">Are relevant to do this</h2>
+				</section>
+
+				<section>
+					<h2>Teaming up technologies instead of stacking it</h2>
+					<p>Eclipse did that on some level</p>
+					<p>EMF did that on a deeper level</p>
+				</section>
+
+				<section>
+					<h2>Effort to build this tooling ?</h2>
+					<ul>
+						<li>XX days of work for Eclipse Modeling experts</li>
+						<li>Source Code is <a href="">on github</a></li>
+					</ul>
+				</section>
+
+				<section>
+					<blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">&ldquo;Do not compromise on your domain model &rdquo;</blockquote>
+				</section>
+
+			</section>
+
+			<section>
+				<section data-background="pics/horizon.jpg">
+					<h2 class="fragment fade-in" style="background: rgba(0, 0, 0, 0.4)">What next ?</h2>
+				</section>
+
+				<section>
+					<h2>Opportunities to factorise</h2>
+					<ul>
+						<li>Time modeling and management</li>
+						<li>Probabilistic models <img src="pics/guesstimate.png">
+						</li>
+						<li>Alternatives comparisons</li>
+						<li>...</li>
+					</ul>
+				</section>
+
+				<section>
+					<h3>Enabling a broader engagement and informed decision</h3>
+				</section>
+
+				<section>
+					<h2>Further Materials</h2>
+
+					<small>
+						<ul>
+							<li>[slides] <a href="http://fr.slideshare.net/BenotCombemale/modeling-for-smart-cyberphysical-systems">Modeling for Smart CPS</a> (Benoit Combemale and Jean-Michel Bruel), CPS Seminar, 2016
+							</li>
+							<li>[slides] <a href="https://github.com/gemoc/farmingmodeling/blob/master/materials/2015-06-Modeling-for-Sustainability-INRASeminar-combemale.pdf">Modeling for Sustainability</a> (Benoit Combemale), INRA Seminar, 2015
+							</li>
+							<li>[paper] <a href="https://hal.inria.fr/hal-01141393">MDE in Practice for Computational Science</a> (Jean-Michel Bruel, Benoit Combemale, Ileana Ober, Hélène Raynal), In International Conference on Computational Science (ICCS), 2015.
+							</li>
+							<li>[video, french] <a href="http://videotheque.univ-tlse3.fr/media/devlog-benoit-combernale-idm-par-la-pratique-dans-">L'IDM par la pratique dans le contexte des modèles agronomiques autour d'une étude de cas</a> (Benoit Combemale, DEVLOG-IDM2014, Oct. 2014)
+							</li>
+							<li>[video, french] <a href="http://videotheque.univ-tlse3.fr/media/composition-and-concurrent-execution-of-heterogene">Composition and concurrent execution of heterogeneous domain-specific models</a> (Benoit Combemale, DEVLOG-IDM2013, Oct. 2013)
+							</li>
+						</ul>
+					</small>
+				</section>
+
+			</section>
+		</div>
+
+	</div>
+
+	<script src="lib/js/head.min.js"></script>
+	<script src="js/reveal.js"></script>
+
+	<script>
+		// Full list of configuration options available at:
+		// https://github.com/hakimel/reveal.js#configuration
+		Reveal.initialize({
+			controls : true,
+			progress : true,
+			history : true,
+			center : true,
+
+			transition : 'slide', // none/fade/slide/convex/concave/zoom
+
+			// Optional reveal.js plugins
+			dependencies : [ {
+				src : 'lib/js/classList.js',
+				condition : function() {
+					return !document.body.classList;
+				}
+			}, {
+				src : 'plugin/markdown/marked.js',
+				condition : function() {
+					return !!document.querySelector('[data-markdown]');
+				}
+			}, {
+				src : 'plugin/markdown/markdown.js',
+				condition : function() {
+					return !!document.querySelector('[data-markdown]');
+				}
+			}, {
+				src : 'plugin/highlight/highlight.js',
+				async : true,
+				callback : function() {
+					hljs.initHighlightingOnLoad();
+				}
+			}, {
+				src : 'plugin/zoom-js/zoom.js',
+				async : true
+			}, {
+				src : 'plugin/notes/notes.js',
+				async : true
+			} ]
+		});
+	</script>
+
+</body>
+</html>
