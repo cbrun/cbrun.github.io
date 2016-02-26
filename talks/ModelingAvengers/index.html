@@ -217,26 +217,28 @@
 					<img src="pics/agrodsl-meta.png" />
 				</section>
 
+				<!-- 
 				<section>
 					<h2>Activities DSL</h2>
 					<img src="pics/agro-activitiesecore.png" />
 				</section>
 
-
 				<section>
 					<h2>Exploitation DSL</h2>
 					<img src="pics/agro-exploitationecore.png" />
 				</section>
+				 -->
 
 				<section>
-					<h2>Simulation DSL</h2>
+					<!-- 					<h2>Simulation DSL</h2> -->
 					<img src="pics/agro-simulationecore.png" />
 				</section>
-
+				<!-- 
 				<section>
 					<h2>Scientific DSL</h2>
 					<img src="pics/agro-scientificecore.png" />
 				</section>
+				 -->
 
 				<section>
 					<h2>Benefit #1 : API</h2>
@@ -283,6 +285,13 @@
         .omitEmptyStrings().split(content));
 
     // ...
+						
+						
+						
+						
+						
+						
+						
 						</code>
 					</pre>
 				</section>
@@ -292,16 +301,17 @@
 			</section>
 
 			<section>
-				<section data-background="pics/tools.jpg">
+				<!-- 	<section data-background="pics/tools.jpg">
 					<h2 class="fragment fade-in" style="background: rgba(0, 0, 0, 0.4)">Tools</h2>
 				</section>
+				 -->
 
 				<section data-background="#6C177B">
-					<h2 style="color: #5C883B; background: rgba(0, 0, 0, 0.4)">Textual Syntax : Xtext</h2>
+					<h2 style="color: #7CBC41; background: rgba(0, 0, 0, 0.4)">Textual Syntax : Xtext</h2>
 				</section>
 
 				<section>
-					<img src="pics/agro-activity-definition.png" />
+					<img src="pics/text-diagram.png" />
 				</section>
 
 				<section>
@@ -312,11 +322,12 @@
 				<section data-background="pics/ironman_reactor.jpg">
 					<h2>Graphical Syntax: Sirius</h2>
 				</section>
-
+				<!-- 
 				<section>
 					<h2>Viewpoint Specification</h2>
 					<img src="pics/vsm.png" />
 				</section>
+				 -->
 
 				<section>
 					<h2>Benefit #1: Dynamic Editing</h2>
@@ -327,12 +338,12 @@
 					<h2>Benefit #2: Table editors</h2>
 					<img src="pics/agro-climate-series.png" />
 				</section>
-				
+
 				<section>
 					<h2>Animation</h2>
-					<img src="pics/gif/anim.gif"/>
+					<img src="pics/gif/anim.gif" />
 				</section>
- 
+
 
 				<section>
 					<h2>Barely scratched the surface</h2>
@@ -453,34 +464,6 @@ public interface ResourceAllocation extends EObject {
 
 
 				<section>
-					<h2>Score Function</h2>
-					<pre>
-						<code class="java" data-trim data-noescape>
-public Score calculateScore(SimulationSolution solution) {
-  int hardScore = 0;
-  int softScore = 0;
-  //...
-  /*
-   * Constraint: all the resources which are required should be allocated.
-   */
-  for (ResourceAllocation alloc : solution.getSimulation().getAllocations()) {
-    if (alloc.getResource() == null) {
-      hardScore += mediumPenalty(1);
-      addFeedback(
-          alloc.getWork(),
-          (createFeedback(FeedbackLevel.ERROR, "A required resource of kind "
-              + alloc.getKind().getName() + " is missing.")));
-    }
-  }
-  
-  //...
- return HardSoftScore.valueOf(hardScore, softScore)
- }
-</code>
-					</pre>
-				</section>
-
-				<section>
 					<h2>Copy and Mutations</h2>
 					<pre>
 						<code class="java" data-noescape>
@@ -512,10 +495,45 @@ public SimulationSolution planningClone() {
   }
 
 }	
+						
+						
+						
+						
+						
+						
+						
 						</code>
 					</pre>
 				</section>
 
+
+				<section>
+					<h2>Score Function</h2>
+					<pre>
+						<code class="java" data-trim data-noescape>
+public Score calculateScore(SimulationSolution solution) {
+  int hardScore = 0;
+  int softScore = 0;
+  //...
+  /*
+   * Constraint: all the resources which are required should be allocated.
+   */
+  for (ResourceAllocation alloc : solution.getSimulation().getAllocations()) {
+    if (alloc.getResource() == null) {
+      hardScore += mediumPenalty(1);
+      addFeedback(
+          alloc.getWork(),
+          (createFeedback(FeedbackLevel.ERROR, "A required resource of kind "
+              + alloc.getKind().getName() + " is missing.")));
+    }
+  }
+  
+  //...
+ return HardSoftScore.valueOf(hardScore, softScore)
+ }
+</code>
+					</pre>
+				</section>
 
 				<section>
 					<img src="pics/agro-schedule-per-surface.png" />
@@ -527,6 +545,40 @@ public SimulationSolution planningClone() {
 			<section>
 				<section>
 					<h2>What we learned ?</h2>
+				</section>
+
+				<section data-background="white">
+					<table style="margin-left: -60px; margin-right: auto;">
+						<thead>
+							<tr>
+								<td></td>
+								<td><img src="pics/emf_logo.png"></td>
+								<td><img src="pics/sirius_logo.png"></td>
+								<td><img src="pics/xtext_logo.png"></td>
+								<td><img src="pics/optaplanner_logo.png"></td>
+								<td><img src="pics/gemoc_logo.png"></td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><small>Language Engineers</small></td>
+								<td>Domain</td>
+								<td>Viewpoint <small>(Graph Editor)</small></td>
+								<td>Grammar <small>(Textual Editor)</small></td>
+								<td>Constraints and Goals <small>(Score function)</small></td>
+								<td>Behavioral Semantic <small>(animator)</small></td>
+							</tr>
+							<tr>
+								<td><small>Language Users</small></td>
+								<td>Data</td>
+								<td>Views and static checking</td>
+								<td>Text</td>
+								<td>Optimization</td>
+								<td>Execution, simulation</td>
+							</tr>
+							<tr></tr>
+						</tbody>
+					</table>
 				</section>
 
 				<section>
@@ -570,14 +622,17 @@ public SimulationSolution planningClone() {
 						<li class="fragment fade-in">Time modeling and management</li>
 						<li class="fragment fade-in">Probabilistic models <img src="pics/guesstimate.png">
 						</li>
+						<li class="fragment fade-in">Graph/Charts representation in Sirius</li>
 						<li class="fragment fade-in">Alternatives comparisons</li>
 						<li class="fragment fade-in">...</li>
 					</ul>
 				</section>
 
+				<!-- 
 				<section>
 					<h3>Enabling a broader engagement and informed decision</h3>
 				</section>
+				 -->
 
 				<section>
 					<h2>Further Materials</h2>
