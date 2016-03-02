@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="recap.svg"
+   inkscape:export-filename="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/recap.png"
+   inkscape:export-xdpi="136.84"
+   inkscape:export-ydpi="136.84">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="354.24622"
+     inkscape:cy="435.72378"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1060"
+     inkscape:window-x="1917"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <image
+       sodipodi:absref="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/agro-activity-definition.png"
+       xlink:href="agro-activity-definition.png"
+       width="301.29239"
+       height="382.11444"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image5388"
+       x="45.134773"
+       y="413.30234" />
+    <image
+       sodipodi:absref="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/agro-schedule-per-surface.png"
+       xlink:href="agro-schedule-per-surface.png"
+       width="165.14114"
+       height="278.77039"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image5323"
+       x="877.07434"
+       y="764.65137" />
+    <image
+       sodipodi:absref="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/dynamic-shapes.png"
+       xlink:href="dynamic-shapes.png"
+       width="301.68246"
+       height="164.81561"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image5210"
+       x="47.430828"
+       y="875.50513" />
+    <image
+       sodipodi:absref="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/agro-scientificecore.png"
+       xlink:href="agro-scientificecore.png"
+       width="359.672"
+       height="153.26105"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4553"
+       x="387.8605"
+       y="533.31647" />
+    <image
+       sodipodi:absref="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/emf_logo.png"
+       xlink:href="emf_logo.png"
+       width="170.79184"
+       height="76.298767"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4230"
+       x="387.8605"
+       y="463.07861" />
+    <image
+       sodipodi:absref="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/xtext_logo.png"
+       xlink:href="xtext_logo.png"
+       width="187.04791"
+       height="55.646755"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4343"
+       x="45.134773"
+       y="348.45511" />
+    <image
+       sodipodi:absref="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/sirius_logo.png"
+       xlink:href="sirius_logo.png"
+       width="191.03578"
+       height="58.338913"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4354"
+       x="47.430828"
+       y="807.52521" />
+    <image
+       sodipodi:absref="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/optaplanner_logo.png"
+       xlink:href="optaplanner_logo.png"
+       width="220"
+       height="60"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4365"
+       x="653.67542"
+       y="877.91046" />
+    <image
+       sodipodi:absref="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/gemoc_logo.png"
+       xlink:href="gemoc_logo.png"
+       width="168.78487"
+       height="67.277878"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4376"
+       x="846.85297"
+       y="346.46674" />
+    <image
+       sodipodi:absref="/home/cedric/src/cedric.brun.io/talks/ModelingAvengers/pics/java-package.png"
+       xlink:href="java-package.png"
+       width="61.360394"
+       height="61.360394"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image5469"
+       x="499.14478"
+       y="770.65906" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.83018875px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="559.70752"
+       y="790.0191"
+       id="text5472"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5474"
+         x="559.70752"
+         y="790.0191"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">Domain Specific API</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.83018875px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1017.454"
+       y="430.75711"
+       id="text5472-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5474-0"
+         x="1017.454"
+         y="430.75711"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end">Model Debugging</tspan><tspan
+         sodipodi:role="line"
+         x="1017.454"
+         y="463.04486"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:end;text-anchor:end"
+         id="tspan5494">Animation</tspan></text>
+    <g
+       id="g5524">
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path5496"
+         d="m 372.50119,598.98573 c 0,0 -20.58738,10.25726 -37.88072,5.05076 -17.29334,-5.20649 -33.84012,-28.28427 -33.84012,-28.28427"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g5506">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 306.51786,576.19256 -5.89286,-0.35714 -0.53571,5.17857"
+           id="path5498"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 415.2811,664.68077 c 0,0 -1.48549,63.96176 -38.23786,90.05076 -36.75237,26.089 -59.19726,29.21573 -59.19726,29.21573"
+       id="path5496-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+    <g
+       id="g5506-9"
+       transform="matrix(0.27628283,-0.96107637,0.96107637,0.27628283,-318.85716,913.7308)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5498-4"
+         d="m 306.76206,577.04204 -5.89286,-0.35714 -0.53571,5.17857"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.55412112,-0.83243604,-0.83243604,-0.55412112,836.70433,1330.4685)"
+       id="g5524-8">
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path5496-9"
+         d="m 372.50119,598.98573 c 0,0 -20.58738,10.25726 -37.88072,5.05076 -17.29334,-5.20649 -33.84012,-28.28427 -33.84012,-28.28427"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g5506-0">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 306.51786,576.19256 -5.89286,-0.35714 -0.53571,5.17857"
+           id="path5498-6"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,1140.4163,-61.155861)"
+       id="g5524-0">
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path5496-0"
+         d="m 372.50119,598.98573 c 0,0 -20.58738,10.25726 -37.88072,5.05076 -17.29334,-5.20649 -33.84012,-28.28427 -33.84012,-28.28427"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g5506-8">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 306.51786,576.19256 -5.89286,-0.35714 -0.53571,5.17857"
+           id="path5498-1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,1233.1618,692.09239)"
+       id="g5524-4">
+      <path
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         id="path5496-2"
+         d="m 372.50119,598.98573 c 0,0 -20.58738,10.25726 -37.88072,5.05076 -17.29334,-5.20649 -33.84012,-28.28427 -33.84012,-28.28427"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g5506-6">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 306.51786,576.19256 -5.89286,-0.35714 -0.53571,5.17857"
+           id="path5498-47"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

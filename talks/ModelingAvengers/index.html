@@ -95,6 +95,15 @@
 					<h2 class="fragment fade-in">Water resource management in agriculture</h2>
 				</section>
 
+				<section>
+					<h2></h2>
+					<ul>
+						<li><span class="fragment highlight-blue">Cultivator</span> has to book for water one year in advance</li>
+						<li><span class="fragment highlight-blue">Administration</span> has to make sure there is twice the quantity which has been booked for the whole region.</li>
+						<li><span class="fragment highlight-blue">Domain expert (INRA)</span> wants to defines and assess new cultures activities</li>
+					</ul>
+					<h5 class="fragment fade-in" style="color: #1b91ff;">Multiple stakeholders, multiple concerns and scales</h5>
+				</section>
 
 
 
@@ -110,16 +119,6 @@
 				</section>
 
 				<section>
-					<h2></h2>
-					<ul>
-						<li><span class="fragment highlight-blue">Cultivator</span> has to book for water one year in advance</li>
-						<li><span class="fragment highlight-blue">Administration</span> has to make sure there is twice the quantity which has been booked for the whole region.</li>
-						<li><span class="fragment highlight-blue">Domain expert (INRA)</span> wants to defines and assess new cultures activities</li>
-					</ul>
-					<h5 class="fragment fade-in" style="color: #1b91ff;">Multiple stakeholders, multiple concerns and scales</h5>
-				</section>
-
-				<section>
 					<h2>Explore the future and make it happens !</h2>
 				</section>
 
@@ -129,10 +128,14 @@
 						<h2>
 							What We<small>*</small> do
 						</h2>
-						<p>build domain specific tools for supporting design and analysis of complex software or embedded systems from multiple viewpoints.</p>
+						<p>
+							build domain specific tools for supporting design and analysis of <span class="fragment highlight-blue">complex software or embedded systems</span> from <span class="fragment highlight-blue">multiple viewpoints</span>.
+						</p>
 						<small>*: modeling community</small>
 					</div>
 				</section>
+
+
 			</section>
 
 
@@ -301,6 +304,12 @@
 						
 						
 						
+						
+						
+						
+						
+						
+						
 						</code>
 					</pre>
 				</section>
@@ -382,7 +391,10 @@
 					<p>
 						If you need to <span class="fragment highlight-blue">optimize goals</span> under <span class="fragment highlight-blue">constraints</span> while having <span class="fragment highlight-blue">limited resources</span>.
 					</p>
-					<p class="fragment fade-in">NP class of problems</p>
+					<p class="fragment fade-in">
+						<i>When will I seed the crop based on the culture constraints, the climate and the peoples, machine, fields I have ?</i>
+					</p>
+					<p class="fragment fade-in">NP class of problems, huge number of solutions, many being useless</p>
 				</section>
 
 				<section data-transition="fade-out">
@@ -473,7 +485,7 @@ public interface ResourceAllocation extends EObject {
 					</pre>
 				</section>
 
-
+				<!-- 
 				<section>
 					<h2>Copy and Mutations</h2>
 					<pre>
@@ -506,11 +518,10 @@ public SimulationSolution planningClone() {
   }
 
 }	
-						
 						</code>
 					</pre>
 				</section>
-
+-->
 
 				<section>
 					<h2>Score Function</h2>
@@ -546,45 +557,22 @@ public Score calculateScore(SimulationSolution solution) {
 			</section>
 
 
-
 			<section>
 				<section data-background="pics/horizon.jpg">
 					<h2 style="background: rgba(0, 0, 0, 0.4)">What have we learned so far?</h2>
 				</section>
 
+
 				<section data-background="white">
-					<table style="margin-left: -60px; margin-right: auto;">
-						<thead>
-							<tr>
-								<td></td>
-								<td><img src="pics/emf_logo.png"></td>
-								<td><img src="pics/sirius_logo.png"></td>
-								<td><img src="pics/xtext_logo.png"></td>
-								<td><img src="pics/optaplanner_logo.png"></td>
-								<td><img src="pics/gemoc_logo.png"></td>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td><small>Language Engineers</small></td>
-								<td>Domain</td>
-								<td>Viewpoint <small>(Graph Editor)</small></td>
-								<td>Grammar <small>(Textual Editor)</small></td>
-								<td>Constraints and Goals <small>(Score function)</small></td>
-								<td>Behavioral Semantic <small>(animator)</small></td>
-							</tr>
-							<tr>
-								<td><small>Language Users</small></td>
-								<td>Data</td>
-								<td>Views and static checking</td>
-								<td>Text</td>
-								<td>Optimization</td>
-								<td>Execution, simulation</td>
-							</tr>
-							<tr></tr>
-						</tbody>
-					</table>
+					<img src="pics/recap.png" />
 				</section>
+
+				<section data-background="white">
+					<p style="font-family: Georgia, serif;">
+						<span style="font-size: 60px; font-weight: bold; color: #999;">&ldquo;</span>Do not compromise on your domain model.<span style="font-family: Georgia, serif; font-size: 60px; font-weight: bold; color: #999;">&rdquo;</span>
+					</p>
+				</section>
+
 
 				<section data-background="pics/octocat-back.jpg"">
 					<h2>Effort to build this tooling ?</h2>
@@ -608,13 +596,6 @@ public Score calculateScore(SimulationSolution solution) {
 					<p class="fragment fade-in">Eclipse: platform and User interface integration</p>
 					<p class="fragment fade-in">EMF: data, resources, deeplinkink, reflective manipulation</p>
 				</section>
-
-				<section>
-					<p style="font-family: Georgia, serif;">
-						<span style="font-size: 60px; font-weight: bold; color: #999;">&ldquo;</span>Do not compromise on your domain model.<span style="font-family: Georgia, serif; font-size: 60px; font-weight: bold; color: #999;">&rdquo;</span>
-					</p>
-				</section>
-
 
 				<section>
 					<h2>Opportunities</h2>
