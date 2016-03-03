@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    id="Layer_1"
+    xml:space="preserve"
+    viewBox="0 0 72.223 100"
+    version="1.1"
+  >
+  <circle
+      cx="36.111"
+      cy="45.833"
+      r="5.556"
+  />
+  <circle
+      cx="9.723"
+      cy="52.083"
+      r="4.861"
+  />
+  <circle
+      cx="62.5"
+      cy="52.083"
+      r="4.861"
+  />
+  <path
+      d="m43.056 54.167h-13.889c-2.301 0-4.167 1.867-4.167 4.167v13.889c0 2.302 1.865 4.167 4.167 4.167l1.389 23.61h11.111l1.389-23.611c2.302 0 4.167-1.865 4.167-4.167v-13.889c0-2.3-1.867-4.166-4.167-4.166z"
+  />
+  <path
+      d="m68.056 59.722h-11.112c-2.013 0-4.166 2.154-4.166 4.167v11.806c0 2.014 1.632 3.646 3.646 3.646l1.215 20.659h9.723l1.215-20.66c2.015 0 3.646-1.632 3.646-3.646v-11.805c0-2.013-2.155-4.167-4.167-4.167z"
+  />
+  <path
+      d="m15.278 59.722h-11.111c-2.013 0-4.167 2.154-4.167 4.167v11.806c0 2.014 1.632 3.646 3.646 3.646l1.215 20.659h9.723l1.215-20.66c2.014 0 3.646-1.632 3.646-3.646v-11.805c-0.001-2.013-2.154-4.167-4.167-4.167z"
+  />
+  <path
+      d="m15.112 21.004l14.055 14.055 27.943-27.944c0.755-0.754 1.224-1.796 1.224-2.949 0-2.301-1.867-4.166-4.167-4.166-1.151 0-2.194 0.467-2.949 1.224l-22.051 22.05-8.162-8.162c-0.755-0.756-1.798-1.224-2.949-1.224-2.3 0-4.167 1.865-4.167 4.167 0 1.153 0.468 2.195 1.223 2.949z"
+  />
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>
