@@ -5,6 +5,8 @@ categories: [draft]
 tags: [draft]
 ---
 
+THIS IS A DRAFT
+
 **Do not compromise on your domain model !** Never, ever!
 Som many aspects of your tool will trickle down from your Ecore model that it pays a lot to pause for a bit and do some basic sanity checks.
 I compiled the following checklist based on my personal experience, this is not exhaustive and I expect it to live and get richer over time.
