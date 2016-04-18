@@ -21,7 +21,7 @@ By the way, feel free to [tell me about your own rules](https://twitter.com/brun
 A model is a representation of a system **for a given purpose**. Just like Object Oriented Programming never was about "structuring code so that it's close to the real world" a metamodel doesn't have to match the real world. It makes no sense if it isn't aimed at answering a specific set of questions.
 
 As such a good first task is to start by stating those questions. And for who. The "**who**" is using the model as this might have important implications regarding the naming of the concepts. 
-My tool of chocie for this is to take a few minutes and write down a [Personna](https://en.wikipedia.org/wiki/Persona_(user_experience) and get back at it when I need to justify a given choice.
+My tool of chocie for this is to take a few minutes and write down a [Personna](https://en.wikipedia.org/wiki/Persona_(user_experience)) and get back at it when I need to justify a given choice.
 
 Example: Models from this metamodel will enable *researcher in agriculture* to answer the questions: *how many resources (water, machines, humans) are needed for a given farm structure, in a given region, and for set of cultures (wheat, sorgho..).*
 
@@ -39,6 +39,9 @@ Changing this is a pain. Make sure the ``nsURI`` you picked is sensible and matc
     <figcaption>NsUris in the modeling package.</figcaption>
 </figure>
 
+
+The same thing is true for the **project name**. Make sure you get it right quickly or be prepared for fiddling with identifiers in many different files.
+
 ### ☑ Make sure sub EPackages are not used
 
 An additional note from the previous one. There is no such thing as a **sub**-EPackage. Allowing the definition of subpackages within an EPackage was, in retrospect, a bad decision as there is no special meaning here. A domain =  an EPackage, its identification => the nsURI.
@@ -53,18 +56,18 @@ One EPackage,  one ``.ecore`` file.
 Naming things is hard, and just like in every design activity it is of the most critical importance. For non-native english speakers it gets even harder as we might lack some vocabulary or some subtil interpretation might escape us.
 
 Basic rules of thumb:
-- use [PowerThesaurus](https://www.powerthesaurus.org/), make sure the name is the most precise you can get.
-- use the user background to pick the right name (having defined the Personna comes in handy)
-- try to avoid names which are so general or abstract that they could be interpreted in many different ways by your target users. ``Artifact``, ``Element`` are probably fairly bad names (but again, use the context to decide).
+* use [PowerThesaurus](https://www.powerthesaurus.org/), make sure the name is the most precise you can get.
+* use the user background to pick the right name (having defined the Personna comes in handy)
+* try to avoid names which are so general or abstract that they could be interpreted in many different ways by your target users. ``Artifact``, ``Element`` are probably fairly bad names (but again, use the context to decide).
 
 
 ### ☑ Reference and attribute names are consistent
 
 Check that you stick with a concistent convention for your references. The main decisions which are in front of you:
-- do you pluralize the references with a **many** upper bound ?
-- do you add a prefix like `owned` for any containment reference?
-- do you add a prefix like `parent` for any container reference?
-- do you add a prefix for any `derived` reference or attribute? 
+* do you pluralize the references with a **many** upper bound ?
+* do you add a prefix like `owned` for any containment reference?
+* do you add a prefix like `parent` for any container reference?
+* do you add a prefix for any `derived` reference or attribute? 
 
 ### ☑ Are all the non-abstract EClasses supposed to be instanciated ?
 
@@ -118,8 +121,8 @@ Rule of thumb: if you have might have many instances and don't care about the in
 ### ☑ Multiple inheritance is not over-used
 
 Ecore allows for multiple inheritance. But in the end your Ecore model is transformed into Java code and Java only allows multiple interfaces to be implemented. The EMF code generator hides that for you and might ends up dupplicating code to make sure everything works as expected. A few things to keep in mind:
-- the order of the inheritance matters: the implementation class will extends the implementation class of the **first** EClass in the list of supertypes, the subsequent classes will lead to dupplicated code.
-- just like for Object Oriented designs, having a lot of multiple inheritance screams of a design which is not really splitting concerns (or not the right ones)
+* the order of the inheritance matters: the implementation class will extends the implementation class of the **first** EClass in the list of supertypes, the subsequent classes will lead to dupplicated code.
+* just like for Object Oriented designs, having a lot of multiple inheritance screams of a design which is not really splitting concerns (or not the right ones)
 
 ### ☑ Custom DataType
 
