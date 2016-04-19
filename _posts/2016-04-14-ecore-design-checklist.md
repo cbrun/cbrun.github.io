@@ -13,15 +13,17 @@ I compiled the following checklist based on my personal experience, this is not 
 
 By the way, feel free to [tell me about your own rules](https://twitter.com/bruncedric), I might add it to the list!
 
+___
 
-## Identification card
+## Ground rules
 
-### ☑ States the questions a model based on this metamodel will answer and to who
+### ☑ States the purpose and audience of the models
 
-A model is a representation of a system **for a given purpose**. Just like Object Oriented Programming never was about "structuring code so that it's close to the real world" a metamodel doesn't have to match the real world. It makes no sense if it isn't aimed at answering a specific set of questions.
+A model is a representation of a system **for a given purpose**. Just like Object Oriented Programming never was intended to help "structuring code so that it's close to the real world" a metamodel doesn't have to match the real world. On the other hand, a metamodel should answer a specific set of questions.
 
-As such a good first task is to start by stating those questions. And for who. The "**who**" is using the model as this might have important implications regarding the naming of the concepts. 
-My tool of chocie for this is to take a few minutes and write down a [Persona](https://en.wikipedia.org/wiki/Persona_(user_experience)) so that I can get back at it when I need to justify a given choice.
+Start by stating those questions. And for who. The "**who**" is using the model as this might have important implications regarding the naming of the concepts.
+My tool of chocie for defining the "who" is to take a few minutes and write down a [Persona](https://en.wikipedia.org/wiki/Persona_(user_experience)) so that I can get back at it when I need to justify a given choice. The persona description should document the user background, the vocabulary he is confortable with and the tools he is used too.
+
 
 Example: Models from this metamodel will enable *researcher in agriculture* to answer the questions: *how many resources (water, machines, humans) are needed for a given farm structure, in a given region, and for set of cultures (wheat, sorgho..).*
 
@@ -29,10 +31,12 @@ Example: Models from this metamodel will enable *software architects* to answer 
 
 ### ☑ The nsURI is the definitive one and is consistent with your naming conventions
 
-As part of this first step of setting up an identification card for your Metamodel, you **have** to stop for a minute for the the EPackage nsURI.
+As part of this first step of setting up an identification card for your metamodel, you **have** to stop for a minute coming up with the EPackage nsURI.
 This nsURI will identify your Ecore model, starting now and forever. It is used in many places, in the generated Java code, in the ``plugin.xml`` file of your project, but more importantly other tools or Ecore models are likely to use this URI to identify your Ecore model (in code generators, model transformers...).
 
-Changing this is a pain. Make sure the ``nsURI`` you picked is sensible and matches your naming conventions in this regard. The most important thing is to be consistent and that's not a given.
+Changing this is a pain. Make sure the ``nsURI`` you picked is sensible and matches your naming conventions in this regard. 
+
+The most important thing is to be consistent and that's not a given; see how we fail in having a consistent naming in Eclipse itself.
 
 <figure>
     <a href="{{ site.url }}/images/blog/nsURIs.png"><img src="{{ site.url }}/images/blog/nsURIs.png"></a>    
@@ -40,14 +44,19 @@ Changing this is a pain. Make sure the ``nsURI`` you picked is sensible and matc
 </figure>
 
 
-The same thing is true for the **project name**. Make sure you get it right quickly or be prepared for fiddling with identifiers in many different files.
+The same level of care should be used for your **project name**. Make sure you get it right quickly or be prepared for fiddling with identifiers in many different files.
 
 ### ☑ Make sure sub EPackages are not used
 
-An additional note from the previous one. There is no such thing as a **sub**-EPackage. Allowing the definition of subpackages within an EPackage was, in retrospect, a bad decision as there is no special meaning here. A domain =  an EPackage, its identification => the nsURI.
-There is a good reason Ed did not allow this to be when designing XCore. Just don't use it or you'll be exposed to slightly different intepretation of this among tools (do I have to import a subpackage when I already imported the parent one ? The other way around ?).
+There is no such thing as a **sub**-EPackage. Let's just pretend this capability never existed in Ecore (and by the way, you can't do this in Xcore)
 
-One EPackage,  one ``.ecore`` file.
+Allowing the definition of subpackages within an EPackage was, in retrospect, a bad decision as there is no special meaning here. A domain =  an EPackage, its identification => the nsURI.
+
+Just don't use it or you'll be exposed to slightly different intepretation of this among tools, one might declare a subpackage if a parent is declared, or the other way around, or not at all.
+
+In a nutshell, one EPackage,  one ``.ecore`` file, and your life will be simpler.
+
+___
 
 ## Design
 
@@ -55,8 +64,7 @@ One EPackage,  one ``.ecore`` file.
 
 Naming things is hard, and just like in every design activity it is of the most critical importance. For non-native english speakers it gets even harder as we might lack some vocabulary or some subtil interpretation might escape us.
 
-Basic rules of thumb:
-
+Tips and tricks :
 * use [PowerThesaurus](https://www.powerthesaurus.org/), make sure the name is the most precise you can get.
 * use the user background to pick the right name (having defined the Personna comes in handy)
 * try to avoid names which are so general or abstract that they could be interpreted in many different ways by your target users. ``Artifact``, ``Element`` are probably fairly bad names (but again, use the context to decide).
@@ -73,7 +81,8 @@ Check that you stick with a concistent convention for your references. The main 
 
 ### ☑ Are all the non-abstract EClasses supposed to be instanciated ?
 
-I experienced this quite a lot in the very early phases, you start with a concept as an EClass and at some point you specialized it, and in the end you have an abstract EClass but you just forgot to make it abstract, leading to the possibility to instanciate it. 
+In the very early phases it often happens that you start with a concept as an EClass and at some point you specialized it, in the end you have an abstract EClass but you just forgot to make it abstract, leading to the possibility to instanciate it. 
+
 Hold on, go through all the concepts which you don't want to be instanciable and make sure they are "abstract" or "interface".
 
 ### ☑ Required, non required ?
@@ -82,9 +91,12 @@ Go through all the attributes and reference and think again: does an instance **
 
 ### ☑ Contained by who ?
 
-Ecore provides a notion of **containment** reifying the basic lifecycle of an instance. If an object `A` is contained in an object `B` then whenever the object `B` is removed or deleted the object 'A' is too. Thinking about your model as a tree helps in those cases: either your object is expected to be a the root of a resource or it has to be contained by another object.  The goal here is to make a conscious decision about when should an instance disappear from the model. 
+Ecore provides a notion of **containment** reifying the basic lifecycle of an instance. If an object `A` is contained in an object `B` then whenever the object `B` is removed or deleted the object 'A' is too. Thinking about your model as a tree helps in those cases: either your object is expected to be a the root of a resource or it has to be contained by another object. 
 
-Also note that this containment relationship might be leveraged as part of the referencing of an element.
+
+The goal here is to make a conscious decision about when should an instance disappear from the model. 
+
+> Also note that this containment relationship might be leveraged as part of the referencing of an element.
 
 ### ☑ Named every validation rule which is not enforced by the Ecore model structure itself.
 
@@ -96,33 +108,41 @@ Make sure you have documented all the EClasses or relationship which are not com
 
 ### ☑ Boolean attributes
 
-Boolean attributes can get tricky over time, a simple EClass with a couple of EAttributes can grow to a monster with many more, each one acting as a configuration "flag". When thinking about all the possible combinations and making sure they are all making gets hairy, you might want to consider a couple of EEnumeration to capture the transversal characteristics instead.
+Over time a simple EClass with a couple of EAttributes can grow to a monster with many more, each one acting as a configuration "flag". Identify such monsters in the making.
+When thinking about all the possible combinations and making sure they are all valid,  sometimes a couple of EEnumerations are better to capture the transversal characteristics.
 
-Also check your boolean attributes naming. The EMF Java generator will add an "is" prefix on your API, you don't have to do it, but make sure ``isMyName`` makes sense.
+Also check your boolean attributes naming. The EMF Java generator will add an "is" prefix on your API, you don't have to do it, but make sure ``isMyName`` is legible.
+
+___
 
 ## Scalability related
 
-
 ### ☑ Instances which will be present a lot in the models have a terse serialization
 
-Ask yourself:  how many instances of this EClass will I have in a nominal model? If the answer is "quite a lot"(100K for instance) then check how will they be serialized and make sure there is not an improvement you could bring here. This is also very true for custom datatypes. Once you define this custom datatype EMF requires you to write the ``fromString()`` and ``toString()`` methods for it. If this datatype is being used by a lot of instances then make sure your serialization is terse.
+Ask yourself:  how many instances of this EClass will I have in a nominal model? If the answer is "quite a lot"(100K for instance) then check how will they be serialized and make sure there is not an improvement you could bring here. This is particularly true using the XMI serialization which is not the most space efficient one.
+
+This is also very true for custom datatypes. Once you define this custom datatype EMF requires you to write the ``fromString()`` and ``toString()`` methods for it. If this datatype is being used by a lot of instances then make sure your serialization is terse.
 
 ### ☑ I'm positive everything which is serialized needs to be serialized
 
-I need this model, but are there parts which have no need to be serialized? This boils down to which information is captured by the users versus infered or with a lifecycle which is shorter than "load the file"->"get the data".
+You need this model, but are there parts which have no need to be serialized? Can you strip out parts of the information? What information is actually captured by the users versus infered by the tool? Is there any part of this data which has a shorter lifecycle than "load the file"/"save the file"?
+
 
 ### ☑ Every EClass deserve to lead to full blown EObjects and would not be better as an EDatatype
 
 Any EClass used for an important number of instances should be inspected and a conscious decision should be made about whether it is best modeled as an EClass or as an EDatatype. Even with the [EMF Ultra Slim Diet](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html) an EObject comes with an overhead, both in term of memory usage but even more importantly in the overhead framework code might induce (cross-referencers, change recorders..)
 
-Rule of thumb: if you have might have many instances and don't care about the indidual notifications of each attribute of the EObject, it's probably best to model it as an EDatatype. An EClass only having EAttributes and not EReferences is also a clear indication that this might be a good candidate for being an EDatatype.
+Rule of thumb: if you have might have many instances which will be never referenced by other instance beside the containing one and you don't really need the indidual change notifications of each attribute of the EObject, then it's probably best to model it as an EDatatype. An EClass only having EAttributes and not EReferences is also a clear indication that this might be a good candidate for being an EDatatype.
 
 
+___
 ## Java-related implications
 
 ### ☑ Multiple inheritance is not over-used
 
-Ecore allows for multiple inheritance. But in the end your Ecore model is transformed into Java code and Java only allows multiple interfaces to be implemented. The EMF code generator hides that for you and might ends up dupplicating code to make sure everything works as expected. A few things to keep in mind:
+Ecore allows for multiple inheritance. But in the end your Ecore model is transformed into Java code and Java only allows multiple interfaces to be implemented. 
+
+The EMF code generator hides that for you and might ends up dupplicating code to make sure everything works as expected. A few things to keep in mind:
 
 * the order of the inheritance matters: the implementation class will extends the implementation class of the **first** EClass in the list of supertypes, the subsequent classes will lead to dupplicated code.
 * just like for Object Oriented designs, having a lot of multiple inheritance screams of a design which is not really splitting concerns (or not the right ones)
@@ -131,7 +151,9 @@ Ecore allows for multiple inheritance. But in the end your Ecore model is transf
 
 EMF provides off-the-shelve datatypes for Strings, Integer, Float, Long and their primitive counterparts as *EString*, *EInt* ...
 
-But *String* is a technical concern and it often is relevant to replace usages of the *EString* by your own EDataType which express a domain specific type but is mapped to ``java.lang.String`` all the same. It makes the Ecore model more explicit and paves the way for a behavior which can be specific to this particular type.
+But *String* is a technical concern and it might make the design more obvious to replace usages of the *EString* by your own EDataType which express a domain specific type but is mapped to ``java.lang.String`` all the same. It makes the Ecore model more explicit and paves the way for a behavior which can be specific to this particular type.
+
+If your custom datatype is not mapped to a very standard Java type, then make sure your implementation **is compliant with the equals/hashcode contract**.
 
 ## Outside world
 
