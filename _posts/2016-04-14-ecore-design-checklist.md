@@ -31,10 +31,12 @@ My tool of chocie for defining the "who" is to take a few minutes and write down
 
 Example: Models from this metamodel will enable *researcher in agriculture* to answer the questions: *how many resources (water, machines, humans) are needed for a given farm structure, in a given region, and for set of cultures (wheat, sorgho..).*
 
+<img src="{{ site.url }}/images/blog/my-little-pony.jpg" style="float: right;">
+
 Example: Models from this metamodel will enable *software architects* to answer the questions: *which are the services existing in my system, what are their non-functional characteristics, their signature, who owns them and how are the related to each others ?*
 
 
-<img src="{{ site.url }}/images/blog/my-little-pony.jpg" style="float: right;">
+
 
 or even
 
