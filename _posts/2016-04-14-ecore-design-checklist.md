@@ -11,8 +11,10 @@ THIS IS A DRAFT
 So many aspects of your tool will trickle down from your Ecore model that it pays a lot to pause for a bit and do some basic sanity checks.
 I compiled the following checklist based on my personal experience, this is not exhaustive and I expect it to live and get richer over time.
 
-Most of the checks stated here are very easy to comply with when considered from the start. 
-When it's later down the road the gain/risk ratio should be evaluated as some changes might need to update some code, some files or might just be too much work to be worth it then.
+> Most of the checks stated here are very easy to comply with when considered from the start. 
+> When it's later down the road the gain/risk ratio should be evaluated as some changes might need to update some code, some files or might just be too much work to be worth it then. 
+> Because of this and because we sometime learned the hard way you might quite easily find some Ecore models I authored which are not 100% compliant with this list ;).
+
 By the way, feel free to [tell me about your own rules](https://twitter.com/bruncedric), I might add it to the list!
 
 ___
