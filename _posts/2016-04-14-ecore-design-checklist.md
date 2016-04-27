@@ -34,11 +34,13 @@ Example: Models from this metamodel will enable *researcher in agriculture* to a
 Example: Models from this metamodel will enable *software architects* to answer the questions: *which are the services existing in my system, what are their non-functional characteristics, their signature, who owns them and how are the related to each others ?*
 
 
+<img src="{{ site.url }}/images/blog/my-little-pony.jpg" style="float: right;">
+
 or even
 
 
 Example: Models from this metamodel will enable *My Little Pony authors* to answer the questions *how are the story and the characters evolving during the show, when is each character introduced and is it consistent with the episodes previously aired ?*
-<img src="{{ site.url }}/images/blog/my-little-pony.jpg" style="float: right;">
+
 
 ### ☑ The nsURI is the definitive one and is consistent with your naming conventions
 
