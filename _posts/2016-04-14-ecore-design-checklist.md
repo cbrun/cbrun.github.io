@@ -19,9 +19,11 @@ ___
 
 ### ☑ States the purpose and audience of the models
 
-A model is a representation of a system **for a given purpose**. Just like Object Oriented Programming never was intended to help "structuring code so that it's close to the real world" a metamodel doesn't have to match the real world. On the other hand, a metamodel should answer a specific set of questions.
+A model is a representation of a system **for a given purpose**. Just like Object Oriented Programming never was intended to help "structuring code so that it's close to the real world" a metamodel doesn't have to match the real world. 
 
-Start by stating those questions. And for who. The "**who**" is using the model as this might have important implications regarding the naming of the concepts.
+On the other hand, a metamodel should answer a specific set of questions. Start by stating those questions. And for who. 
+
+The "**who**" is using the model as this might have important implications regarding the naming of the concepts.
 My tool of chocie for defining the "who" is to take a few minutes and write down a [Persona](https://en.wikipedia.org/wiki/Persona_(user_experience)) so that I can get back at it when I need to justify a given choice. The persona description should document the user background, the vocabulary he is confortable with and the tools he is used too.
 
 
@@ -46,13 +48,15 @@ The most important thing is to be consistent and that's not a given; see how we 
 
 The same level of care should be used for your **project name**. Make sure you get it right quickly or be prepared for fiddling with identifiers in many different files.
 
-### ☑ Make sure sub EPackages are not used
+### ☑ Make sure nested EPackages are not used
 
-There is no such thing as a **sub**-EPackage. Let's just pretend this capability never existed in Ecore (and by the way, you can't do this in Xcore)
+There is no such thing as a **sub**-EPackage. Let's just pretend this capability never existed in Ecore (and by the way, you can't do this in Xcore).
 
-Allowing the definition of subpackages within an EPackage was, in retrospect, a bad decision as there is no special meaning here. A domain =  an EPackage, its identification => the nsURI.
+>--- Comment #4 from Ed Merks <Ed.Merks@gmail.com> ---
+>Yes, that simply doesn't work.  It's not possible to represent nested Ecore Package in Xcore.
 
-Just don't use it or you'll be exposed to slightly different intepretation of this among tools, one might declare a subpackage if a parent is declared, or the other way around, or not at all.
+
+Allowing the definition of subpackages within an EPackage was, in retrospect, a bad decision as there is no special meaning here. We should have a one to one mapping in between a domain and an EPackage, this one clearly identified by its `nsURI`. The notion of nested EPackage break this mapping as then you have several different ways to access an EPackage. This lead to slightly different intepretation of this among tools, one might declare a subpackage if a parent is declared, or the other way around, or not at all.
 
 In a nutshell, one EPackage,  one ``.ecore`` file, and your life will be simpler.
 
@@ -62,9 +66,10 @@ ___
 
 ### ☑ Names are existing in a dictionnary, are precise and consistent
 
-Naming things is hard, and just like in every design activity it is of the most critical importance. For non-native english speakers it gets even harder as we might lack some vocabulary or some subtil interpretation might escape us.
+Naming things is hard, and just like in every design activity it is of the most critical importance. For non-native english speakers it gets even harder as we might lack some vocabulary or some subtle interpretation might escape us.
 
 Tips and tricks :
+
 * use [PowerThesaurus](https://www.powerthesaurus.org/), make sure the name is the most precise you can get.
 * use the user background to pick the right name (having defined the Personna comes in handy)
 * try to avoid names which are so general or abstract that they could be interpreted in many different ways by your target users. ``Artifact``, ``Element`` are probably fairly bad names (but again, use the context to decide).
@@ -85,9 +90,19 @@ In the very early phases it often happens that you start with a concept as an EC
 
 Hold on, go through all the concepts which you don't want to be instanciable and make sure they are "abstract" or "interface".
 
+<figure>
+    <a href="{{ site.url }}/images/blog/abstractness.gif"><img src="{{ site.url }}/images/blog/abstractness.gif"></a>    
+    <figcaption>Introducing subclasses</figcaption>
+</figure>
+
 ### ☑ Required, non required ?
 
 Go through all the attributes and reference and think again: does an instance **makes any sense** if this attribute is not valued ?
+
+<figure>
+    <a href="{{ site.url }}/images/blog/mandatory.png"><img src="{{ site.url }}/images/blog/mandatory.png"></a>    
+    <figcaption>EcoreTools uses bold typefaces for any required element</figcaption>
+</figure>
 
 ### ☑ Contained by who ?
 
@@ -106,10 +121,26 @@ While designing capture and name every validation rule which comes up. You shoul
 
 Make sure you have documented all the EClasses or relationship which are not completely obvious. We use annotations directly in Ecore to capture the developper or specifier facing documentation. You can also value an attribute in the Genmodel for the user documentation.
 
+<figure>
+    <a href="{{ site.url }}/images/blog/doc-diag.png"><img src="{{ site.url }}/images/blog/doc-diag.png"></a>    
+    <figcaption>Design doc annotation can be added in a diagram using EcoreTools</figcaption>
+</figure>
+
+<figure>
+    <a href="{{ site.url }}/images/blog/doc-table.png"><img src="{{ site.url }}/images/blog/doc-table.png"></a>    
+    <figcaption>A table editor is also provided for convenience</figcaption>
+</figure>
+
+
 ### ☑ Boolean attributes
 
 Over time a simple EClass with a couple of EAttributes can grow to a monster with many more, each one acting as a configuration "flag". Identify such monsters in the making.
-When thinking about all the possible combinations and making sure they are all valid,  sometimes a couple of EEnumerations are better to capture the transversal characteristics.
+Go through all the possible combinations of attribute values and make sure they are all valid, also confirm that there is only two possible outcomes: true or false, but not more.  Sometimes a couple of EEnumerations are better to capture the transversal characteristics.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/booleans.png"><img src="{{ site.url }}/images/blog/booleans.png"></a>    
+    <figcaption>Booleans monster</figcaption>
+</figure>
 
 Also check your boolean attributes naming. The EMF Java generator will add an "is" prefix on your API, you don't have to do it, but make sure ``isMyName`` is legible.
 
@@ -136,6 +167,7 @@ Rule of thumb: if you have might have many instances which will be never referen
 
 
 ___
+
 ## Java-related implications
 
 ### ☑ Multiple inheritance is not over-used
@@ -149,9 +181,19 @@ The EMF code generator hides that for you and might ends up dupplicating code to
 
 ### ☑ Custom DataType
 
-EMF provides off-the-shelve datatypes for Strings, Integer, Float, Long and their primitive counterparts as *EString*, *EInt* ...
+EMF provides off-the-shelve datatypes for *Strings*, *Integer*, *Float*, *Long* and their primitive counterparts as *EString*, *EInt* ...
+
+<figure>
+    <a href="{{ site.url }}/images/blog/datatype1.png"><img src="{{ site.url }}/images/blog/datatype1.png"></a>    
+    <figcaption>cutieMark is an open-ended list, designed as a String</figcaption>
+</figure>
 
 But *String* is a technical concern and it might make the design more obvious to replace usages of the *EString* by your own EDataType which express a domain specific type but is mapped to ``java.lang.String`` all the same. It makes the Ecore model more explicit and paves the way for a behavior which can be specific to this particular type.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/datatype2.png"><img src="{{ site.url }}/images/blog/datatype2.png"></a>    
+    <figcaption>We are know sure we won't mix cutiemarks with something else</figcaption>
+</figure>
 
 If your custom datatype is not mapped to a very standard Java type, then make sure your implementation **is compliant with the equals/hashcode contract**.
 
@@ -163,9 +205,17 @@ Any EObject which is contained in a resource has a URI and might be referenced b
 
 The default behavior uses the containment relationship and the index of the object within it's containing reference. This solution is not suitable for 99% of the cases as any addition or removal in a reference might break references (but this is the default one in EMF as it is the only one which assumes nothing about the serialization format or the EClasses).
 
-### ☑ One can't introduce cyclic references in between model fragments
+<figure>
+    <a href="{{ site.url }}/images/blog/ekey.png"><img src="{{ site.url }}/images/blog/ekey.png"></a>    
+    <figcaption>EcoreTools will display the eKey with a small blue label on the target end</figcaption>
+</figure>
 
-If you are planning to split your model on multiple files or if part of it is to be referenced by other models, then you should make sure that introducing such references is not supposed to modify the referenced instance. These situations can easily arise when using EOpposite references. Keep in mind that many EMF technologies will provides you with a way to easily and efficiently navigate on inverse references which are not designed as such in the Ecore model.
+### ☑ A user can't introduce cyclic references in between model fragments
+
+If you are planning to split your model on multiple files or if part of it is to be referenced by other models, then you should make sure that introducing such references is not supposed to modify the referenced instance. These situations can easily arise when using EOpposite references. 
+
+Keep in mind that many EMF technologies will provides you with a way to easily and efficiently navigate on inverse references which are not designed as such in the Ecore model.
+
 For instance using Sirius you might write queries like:
 `aql:self.eInverse(some::Type)` to retrieve any instance of `Type` referencing the object `self` 
 or `aql:self.eInverse(anEReferenceName)` to navigate on the inverse of the reference `anEReferenceName` from the objeect `self`.
@@ -176,6 +226,11 @@ or `aql:self.eInverse(anEReferenceName)` to navigate on the inverse of the refer
 Inheritance or references in between EPackages can quickly get tricky (and the former even sooner than the later). It is so easy to do using the modeling tools that one can easily abuse it, but in the end your Ecore model is translated to Java and OSGi components, you'll have to deal with the technical coordination.
 
 As such, only introduce inter-EPackage relationships for compelling reasons and when you do, make sure you either only reference EClasses or if you need to subclass make sure you are able to cope with a strong coupling on the corresponding component.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/coupling.png"><img src="{{ site.url }}/images/blog/coupling.png"></a>    
+    <figcaption>Package dependencies diagram in EcoreTools</figcaption>
+</figure>
 
 ### ☑ The places which might be extended by subtypes are clearly identified
 
