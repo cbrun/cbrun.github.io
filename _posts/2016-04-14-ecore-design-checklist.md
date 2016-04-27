@@ -8,9 +8,11 @@ tags: [draft]
 THIS IS A DRAFT
 
 **Do not compromise on your domain model !** Never, ever!
-Som many aspects of your tool will trickle down from your Ecore model that it pays a lot to pause for a bit and do some basic sanity checks.
+So many aspects of your tool will trickle down from your Ecore model that it pays a lot to pause for a bit and do some basic sanity checks.
 I compiled the following checklist based on my personal experience, this is not exhaustive and I expect it to live and get richer over time.
 
+Most of the checks stated here are very easy to comply with when considered from the start. 
+When it's later down the road the gain/risk ratio should be evaluated as some changes might need to update some code, some files or might just be too much work to be worth it then.
 By the way, feel free to [tell me about your own rules](https://twitter.com/bruncedric), I might add it to the list!
 
 ___
@@ -31,6 +33,13 @@ Example: Models from this metamodel will enable *researcher in agriculture* to a
 
 Example: Models from this metamodel will enable *software architects* to answer the questions: *which are the services existing in my system, what are their non-functional characteristics, their signature, who owns them and how are the related to each others ?*
 
+
+or even
+
+
+Example: Models from this metamodel will enable *My Little Pony authors* to answer the questions *how are the story and the characters evolving during the show, when is each character introduced and is it consistent with the episodes previously aired ?*
+<img src="{{ site.url }}/images/blog/my-little-pony.jpg" style="float: right;">
+
 ### ☑ The nsURI is the definitive one and is consistent with your naming conventions
 
 As part of this first step of setting up an identification card for your metamodel, you **have** to stop for a minute coming up with the EPackage nsURI.
@@ -44,7 +53,6 @@ The most important thing is to be consistent and that's not a given; see how we 
     <a href="{{ site.url }}/images/blog/nsURIs.png"><img src="{{ site.url }}/images/blog/nsURIs.png"></a>    
     <figcaption>NsUris in the modeling package.</figcaption>
 </figure>
-
 
 The same level of care should be used for your **project name**. Make sure you get it right quickly or be prepared for fiddling with identifiers in many different files.
 
@@ -165,8 +173,8 @@ Any EClass used for an important number of instances should be inspected and a c
 
 Rule of thumb: if you have might have many instances which will be never referenced by other instance beside the containing one and you don't really need the indidual change notifications of each attribute of the EObject, then it's probably best to model it as an EDatatype. An EClass only having EAttributes and not EReferences is also a clear indication that this might be a good candidate for being an EDatatype.
 
-
 ___
+
 
 ## Java-related implications
 
