@@ -88,7 +88,7 @@ Tips and tricks :
 * use the user background to pick the right name (having defined the Personna comes in handy)
 * try to avoid names which are so general or abstract that they could be interpreted in many different ways by your target users. ``Artifact``, ``Element`` are probably fairly bad names (but again, use the context to decide).
 
-> in the MyLittlePony world an **Element** refers to the *Elements of Harmony* and has a very precise definition. The context matters.
+> in the MyLittlePony world an **Element** refers to the "*Elements of Harmony*" and has a very precise definition. The context matters.
 
 ### ☑ Reference and attribute names are consistent
 
@@ -131,6 +131,12 @@ The goal here is to make a conscious decision about when should an instance disa
 ### ☑ Named every validation rule which is not enforced by the Ecore model structure itself.
 
 While designing capture and name every validation rule which comes up. You should be able to come up with a name and hopefully a description of valid and invalid cases.
+
+
+<figure>
+    <a href="{{ site.url }}/images/blog/constraints.png"><img src="{{ site.url }}/images/blog/constraints.png"></a>    
+    <figcaption>Constraints annotations in EcoreTools.</figcaption>
+</figure>
 
 ### ☑ The concepts are all documented?
 
