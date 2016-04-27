@@ -88,6 +88,7 @@ Tips and tricks :
 * use the user background to pick the right name (having defined the Personna comes in handy)
 * try to avoid names which are so general or abstract that they could be interpreted in many different ways by your target users. ``Artifact``, ``Element`` are probably fairly bad names (but again, use the context to decide).
 
+> in the MyLittlePony world an **Element** refers to the *Elements of Harmony* and has a very precise definition. The context matters.
 
 ### ☑ Reference and attribute names are consistent
 
