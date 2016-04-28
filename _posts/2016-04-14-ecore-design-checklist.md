@@ -210,6 +210,7 @@ This item is symetric from the previous one: if one of your goal is for others t
 ___
 
 <img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
+
 ## Scalability
 
 
