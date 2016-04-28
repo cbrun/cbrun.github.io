@@ -5,7 +5,7 @@ categories: [draft]
 tags: [draft]
 ---
 
-THIS IS A DRAFT
+THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
 
 **Do not compromise on your domain model !** Never, ever!
 So many aspects of your tool will trickle down from your Ecore model that it pays a lot to pause for a bit and do some basic sanity checks.
@@ -62,7 +62,7 @@ The most important thing is to be consistent and that's not a given; see how we 
 
 The same level of care should be used for your **project name**. Make sure you get it right quickly or be prepared for fiddling with identifiers in many different files.
 
-### ☑ Make sure nested EPackages are not used
+### ☑ Nested EPackages are not used
 
 There is no such thing as a **sub**-EPackage. Let's just pretend this capability never existed in Ecore (and by the way, you can't do this in Xcore).
 
@@ -70,7 +70,8 @@ There is no such thing as a **sub**-EPackage. Let's just pretend this capability
 >Yes, that simply doesn't work.  It's not possible to represent nested Ecore Package in Xcore.
 
 
-Allowing the definition of subpackages within an EPackage was, in retrospect, a bad decision as there is no special meaning here. We should have a one to one mapping in between a domain and an EPackage, this one clearly identified by its `nsURI`. The notion of nested EPackage break this mapping as then you have several different ways to access an EPackage. This lead to slightly different intepretation of this among tools, one might declare a subpackage if a parent is declared, or the other way around, or not at all.
+Allowing the definition of subpackages within an EPackage was, in retrospect, a bad decision as that introduced several different ways to reference a single domain.
+We should have a one to one mapping in between a domain and an EPackage, this one clearly identified by its `nsURI`. The notion of nested EPackage break this mapping as then you have several different ways to access an EPackage. This lead to slightly different intepretation of this among tools, one might declare a subpackage if a parent is declared, or the other way around, or not at all.
 
 In a nutshell, one EPackage,  one ``.ecore`` file, and your life will be simpler.
 
@@ -78,7 +79,7 @@ ___
 
 ## Design
 
-### ☑ Names are existing in a dictionnary, are precise and consistent
+### ☑ Names are real ones, precise and consistent
 
 Naming things is hard, and just like in every design activity it is of the most critical importance. For non-native english speakers it gets even harder as we might lack some vocabulary or some subtle interpretation might escape us.
 
@@ -99,7 +100,7 @@ Check that you stick with a concistent convention for your references. The main 
 * do you add a prefix like `parent` for any container reference?
 * do you add a prefix for any `derived` reference or attribute? 
 
-### ☑ Are all the non-abstract EClasses supposed to be instanciated ?
+### ☑ All the non-abstract EClasses are supposed to be instanciated
 
 In the very early phases it often happens that you start with a concept as an EClass and at some point you specialized it, in the end you have an abstract EClass but you just forgot to make it abstract, leading to the possibility to instanciate it. 
 
@@ -110,7 +111,7 @@ Hold on, go through all the concepts which you don't want to be instanciable and
     <figcaption>Introducing subclasses</figcaption>
 </figure>
 
-### ☑ Required, non required ?
+### ☑ 0..1 and 1..1 cardinalities have been reviewed
 
 Go through all the attributes and reference and think again: does an instance **makes any sense** if this attribute is not valued ?
 
@@ -119,7 +120,7 @@ Go through all the attributes and reference and think again: does an instance **
     <figcaption>EcoreTools uses bold typefaces for any required element</figcaption>
 </figure>
 
-### ☑ Contained by who ?
+### ☑ Containment relationships have been reviewed
 
 Ecore provides a notion of **containment** reifying the basic lifecycle of an instance. If an object `A` is contained in an object `B` then whenever the object `B` is removed or deleted the object 'A' is too. Thinking about your model as a tree helps in those cases: either your object is expected to be a the root of a resource or it has to be contained by another object. 
 
@@ -128,19 +129,18 @@ The goal here is to make a conscious decision about when should an instance disa
 
 > Also note that this containment relationship might be leveraged as part of the referencing of an element.
 
-### ☑ Named every validation rule which is not enforced by the Ecore model structure itself.
+### ☑ Every validation rule which is not enforced by the Ecore model structure itself is named.
 
 While designing capture and name every validation rule which comes up. You should be able to come up with a name and hopefully a description of valid and invalid cases.
-
 
 <figure>
     <a href="{{ site.url }}/images/blog/constraints.png"><img src="{{ site.url }}/images/blog/constraints.png"></a>    
     <figcaption>Constraints annotations in EcoreTools.</figcaption>
 </figure>
 
-### ☑ The concepts are all documented?
+### ☑ The concepts are all documented.
 
-Make sure you have documented all the EClasses or relationship which are not completely obvious. We use annotations directly in Ecore to capture the developper or specifier facing documentation. You can also value an attribute in the Genmodel for the user documentation.
+Make sure you have documented all the EClasses or relationship which are not completely obvious. We use annotations directly in Ecore to capture the developper or specifier facing documentation. 
 
 <figure>
     <a href="{{ site.url }}/images/blog/doc-diag.png"><img src="{{ site.url }}/images/blog/doc-diag.png"></a>    
@@ -151,6 +151,8 @@ Make sure you have documented all the EClasses or relationship which are not com
     <a href="{{ site.url }}/images/blog/doc-table.png"><img src="{{ site.url }}/images/blog/doc-table.png"></a>    
     <figcaption>A table editor is also provided for convenience</figcaption>
 </figure>
+
+Note that you can also value an attribute in the Genmodel for the user documentation and that this information will be directly used by EMF in the tree editor.
 
 
 ### ☑ Boolean attributes
@@ -175,12 +177,12 @@ Ask yourself:  how many instances of this EClass will I have in a nominal model?
 
 This is also very true for custom datatypes. Once you define this custom datatype EMF requires you to write the ``fromString()`` and ``toString()`` methods for it. If this datatype is being used by a lot of instances then make sure your serialization is terse.
 
-### ☑ I'm positive everything which is serialized needs to be serialized
+### ☑ Everything which is serialized needs to be serialized
 
 You need this model, but are there parts which have no need to be serialized? Can you strip out parts of the information? What information is actually captured by the users versus infered by the tool? Is there any part of this data which has a shorter lifecycle than "load the file"/"save the file"?
 
 
-### ☑ Every EClass deserve to lead to full blown EObjects and would not be better as an EDatatype
+### ☑ There is no EClass which would be better as an EDatatype
 
 Any EClass used for an important number of instances should be inspected and a conscious decision should be made about whether it is best modeled as an EClass or as an EDatatype. Even with the [EMF Ultra Slim Diet](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html) an EObject comes with an overhead, both in term of memory usage but even more importantly in the overhead framework code might induce (cross-referencers, change recorders..)
 
@@ -200,7 +202,7 @@ The EMF code generator hides that for you and might ends up dupplicating code to
 * the order of the inheritance matters: the implementation class will extends the implementation class of the **first** EClass in the list of supertypes, the subsequent classes will lead to dupplicated code.
 * just like for Object Oriented designs, having a lot of multiple inheritance screams of a design which is not really splitting concerns (or not the right ones)
 
-### ☑ Custom DataType
+### ☑ Custom DataType are used in every situation where it makes sense
 
 EMF provides off-the-shelve datatypes for *Strings*, *Integer*, *Float*, *Long* and their primitive counterparts as *EString*, *EInt* ...
 
@@ -242,7 +244,7 @@ For instance using Sirius you might write queries like:
 or `aql:self.eInverse(anEReferenceName)` to navigate on the inverse of the reference `anEReferenceName` from the objeect `self`.
 
 
-### ☑ My EPackage have low coupling with other EPackages
+### ☑ The dependencies in between EPackages are in control
 
 Inheritance or references in between EPackages can quickly get tricky (and the former even sooner than the later). It is so easy to do using the modeling tools that one can easily abuse it, but in the end your Ecore model is translated to Java and OSGi components, you'll have to deal with the technical coordination.
 
@@ -253,7 +255,7 @@ As such, only introduce inter-EPackage relationships for compelling reasons and 
     <figcaption>Package dependencies diagram in EcoreTools</figcaption>
 </figure>
 
-### ☑ The places which might be extended by subtypes are clearly identified
+### ☑ The concepts which might be extended by subtypes are clearly identified
 
 This item is symetric from the previous one: if one of your goal is for others to provide subtypes your domain model, explicitely design for it and document it.
 
