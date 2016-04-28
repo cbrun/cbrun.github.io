@@ -26,7 +26,7 @@ tags: [draft]
 |[Everything which is serialized needs to be serialized ]()| ☑ |
 |[There is no EClass which could be replaced by an EDatatype ]()| ☑ |
 |[The implementation classes are using MinimalEObjectImpl ]()| ☑ |
-|[There are not a single EReference which will holds tens of thousands instances]()| ☑ |
+|[The model has some structure]()| ☑ |
 
 ### Java
 

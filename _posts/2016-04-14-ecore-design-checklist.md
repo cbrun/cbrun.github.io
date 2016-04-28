@@ -194,9 +194,9 @@ Any EClass used for an important number of instances should be inspected and a c
 
 Rule of thumb: if you have many instances which will be never referenced by other instance beside the containing one and you don't really need the individual change notifications of each attribute of the EObject, then it's probably best to model it as an EDatatype. An EClass only having EAttributes and not EReferences is also a clear indication that this might be a good candidate for being an EDatatype.
 
-### ☑ There are not a single EReference which will holds tens of thousands instances
+### ☑ The model has some structure
 
-There are two main reasons to stay away from flattened models which have thousands of instances in a single reference value:
+There are two main reasons to stay away from flattened models with tens of thousands of instances in a single reference value:
 
 1. for legacy reasons, EMF will check the uniqueness of any addition and as such in the Java implementation, a call to `.add()` will check for every item in the list. (there are way to explicitely avoid those checks by using `addUnique()`)
 2. displaying the reference content in the user interface will likely lead to the creation of tens of thousands of SWT items in a list or in a tree. SWT is not good at that and that might lead to long freezes.
