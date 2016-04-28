@@ -221,6 +221,8 @@ ___
 Your Ecore model design **has** scalability and performances implications, most especially memory and I/O wise but not only. 
 If you want to get the most of Eclipse Modeling technologies in general you should check the following items.
 
+<br><br>
+
 ### ☑ Instances which will be present a lot in the models have a terse serialization
 
 Ask yourself:  how many instances of this EClass will I have in a nominal model? If the answer is "quite a lot"(100K for instance) then check how will they be serialized and make sure there is not an improvement you could bring here. This is particularly true using the XMI serialization which is not the most space efficient one.
