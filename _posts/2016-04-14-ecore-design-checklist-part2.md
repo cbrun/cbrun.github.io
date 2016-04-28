@@ -9,7 +9,7 @@ draft: true
 THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
 
 This article is the second part of a series focusing on Metamodel design (more especially Ecore models). 
-Following the [first part focused on some ground rules]() this second part is focused on slightly more technical aspects: scalability and Java. The general disclaimer still applies: 
+Following the [first part focused on some ground rules](../ecore-design-checklist-part1) this second part is focused on slightly more technical aspects: scalability and Java. The general disclaimer still applies: 
 
 > Most of the checks stated here are very easy to comply with when considered from the start but might not be that cheap later on. Furthermore this list is not exhaustive, 
 > and not necessary the unique and unviversal truth. Your mileage may vary but then [tell me about it!](https://twitter.com/bruncedric)
