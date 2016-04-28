@@ -184,9 +184,10 @@ The default behavior uses the containment relationship and the index of the obje
 
 <img src="{{ site.url }}/images/blog/entangled_rainbow_dash_by_j0kuc-d5ewe9s.png" style="float: right;">
 
+<br>
+
 If you are planning to split your model on multiple files or if part of it is to be referenced by other models, then you should make sure that introducing such references is not supposed to modify the referenced instance. These situations can easily arise when using EOpposite references. 
 
-<br>
 <br>
 <br>
 
