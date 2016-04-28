@@ -5,7 +5,7 @@ categories: [draft]
 tags: [draft]
 ---
 
-## Ground rules
+### Ground rules
 
 |:-------------:| -----:|
 |[The purpose and audience of the models are stated ]()| ☑ |
@@ -20,21 +20,21 @@ tags: [draft]
 |[The concepts are all documented. ]()| ☑ |
 |[There are no Boolean monsters in the making ]()| ☑ |
 
-## Scalability related
+### Scalability related
 
 |[The implementation classes are using MinimalEObjectImpl ]()| ☑ |
 |[Instances which will be present a lot in the models have a terse serialization ]()| ☑ |
 |[Everything which is serialized needs to be serialized ]()| ☑ |
 |[There is no EClass which could be replaced by an EDatatype ]()| ☑ |
 
-## Java-related implications
+### Java-related implications
 
 |[Multiple inheritance is not over-used ]()| ☑ |
 |[Custom DataType are used in every situation where it makes sense ]()| ☑ |
 |[the .genmodel output folders are specified or made empty ]()| ☑ |
 |[the .genmodel base package is specified ]()| ☑ |
 
-## Outside world
+### Outside world
 
 |[I decided how instances should be referenced from the outside ]()| ☑ |
 |[A user can't introduce cyclic references in between model fragments ]()| ☑ |
