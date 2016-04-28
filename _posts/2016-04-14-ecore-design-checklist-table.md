@@ -20,6 +20,13 @@ tags: [draft]
 |[The concepts are all documented. ]()| ☑ |
 |[There are no Boolean monsters in the making ]()| ☑ |
 
+### Outside world
+
+|[I decided how instances should be referenced from the outside ]()| ☑ |
+|[A user can't introduce cyclic references in between model fragments ]()| ☑ |
+|[The dependencies in between EPackages are in control ]()| ☑ |
+|[The concepts which might be extended by subtypes are clearly identified ]()| ☑ |
+
 ### Scalability 
 
 |[Instances which will be present a lot in the models have a terse serialization ]()| ☑ |
@@ -35,9 +42,4 @@ tags: [draft]
 |[the .genmodel output folders are specified or made empty ]()| ☑ |
 |[the .genmodel base package is specified ]()| ☑ |
 
-### Outside world
 
-|[I decided how instances should be referenced from the outside ]()| ☑ |
-|[A user can't introduce cyclic references in between model fragments ]()| ☑ |
-|[The dependencies in between EPackages are in control ]()| ☑ |
-|[The concepts which might be extended by subtypes are clearly identified ]()| ☑ |

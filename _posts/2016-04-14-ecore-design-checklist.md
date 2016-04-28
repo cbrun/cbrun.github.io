@@ -166,11 +166,52 @@ Go through all the possible combinations of attribute values and make sure they 
 
 Also check your boolean attributes naming. The EMF Java generator will add an "is" prefix on your API, you don't have to do it, but make sure ``isMyName`` is legible.
 
+## Outside world
+
+### ☑ I decided how instances should be referenced from the outside
+
+Any EObject which is contained in a resource has a URI and might be referenced by others. But there are so many ways to identify an instance. You roughly have to decide in between: Resource specific identification like XMI-IDs, or domain related identification by defining an **id** EAttribute  or by using the EReference **eKeys**.
+
+The default behavior uses the containment relationship and the index of the object within it's containing reference. This solution is not suitable for 99% of the cases as any addition or removal in a reference might break references (but this is the default one in EMF as it is the only one which assumes nothing about the serialization format or the EClasses).
+
+<figure>
+    <a href="{{ site.url }}/images/blog/ekey.png"><img src="{{ site.url }}/images/blog/ekey.png"></a>    
+    <figcaption>EcoreTools will display the eKey with a small blue label on the target end</figcaption>
+</figure>
+
+### ☑ A user can't introduce cyclic references in between model fragments
+
+If you are planning to split your model on multiple files or if part of it is to be referenced by other models, then you should make sure that introducing such references is not supposed to modify the referenced instance. These situations can easily arise when using EOpposite references. 
+
+Keep in mind that many EMF technologies will provides you with a way to easily and efficiently navigate on inverse references which are not designed as such in the Ecore model.
+
+For instance using Sirius you might write queries like:
+`aql:self.eInverse(some::Type)` to retrieve any instance of `Type` referencing the object `self` 
+or `aql:self.eInverse(anEReferenceName)` to navigate on the inverse of the reference `anEReferenceName` from the objeect `self`.
+
+
+### ☑ The dependencies in between EPackages are in control
+
+Inheritance or references in between EPackages can quickly get tricky (and the former even sooner than the later). It is so easy to do using the modeling tools that one can easily abuse it, but in the end your Ecore model is translated to Java and OSGi components, you'll have to deal with the technical coordination.
+
+As such, only introduce inter-EPackage relationships for compelling reasons and when you do, make sure you either only reference EClasses or if you need to subclass make sure you are able to cope with a strong coupling on the corresponding component.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/coupling.png"><img src="{{ site.url }}/images/blog/coupling.png"></a>    
+    <figcaption>Package dependencies diagram in EcoreTools</figcaption>
+</figure>
+
+### ☑ The concepts which might be extended by subtypes are clearly identified
+
+This item is symetric from the previous one: if one of your goal is for others to provide subtypes your domain model, explicitely design for it and document it.
+
+
+
 ___
 
+<img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
 ## Scalability
 
-<img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
 
 Your Ecore model design **has** scalability and performances implications, most especially memory and I/O wise but not only. 
 If you want to get the most of Eclipse Modeling technologies in general you should check the following items.
@@ -277,45 +318,6 @@ The `base package` property in the *.genmodel* file as it drives your Java names
     <a href="{{ site.url }}/images/blog/basepackage.png"><img src="{{ site.url }}/images/blog/basepackage.png"></a>    
     <figcaption>Specifying the base package in the genmodel properties</figcaption>
 </figure>
-
-## Outside world
-
-### ☑ I decided how instances should be referenced from the outside
-
-Any EObject which is contained in a resource has a URI and might be referenced by others. But there are so many ways to identify an instance. You roughly have to decide in between: Resource specific identification like XMI-IDs, or domain related identification by defining an **id** EAttribute  or by using the EReference **eKeys**.
-
-The default behavior uses the containment relationship and the index of the object within it's containing reference. This solution is not suitable for 99% of the cases as any addition or removal in a reference might break references (but this is the default one in EMF as it is the only one which assumes nothing about the serialization format or the EClasses).
-
-<figure>
-    <a href="{{ site.url }}/images/blog/ekey.png"><img src="{{ site.url }}/images/blog/ekey.png"></a>    
-    <figcaption>EcoreTools will display the eKey with a small blue label on the target end</figcaption>
-</figure>
-
-### ☑ A user can't introduce cyclic references in between model fragments
-
-If you are planning to split your model on multiple files or if part of it is to be referenced by other models, then you should make sure that introducing such references is not supposed to modify the referenced instance. These situations can easily arise when using EOpposite references. 
-
-Keep in mind that many EMF technologies will provides you with a way to easily and efficiently navigate on inverse references which are not designed as such in the Ecore model.
-
-For instance using Sirius you might write queries like:
-`aql:self.eInverse(some::Type)` to retrieve any instance of `Type` referencing the object `self` 
-or `aql:self.eInverse(anEReferenceName)` to navigate on the inverse of the reference `anEReferenceName` from the objeect `self`.
-
-
-### ☑ The dependencies in between EPackages are in control
-
-Inheritance or references in between EPackages can quickly get tricky (and the former even sooner than the later). It is so easy to do using the modeling tools that one can easily abuse it, but in the end your Ecore model is translated to Java and OSGi components, you'll have to deal with the technical coordination.
-
-As such, only introduce inter-EPackage relationships for compelling reasons and when you do, make sure you either only reference EClasses or if you need to subclass make sure you are able to cope with a strong coupling on the corresponding component.
-
-<figure>
-    <a href="{{ site.url }}/images/blog/coupling.png"><img src="{{ site.url }}/images/blog/coupling.png"></a>    
-    <figcaption>Package dependencies diagram in EcoreTools</figcaption>
-</figure>
-
-### ☑ The concepts which might be extended by subtypes are clearly identified
-
-This item is symetric from the previous one: if one of your goal is for others to provide subtypes your domain model, explicitely design for it and document it.
 
 
 
