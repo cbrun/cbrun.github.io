@@ -81,6 +81,8 @@ ___
 
 ### ☑ Names are real ones, precise and consistent
 
+<img src="{{ site.url }}/images/blog/dictionary___spike___osx_icon_by_glitch452-d4ixe2u.png" style="float: right;">
+
 Naming things is hard, and just like in every design activity it is of the most critical importance. For non-native english speakers it gets even harder as we might lack some vocabulary or some subtle interpretation might escape us.
 
 Tips and tricks :
