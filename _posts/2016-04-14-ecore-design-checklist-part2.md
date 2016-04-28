@@ -75,6 +75,8 @@ ___
 
 <img src="{{ site.url }}/images/blog/mutant-pony.png" style="float: right;">
 
+<br>
+
 Ecore allows for multiple inheritance. But in the end your Ecore model is transformed into Java code and Java only allows multiple interfaces to be implemented. 
 
 The EMF code generator hides that for you and might ends up dupplicating code to make sure everything works as expected. A few things to keep in mind:
