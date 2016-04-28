@@ -206,13 +206,17 @@ As such, only introduce inter-EPackage relationships for compelling reasons and 
 This item is symetric from the previous one: if one of your goal is for others to provide subtypes your domain model, explicitely design for it and document it.
 
 
+This article is the second part of a series focusing on Metamodel design (more especially Ecore models). 
+Following the [first part focused on some ground rules]() this second part is focused on slightly more technical aspects: scalability and Java. The general disclaimer still applies: 
+
+> Most of the checks stated here are very easy to comply with when considered from the start but might not be that cheap later on. Furthermore this list is not exhaustive, 
+> and not necessary the unique and unviversal truth. Your mileage may vary but then [tell me about it!](https://twitter.com/bruncedric)
 
 ___
 
+## Scalability 
 
-
-## Scalability <img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
-
+<img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
 
 Your Ecore model design **has** scalability and performances implications, most especially memory and I/O wise but not only. 
 If you want to get the most of Eclipse Modeling technologies in general you should check the following items.
