@@ -75,9 +75,6 @@ We should have a one to one mapping in between a domain and an EPackage, this on
 
 In a nutshell, one EPackage,  one ``.ecore`` file, and your life will be simpler.
 
-___
-
-## Design
 
 ### ☑ Names are real ones, precise and consistent
 
