@@ -73,7 +73,7 @@ ___
 
 ### ☑ Multiple inheritance is not over-used
 
-<img src="{{ site.url }}/images/blog/mutant_pony.png" style="float: right;">
+<img src="{{ site.url }}/images/blog/mutant-pony.png" style="float: right;">
 
 Ecore allows for multiple inheritance. But in the end your Ecore model is transformed into Java code and Java only allows multiple interfaces to be implemented. 
 
