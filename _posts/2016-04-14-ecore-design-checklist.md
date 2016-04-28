@@ -21,7 +21,7 @@ ___
 
 ## Ground rules
 
-### ☑ States the purpose and audience of the models
+### ☑ The purpose and audience of the models are stated
 
 A model is a representation of a system **for a given purpose**. Just like Object Oriented Programming never was intended to help "structuring code so that it's close to the real world" a metamodel doesn't have to match the real world. 
 
@@ -126,8 +126,8 @@ Go through all the attributes and reference and think again: does an instance **
 
 Ecore provides a notion of **containment** reifying the basic lifecycle of an instance. If an object `A` is contained in an object `B` then whenever the object `B` is removed or deleted the object 'A' is too. Thinking about your model as a tree helps in those cases: either your object is expected to be a the root of a resource or it has to be contained by another object. 
 
+The goal here is to make a conscious decision about when should an instance disappear from the model and clearly identify the type of elements you expect as a root of a model file.
 
-The goal here is to make a conscious decision about when should an instance disappear from the model. 
 
 > Also note that this containment relationship might be leveraged as part of the referencing of an element.
 
@@ -157,7 +157,7 @@ Make sure you have documented all the EClasses or relationship which are not com
 Note that you can also value an attribute in the Genmodel for the user documentation and that this information will be directly used by EMF in the tree editor.
 
 
-### ☑ Boolean attributes
+### ☑ There are no Boolean monsters in the making
 
 Over time a simple EClass with a couple of EAttributes can grow to a monster with many more, each one acting as a configuration "flag". Identify such monsters in the making.
 Go through all the possible combinations of attribute values and make sure they are all valid, also confirm that there is only two possible outcomes: true or false, but not more.  Sometimes a couple of EEnumerations are better to capture the transversal characteristics.
@@ -173,6 +173,10 @@ ___
 
 ## Scalability related
 
+### ☑ The implementation classes are using MinimalEObjectImpl
+
+Make sure your *.genmodel* is configured to leverage `MinimalEObjectImpl`. This is the default if you created your genmodel with a recent version of EMF, more information about this is available on [Ed's blog](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html)
+
 ### ☑ Instances which will be present a lot in the models have a terse serialization
 
 Ask yourself:  how many instances of this EClass will I have in a nominal model? If the answer is "quite a lot"(100K for instance) then check how will they be serialized and make sure there is not an improvement you could bring here. This is particularly true using the XMI serialization which is not the most space efficient one.
@@ -186,7 +190,7 @@ This is also very true for custom datatypes. Once you define this custom datatyp
 You need this model, but are there parts which have no need to be serialized? Can you strip out parts of the information? What information is actually captured by the users versus infered by the tool? Is there any part of this data which has a shorter lifecycle than "load the file"/"save the file"?
 
 
-### ☑ There is no EClass which would be better as an EDatatype
+### ☑ There is no EClass which could be replaced by an EDatatype
 
 Any EClass used for an important number of instances should be inspected and a conscious decision should be made about whether it is best modeled as an EClass or as an EDatatype. Even with the [EMF Ultra Slim Diet](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html) an EObject comes with an overhead, both in term of memory usage but even more importantly in the overhead framework code might induce (cross-referencers, change recorders..)
 
