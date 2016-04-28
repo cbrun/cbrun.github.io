@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Metamodel (Ecore) Design Checklist
-categories: [draft]
+categories: [eclipse]
 tags: [draft]
+draft: true
 ---
 
 THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE

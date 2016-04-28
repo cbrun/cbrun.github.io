@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Metamodel (Ecore) Design Checklist - part 2
-categories: [draft]
+categories: [eclipse]
 tags: [draft]
+draft: true
 ---
 
 This article is the second part of a series focusing on Metamodel design (more especially Ecore models). 
