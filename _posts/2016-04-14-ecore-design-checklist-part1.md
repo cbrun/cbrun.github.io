@@ -205,6 +205,8 @@ As such, only introduce inter-EPackage relationships for compelling reasons and 
 
 This item is symetric from the previous one: if one of your goal is for others to provide subtypes your domain model, explicitely design for it and document it.
 
+___
 
-
+That's it for now but the subject is far from being exhausted. The next part will be more technical with a focus on the scalability and on the mapping in between Ecore and Java.
+In the meantime feel free to give your feedback!
 
