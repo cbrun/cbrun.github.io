@@ -20,14 +20,14 @@ tags: [draft]
 |[The concepts are all documented. ]()| ☑ |
 |[There are no Boolean monsters in the making ]()| ☑ |
 
-### Scalability related
+### Scalability 
 
 |[The implementation classes are using MinimalEObjectImpl ]()| ☑ |
 |[Instances which will be present a lot in the models have a terse serialization ]()| ☑ |
 |[Everything which is serialized needs to be serialized ]()| ☑ |
 |[There is no EClass which could be replaced by an EDatatype ]()| ☑ |
 
-### Java-related implications
+### Java
 
 |[Multiple inheritance is not over-used ]()| ☑ |
 |[Custom DataType are used in every situation where it makes sense ]()| ☑ |

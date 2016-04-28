@@ -168,7 +168,7 @@ Also check your boolean attributes naming. The EMF Java generator will add an "i
 
 ___
 
-## Scalability related
+## Scalability
 
 ### ☑ The implementation classes are using MinimalEObjectImpl
 
@@ -196,7 +196,7 @@ Rule of thumb: if you have many instances which will be never referenced by othe
 ___
 
 
-## Java-related implications
+## Java
 
 ### ☑ Multiple inheritance is not over-used
 
