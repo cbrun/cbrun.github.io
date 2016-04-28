@@ -209,9 +209,9 @@ This item is symetric from the previous one: if one of your goal is for others t
 
 ___
 
-<img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
 
-## Scalability
+
+## Scalability <img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
 
 
 Your Ecore model design **has** scalability and performances implications, most especially memory and I/O wise but not only. 
