@@ -6,6 +6,8 @@ tags: [draft]
 draft: true
 ---
 
+THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
+
 This article is the second part of a series focusing on Metamodel design (more especially Ecore models). 
 Following the [first part focused on some ground rules]() this second part is focused on slightly more technical aspects: scalability and Java. The general disclaimer still applies: 
 
