@@ -22,10 +22,11 @@ tags: [draft]
 
 ### Scalability 
 
-|[The implementation classes are using MinimalEObjectImpl ]()| ☑ |
 |[Instances which will be present a lot in the models have a terse serialization ]()| ☑ |
 |[Everything which is serialized needs to be serialized ]()| ☑ |
 |[There is no EClass which could be replaced by an EDatatype ]()| ☑ |
+|[The implementation classes are using MinimalEObjectImpl ]()| ☑ |
+|[There are not a single EReference which will holds tens of thousands instances]()| ☑ |
 
 ### Java
 

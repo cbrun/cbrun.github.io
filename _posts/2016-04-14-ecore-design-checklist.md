@@ -172,9 +172,8 @@ ___
 
 <img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
 
-### ☑ The implementation classes are using MinimalEObjectImpl
-
-Make sure your *.genmodel* is configured to leverage `MinimalEObjectImpl`. This is the default if you created your genmodel with a recent version of EMF, more information about this is available on [Ed's blog](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html)
+Your Ecore model design **has** scalability and performances implications, most especially memory and I/O wise but not only. 
+If you want to get the most of Eclipse Modeling technologies in general you should check the following items.
 
 ### ☑ Instances which will be present a lot in the models have a terse serialization
 
@@ -194,6 +193,24 @@ You need this model, but are there parts which have no need to be serialized? Ca
 Any EClass used for an important number of instances should be inspected and a conscious decision should be made about whether it is best modeled as an EClass or as an EDatatype. Even with the [EMF Ultra Slim Diet](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html) an EObject comes with an overhead, both in term of memory usage but even more importantly in the overhead framework code might induce (cross-referencers, change recorders..)
 
 Rule of thumb: if you have many instances which will be never referenced by other instance beside the containing one and you don't really need the individual change notifications of each attribute of the EObject, then it's probably best to model it as an EDatatype. An EClass only having EAttributes and not EReferences is also a clear indication that this might be a good candidate for being an EDatatype.
+
+### ☑ There are not a single EReference which will holds tens of thousands instances
+
+There are two main reasons to stay away from flattened models which have thousands of instances in a single reference value:
+
+1. for legacy reasons, EMF will check the uniqueness of any addition and as such in the Java implementation, a call to `.add()` will check for every item in the list. (there are way to explicitely avoid those checks by using `addUnique()`)
+2. displaying the reference content in the user interface will likely lead to the creation of tens of thousands of SWT items in a list or in a tree. SWT is not good at that and that might lead to long freezes.
+
+> Sirius is kind enough to detect those situations and group such references, but you can't count on that for every tree viewer.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/sirius-grouping.png"><img src="{{ site.url }}/images/blog/sirius-grouping.png"></a>    
+    <figcaption>Sirius grouping tree items</figcaption>
+</figure>
+
+### ☑ The implementation classes are using MinimalEObjectImpl
+
+Make sure your *.genmodel* is configured to leverage `MinimalEObjectImpl`. This is the default if you created your genmodel with a recent version of EMF, more information about this is available on [Ed's blog](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html)
 
 ___
 
