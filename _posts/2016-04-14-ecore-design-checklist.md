@@ -7,7 +7,7 @@ tags: [draft]
 
 THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
 
-**Do not compromise on your domain model !** Never, ever!
+**Be meticulous with your domain model !**
 So many aspects of your tool will trickle down from your Ecore model that it pays a lot to pause for a bit and do some basic sanity checks.
 I compiled the following checklist based on my personal experience, this is not exhaustive and I expect it to live and get richer over time.
 
@@ -86,14 +86,14 @@ Naming things is hard, and just like in every design activity it is of the most 
 Tips and tricks :
 
 * use [PowerThesaurus](https://www.powerthesaurus.org/), make sure the name is the most precise you can get.
-* use the user background to pick the right name (having defined the Personna comes in handy)
+* use the user background to pick the right name (having defined the Persona comes in handy)
 * try to avoid names which are so general or abstract that they could be interpreted in many different ways by your target users. ``Artifact``, ``Element`` are probably fairly bad names (but again, use the context to decide).
 
 > in the MyLittlePony world an **Element** refers to the "*Elements of Harmony*" and has a very precise definition. The context matters.
 
 ### ☑ Reference and attribute names are consistent
 
-Check that you stick with a concistent convention for your references. The main decisions which are in front of you:
+Check that you stick with a consistent convention for your references. The main decisions which are in front of you:
 
 * do you pluralize the references with a **many** upper bound ?
 * do you add a prefix like `owned` for any containment reference?
@@ -186,7 +186,7 @@ You need this model, but are there parts which have no need to be serialized? Ca
 
 Any EClass used for an important number of instances should be inspected and a conscious decision should be made about whether it is best modeled as an EClass or as an EDatatype. Even with the [EMF Ultra Slim Diet](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html) an EObject comes with an overhead, both in term of memory usage but even more importantly in the overhead framework code might induce (cross-referencers, change recorders..)
 
-Rule of thumb: if you have might have many instances which will be never referenced by other instance beside the containing one and you don't really need the indidual change notifications of each attribute of the EObject, then it's probably best to model it as an EDatatype. An EClass only having EAttributes and not EReferences is also a clear indication that this might be a good candidate for being an EDatatype.
+Rule of thumb: if you have many instances which will be never referenced by other instance beside the containing one and you don't really need the individual change notifications of each attribute of the EObject, then it's probably best to model it as an EDatatype. An EClass only having EAttributes and not EReferences is also a clear indication that this might be a good candidate for being an EDatatype.
 
 ___
 
@@ -220,9 +220,43 @@ But *String* is a technical concern and it might make the design more obvious to
 
 If your custom datatype is not mapped to a very standard Java type, then make sure your implementation **is compliant with the equals/hashcode contract**.
 
+### ☑ the .genmodel output folders are specified or made empty
+
+A simple right-click, *Generate All* action on the genmodel should give the result you intend. Don't rely on peoples **knowing** before-hand that you should only generate the `model` and `edit` plugin for instance.
+You can do so in making the corresponding `[...] Directory` properties empty.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/empty-tests-directory.png"><img src="{{ site.url }}/images/blog/empty-tests-directory.png"></a>    
+    <figcaption>Emptying the Tests Directory property</figcaption>
+</figure>
+
+The editor will then adapt its contextual menu and *Generate all* will not launch the tests generation.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/disabled-gen.png"><img src="{{ site.url }}/images/blog/disabled-gen.png"></a>    
+    <figcaption>Un-used generations are disabled</figcaption>
+</figure>
+
+Also it is generally better to use `src-gen` instead of `src` as the final folder, take the chance to update that at the same time.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/srcgen-model-directory.png"><img src="{{ site.url }}/images/blog/srcgen-model-directory.png"></a>    
+    <figcaption>Use src-gen as an output directory by default</figcaption>
+</figure>
+
+
+### ☑ the .genmodel base package is specified
+
+The `base package` property in the *.genmodel* file as it drives your Java namespace. You should **never introduce empty EPackages** to get the Java namespace result you want but instead you should use the `base package` property.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/basepackage.png"><img src="{{ site.url }}/images/blog/basepackage.png"></a>    
+    <figcaption>Specifying the base package in the genmodel properties</figcaption>
+</figure>
+
 ## Outside world
 
-### ☑ I though about how instances are going to be referenced from the outside
+### ☑ I decided how instances should be referenced from the outside
 
 Any EObject which is contained in a resource has a URI and might be referenced by others. But there are so many ways to identify an instance. You roughly have to decide in between: Resource specific identification like XMI-IDs, or domain related identification by defining an **id** EAttribute  or by using the EReference **eKeys**.
 
