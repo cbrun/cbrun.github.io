@@ -170,6 +170,8 @@ ___
 
 ## Scalability
 
+<img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
+
 ### ☑ The implementation classes are using MinimalEObjectImpl
 
 Make sure your *.genmodel* is configured to leverage `MinimalEObjectImpl`. This is the default if you created your genmodel with a recent version of EMF, more information about this is available on [Ed's blog](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html)
