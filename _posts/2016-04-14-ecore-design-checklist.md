@@ -218,6 +218,7 @@ ___
 
 <img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
 
+<br>
 Your Ecore model design **has** scalability and performances implications, most especially memory and I/O wise but not only. 
 If you want to get the most of Eclipse Modeling technologies in general you should check the following items.
 
