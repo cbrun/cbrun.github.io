@@ -8,7 +8,7 @@ draft: true
 
 THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
 
-**Be meticulous with your domain model !**
+**Be meticulous with the model describing your domain!**
 So many aspects of your tool will trickle down from your Ecore model that it pays a lot to pause for a bit and do some basic sanity checks.
 I compiled the following checklist based on my personal experience, this is not exhaustive and I expect it to live and get richer over time.
 
@@ -209,9 +209,9 @@ As such, only introduce inter-EPackage relationships for compelling reasons and 
     <figcaption>Package dependencies diagram in EcoreTools</figcaption>
 </figure>
 
-### ☑ The concepts which might be extended by subtypes are clearly identified
+### ☑ The EClasses which might be extended by subtypes are clearly identified
 
-This item is symetric from the previous one: if one of your goal is for others to provide subtypes your domain model, explicitely design for it and document it.
+This item is symetric from the previous one: if one of your goal is for others to provide subtypes of your EClasses explicitely design for it and document it.
 
 ___
 
