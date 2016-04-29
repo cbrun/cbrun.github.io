@@ -224,6 +224,6 @@ This item is symetric from the previous one: if one of your goal is for others t
 
 ___
 
-That's it for now but the subject is far from being exhausted. The next part will be more technical with a focus on the scalability and on the mapping in between Ecore and Java.
+That's it for now but the subject is far from being exhausted. The next part will be more technical with a focus on the scalability and on the mapping in between Ecore and Java. [Follow me on Twitter](https://twitter.com/bruncedric) to know when it gets published.
 In the meantime feel free to give your feedback!
 
