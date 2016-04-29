@@ -10,6 +10,15 @@ THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
 
 **Be meticulous with the model describing your domain!**
 So many aspects of your tool will trickle down from your Ecore model that it pays a lot to pause for a bit and do some basic sanity checks.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/ecore-middle.png"><img src="{{ site.url }}/images/blog/ecore-middle.png"></a>    
+    <figcaption>The Ecore model in the center is the basis for so many things!</figcaption>
+</figure>
+
+**Eclipse Modeling** technologies are enabling you to build graphical, tree or textual editors, connectors to import or export data, code generators and all of these
+features in your tool are directly tied or infered from an Ecore model. Better get it right.
+
 I compiled the following checklist based on my personal experience, this is not exhaustive and I expect it to live and get richer over time.
 
 > Most of the checks stated here are very easy to comply with when considered from the start. 
