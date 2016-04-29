@@ -12,7 +12,7 @@ THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
 So many aspects of your tool will trickle down from your Ecore model that it pays a lot to pause for a bit and do some basic sanity checks.
 
 <figure>
-    <a href="{{ site.url }}/images/blog/ecore-middle.png"><img src="{{ site.url }}/images/blog/ecore-middle.png"></a>    
+    <a href="{{ site.url }}/images/blog/ecore-middle-big.png"><img src="{{ site.url }}/images/blog/ecore-middle.png"></a>    
     <figcaption>The Ecore model in the center is the basis for so many things!</figcaption>
 </figure>
 
