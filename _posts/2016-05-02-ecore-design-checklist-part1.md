@@ -43,10 +43,11 @@ Example: Models from this metamodel will enable *researcher in agriculture* to a
 <br>
 <br>
 
-<img src="{{ site.url }}/images/blog/my-little-pony.jpg" style="float: right;">
+
 
 Example: Models from this metamodel will enable *software architects* to answer the questions: *which are the services existing in my system, what are their non-functional characteristics, their signature, who owns them and how are the related to each others ?*
 
+<img src="{{ site.url }}/images/blog/my-little-pony.jpg" style="float: right;">
 <br>
 <br>
 or even
