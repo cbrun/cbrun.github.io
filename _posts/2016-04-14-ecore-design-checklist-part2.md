@@ -137,6 +137,15 @@ The `base package` property in the *.genmodel* file as it drives your Java names
 </figure>
 
 
+___
+
+That's it for now. If you start with this checklist you will have covered the basics. A condensed version listing all the rules of the articles is available on [this webpage](../ecore-design-checklist).
+
+My goal with EcoreTools is to assist you in taking care of those aspects, that's why many of those rules are illustrated by specific features of this diagram editor. 
+You will find this tool in the [Eclipse Modeling Package](https://www.eclipse.org/downloads/packages/) and the [EcoreTools website](https://www.eclipse.org/ecoretools/doc/) covers how to get started with it. 
+
+Give it a shot, it's all Open-Source goodness! 
+
 
 
 
