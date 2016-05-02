@@ -11,12 +11,12 @@ This diagrams have been created thanks to [EcoreTools](www.eclipse.org/ecoretool
 ## Ecore Components 
 
 <figure>
-    <a href="{{ site.url }}/images/blog/ecore-components.png"><img src="{{ site.url }}/images/blog/ecore-components.png"></a>    
+    <a href="{{ site.url }}/images/blog/ecore-components.jpg"><img src="{{ site.url }}/images/blog/ecore-components.jpg"></a>    
     <figcaption>The Ecore components are related according to this hierarchy</figcaption>
 </figure>
 
 <figure>
-    <a href="{{ site.url }}/images/blog/ecore-components-detail.png"><img src="{{ site.url }}/images/blog/ecore-components-detail.png"></a>    
+    <a href="{{ site.url }}/images/blog/ecore-components-detail.jpg"><img src="{{ site.url }}/images/blog/ecore-components-detail.jpg"></a>    
     <figcaption>The Ecore Components have the following relations, attributes, and operations</figcaption>
 </figure>
 
@@ -24,21 +24,21 @@ This diagrams have been created thanks to [EcoreTools](www.eclipse.org/ecoretool
 ## EObject
 
 <figure>
-    <a href="{{ site.url }}/images/blog/eobject.png"><img src="{{ site.url }}/images/blog/eobject.png"></a>    
+    <a href="{{ site.url }}/images/blog/eobject.jpg"><img src="{{ site.url }}/images/blog/eobject.jpg"></a>    
     <figcaption>All participants in the Ecore Modeling Framework implement the EObject's interface</figcaption>
 </figure>
 
 ## Java Language Types
 
 <figure>   
-    <a href="{{ site.url }}/images/blog/java-language-types.png"><img src="{{ site.url }}/images/blog/java-language-types.png"></a>    
+    <a href="{{ site.url }}/images/blog/java-language-types.jpg"><img src="{{ site.url }}/images/blog/java-language-types.jpg"></a>    
     <figcaption>Ecore defines the data types for the following Java language types</figcaption>
 </figure>
 
 ## External Types
 
 <figure>   
-    <a href="{{ site.url }}/images/blog/external-types.png"><img src="{{ site.url }}/images/blog/external-types.png"></a>    
+    <a href="{{ site.url }}/images/blog/external-types.jpg"><img src="{{ site.url }}/images/blog/external-types.jpg"></a>    
     <figcaption>Ecore defines following additional data types</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ This diagrams have been created thanks to [EcoreTools](www.eclipse.org/ecoretool
 ## Generics
 
 <figure>   
-    <a href="{{ site.url }}/images/blog/generics.png"><img src="{{ site.url }}/images/blog/generics.png"></a>    
+    <a href="{{ site.url }}/images/blog/generics.jpg"><img src="{{ site.url }}/images/blog/generics.jpg"></a>    
     <figcaption>Ecore supports generics as follows</figcaption>
 </figure>
 
