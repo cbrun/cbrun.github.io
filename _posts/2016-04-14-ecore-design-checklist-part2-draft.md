@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metamodel (Ecore) Design Checklist - part 2
+title: Metamodel (Ecore) Design Checklist - part 2 - draft
 categories: [eclipse]
 tags: [draft]
 draft: true
