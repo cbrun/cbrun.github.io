@@ -2,11 +2,8 @@
 layout: post
 title: Metamodel (Ecore) Design Checklist - part 1
 categories: [eclipse]
-tags: [draft]
-draft: true
+tags: [ecore, emf, eclipse]
 ---
-
-THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
 
 **Be meticulous with the model describing your domain!**
 So many aspects of your tool will trickle down from your Ecore model that it pays a lot to pause for a bit and do some basic sanity checks.
