@@ -16,6 +16,11 @@ This diagrams have been created thanks to [EcoreTools](www.eclipse.org/ecoretool
 </figure>
 
 <figure>
+    <a href="{{ site.url }}/images/blog/ecore-components-constraints.jpg"><img src="{{ site.url }}/images/blog/ecore-components-constraints.jpg"></a>    
+    <figcaption>The hiearchy + the specific constraints</figcaption>
+</figure>
+
+<figure>
     <a href="{{ site.url }}/images/blog/ecore-components-detail.jpg"><img src="{{ site.url }}/images/blog/ecore-components-detail.jpg"></a>    
     <figcaption>The Ecore Components have the following relations, attributes, and operations</figcaption>
 </figure>
