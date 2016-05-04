@@ -204,7 +204,7 @@ Keep in mind that many EMF technologies will provides you with a way to easily a
 
 For instance using Sirius you might write queries like:
 `aql:self.eInverse(some::Type)` to retrieve any instance of `Type` referencing the object `self` 
-or `aql:self.eInverse(anEReferenceName)` to navigate on the inverse of the reference `anEReferenceName` from the objeect `self`.
+or `aql:self.eInverse(anEReferenceName)` to navigate on the inverse of the reference `anEReferenceName` from the object `self`.
 
 
 ### ☑ The dependencies in between EPackages are in control
