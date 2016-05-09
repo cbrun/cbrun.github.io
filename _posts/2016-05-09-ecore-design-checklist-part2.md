@@ -92,7 +92,7 @@ EMF provides off-the-shelve datatypes for *Strings*, *Integer*, *Float*, *Long* 
 
 <figure>
     <a href="{{ site.url }}/images/blog/datatype1.png"><img src="{{ site.url }}/images/blog/datatype1.png"></a>    
-    <figcaption>cutieMark is an open-ended list, designed as a String</figcaption>
+    <figcaption>cutieMark is open-ended, designed as a String</figcaption>
 </figure>
 
 But *String* is a technical concern and it might make the design more evident to replace usages of *EString* by your own EDataType if it express a domain specific type, even if you keep it mapped to ``java.lang.String``.
