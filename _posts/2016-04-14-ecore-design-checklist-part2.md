@@ -1,18 +1,16 @@
 ---
 layout: post
-title: Metamodel (Ecore) Design Checklist - part 2 - draft
+title: Metamodel (Ecore) Design Checklist - part 2
 categories: [eclipse]
-tags: [draft]
+tags: [ecore, emf, eclipse]
 draft: true
 ---
 
-THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
-
-This article is the second part of a series focusing on Metamodel design (more especially Ecore models). 
+This article is the second part of a series focusing on metamodel design (more especially Ecore models). 
 Following the [first part focused on some ground rules](../ecore-design-checklist-part1) this second part is focused on slightly more technical aspects: scalability and Java. The general disclaimer still applies: 
 
-> Most of the checks stated here are very easy to comply with when considered from the start but might not be that cheap later on. Furthermore this list is not exhaustive, 
-> and not necessary the unique and unviversal truth. Your mileage may vary but then [tell me about it!](https://twitter.com/bruncedric)
+> Most of the checks stated here are very easy to comply with when considered from the start but might not be that cheap later on. 
+> Furthermore this list is not exhaustive and not necessary the unique and unviversal truth. Your mileage may vary but then [tell me about it!](https://twitter.com/bruncedric)
 
 ___
 
@@ -147,12 +145,16 @@ The `base package` property in the *.genmodel* file as it drives your Java names
 
 ___
 
-That's it for now. If you start with this checklist you will have covered the basics. A condensed version listing all the rules of the articles is available on [this webpage](../ecore-design-checklist).
+That's it for now. If you start with this checklist you will have covered the basics. 
+
+<!---
+A condensed version listing all the rules of the articles is available on [this webpage](../ecore-design-checklist).
+-->
 
 My goal with EcoreTools is to assist you in taking care of those aspects, that's why many of those rules are illustrated by specific features of this diagram editor. 
 You will find this tool in the [Eclipse Modeling Package](https://www.eclipse.org/downloads/packages/) and the [EcoreTools website](https://www.eclipse.org/ecoretools/doc/) covers how to get started with it. 
 
-Give it a shot, it's all Open-Source goodness! 
+Give it a shot, it's all Open-Source and part of Eclipse! 
 
 
 
