@@ -3,7 +3,7 @@ layout: post
 title: Metamodel (Ecore) Design Checklist - part 2
 categories: [eclipse]
 tags: [ecore, emf, eclipse]
-date: 2016-05-09 17:30:00
+date: 2016-05-09 16:30:00 +0000
 ---
 
 This article is the second part of a series focusing on metamodel design (more especially Ecore models). 
