@@ -101,7 +101,7 @@ It makes the Ecore model more explicit and paves the way for a behavior which ca
 
 <figure>
     <a href="{{ site.url }}/images/blog/datatype2.png"><img src="{{ site.url }}/images/blog/datatype2.png"></a>    
-    <figcaption>We are know sure we won't mix cutiemarks with something else</figcaption>
+    <figcaption>We are now sure we won't misinterpret cutiemarks with something else</figcaption>
 </figure>
 
 If your custom datatype is not mapped to a very standard Java type, then make sure your implementation **is compliant with the equals/hashcode contract** tools like EMF Compare will have no mean to compare those individual values.
