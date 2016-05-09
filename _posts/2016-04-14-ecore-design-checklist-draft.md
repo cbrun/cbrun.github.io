@@ -32,7 +32,7 @@ THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
 
 ### Scalability 
 
-|[Instances which will be present a lot in the models have a terse serialization ](../ecore-design-checklist-part2#instances-which-will-be-present-a-lot-in-the-models-have-a-terse-serialization)| ☑ |
+|[Instances which will be present a lot in the models have a concise serialization ](../ecore-design-checklist-part2#instances-which-will-be-present-a-lot-in-the-models-have-a-terse-serialization)| ☑ |
 |[Everything which is serialized needs to be serialized ](../ecore-design-checklist-part2#everything-which-is-serialized-needs-to-be-serialized)| ☑ |
 |[There is no EClass which could be replaced by an EDatatype ](../ecore-design-checklist-part2#there-is-no-eclass-which-could-be-replaced-by-an-edatatype)| ☑ |
 |[The model has some structure](../ecore-design-checklist-part2#the-model-has-some-structure)| ☑ |

@@ -21,16 +21,18 @@ ___
 <img src="{{ site.url }}/images/blog/rainbowdash.png" style="float: left;">
 
 <br>
-Your Ecore model design **has** scalability and performances implications, most especially memory and I/O wise but not only. 
+The design of your Ecore model **has** scalability and performances implications, most especially memory and I/O wise but not only. 
 If you want to get the most of Eclipse Modeling technologies in general you should check the following items.
 
 <br><br>
 
-### ☑ Instances which will be present a lot in the models have a terse serialization
+### ☑ Instances which will be present a lot in the models have a concise serialization
 
-Ask yourself:  how many instances of this EClass will I have in a nominal model? If the answer is "quite a lot"(100K for instance) then check how will they be serialized and make sure there is not an improvement you could bring here. This is particularly true using the XMI serialization which is not the most space efficient one.
+Ask yourself:  how many instances of this EClass will I usually have in a model? If the answer is "quite a lot"(100K for instance) then check how they will be serialized and make sure there is not an improvement you could bring here. 
 
-This is also very true for custom datatypes. Once you define this custom datatype EMF requires you to write the ``fromString()`` and ``toString()`` methods for it. If this datatype is being used by a lot of instances then make sure your serialization is terse.
+This is particularly true when you use the XMI serialization which is not the most space efficient one and might need to add extra informations to clearly identify types for instance.
+This is also very true for custom datatypes. 
+If this datatype is being used by a lot of instances then make sure your serialization logic which is coded through ``fromString()`` and ``toString()`` methods is concise.
 
 ### ☑ Everything which is serialized needs to be serialized
 
@@ -39,18 +41,21 @@ This is also very true for custom datatypes. Once you define this custom datatyp
 <br>
 <br>
 
-You need this model, but are there parts which have no need to be serialized? Can you strip out parts of the information? What information is actually captured by the users versus infered by the tool? Is there any part of this data which has a shorter lifecycle than "load the file"/"save the file"?
+You need this model, but are there parts which have no need to be serialized? Can you strip out parts of the information? What information is actually captured by the users in opposition to the information which is infered by the tool? 
+Is there any part of this data which has a shorter lifecycle than "load the file"/"save the file"? Are other elements referencing it ?
 
+Those questions are useful to identify complete sub-graphs of the model which have no need to be serialized. You can't get faster than not doing any work.
 
 ### ☑ There is no EClass which could be replaced by an EDatatype
 
-Any EClass used for an important number of instances should be inspected and a conscious decision should be made about whether it is best modeled as an EClass or as an EDatatype. Even with the [EMF Ultra Slim Diet](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html) an EObject comes with an overhead, both in term of memory usage but even more importantly in the overhead framework code might induce (cross-referencers, change recorders..)
+Any EClass used for an important number of instances should be inspected and a conscious decision should be made about whether it is best modeled as an EClass or as an EDatatype. Even with the [EMF Ultra Slim Diet](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html) an EObject comes with an overhead, both in term of memory usage but even more importantly in the overhead framework code might induce (cross-referencers, change recorders..).
 
-Rule of thumb: if you have many instances which will be never referenced by other instance beside the containing one and you don't really need the individual change notifications of each attribute of the EObject, then it's probably best to model it as an EDatatype. An EClass only having EAttributes and not EReferences is also a clear indication that this might be a good candidate for being an EDatatype.
+Rule of thumb: if you have many instances which will be never referenced by other instance beside the containing one and you don't really need the individual change notifications of each attribute of the EObject, then it's probably best to model it as an EDatatype. 
+When an EClass only have EAttributes, no EReference and is not referenced by other objects besides its container it is also a clear indication that this might be a good candidate for being an EDatatype.
 
 ### ☑ The model has some structure
 
-There are two main reasons to stay away from flattened models with tens of thousands of instances in a single reference value:
+There are two main reasons to stay away from flat models with tens of thousands of instances in a single reference value:
 
 1. for legacy reasons, EMF will check the uniqueness of any addition and as such in the Java implementation, a call to `.add()` will check for every item in the list. (there are way to explicitely avoid those checks by using `addUnique()`)
 2. displaying the reference content in the user interface will likely lead to the creation of tens of thousands of SWT items in a list or in a tree. SWT is not good at that and that might lead to long freezes.
@@ -93,19 +98,22 @@ EMF provides off-the-shelve datatypes for *Strings*, *Integer*, *Float*, *Long* 
     <figcaption>cutieMark is an open-ended list, designed as a String</figcaption>
 </figure>
 
-But *String* is a technical concern and it might make the design more obvious to replace usages of the *EString* by your own EDataType which express a domain specific type but is mapped to ``java.lang.String`` all the same. It makes the Ecore model more explicit and paves the way for a behavior which can be specific to this particular type.
+But *String* is a technical concern and it might make the design more evident to replace usages of *EString* by your own EDataType if it express a domain specific type, even if you keep it mapped to ``java.lang.String``.
+It makes the Ecore model more explicit and paves the way for a behavior which can be specific to this particular type.
 
 <figure>
     <a href="{{ site.url }}/images/blog/datatype2.png"><img src="{{ site.url }}/images/blog/datatype2.png"></a>    
     <figcaption>We are know sure we won't mix cutiemarks with something else</figcaption>
 </figure>
 
-If your custom datatype is not mapped to a very standard Java type, then make sure your implementation **is compliant with the equals/hashcode contract**.
+If your custom datatype is not mapped to a very standard Java type, then make sure your implementation **is compliant with the equals/hashcode contract** tools like EMF Compare will have no mean to compare those individual values.
 
 ### ☑ the .genmodel output folders are specified or made empty
 
 A simple right-click, *Generate All* action on the genmodel should give the result you intend. Don't rely on peoples **knowing** before-hand that you should only generate the `model` and `edit` plugin for instance.
-You can do so in making the corresponding `[...] Directory` properties empty.
+Don't make them think about such things.
+
+You can do so in making the corresponding `[...] Directory` properties empty in the genpackagge instance.
 
 <figure>
     <a href="{{ site.url }}/images/blog/empty-tests-directory.png"><img src="{{ site.url }}/images/blog/empty-tests-directory.png"></a>    
