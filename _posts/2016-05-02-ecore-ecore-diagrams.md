@@ -48,6 +48,12 @@ To construct such a diagram using EcoreTools import all the EClasses in it and t
 You can also enable the *Constraints* layer which gives a bit more information about what makes those types valid.
 
 <figure>
+    <a href="{{ site.url }}/images/blog/ecore-ecore-layers.png"><img src="{{ site.url }}/images/blog/ecore-ecore-layers.png"></a>    
+    <figcaption>Layers in EcoreTool</figcaption>
+</figure>
+
+
+<figure>
     <a href="{{ site.url }}/images/blog/ecore-components-constraints.jpg"><img src="{{ site.url }}/images/blog/ecore-components-constraints-small.jpg"></a>    
     <figcaption>The hiearchy + the specific constraints</figcaption>
 </figure>
@@ -61,18 +67,53 @@ with just this diagram.
     <figcaption>The Ecore Components have the following relations, attributes, and operations</figcaption>
 </figure>
 
-That's the kind of diagrams for which you really want to know a few shortcuts:
+That's the kind of diagrams for which you really want to know a few shortcuts, among others:
 
-|Hide element| ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) + ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_H_T.png) | [doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Hidingelements) |
-[Hide label | ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) +  ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_L_T.png)| [doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Hidinglabels) |
-|Remove Bendpoints | ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Ctrl_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Shift_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Minus_T.png?raw=true)  | [doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Manageedges) |
+| ... | ... | ... |
+|Hide element| ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) + ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_H_T.png) | [->doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Hidingelements) |
+|Hide label | ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) +  ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_L_T.png)| [->doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Hidinglabels) |
+|Remove Bendpoints | ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Ctrl_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Shift_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Minus_T.png?raw=true)  | [->doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Manageedges) |
+| ... | ... | ... |
+
+You'll find all the keyboard shortcuts in [Mélanie's excellent blog post](http://melb.enix.org/sirius/keyboard-shortcuts/).
+
+
+## Generics
+
+The next diagram focuses on how **Generics** are modeled in Ecore and does a fairly good job in describing it by hidding all the other aspects. 
+
+<figure>   
+    <a href="{{ site.url }}/images/blog/generics.jpg"><img src="{{ site.url }}/images/blog/generics-small.jpg"></a>    
+    <figcaption>Ecore supports generics as follows</figcaption>
+</figure>
+
+More important: this was not displayed **at all** in the previous diagram and that is a good thing as one don't need to understand this specific point to leverage Ecore.
 
 
 ## Java Language Types
 
+The last diagrams are enumerating datatypes. 
+
 <figure>   
     <a href="{{ site.url }}/images/blog/java-language-types.jpg"><img src="{{ site.url }}/images/blog/java-language-types-small.jpg"></a>    
     <figcaption>Ecore defines the data types for the following Java language types</figcaption>
+</figure>
+
+For these kind of diagrams your best friends are the **Make same size**, **Distribute** and **Align** actions.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/ecore-ecore-samesize.png"><img src="{{ site.url }}/images/blog/ecore-ecore-samesize.png"></a>    
+    <figcaption>Make same size</figcaption>
+</figure>
+
+<figure>
+    <a href="{{ site.url }}/images/blog/ecore-ecore-align.png"><img src="{{ site.url }}/images/blog/ecore-ecore-align.png"></a>    
+    <figcaption>Align</figcaption>
+</figure>
+
+<figure>
+    <a href="{{ site.url }}/images/blog/ecore-ecore-distribute.png"><img src="{{ site.url }}/images/blog/ecore-ecore-distribute.png"></a>    
+    <figcaption>Distribute</figcaption>
 </figure>
 
 ## External Types
@@ -83,12 +124,6 @@ That's the kind of diagrams for which you really want to know a few shortcuts:
 </figure>
 
 
-## Generics
-
-<figure>   
-    <a href="{{ site.url }}/images/blog/generics.jpg"><img src="{{ site.url }}/images/blog/generics-small.jpg"></a>    
-    <figcaption>Ecore supports generics as follows</figcaption>
-</figure>
 
 
 
