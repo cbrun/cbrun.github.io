@@ -81,9 +81,9 @@ ___
 
 Ecore allows for multiple inheritance. But in the end your Ecore model is transformed into Java code and Java only allows multiple interfaces to be implemented. 
 
-The EMF code generator hides that for you and might ends up dupplicating code to make sure everything works as expected. A few things to keep in mind:
+The EMF code generator hides that for you and might ends up duplicating code to make sure everything works as expected. A few things to keep in mind:
 
-* the order of the inheritance matters: the implementation class will extends the implementation class of the **first** EClass in the list of supertypes, the subsequent classes will lead to dupplicated code.
+* the order of the inheritance matters: the implementation class will extends the implementation class of the **first** EClass in the list of supertypes, the subsequent classes will lead to duplicated code.
 * just like for Object Oriented designs, having a lot of multiple inheritance screams of a design which is not really splitting concerns (or not the right ones)
 
 ### ☑ Custom DataType are used in every situation where it makes sense
@@ -103,14 +103,14 @@ It makes the Ecore model more explicit and paves the way for a behavior which ca
     <figcaption>We are now sure we won't misinterpret cutiemarks with something else</figcaption>
 </figure>
 
-If your custom datatype is not mapped to a very standard Java type, then make sure your implementation **is compliant with the equals/hashcode contract** tools like EMF Compare will have no mean to compare those individual values.
+If your custom datatype is not mapped to a very standard Java type, then make sure your implementation **is compliant with the equals/hashcode contract** otherwise tools like EMF Compare will have no mean to compare those individual values.
 
-### ☑ the .genmodel output folders are specified or made empty
+### ☑ The .genmodel output folders are specified or made empty
 
 A simple right-click, *Generate All* action on the genmodel should give the result you intend. Don't rely on peoples **knowing** before-hand that you should only generate the `model` and `edit` plugin for instance.
 Don't make them think about such things.
 
-You can do so in making the corresponding `[...] Directory` properties empty in the genpackagge instance.
+You can do so in making the corresponding `[...] Directory` properties empty in the genpackage instance.
 
 <figure>
     <a href="{{ site.url }}/images/blog/empty-tests-directory.png"><img src="{{ site.url }}/images/blog/empty-tests-directory.png"></a>    
@@ -132,9 +132,9 @@ Also it is generally better to use `src-gen` instead of `src` as the final folde
 </figure>
 
 
-### ☑ the .genmodel base package is specified
+### ☑ The .genmodel base package is specified
 
-The `base package` property in the *.genmodel* file as it drives your Java namespace. You should **never introduce empty EPackages** to get the Java namespace result you want but instead you should use the `base package` property.
+Set the `base package` property in the *.genmodel* file as it drives your Java namespace. You should **never introduce empty EPackages** to get the Java namespace result you want but instead you should use the `base package` property.
 
 <figure>
     <a href="{{ site.url }}/images/blog/basepackage.png"><img src="{{ site.url }}/images/blog/basepackage.png"></a>    
