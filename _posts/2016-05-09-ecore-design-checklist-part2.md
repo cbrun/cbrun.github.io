@@ -72,9 +72,9 @@ There are two main reasons to stay away from flat models with tens of thousands 
 <br>
 <br>
 
-Cross-references with modeled with EOpposites tend to introduce dependencies among several model files; transitively it quickly become impossible to load a file from the model without loading everything. 
+Cross-references modeled with EOpposites tend to introduce dependencies among several model files; transitively it quickly become impossible to load a file from the model without loading everything. 
 
-If what you aim for is scalability and performances the capability to focus on a subset of the model is a strong asset, as such you should avoid EOpposites references which would introduce inter-files relationships.
+If what you aim for is scalability and performance the capability to focus on a subset of the model is a strong asset, as such you should avoid EOpposites references which would introduce inter-files relationships.
 
 
 ### ☑ The implementation classes are using MinimalEObjectImpl
