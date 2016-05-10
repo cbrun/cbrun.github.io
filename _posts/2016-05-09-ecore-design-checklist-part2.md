@@ -64,6 +64,19 @@ There are two main reasons to stay away from flat models with tens of thousands 
     <figcaption>Sirius grouping tree items</figcaption>
 </figure>
 
+
+### ☑ It is possible to load part of the model without loading everything
+
+<img src="{{ site.url }}/images/blog/stucked-pony.png" style="float: right;">
+
+<br>
+<br>
+
+Cross-references with modeled with EOpposites tend to introduce dependencies among several model files; transitively it quickly become impossible to load a file from the model without loading everything. 
+
+If what you aim for is scalability and performances the capability to focus on a subset of the model is a strong asset, as such you should avoid EOpposites references which would introduce inter-files relationships.
+
+
 ### ☑ The implementation classes are using MinimalEObjectImpl
 
 Make sure your *.genmodel* is configured to leverage `MinimalEObjectImpl`. This is the default if you created your genmodel with a recent version of EMF, more information about this is available on [Ed's blog](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html)
