@@ -41,7 +41,14 @@ If this datatype is being used by a lot of instances then make sure your seriali
 You need this model, but are there parts which have no need to be serialized? Can you strip out parts of the information? What information is actually captured by the users in opposition to the information which is infered by the tool? 
 Is there any part of this data which has a shorter lifecycle than "load the file"/"save the file"? Are other elements referencing it ?
 
-Those questions are useful to identify complete sub-graphs of the model which have no need to be serialized. You can't get faster than not doing any work.
+Those questions are useful to identify complete sub-graphs of the model which have no need to be serialized. You can't get faster than not doing any work. 
+That being said, if you need this information and recompute it each time you use the model, then it may not pay off.
+
+### ☑ Derived features are fast, straightforward, or externalized
+
+Using Ecore you can define derived features, often by hand-coding the Java logic. 
+Tools and frameworks in the EMF eco-system are likely to access those features when reflectively discovering your model and generaly assume a CPU commplexity which is close to a field access: make sure the Java logic implementing it is **fast** and does not depend on some external framework being there. 
+If it's not the case it is better to expose it either as an EOperation (it will not be reflectively invoked), or defining a dedicated Java API.
 
 ### ☑ There is no EClass which could be replaced by an EDatatype
 

@@ -41,6 +41,7 @@ By the way, feel free to [tell me about your own rules](https://twitter.com/brun
 
 |[Instances which will be present a lot in the models have a concise serialization ](../ecore-design-checklist-part2#instances-which-will-be-present-a-lot-in-the-models-have-a-terse-serialization)| ☑ |
 |[Everything which is serialized needs to be serialized ](../ecore-design-checklist-part2#everything-which-is-serialized-needs-to-be-serialized)| ☑ |
+|[Derived features are fast, straightforward, or externalized ](../ecore-design-checklist-part2#derived-features-are-fast-straightforward-or-externalized)| ☑ |
 |[There is no EClass which could be replaced by an EDatatype ](../ecore-design-checklist-part2#there-is-no-eclass-which-could-be-replaced-by-an-edatatype)| ☑ |
 |[The model has some structure](../ecore-design-checklist-part2#the-model-has-some-structure)| ☑ |
 |[It is possible to load part of the model without loading everything](../ecore-design-checklist-part2#it-is-possible-to-load-part-of-the-model-without-loading-everything)| ☑ |

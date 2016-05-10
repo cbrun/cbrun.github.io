@@ -6,6 +6,10 @@ tags: [ecore, eclipse, ecoretools]
 draft: true
 ---
 
+A few weeks ago I ended up on the following thread on the [EMF Forum](https://www.eclipse.org/forums/index.php/f/108/) asking for [Ecore meta-model formal documentation?](https://www.eclipse.org/forums/index.php/t/1076719/).
+
+Ed pointed at [some documentation](http://download.eclipse.org/modeling/emf/emf/javadoc/2.11/org/eclipse/emf/ecore/package-summary.html) and then 
+
 This diagrams have been created thanks to [EcoreTools](www.eclipse.org/ecoretools) which is part of the [Eclipse Modeling Package](https://www.eclipse.org/downloads/packages/).
 
 ## Ecore Components 
