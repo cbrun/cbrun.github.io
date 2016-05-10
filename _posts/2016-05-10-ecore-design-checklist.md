@@ -2,11 +2,18 @@
 layout: post
 title: Metamodel (Ecore) Design Checklist
 categories: [eclipse]
-tags: [draft]
-draft: true
+tags: [ecore, eclipse, emf]
 ---
 
-THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
+This is an index page for the *Metamodel (Ecore) Design Checklist* serie, a condensed version listing all the rules of the article ([part1](../ecore-design-checklist-part1) and [part2](../ecore-design-checklist-part2)) for your convenience.
+
+I compiled the following checklist based on my personal experience, this is not exhaustive and I expect it to live and get richer over time.
+
+> Most of the checks stated here are very easy to comply with when considered from the start. 
+> When it's later down the road the gain/risk ratio should be evaluated as some changes might need to update some code, some files or might just be too much work to be worth it then. 
+> Because of this and because we sometime learned the hard way you might quite easily find some Ecore models I authored which are not 100% compliant with this list ;).
+
+By the way, feel free to [tell me about your own rules](https://twitter.com/bruncedric), I might add it to the list!
 
 ### Ground rules
 
@@ -36,13 +43,14 @@ THIS IS A DRAFT, PLEASE DO NOT SHARE AT THIS STAGE
 |[Everything which is serialized needs to be serialized ](../ecore-design-checklist-part2#everything-which-is-serialized-needs-to-be-serialized)| ☑ |
 |[There is no EClass which could be replaced by an EDatatype ](../ecore-design-checklist-part2#there-is-no-eclass-which-could-be-replaced-by-an-edatatype)| ☑ |
 |[The model has some structure](../ecore-design-checklist-part2#the-model-has-some-structure)| ☑ |
+|[It is possible to load part of the model without loading everything](../ecore-design-checklist-part2#it-is-possible-to-load-part-of-the-model-without-loading-everything)| ☑ |
 |[The implementation classes are using MinimalEObjectImpl ](../ecore-design-checklist-part2#the-implementation-classes-are-using-minimaleobjectimpl)| ☑ |
 
 ### Java
 
 |[Multiple inheritance is not over-used ](../ecore-design-checklist-part2#multiple-inheritance-is-not-over-used)| ☑ |
 |[Custom DataType are used in every situation where it makes sense ](../ecore-design-checklist-part2#custom-datatype-are-used-in-every-situation-where-it-makes-sense)| ☑ |
-|[the .genmodel output folders are specified or made empty ](../ecore-design-checklist-part2#the-genmodel-output-folders-are-specified-or-made-empty)| ☑ |
-|[the .genmodel base package is specified ](../ecore-design-checklist-part2#the-genmodel-base-package-is-specified)| ☑ |
+|[The .genmodel output folders are specified or made empty ](../ecore-design-checklist-part2#the-genmodel-output-folders-are-specified-or-made-empty)| ☑ |
+|[The .genmodel base package is specified ](../ecore-design-checklist-part2#the-genmodel-base-package-is-specified)| ☑ |
 
 
