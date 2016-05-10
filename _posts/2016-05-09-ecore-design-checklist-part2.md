@@ -168,7 +168,10 @@ You will find this tool in the [Eclipse Modeling Package](https://www.eclipse.or
 
 Give it a shot, it's all Open-Source and part of Eclipse! 
 
+<br>
+<br>
 
+*Credits: thanks to Pierre-Charles and [Mélanie](http://melb.enix.org/) for the proof-reading and [Jan](https://twitter.com/jankoehnlein/status/729930181289349120) for bringing a new item.*
 
 
 
