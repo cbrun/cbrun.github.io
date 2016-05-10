@@ -7,10 +7,16 @@ draft: true
 ---
 
 A few weeks ago I ended up on the following thread on the [EMF Forum](https://www.eclipse.org/forums/index.php/f/108/) asking for [Ecore meta-model formal documentation?](https://www.eclipse.org/forums/index.php/t/1076719/).
+Ed pointed at [some documentation](http://download.eclipse.org/modeling/emf/emf/javadoc/2.11/org/eclipse/emf/ecore/package-summary.html) which includes diagrams done with great care but done with tools from another era.
 
-Ed pointed at [some documentation](http://download.eclipse.org/modeling/emf/emf/javadoc/2.11/org/eclipse/emf/ecore/package-summary.html) and then 
+<figure>
+    <a href="{{ site.url }}/images/blog/EObjectOperations-old.gif"><img src="{{ site.url }}/images/blog/EObjectOperations-old.gif"></a>    
+    <figcaption></figcaption>
+</figure>
 
-This diagrams have been created thanks to [EcoreTools](www.eclipse.org/ecoretools) which is part of the [Eclipse Modeling Package](https://www.eclipse.org/downloads/packages/).
+As the maintainer of EcoreTools I had to do something about it, and so I did.
+
+The following diagrams have been created thanks to [EcoreTools](www.eclipse.org/ecoretools) which is part of the [Eclipse Modeling Package](https://www.eclipse.org/downloads/packages/).
 
 ## Ecore Components 
 
