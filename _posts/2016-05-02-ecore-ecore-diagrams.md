@@ -124,6 +124,8 @@ For these kind of diagrams your best friends are the **Make same size**, **Distr
 </figure>
 
 
+So now, who wants a nice poster in the office ?
+
 
 
 
