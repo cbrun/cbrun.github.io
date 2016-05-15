@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/cbr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cedric.brun.io
+  * I am cbr (https://keybase.io/cbr) on keybase.
+  * I have a public key with fingerprint EA54 7305 A063 139B CF25  4537 3292 2081 4063 705D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e1c4cd1eb3cc692295e78d06f7551a0ed1bff033c032d9a8caa0c3b5c8202a420a",
+            "fingerprint": "ea547305a063139bcf254537329220814063705d",
+            "host": "keybase.io",
+            "key_id": "329220814063705d",
+            "kid": "0101e1c4cd1eb3cc692295e78d06f7551a0ed1bff033c032d9a8caa0c3b5c8202a420a",
+            "uid": "e226407e3ee1cf4e578a5f8cc199bb19",
+            "username": "cbr"
+        },
+        "service": {
+            "hostname": "cedric.brun.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1463304422,
+    "expire_in": 157680000,
+    "prev": "6ed6090d4ddbec47bec9569f3cf3029c00869edc46d2e769e78312a457fe1f04",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBRRGN5Vy5QKrVQoQ5ke1DI9M2eua4pFFwpSAiNjrWXmzBkdtZ11
+dl1vCD5EprGBuZX1YKUVoZSFBBUppRGW9hBZD71khWIXoUzTCrEzlm89dh7O5f+/
+7zvf//M/WhFqi7Q3pudmD8XS9+2DD5vLbQfE7LEaSjHUKspRQ5XghQOXqtjrc5Xo
+KuWgAA1oTCMWqTRWIEK8xDAShwVRBbwmcBwtA6zSiqYBCBGAjCrJIpJlgKDCIZEB
+jMwyQKZSKU13F2LTY+puH5HFMscKEHAy4CENJQVpDMdyUIAM0QcizZK4ADiVEIsM
+r8Ug5hTZi9N0g8TIw7Vg7x/4/+y7fEEOMwzPAgFDTEQ1FnOCKHOaiBAtSYpCSxbQ
+i023fAQTNFJMqjaVIgG/jrDVU6uIxSRWTR2lKWa5+08xHtPwGcgoJbkin8/jsKi+
+Ko+FrcCK66+KS9HdKukhIfix6dUNN+WgCRL5dEuWZnkIAcsyTCqFKz26iV26heAE
+XgRkWd9gP5HkscoDCaisqioYsQLZJI6XNIg0CBgJASDyElYRy6sMFshVECFNusEJ
+GqY1wFJWXWVug3JAYlMuJJJevdAt+8pNTNX2PSgIs9kjbUuXhFizZYuMiFqcuOSp
+ZbYrQxXXn12rn3/3st5ZdGnL3bYPR1tzaoNzjsB41MG2nc33NqaEnPk0u7rqy7Hk
+fmEyQ5/Oq0k4H9c+mxEfcjFy+VvM3Ig9vlwLhj6+FR446bmTNRHeNyi6XBnfWp7i
+6eK6xLW5pw71F34NRNfhptj9Lvu5VdFxEZlZtztWvrBt/vijdH2xnHdzIl+pKuiA
+A6+3r0v42SpOze9+nlc60jmuPNmRYoQ5qxv2fW/btidxJql7ODC/tbFs8rI0/eb0
+yN5NLZ/tTvgrtWtmTXdl+mims+dEjr9GHw7O8XQgxh+RX92Z9Kq3d1dXb8/V8KbD
+Fwo2eOOD4QNnx4LpfqV9tCHm/W/QMjob
+=7owQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cbr
+
+==================================================================
