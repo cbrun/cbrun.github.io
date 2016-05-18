@@ -3,7 +3,6 @@ layout: post
 title: Ecore.ecore using EcoreTools
 categories: [eclipse]
 tags: [ecore, eclipse, ecoretools]
-draft: true
 ---
 
 A few weeks ago I ended up on the following thread on the [EMF Forum](https://www.eclipse.org/forums/index.php/f/108/) asking for [Ecore meta-model formal documentation?](https://www.eclipse.org/forums/index.php/t/1076719/).
@@ -24,7 +23,9 @@ As the maintainer of EcoreTools I had to do something about it, and so I did:
 Tadaa!
 
 The following diagrams have been created thanks to [EcoreTools](www.eclipse.org/ecoretools) which is part of the [Eclipse Modeling Package](https://www.eclipse.org/downloads/packages/).
-All the hard work has been done earlier by Ed when he had to decide what to display and how, all I did is reproduce those using EcoreTools and exporting those at a fairly high resolution (click on the images to get the full resolution).
+All the hard work has been done earlier by Ed when he had to decide what to display and how, all I did is reproduce those using EcoreTools and exporting those at a fairly high resolution (click on the images to get the full resolution). 
+
+*The corresponding patchset for EMF is [here](https://git.eclipse.org/r/#/c/71892/).*
 
 But beside this anecdotic action there is something interesting and more general in how these diagrams are presenting the Ecore.ecore model.
 
