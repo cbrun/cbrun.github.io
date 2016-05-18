@@ -22,7 +22,7 @@ As the maintainer of EcoreTools I had to do something about it, and so I did:
 
 Tadaa!
 
-The following diagrams have been created thanks to [EcoreTools](www.eclipse.org/ecoretools) which is part of the [Eclipse Modeling Package](https://www.eclipse.org/downloads/packages/).
+The following diagrams have been created thanks to [EcoreTools](https://www.eclipse.org/ecoretools) which is part of the [Eclipse Modeling Package](https://www.eclipse.org/downloads/packages/).
 All the hard work has been done earlier by Ed when he had to decide what to display and how, all I did is reproduce those using EcoreTools and exporting those at a fairly high resolution (click on the images to get the full resolution). 
 
 *The corresponding patchset for EMF is [here](https://git.eclipse.org/r/#/c/71892/).*
