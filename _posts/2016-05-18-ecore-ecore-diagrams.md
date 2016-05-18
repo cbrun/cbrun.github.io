@@ -60,15 +60,14 @@ You can also enable the *Constraints* layer which gives a bit more information a
 </figure>
 
 
-Here is a general diagram highlighting the references and attributes. It might look a bit crowded at first but it is filled with information. You can get and understand how all of the primary aspects of Ecore are working
-with just this diagram.
+Here is a general diagram highlighting the references and attributes. It might look a bit crowded at first but it is filled with information. You can get and understand how all of the primary aspects of Ecore are working just using this diagram.
 
 <figure>
     <a href="{{ site.url }}/images/blog/ecore-components-detail.jpg"><img src="{{ site.url }}/images/blog/ecore-components-detail-small.jpg"></a>    
     <figcaption>The Ecore Components have the following relations, attributes, and operations</figcaption>
 </figure>
 
-That's the kind of diagrams for which you really want to know a few shortcuts, among others:
+for this kind of diagrams you really want to know a few keyboard shortcuts, among others:
 
 | ... | ... | ... |
 |Hide element| ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) + ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_H_T.png) | [->doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Hidingelements) |
@@ -100,7 +99,7 @@ The last diagrams are enumerating datatypes.
     <figcaption>Ecore defines the data types for the following Java language types</figcaption>
 </figure>
 
-For these kind of diagrams your best friends are the **Make same size**, **Distribute** and **Align** actions.
+For these kind of diagrams with many un-connected shapes your best friends are the **Make same size**, **Distribute** and **Align** actions.
 
 <figure>
     <a href="{{ site.url }}/images/blog/ecore-ecore-samesize.png"><img src="{{ site.url }}/images/blog/ecore-ecore-samesize.png"></a>    
