@@ -6,7 +6,7 @@ draft: true
 tags: [eclipse, eclipsecon]
 ---
 
-<img src="{{ site.url }}images/blog/ece-program.jpg" style="float: right;">
+<img src="{{ site.url }}/images/blog/ece-program.jpg" style="float: right;">
 <br>
 <br>
 
