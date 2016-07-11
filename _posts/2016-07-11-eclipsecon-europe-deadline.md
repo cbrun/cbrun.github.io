@@ -6,6 +6,10 @@ draft: true
 tags: [eclipse, eclipsecon]
 ---
 
+<img src="http://2.bp.blogspot.com/-4lWOBVP_3Ew/VCAbyge940I/AAAAAAAAWKA/Xclhb38hAcc/s1600/10552643724_92108f6723_z.jpg" style="float: right;">
+<br>
+<br>
+
 Europeans have been *slightly* busy lately but now that the tournament is over no doubt many people will focus on the next big event in Europe: **EclipseCon**!
 
 The call for paper is closing in exactly one week (Monday, 18th) so don't procrastinate, especially when you are French and are planning to take the [opportunity of a long weekend](https://en.wikipedia.org/wiki/Bastille_Day)!
