@@ -6,7 +6,7 @@ draft: true
 tags: [eclipse, eclipsecon]
 ---
 
-<img src="http://2.bp.blogspot.com/-4lWOBVP_3Ew/VCAbyge940I/AAAAAAAAWKA/Xclhb38hAcc/s1600/10552643724_92108f6723_z.jpg" style="float: right;">
+<img src="{{ site.url }}images/blog/ece-program.jpg" style="float: right;">
 <br>
 <br>
 
@@ -14,7 +14,9 @@ Europeans have been *slightly* busy lately but now that the tournament is over n
 
 The call for paper is closing in exactly one week (Monday, 18th) so don't procrastinate, especially when you are French and are planning to take the [opportunity of a long weekend](https://en.wikipedia.org/wiki/Bastille_Day)!
 
-"Why not wait until the last minute like every year?" Here are a few things to consider:
+> "Why not wait until the last minute like every year?" 
+
+Here are a few things to consider:
 
 * the community voting is open for this conference, the sooner your talk is submitted, the more eyes will go over it and might vote for it. With already more than **129** [submissions](https://www.eclipsecon.org/europe2016/program/sessions/proposed) everything counts.
 * the program committee is reviewing the proposals pretty much as they come, if we comment your proposal or ask for clarifications submitting early gives everybody more time to react. Once the deadline is over the selection phase is quite short!
