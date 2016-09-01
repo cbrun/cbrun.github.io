@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 〈Breaking News Eclipse Sirius 〉SiriusCon 2016 is coming!
+title: 〈Breaking News Eclipse Sirius〉SiriusCon 2016 is coming!
 categories: [eclipse]
 tags: [eclipse, sirius, siriuscon]
 draft: true
