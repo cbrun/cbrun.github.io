@@ -5,7 +5,7 @@ categories: [eclipse]
 tags: [eclipse, sirius, siriuscon]
 ---
 
-The team is not only polishing Sirius 4.1.0 which is planned for the end of September, but also preparing for the ultimate event for the Sirius community aka SiriusCon! 
+The team is not only polishing Sirius 4.1.0 which is planned for the end of September, but also preparing for the ultimate event for the Sirius community aka [SiriusCon](http://www.siriuscon.org/)! 
 
 We organized the first edition last year with the help of the Eclipse Fundation: a one-day free event with two tracks filled with highly specialized talks and sessions dedicated to discovery. It looks like we stroke a right balance and feedback was excellent for the first edition.  It is with excitement and anticipation that we are preparing SiriusCon 2016 based on the same fundamentals:
 
