@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SiriusCon 2016 is coming!
+title: [Breaking News Eclipse Sirius] SiriusCon 2016 is coming!
 categories: [eclipse]
 tags: [eclipse, sirius, siriuscon]
 draft: true
@@ -46,11 +46,12 @@ You never used Sirius? We also got you covered with a beginner tutorial in the a
 
 
 ### The discussions
-And of course as the value of such event is also all the discussions you will have, friendly breaks and buffet lunch featuring awesome french food!
+
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Lunch time at <a href="https://twitter.com/hashtag/SiriusCon?src=hash">#SiriusCon</a>! A break before afternoon technical sessions and tutorial <a href="https://t.co/962sWI5kXI">pic.twitter.com/962sWI5kXI</a></p>&mdash; Frédéric Madiot (@fmadiot) <a href="https://twitter.com/fmadiot/status/672386048484339712">3 décembre 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+And of course as the value of such event is also all the discussions you will have, friendly breaks and buffet lunch featuring awesome french food!
 
 ### A free event
 
