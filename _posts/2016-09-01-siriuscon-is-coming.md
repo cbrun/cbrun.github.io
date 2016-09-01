@@ -3,7 +3,6 @@ layout: post
 title: 〈Breaking News Eclipse Sirius〉SiriusCon 2016 is coming!
 categories: [eclipse]
 tags: [eclipse, sirius, siriuscon]
-draft: true
 ---
 
 The team is not only polishing Sirius 4.1.0 which is planned for the end of September, but also preparing for the ultimate event for the Sirius community aka SiriusCon! 
