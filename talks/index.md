@@ -4,8 +4,11 @@ title: Talks and Papers
 permalink: /talks/
 ---
 
-## 2015
+## 2016
+* [Modeling Avengers : OSS Technology Mix for Saving the World] at EclipseCon France 2016, Toulouse ([slides](http://cedric.brun.io/talks/ModelingAvengers/#/))
 * [Modeling Avengers : OSS Technology Mix for Saving the World](http://www.infoq.com/presentations/smart-farming-system-tools) at EclipseCon North America 2016, Washington ([slides](http://cedric.brun.io/talks/ModelingAvengers/#/), [video](http://www.infoq.com/presentations/smart-farming-system-tools))
+
+## 2015
 * [Sirius : Origins, Present, Future](http://cedric.brun.io/talks/SiriusOriginsPresentFuture/#/) at SiriusCon 2015, France, Paris
 * [Domain Globalization: Using Languages to Support Technical and Social Coordination](http://www.springer.com/us/book/9783319261713) within the book 'Globalizing Domain-Specific Languages', Springer.
 * [A Solution to the TTC'15 Model Execution Case Using the GEMOC Studio](https://hal.inria.fr/hal-01152342/), Transformation Tool Contest 2015.
