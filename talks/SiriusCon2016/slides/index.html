@@ -1,0 +1,419 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<title>SiriusCon 2016</title>
+
+<link rel="stylesheet" href="css/reveal.css">
+<link rel="stylesheet" href="css/theme/obeo.css">
+
+<!-- Theme used for syntax highlighting of code -->
+<link rel="stylesheet" href="lib/css/zenburn.css">
+
+<!-- Printing and PDF exports -->
+<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+</head>
+<body>
+	<div class="reveal">
+		<div class="slides">
+
+
+			<section data-background="pics/sirius-b.jpg" style="text-align: left;">
+				<h3>Eclipse Sirius</h3>
+				<h2>SiriusCon 2016</h2>
+
+				<p style="text-align: right;">
+					<small><a href="http://cedric.brun.io/">Cédric Brun</a>, OBEO (<a href="http://twitter.com/bruncedric">@bruncedric</a>)</small></small>
+				</p>
+				<p style="text-align: right;">
+					<small>Slides available at http://cedric.brun.io/talks/SiriusCon2016/</small>
+				</p>
+				<aside class="notes">To really grasp what is coming forward we need to have a look on Sirius fundamentals.</aside>
+			</section>
+
+			<section>
+				<h2>Agenda</h2>
+				<ol>
+					<li class="fragment fade-in">The Foundations of Sirius</li>
+					<li class="fragment fade-in">New and Noteworthy</li>
+					<li class="fragment fade-in">The rise of a community</li>
+					<li class="fragment fade-in">Next steps</li>
+				</ol>
+			</section>
+			<!--
+Obeo colors:
+#009DB5 (vert base)
+#47BCC2 (vert base clair)
+#007888 (vert dark)
+#B9DEE1 (vert clair)
+#FBB807 (jaune)
+ -->
+			<section>
+
+				<section data-background="./pics/world.jpg">
+					<h2>&ldquo;World-class modeling tools made easy.&rdquo;</h2>
+				</section>
+
+				<section data-background="pics/sprout.jpg">
+					<h2 class="block">The Foundations of Sirius</h2>
+					<aside class="notes">Pilars of Sirius</aside>
+				</section>
+
+				<section data-background="./pics/A350wiring.jpg">
+					<h3 class="block fragment fade-in">Real-World ready</h3>
+				</section>
+
+				<section data-background="./pics/quote.jpg">
+					<p style="font-family: Georgia, serif;">
+						<span style="font-size: 60px; font-weight: bold; color: #999;">&ldquo;</span>Do not compromise on your domain model. <br> Tooling and metamodels are perpendicular<span style="font-family: Georgia, serif; font-size: 60px; font-weight: bold; color: #999;">&rdquo;</span>
+					</p>
+				</section>
+
+				<section data-background="./pics/toast-floor.jpg"></section>
+				<section data-background="./pics/sirius-background.png">
+					<table>
+						<thead>
+							<tr>
+								<th>Version</th>
+								<th>Date</th>
+								<th>Closed</th>
+								<th>Feature Requests</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><b>4.1.1</b></td>
+								<td><small>Oct 25</small></td>
+								<td>71</td>
+								<td>24</td>
+							<tr>
+								<!-- 
+							<tr>
+								<td>4.1.0</td>
+								<td><small>Oct 25</small></td>
+								<td>60</td>
+								<td>23</td>
+							<tr> -->
+							<tr>
+								<td>3.1.6</td>
+								<td><small>Oct 11</small></td>
+								<td>11</td>
+								<td>-</td>
+							<tr>
+							<tr>
+								<td>4.0.1</td>
+								<td><small>Sept 06</small></td>
+								<td>12</td>
+								<td>1</td>
+							<tr>
+							<tr>
+								<td><b>4.0.0</b><small>(Neon)</small></td>
+								<td><small>June 22</small></td>
+								<td>82</td>
+								<td>15</td>
+							<tr>
+							<tr>
+								<td>3.1.5</td>
+								<td><small>Apr 18</small></td>
+								<td>9</td>
+								<td>-</td>
+							<tr>
+							<tr>
+								<td>3.1.4</td>
+								<td><small>Feb 09</small></td>
+								<td>3</td>
+								<td>-</td>
+							<tr>
+							<tr>
+								<td>3.1.3</td>
+								<td><small>Dec 7</small></td>
+								<td>9</td>
+								<td>2</td>
+							<tr>
+							<tr>
+								<td>3.1.2</td>
+								<td><small>Nov 6</small></td>
+								<td>1</td>
+								<td>1</td>
+							<tr>
+							<tr>
+								<td>3.1.1</td>
+								<td><small>Oct 29</small></td>
+								<td>5</td>
+								<td>-</td>
+							<tr>
+							<tr>
+								<td><b>3.1.0</b></td>
+								<td><small>Oct 15</small></td>
+								<td>65</td>
+								<td>16</td>
+							<tr>
+							<tr>
+								<td>Total</td>
+								<td></td>
+								<td><b>268</b></td>
+								<td><b>59</b></td>
+								<td></td>
+							<tr>
+						</tbody>
+					</table>
+				</section>
+				<section data-background="./pics/adaptable.jpg">
+					<h3 class="block fragment fade-in">Adaptable</h3>
+				</section>
+				<section data-background="./pics/fire-wheel.jpg">
+					<h3 class="block fragment fade-in">Fast Iterations</h3>
+				</section>
+
+
+				<section data-background="./pics/lego.jpg">
+					<h3 class="block fragment fade-in">Part of a whole</h3>
+				</section>
+
+				<section data-background="./pics/eclipse-logo.png">
+					<div style="text-align: left;">
+						<p>&nbsp</p>
+						<p>OpenSource</p>
+						<p>Play well with other technologies</p>
+					</div>
+				</section>
+
+				<section data-background="white" data-transition="fade-in">
+					<img class="stretch" src="pics/recap1.png" />
+				</section>
+				<section data-background="white" data-transition="fade-in">
+					<img class="stretch" src="pics/recap2.png" />
+				</section>
+				<section data-background="white" data-transition="fade-in">
+					<img class="stretch" src="pics/recap3.png" />
+				</section>
+
+
+				<section data-background="./pics/gears.jpg"></section>
+
+				<section data-background="./pics/gears.jpg">
+					<img src="pics/forum.png" />
+					<p class="block">http://www.eclipse.org/forums/eclipse.sirius</p>
+				</section>
+
+				<section data-background="./pics/gears.jpg">
+					<img src="pics/builds.png" />
+					<p class="block">https://hudson.eclipse.org/sirius/</p>
+				</section>
+				<section data-background="./pics/gears.jpg">
+					<img src="pics/gerrit.png" />
+					<p class="block">https://git.eclipse.org/r/#/q/project:sirius/org.eclipse.sirius</p>
+				</section>
+				<section data-background="./pics/gears.jpg">
+					<img src="pics/bugzilla.png" />
+					<p class="block">https://bugs.eclipse.org/bugs</p>
+				</section>
+				<section></section>
+				<section data-background="./pics/fundamentals.png"></section>
+			</section>
+
+
+			<section>
+				<section data-background="pics/flock.jpg">
+					<h2 class="block">The rise of an eco-system</h2>
+				</section>
+
+
+
+				<section data-background="./pics/sirius-background.png">
+					<ul>
+						<li>28/01 - FR - ERTS</li>
+						<li>25/02 - GE - Embedded World</li>
+						<li>10/03 - US - EclipseCon NA</li>
+						<li>21/04 - FR - Devoxx FR</li>
+						<li>13/06 - FR - EclipseCon FR</li>
+						<li>17/06 - FR - Web2Day</li>
+						<li>06/07 - GE - Roadshow Sirius Munich</li>
+						<li>07/10 - FR - Models</li>
+						<li>27/10 - GE - EclipseCon EU</li>
+					</ul>
+				</section>
+
+				<section data-background="./pics/sirius-background.png">
+					<h2 class="fragment fade-in">Reference Technology</h2>
+					<h2 class="fragment fade-in">Enthousiasm</h2>
+				</section>
+
+				<section data-background="pics/monthly-messages.png" data-transition="fade-in"></section>
+				<section data-background="pics/monthly-messages-back.png" data-transition="fade-in">
+					<h2>+1164 posts on the forum in 2016</h2>
+				</section>
+
+				<section data-background="pics/octocat-back.jpg">
+					<h2 class="fragment fade-in">221 authors on Github specifying Sirius based tools</h2>
+					<p class="fragment fade-in">
+						[...] <span class="fragment highlight-current-blue">Paladio Software Architecture Simulator, Soltari NoSQL Visualization</span>, Responsability Model Editor, Fault Tree Analysis, Enterprise Integration Patterns, [...]
+					</p>
+					<aside class="notes">2 projects we identified on Github gave presentations today! (university of Murcia) and (Karlsruhe Institute of Technology))</aside>
+				</section>
+				<section data-background="pics/octocat-back.jpg">
+					<img src="pics/updates-github-annotations.png" />
+				</section>
+
+				<section data-background="pics/octocat-back.jpg">
+					<img src="pics/palladio.png" />
+				</section>
+
+				<section data-background="pics/octocat-back.jpg">
+					<img src="pics/capella.png" />
+				</section>
+
+				<section data-background="pics/od-background.jpg">
+					<img src="pics/uml-installs.png" />
+				</section>
+
+				<section data-background="pics/university.jpg">
+					<div class="block">
+						<h2>Research publications and Master courses</h2>
+						<ul>
+							<li><small>Varró, D. (2016, January). Incremental queries and transformations: From concepts to industrial applications. In International Conference on Current Trends in Theory and Practice of Informatics (pp. 51-59). Springer Berlin Heidelberg. </small></li>
+							<li><small>Combemale, B., Brun, C., Champeau, J., Crégut, X., Deantoni, J., & Le Noir, J. (2016). A Tool-Supported Approach for Concurrent Execution of Heterogeneous Models. In 8th European Congress on Embedded Real Time Software and Systems (ERTS 2016). </small></li>
+							<li><small>Maschotta, R., Jäger, S., & Zimmermann, A. Teaching Model Driven Architecture Approach with the Sirius Project. </small></li>
+							<li><small>Combemale, B., Deantoni, J., Barais, O., Blouin, A., Bousse, E., Brun, C., ... & Vojtisek, D. (2015). A Solution to the TTC'15 Model Execution Case Using the GEMOC Studio. In 8th Transformation Tool Contest. CEUR. </small></li>
+							<li><small>López-Fernández, J. J., Garmendia, A., Guerra, E., & de Lara, J. Example-based generation of graphical modelling environments. </small></li>
+							<li><small>Oquendo, F., Leite, J., & Batista, T. (2016, April). Specifying Architecture Behavior with SysADL. In Software Architecture (WICSA), 2016 13th Working IEEE/IFIP Conference on (pp. 140-145). IEEE.</small></li>
+						</ul>
+					</div>
+				</section>
+
+				<section data-background="./pics/sirius-background.png">
+					<h2>Companion technologies</h2>
+					<ul>
+						<li>Viatra: Pattern Langage, Query integration</li>
+						<li>M2Doc: Document generation (MS-Office) from models</li>
+						<li>EMF Compare: diff & merge</li>
+						<li>Xtext: textual syntax and editors</li>
+						<li>Eclipse Layout Kernel: Customizable diagram layout algorithms</li>
+					</ul>
+				</section>
+				<section data-background="./pics/sirius-background.png">
+					<h2>EMF Compare</h2>
+				</section>
+				<section data-background="./pics/sirius-background.png">
+					<h2>Xtext</h2>
+				</section>
+				<section data-background="./pics/sirius-background.png">
+					<h2>Eclipse Layout Kernel</h2>
+				</section>
+			</section>
+
+			<section>
+				<section data-background="pics/gift.jpg">
+					<h2 class="block">New and Noteworthy</h2>
+				</section>
+
+				<section data-background="./pics/engine.jpg">
+					<div class="block">
+						<h2>Acceleo Query Language</h2>
+						<i><p>2015's major addition</p></i>
+					</div>
+				</section>
+
+				<section data-background="./pics/world-flags.jpg">
+					<h2 class="block">I18N</h2>
+				</section>
+
+
+				<section data-background="./pics/calendar.jpg"></section>
+
+				<section data-background="./pics/sirius-background.png">
+					<h2>Rich Properties View</h2>
+					<img src="pics/properties.png" />
+					<aside class="notes">It's important for 99% of the Sirius users.</aside>
+				</section>
+
+				<section data-background="./pics/paper.jpg">
+					<aside class="notes">A complete new dimension for your tool. The capability to streamline your workflows!</aside>
+				</section>
+
+
+				<section data-background="./pics/matrioska.jpg">
+					<!-- poupee russe? -->
+
+					<aside class="notes">That's not it, demo time!</aside>
+				</section>
+
+				<section>
+					<h3>from the End User POV</h3>
+					<ul>
+						<li>Mouse midle click and zoom</li>
+						<li>Paste Format, Layout & Style</li>
+						<li>Image export quality</li>
+						<li>Straighten Edges, Display links,Snap back</li>
+						<li>SVG rendering at different zoom levels</li>
+					</ul>
+				</section>
+
+				<section>
+					<h3>From the Specifier POV</h3>
+					<ul>
+						<li>Specify post-tool elements to select</li>
+						<li>Side constraints for ports</li>
+						<li>Contribute reusable packs of shapes</li>
+						<li>Improvements in .odesign editor</li>
+					</ul>
+				</section>
+
+				<section>
+					<h3>Under the hood</h3>
+					<ul>
+						<li>Performances</li>
+						<li>First steps to reach another step of scalability</li>
+					</ul>
+				</section>
+
+			</section>
+
+
+
+			<section>
+				<section data-background="pics/pine.jpg">
+					<h2 class="block">Next steps</h2>
+				</section>
+
+
+				<!--
+				
+				Tech content 
+				 -->
+
+				<section>
+					<h2 class="block">Foster the community</h2>
+				</section>
+
+			</section>
+		</div>
+	</div>
+
+	<script src="lib/js/head.min.js"></script>
+	<script src="js/reveal.js"></script>
+
+	<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+</body>
+</html>
