@@ -5,6 +5,7 @@ permalink: /talks/
 ---
 
 ## 2016
+* [Sirius : Roadmap](http://cedric.brun.io/talks/SiriusCon2016/slides/#/) at SiriusCon 2016, France, Paris
 * [Modeling Avengers : OSS Technology Mix for Saving the World](https://www.eclipsecon.org/france2016/session/modeling-avengers-open-source-technology-mix-saving-world) at EclipseCon France 2016, Toulouse ([slides](http://cedric.brun.io/talks/ModelingAvengers/#/))
 * [Modeling Avengers : OSS Technology Mix for Saving the World](http://www.infoq.com/presentations/smart-farming-system-tools) at EclipseCon North America 2016, Washington ([slides](http://cedric.brun.io/talks/ModelingAvengers/#/), [video](http://www.infoq.com/presentations/smart-farming-system-tools))
 
