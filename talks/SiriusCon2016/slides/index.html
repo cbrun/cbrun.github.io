@@ -576,6 +576,7 @@ Obeo colors:
 	<script src="js/reveal.js"></script>
 
 	<script>
+            var gaPropertyID = 'UA-60481050-1';
 			// More info https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
 				history: true,
@@ -585,6 +586,7 @@ Obeo colors:
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
+                    { src: 'node_modules/reveal-ga/dist/reveal-ga.min.js' },
 					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
 				]
 			});
