@@ -1,9 +1,9 @@
 ---
+draft: true
 layout: post
 title: Graphical Modeling from 2016 to 2017: Better, Faster, Stronger
 categories: [eclipse]
 tags: [eclipse, sirius, modeling, emf, acceleo]
-draft: true
 ---
 
 
@@ -26,17 +26,26 @@ At SiriusCon, we had the opportunity to present one of the latest key features o
 
 Now, Sirius provides an integrated way to define properties views in the same way the user is used to defining them in other parts of the designer: no need for coding - it is dynamic and query based. In addition, with [Sirius 4.1](http://www.eclipse.org/sirius/download.html), the user is now able to specify exactly how the properties view should be represented.
 
-![]({{ site.url }}/images/blog/2016-2017/4capture.png)
+<figure>
+    <a href="{{ site.url }}/images/blog/2016-2017/4capture.png"><img src="{{ site.url }}/images/blog/2016-2017/4capture.png"></a>    
+    <figcaption></figcaption>
+</figure>
 
 Sirius 4.1 has default rules based on the type of the elements defined in the metamodel. For example, if the user has defined a string attribute in his metamodel, it will be automatically represented by a text widget; a boolean will be represented by a checkbox, and so on. If the default properties view does not fit the user's needs, no problem: it can be customized.
 
-![]({{ site.url }}/images/blog/2016-2017/5capture.png)
+<figure>
+    <a href="{{ site.url }}/images/blog/2016-2017/5capture.png"><img src="{{ site.url }}/images/blog/2016-2017/5capture.png"></a>    
+    <figcaption></figcaption>
+</figure>
 
 In 2017, we want to go further building on the same fundamentals. We will focus on technologies that are **real-world ready, adaptable, and give instant feedback**.
 
 We’ve been working on the codebase for months already, but next year will see a nice scalability offspring: a core runtime that can scale any number of diagrams or their size while keeping everything consistent like it currently does today. And that’s only under the hood, in a more visible way we’ll hunt for every break a user might encounter in the workflow of using a modeling tool. Here is an example when the user ends up trying to set up diagrams and models while not being the modeling perspective:
 
-![]({{ site.url }}/images/blog/2016-2017/6capture.png)
+<figure>
+    <a href="{{ site.url }}/images/blog/2016-2017/6capture.png"><img src="{{ site.url }}/images/blog/2016-2017/6capture.png"></a>    
+    <figcaption></figcaption>
+</figure>
 
 The model content or diagrams are not visible in the package explorer yet, the Eclipse IDE doesn't have an editor for `.aird` files, and double clicking it will not help. We plan to address this next year by providing a default editor for `.aird` files.
 
@@ -45,7 +54,10 @@ This editor gives us a whole new dimension to present your tooling features and 
 
 Hear me well, the word “aware” is picked with care and “process driven” is banned in this context. In the end the user gets to decide and the tool should never get in the way, but by making the tool aware of the process or methodology we can make it more helpful. This will first be translated by the integration of the Activity Explorer which got contributed to Amalgam by Thales last year. This allows anyone to define the process activities without writing a single line of code, in the very same way you can currently define diagrams, tables or the properties view, right into the `.odesign` file.
 
-![]({{ site.url }}/images/blog/2016-2017/7capture.png)
+<figure>
+    <a href="{{ site.url }}/images/blog/2016-2017/7capture.png"><img src="{{ site.url }}/images/blog/2016-2017/7capture.png"></a>    
+    <figcaption></figcaption>
+</figure>
 
 Other improvements especially focused on the diagrams are in the works. Here is a mockup of a new mechanism to enrich existing diagram editors, you can think of it as “decorators on steroids”. Follow this [bug](https://bugs.eclipse.org/bugs/show_bug.cgi?id=506259) if you are interested.
 
@@ -53,7 +65,10 @@ Other improvements especially focused on the diagrams are in the works. Here is 
 
 We are in a continuous evolution. We strive to continually improve the user experience and to streamline the complete model environment building process. This means that we have our hands in many Eclipse projects, from Ecore Tools, EMF Compare, Acceleo, Amalgam, EEF to Sirius and improve each of those. We are building various technologies independently while making sure they integrate seamlessly in the final product.
 
-![]({{ site.url }}/images/blog/2016-2017/9capture.png)
+<figure>
+    <a href="{{ site.url }}/images/blog/2016-2017/9capture.png"><img src="{{ site.url }}/images/blog/2016-2017/9capture.png"></a>    
+    <figcaption></figcaption>
+</figure>
 
 [Capella](https://polarsys.org/capella/), one of the solutions provided by Eclipse PolarSys Working Group, is one example of a product aggregating such technologies. It is already a field-proven Model-Based Systems Engineering (MBSE) workbench.
 
