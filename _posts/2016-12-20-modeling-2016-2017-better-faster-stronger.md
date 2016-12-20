@@ -1,5 +1,4 @@
 ---
-draft: true
 layout: post
 title: 'Graphical Modeling from 2016 to 2017: Better, Faster, Stronger'
 categories: [eclipse]
