@@ -4,7 +4,6 @@ layout: post
 title: Graphical Modeling from 2016 to 2017 / Better, Faster, Stronger
 categories: [eclipse]
 tags: [eclipse, sirius, modeling, emf, acceleo]
-date: 2016-12-20 12:00:00
 ---
 
 
