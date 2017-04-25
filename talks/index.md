@@ -4,6 +4,9 @@ title: Talks and Papers
 permalink: /talks/
 ---
 
+## 2017
+* [Great new features and enhancements in the Eclipse IDE](https://www.slideshare.net/mikaelbarbero/whats-new-in-eclipse-oxygen-devoxx-france-2017) at Devoxx (last minute backup for Mikaël), France, Paris,  [video](https://www.youtube.com/watch?v=jIcFiFZppSw)
+
 ## 2016
 * [Sirius : Roadmap](http://cedric.brun.io/talks/SiriusCon2016/slides/#/) at SiriusCon 2016, France, Paris
 * [Modeling Avengers : OSS Technology Mix for Saving the World](https://www.eclipsecon.org/france2016/session/modeling-avengers-open-source-technology-mix-saving-world) at EclipseCon France 2016, Toulouse ([slides](http://cedric.brun.io/talks/ModelingAvengers/#/))
