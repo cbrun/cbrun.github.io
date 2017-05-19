@@ -6,7 +6,10 @@ tags: [eclipse, sirius, modeling, emf, acceleo]
 draft: true
 ---
 
-Every year the Eclipse M7 milestone act as a very strong deadline: pencils down, it was your last chance to introduce something new, it's now time for polishing and refining!
+Every year the Eclipse M7 milestone act as a very strong deadline for the projects which are part of the release train: it's then time for polishing and refining!
+
+<blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Time&#39;s up ! Pencils down, it&#39;s M7 !</p>&mdash; Cédric Brun (@bruncedric) <a href="https://twitter.com/bruncedric/status/13356256886">4 mai 2010</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 When your company is responsible for a number of inter-dependent projects some of them core technologies like [EMF Services](https://projects.eclipse.org/projects/modeling.emfservices){:target="_blank"} , the GMF Runtime, others user facing tools like  [Acceleo](http://www.eclipse.org/acceleo/){:target="_blank"},  [Sirius](http://www.eclipse.org/sirius/){:target="_blank"} or [EcoreTools](https://www.eclipse.org/ecoretools/){:target="_blank"}, packaging and integration oriented projects like Amalgam or the Eclipse Packaging project and all of these releases needs to be coordinated, then may is a busy month.
 
