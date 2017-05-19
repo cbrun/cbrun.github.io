@@ -3,7 +3,6 @@ layout: post
 title: 'EcoreTools: user experience revamped thanks to Sirius 5.0'
 categories: [eclipse]
 tags: [eclipse, sirius, modeling, emf, acceleo]
-draft: true
 ---
 
 Every year the Eclipse M7 milestone act as a very strong deadline for the projects which are part of the release train: it's then time for polishing and refining!
