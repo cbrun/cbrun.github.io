@@ -37,6 +37,7 @@
     {% for post in site.posts %}  
     {% unless post.draft %}
     {% unless post.next %}
+    {% unless post.noindex %}
       <h3>{{ post.date | date: '%Y' }}</h3>
       {% else %}
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -53,6 +54,7 @@
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
       </article>
+    {% endunless %}
     {% endunless %}
     {% endfor %}
     <h3>Drafts</h3>    
