@@ -5,6 +5,8 @@ permalink: /talks/
 ---
 
 ## 2017
+* [Integrating Xtext and Sirius: Strategies and Pitfalls](https://www.slideshare.net/cbrun/integrating-xtext-and-sirius-strategies-and-pitfalls) at EclipseCon France 2017, Toulouse
+* [EcoreTools-Next: Executable DSL made (more) accessible](https://www.slideshare.net/cbrun/ecoretoolsnext-executable-dsl-made-more-accessible) at EclipseCon France 2017, Toulouse  [video](https://www.youtube.com/watch?v=x4viqEFN7PU)
 * [Great new features and enhancements in the Eclipse IDE](https://www.slideshare.net/mikaelbarbero/whats-new-in-eclipse-oxygen-devoxx-france-2017) at Devoxx (last minute backup for Mikaël), France, Paris,  [video](https://www.youtube.com/watch?v=jIcFiFZppSw)
 
 ## 2016
