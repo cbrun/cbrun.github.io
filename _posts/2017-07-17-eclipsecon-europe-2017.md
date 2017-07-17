@@ -16,7 +16,7 @@ By my count we already have more than 170 submissions and the usual **last minut
 
 **In the next few hours the call for papers will be closed**: now is a good time to hit that submit button. Small is beautiful: submit abstracts which are "to the point" are giving clear insight into what content and structure you are proposing. No need for 400 words of context, stick to what makes your submission relevant to EclipseCon and interesting to share.
 
-See you there!
+[submit your talk now !](https://www.eclipsecon.org/europe2017/cfp) and see you there!
 
 <figure>
     <a href="{{ site.url }}/images/blog/ece-2016.jpg"><img src="{{ site.url }}/images/blog/ece-2016.jpg"></a>    
