@@ -19,7 +19,7 @@ By my count we already have more than 170 submissions and the usual **last minut
 [submit your talk now !](https://www.eclipsecon.org/europe2017/cfp) and see you there!
 
 <figure>
-    <a href="{{ site.url }}/images/blog/ece-2016.jpg"><img src="{{ site.url }}/images/blog/ece-2016.jpg"></a>    
+    <a href="{{ site.url }}/images/blog/ece-2016-full.jpg"><img src="{{ site.url }}/images/blog/ece-2016.jpg"></a>    
     <figcaption>Memories from EclipseCon 2016</figcaption>
 </figure>
 
