@@ -3,7 +3,11 @@ layout: post
 title: Psst, psst, you might want to submit right now for EclipseCon Europe!
 categories: [eclipse]
 tags: [eclipse, eclipsecon]
+<<<<<<< HEAD
 nodeindex: true
+=======
+noindex: true
+>>>>>>> add blog post for ECE 2017
 ---
 
 <img src="{{ site.url }}/images/blog/ece-program.jpg" style="float: right;">
