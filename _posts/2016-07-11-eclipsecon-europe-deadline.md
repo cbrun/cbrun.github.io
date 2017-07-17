@@ -3,11 +3,7 @@ layout: post
 title: Psst, psst, you might want to submit right now for EclipseCon Europe!
 categories: [eclipse]
 tags: [eclipse, eclipsecon]
-<<<<<<< HEAD
 nodeindex: true
-=======
-noindex: true
->>>>>>> add blog post for ECE 2017
 ---
 
 <img src="{{ site.url }}/images/blog/ece-program.jpg" style="float: right;">
@@ -29,5 +25,3 @@ Here are a few things to consider:
 I wish I gave you the extra push you needed to move this task up in your schedule, go ahead and [submit your talk now !](https://www.eclipsecon.org/europe2016/cfp)
 
 ![](https://media.giphy.com/media/xkmQfH1TB0dLW/giphy.gif)
-
-
