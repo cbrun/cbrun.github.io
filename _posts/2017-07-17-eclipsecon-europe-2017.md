@@ -3,6 +3,7 @@ layout: post
 title: 'You only have a few more hours to submit to EclipseCon Europe!'
 categories: [eclipse]
 tags: [eclipse, eclipsecon]
+noindex: true
 ---
 
 I'm deeply honored of being part of the [program committee](https://www.eclipsecon.org/europe2017/about-pc) again for EclipseCon Europe 2017.
