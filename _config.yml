@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            CTO @ Obeo
+title:            <s>CTO</s> CEO @ Obeo
 locale:           en_US
 url:              http://cedric.brun.io
 
@@ -27,7 +27,7 @@ kramdown:
 owner:
   name: Cédric Brun
   avatar: bio-photo.jpg
-  bio: " Building kick-ass products in Eclipse and on Eclipse."
+  bio: " Build open-source technologies to enable mission critical tools for complex domains."
   email: cedric.brun@obeo.fr
   disqus-shortname: 
   twitter: bruncedric
@@ -56,5 +56,7 @@ owner:
   flickr: #username
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md","talks/etc","talks/lib", "talks/ModelingAvengers","talks/Sirius300FasterStrongerSmarter", "talks/SiriusCon2016","talks/SiriusOriginsPresentFuture"]
 
+plugins:
+      - jekyll-sitemap
