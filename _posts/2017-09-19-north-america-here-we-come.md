@@ -90,5 +90,8 @@ We’ll pursue our commitment in enabling open and efficient tools, you can join
 
 Obeo goes international and brings open modeling technologies and systems engineering tools in North America! With this evolution my mission changes and I face exciting challenges, I'll undertake with the wonderful talents forming the company. I’m enthusiastic about the future we’ll contribute to building, a future filled with tools supporting many domains based on open technology!
 
+---------------------------
+
+Learn more about this news through [Mélanie's blog post](http://melb.enix.org/2017/09/19/zero-to-cto/) and [Obeo's summary](https://blog.obeo.fr/en/post/obeo-goes-west)
 
 
