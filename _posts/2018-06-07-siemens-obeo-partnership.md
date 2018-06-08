@@ -40,7 +40,7 @@ Second, it's a public endorsement from one of the top high-tech multinational co
 
 
 
-Last but not least, adopters of those technologies will benefit from new integration points and means to leverage their models during the entire product lifecycle, and that's what modeling is all about: using the model, iterating over it, refining it; as a living artifact, one that is shared and not as something gathering dust in a corner.
+Even more importantly adopters of those technologies will benefit from new integration points and means to leverage their models during the entire product lifecycle, and that's what modeling is all about: using the model, iterating over it, refining it; as a living artifact, one that is shared and not as something gathering dust in a corner.
 
 
 
