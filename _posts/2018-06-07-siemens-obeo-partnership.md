@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siemens partnering with Obeo on Model Based Systems Engineering solution: a major recognition for OSS
+title: Siemens partnering with Obeo on Model Based Systems Engineering solution - a major recognition for OSS
 categories: [eclipse]
 tags: [eclipse, sirius, capella]
 draft: true
