@@ -2,6 +2,23 @@
    Sass variables
    ========================================================================== */
 
+$serif: Georgia, Times, serif !default;
+$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+
+/* sans serif typefaces */
+$sans-serif-narrow: $sans-serif !default;
+$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+
+/* serif typefaces */
+$georgia: Georgia, serif !default;
+$times: Times, serif !default;
+$bodoni: "Bodoni MT", serif !default;
+$calisto: "Calisto MT", serif !default;
+$garamond: Garamond, serif !default;
+
+
 /* 
    Typography
    ========================================================================== */
@@ -9,7 +26,7 @@
 $doc-font-size: 16;
 $doc-line-height: 26;
 $paragraph-indent: true !default;
-$base-font:"-apple-system,BlinkMacSystemFont","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+$base-font: $sans-serif !default;
 $heading-font: 'PT Sans Narrow', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
