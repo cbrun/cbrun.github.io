@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siemens partnering with Obeo on Model Based Systems Engineering solution - a major recognition for OSS
+title: Siemens partnering with Obeo on Model Based Systems Engineering solution - a major recognition for OSS Modeling Techs
 categories: [eclipse]
 tags: [eclipse, sirius, capella]
 draft: true
@@ -47,11 +47,12 @@ Even more importantly adopters of those technologies will benefit from new integ
 These are pretty exciting prospects ahead, no doubt this will be a central subject during [EclipseCon France](https://www.eclipsecon.org/france2018/) next week. Note that we'll hold a [Capella workshop](https://www.eclipsecon.org/france2018/schedule_item/capella-workshop) during the Unconference and that it's still time to [register](https://www.eclipsecon.org/france2018/registration)!
 
 
-
 See you next week!
 
-
-
+<figure>
+    <a href="https://www.eclipsecon.org/france2018/"><img src="https://www.eclipsecon.org/france2018/sites/all/themes/solstice/_themes/solstice_eclipsecon_france2018/logo.png"></a>    
+    <figcaption></figcaption>
+</figure>
 
 
 
