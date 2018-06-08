@@ -3,7 +3,6 @@ layout: post
 title: Siemens partnering with Obeo on Model Based Systems Engineering solution - a major recognition for OSS Modeling Techs
 categories: [eclipse]
 tags: [eclipse, sirius, capella]
-draft: true
 ---
 
 You might have already heard the news, earlier this week during [Siemens PLM Connection Americas 2018](http://siemensplmconnectionamericas.org/), Joe Bohman announced that Siemens PLM was partnering with Obeo.
