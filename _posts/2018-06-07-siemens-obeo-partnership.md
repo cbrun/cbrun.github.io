@@ -36,7 +36,7 @@ First it's another strong data point demonstrating that MBSE is a key enabler in
 
 
 
-Second, it's a public recognition of one of the top international high-tech multinational company that the OpenSource technologies built through the Eclipse Foundation and the Polarsys Working Group, in this case Acceleo, Sirius and Capella are innovation enablers. Our contribution is fundamental to those and as such this clearly strengthen these projects but also our vision and strategy!
+Second, it's a public endorsement from one of the top high-tech multinational company that the OpenSource technologies built through the Eclipse Foundation and the Polarsys Working Group, in this case Acceleo, Sirius and Capella are innovation enablers. Our contribution is fundamental to those and as such this clearly strengthen these projects but also our vision and strategy!
 
 
 
