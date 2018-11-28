@@ -4,7 +4,7 @@ https://keybase.io/cbr
 
 I hereby claim:
 
-  * I am an admin of http://cedric.brun.io
+  * I am an admin of https://cedric.brun.io
   * I am cbr (https://keybase.io/cbr) on keybase.
   * I have a public key with fingerprint EA54 7305 A063 139B CF25  4537 3292 2081 4063 705D
 
