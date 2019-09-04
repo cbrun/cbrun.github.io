@@ -3,7 +3,6 @@ layout: post
 title: The Rising Adoption of Capella
 categories: [eclipse]
 tags: [eclipse, capella, smw]
-draft: true
 ---
 
 Witnessing an OSS technology getting together with a wide group of users is something I find exhilarating, I have experienced it with Acceleo, EMF Compare and Eclipse Sirius along the years, each time in different contexts and at different scales but discovering what is being done by others with a technology is always a source of excitement to me.
