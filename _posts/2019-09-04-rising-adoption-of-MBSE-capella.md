@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: The Rising Adoption of Capella
 categories: [eclipse]
 tags: [eclipse, capella, smw]
 draft: true
