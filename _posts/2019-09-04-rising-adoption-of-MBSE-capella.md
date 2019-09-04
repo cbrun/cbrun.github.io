@@ -47,7 +47,7 @@ The agenda is filled with general presentations, feedback by industrial users ab
     <figcaption>The program of Capella Day Munich 2019</figcaption>
 </figure>
 
-**You might want to hurry as we are almost sold out and such occasions are pretty unique!**
+**You might [want to hurry as we are almost sold out](https://polarsys.org/capella/capella_day_munich_2019.html){:target="_blank"} and such occasions are pretty unique!**
 
 I sincerely hope you'll enjoy it, we are working hard to make it a success :-), if you can't make it this time then know there are more occasions to come: [AOSEC](https://www.incose.org/events-and-news/search-events/2019/10/17/default-calendar/asia-oceania-systems-engineering-conference-2019---call-for-papers){:target="_blank"} in Bangalore, EclipseCon in Germany (again!) where there might be a workshop focused on "MBSE at Eclipse" (Please add your name and interest on [the corresponding wiki page](https://wiki.eclipse.org/ECE2019_MBSE_at_Eclipse){:target="_blank"} )
 
