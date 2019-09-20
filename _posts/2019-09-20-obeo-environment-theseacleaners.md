@@ -27,8 +27,7 @@ Starting now, **you won't get any more goodies from us at conferences or events*
 
 
 <figure>
-    <a href="https://www.theseacleaners.org/en/"><img src="{{ site.url }}/images/blog/seacleaners/seacleaners.png"  style="float: right;" ></a>  
-    <figcaption>The SeaCleaners</figcaption>
+    <a href="https://www.theseacleaners.org/en/"><img src="{{ site.url }}/images/blog/seacleaners/seacleaners.png"  style="float: right;" ></a>      
 </figure>
 
 
