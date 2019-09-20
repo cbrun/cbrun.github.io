@@ -29,8 +29,18 @@ Starting now, **you won't get any more goodies from us at conferences or events*
 In relation to this initiative to stop producing waste we do not deem necessary: **Obeo is partnering with The SeaCleaners organization to reduce plastic waste**. [The SeaCleaners](https://www.theseacleaners.org/en){:target="_blank"} is building a giant multihull boat designed to retrieve the plastic waste in the Ocean: The **MANTA**. The organization vision is that the preservation of the oceans is a global, long-term and worldwide matter that integrates economic, social, human, educational and scientific perspectives. They do that in a dynamic and solidarity-based project.
 
 
+<figure>
+    <a href="https://www.theseacleaners.org/en/technical-data/"><img src="{{ site.url }}/images/blog/seacleaners/manta.png"></a>  
+    <figcaption>The "Manta"</figcaption>
+</figure>
+
 
 Furthermore, **all the designs and blueprints of the Manta boat will be Open-Source** and that enable enhancements and duplication at a global scale, a principle clearly aligned with our values and what we do within the Eclipse community.
+
+<figure>
+    <a href="https://www.theseacleaners.org/en/technical-data/"><img src="{{ site.url }}/images/blog/seacleaners/manta-tech.png"></a>  
+    <figcaption>The "Manta" boat technical data</figcaption>
+</figure>
 
 
 
