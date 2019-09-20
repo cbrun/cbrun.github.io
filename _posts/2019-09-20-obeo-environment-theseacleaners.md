@@ -2,7 +2,6 @@
 layout: post
 title: Let's Do It! Obeo loves The SeaCleaners
 categories: [eclipse]
-draft: true
 tags: [eclipse, obeo, ecology]
 ---
 
@@ -32,7 +31,7 @@ Starting now, **you won't get any more goodies from us at conferences or events*
 
 
 In relation to this initiative to stop producing waste we do not deem necessary: **Obeo is partnering with The SeaCleaners organization to reduce plastic waste**. [The SeaCleaners](https://www.theseacleaners.org/en){:target="_blank"} is building a giant multihull boat designed to retrieve the plastic waste in the Ocean: The **MANTA**. The organization vision is that the preservation of the oceans is a global, long-term and worldwide matter that integrates economic, social, human, educational and scientific perspectives. They do that in a dynamic and solidarity-based project.
-You can [learn more about this initiative on Obeo's website](https://news.obeo.fr){:target="_blank"}.
+You can [learn more about this initiative on Obeo's website](https://news.obeo.fr/en/post/world-cleanup-day-obeo-supports-the-seacleaners-to-reduce-plastic-waste){:target="_blank"}.
 
 
 <figure>
