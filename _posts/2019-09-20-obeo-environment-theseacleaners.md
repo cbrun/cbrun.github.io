@@ -26,7 +26,14 @@ Starting now, **you won't get any more goodies from us at conferences or events*
 
 
 
+<figure>
+    <a href="https://www.theseacleaners.org/en/"><img src="{{ site.url }}/images/blog/seacleaners/seacleaners.png"></a>  
+    <figcaption>The SeaCleaners</figcaption>
+</figure>
+
+
 In relation to this initiative to stop producing waste we do not deem necessary: **Obeo is partnering with The SeaCleaners organization to reduce plastic waste**. [The SeaCleaners](https://www.theseacleaners.org/en){:target="_blank"} is building a giant multihull boat designed to retrieve the plastic waste in the Ocean: The **MANTA**. The organization vision is that the preservation of the oceans is a global, long-term and worldwide matter that integrates economic, social, human, educational and scientific perspectives. They do that in a dynamic and solidarity-based project.
+You can [learn more about this initiative on Obeo's website](https://news.obeo.fr){:target="_blank"}.
 
 
 <figure>
