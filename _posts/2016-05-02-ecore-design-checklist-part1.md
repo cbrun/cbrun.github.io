@@ -3,7 +3,7 @@ layout: post
 title: Metamodel (Ecore) Design Checklist - part 1
 categories: [eclipse]
 tags: [ecore, emf, eclipse]
-noindex: true
+
 ---
 
 **Be meticulous with the model describing your domain!**

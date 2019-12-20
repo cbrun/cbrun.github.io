@@ -3,7 +3,7 @@ layout: post
 title:  EclipseCon Europe 2015 is over but SiriusCon is coming!
 categories: [eclipse]
 tags: [eclipsecon, eclipse, sirius]
-noindex: true
+
 ---
 
 EclipseCon Europe 2015 is over now. This conference is the one in which the "Eclipse Family" feeling is the most inescapable. The downside of this is that one might experience a slight melancholy when the conference is over.
