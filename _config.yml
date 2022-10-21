@@ -26,7 +26,7 @@ kramdown:
 # Site owner
 owner:
   name: Cédric Brun
-  avatar: bio-photo.jpg
+  avatar: bio-photo.avif
   bio: " Build open-source technologies to enable mission critical tools for complex domains."
   email: cedric.brun@obeo.fr
   disqus-shortname: 

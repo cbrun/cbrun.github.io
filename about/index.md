@@ -4,7 +4,7 @@ title: About
 tags: [about, Jekyll, theme, responsive]
 comments: true
 image:
-  feature: sample-image-2.jpg
+  feature: sample-image-2.avif
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
