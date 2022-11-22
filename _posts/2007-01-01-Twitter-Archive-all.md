@@ -11417,7 +11417,7 @@ Replying to [@cboudjennah](https://twitter.com/cboudjennah/status/51540029386210
 
 > Luna SR1 is back on track ! https://dev.eclipse.org/mhonarc/lists/cross-project-issues-dev/msg11129.html 
 > 
-> <video controls><source src="{{ site.url }}/media/515409969039286272-BycaofPIcAA6QIJ.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/515409969039286272-BycaofPIcAA6QIJ.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 26 07:58:07 +0000 2014](https://twitter.com/bruncedric/status/515409969039286272)
 
@@ -11431,7 +11431,7 @@ Replying to [@cboudjennah](https://twitter.com/cboudjennah/status/51540029386210
 
 > This is how rebase -i feels to me right now 
 > 
-> <video controls><source src="{{ site.url }}/media/515524394127749120-ByeCtAkIMAAcii2.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/515524394127749120-ByeCtAkIMAAcii2.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 26 15:32:48 +0000 2014](https://twitter.com/bruncedric/status/515524394127749120)
 
@@ -11848,7 +11848,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/530079
 
 > This is how I feel on some mailling lists... 
 > 
-> <video controls><source src="{{ site.url }}/media/530396768115376128-B1xZDH9IUAARgNc.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/530396768115376128-B1xZDH9IUAARgNc.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 06 16:30:18 +0000 2014](https://twitter.com/bruncedric/status/530396768115376128)
 
@@ -12433,7 +12433,7 @@ Replying to [@waynebeaton and @cra](https://twitter.com/waynebeaton/status/57067
 
 > Victory \o/ 
 > 
-> <video controls><source src="{{ site.url }}/media/571442166221950977-gVjHBEAgoH56BiiD.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/571442166221950977-gVjHBEAgoH56BiiD.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 27 22:50:03 +0000 2015](https://twitter.com/bruncedric/status/571442166221950977)Replying to [@bruncedric](https://twitter.com/melaniebats/status/573108512009658368)
 
@@ -13053,7 +13053,7 @@ Replying to [@AnatolySp](https://twitter.com/AnatolySp/status/600386559595057152
 
 > Eclipse Mars RC3 is available : https://www.eclipse.org/downloads/index-developer-default.php Test and report back ! 
 > 
-> <video controls><source src="{{ site.url }}/media/606848900163633152-CGv128aXIAEIkSz.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/606848900163633152-CGv128aXIAEIkSz.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 05 15:43:47 +0000 2015](https://twitter.com/bruncedric/status/606848900163633152)
 
@@ -13196,7 +13196,7 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 > Virtual blinking LED \o/ :) 
 > 
-> <video controls><source src="{{ site.url }}/media/613347912848932865-CIMMrQgXAAEI9LT.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/613347912848932865-CIMMrQgXAAEI9LT.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 23 14:08:32 +0000 2015](https://twitter.com/bruncedric/status/613347912848932865)
 
@@ -13869,7 +13869,7 @@ Replying to [@bruncedric](https://twitter.com/roxannejoncas/status/6641844654056
 
 > .@roxannejoncas 
 > 
-> <video controls><source src="{{ site.url }}/media/664188306670923776-CTert5oW4AEtb81.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/664188306670923776-CTert5oW4AEtb81.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 10 21:10:06 +0000 2015](https://twitter.com/bruncedric/status/664188306670923776)
 
@@ -13877,7 +13877,7 @@ Replying to [@bruncedric](https://twitter.com/roxannejoncas/status/6641844654056
 
 > #siriuscon is in 3 weeks ! The event is free, but places are limited! Register *now* http://www.siriuscon.org/ 
 > 
-> <video controls><source src="{{ site.url }}/media/664794910713888768-CTnTcpNWwAAZmHy.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/664794910713888768-CTnTcpNWwAAZmHy.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 12 13:20:32 +0000 2015](https://twitter.com/bruncedric/status/664794910713888768)
 
@@ -13893,7 +13893,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6648526912235028
 
 > .@bruncedric 
 > 
-> <video controls><source src="{{ site.url }}/media/664857554393149443-CToMa_DW4AASlGf.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/664857554393149443-CToMa_DW4AASlGf.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 12 17:29:28 +0000 2015](https://twitter.com/bruncedric/status/664857554393149443)
 
@@ -13963,7 +13963,7 @@ Replying to [@vcaselli and @EclipseFdn](https://twitter.com/vcaselli/status/6662
 
 > Current focus preparing a submission to @EclipseCon NA 2016. 
 > 
-> <video controls><source src="{{ site.url }}/media/667693006154293248-CUQfP-WWwAA0goF.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/667693006154293248-CUQfP-WWwAA0goF.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 20 13:16:32 +0000 2015](https://twitter.com/bruncedric/status/667693006154293248)
 
@@ -13977,7 +13977,7 @@ Replying to [@vcaselli and @EclipseFdn](https://twitter.com/vcaselli/status/6662
 
 > Want to know how this guy relates to EMF Core ? Vote for my talk ! #eclipsecon https://www.eclipsecon.org/na2016/session/modeling-avengers-open-source-technology-mix-saving-world?utm_source=twitterfeed&utm_medium=twitter 
 > 
-> <video controls><source src="{{ site.url }}/media/667699067280060416-CUQkwzNWEAIrwfm.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/667699067280060416-CUQkwzNWEAIrwfm.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 20 13:40:37 +0000 2015](https://twitter.com/bruncedric/status/667699067280060416)
 
@@ -14377,7 +14377,7 @@ Replying to [@MarcelBruch](https://twitter.com/MarcelBruch/status/67698777983907
 
 > We are almost done preparing Eclipse Neon M4 ! 
 > 
-> <video controls><source src="{{ site.url }}/media/677169611889053696-CWXKJuCWEAAfqJ9.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/677169611889053696-CWXKJuCWEAAfqJ9.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 16 16:53:11 +0000 2015](https://twitter.com/bruncedric/status/677169611889053696)
 
@@ -14772,7 +14772,7 @@ Replying to [@Adaussy](https://twitter.com/Adaussy/status/693362793618227200)
 
 > RT @JoelKlettke: I've found it! The world's most frustrating gif! 
 > 
-> <video controls><source src="{{ site.url }}/media/693376985523998721-CZ5LQh3UsAAEKB6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/693376985523998721-CZ5LQh3UsAAEKB6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Jan 30 10:15:30 +0000 2016](https://twitter.com/bruncedric/status/693376985523998721)Replying to [@j2r2b](https://twitter.com/j2r2b/status/694016357290151936)
 
@@ -14922,7 +14922,7 @@ Replying to [@bruncedric](https://twitter.com/mcartaud/status/700621521325133824
 > 
 > https://www.eclipse.org/downloads/ 
 > 
-> <video controls><source src="{{ site.url }}/media/703235941788487680-CcJlGdqWoAAwwG4.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/703235941788487680-CcJlGdqWoAAwwG4.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 26 15:11:28 +0000 2016](https://twitter.com/bruncedric/status/703235941788487680)
 
@@ -14948,7 +14948,7 @@ Replying to [@jbsarrodie and @ArchiToolkit](https://twitter.com/jbsarrodie/statu
 
 > This is one of those days.... 
 > 
-> <video controls><source src="{{ site.url }}/media/705326984688222208-CcnTJHQXIAEdl48.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/705326984688222208-CcnTJHQXIAEdl48.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 03 09:40:32 +0000 2016](https://twitter.com/bruncedric/status/705326984688222208)
 
@@ -15056,7 +15056,7 @@ Replying to [@mporhel and @roxannejoncas](https://twitter.com/mporhel/status/706
 
 > Trying to figure out how this XFinity works, ending up with Fast &amp; Furious. I see what you did there... 
 > 
-> <video controls><source src="{{ site.url }}/media/706676112613507072-Cc6eJthUYAAka2c.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/706676112613507072-Cc6eJthUYAAka2c.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 07 03:01:29 +0000 2016](https://twitter.com/bruncedric/status/706676112613507072)
 
@@ -15696,7 +15696,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7129999793637294
 
 > RT @Obeo_Corp: Obeo SmartEA 2.0 has been released! Discover what's new: https://www.obeosmartea.com/en/features/whatsnew #EntArch #NewLook 
 > 
-> <video controls><source src="{{ site.url }}/media/713312238073995264-CeYtAa6W8AAN6ha.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/713312238073995264-CeYtAa6W8AAN6ha.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 25 10:31:04 +0000 2016](https://twitter.com/bruncedric/status/713312238073995264)
 
@@ -15733,7 +15733,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7129999793637294
 
 > #Eclipse Neon M6 landed !  I compiled a list of recent changes for you  http://cedric.brun.io/eclipse/eclipse-4.6.0M6/ 
 > 
-> <video controls><source src="{{ site.url }}/media/715186583931117568-CezaDXyWIAEWQC2.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/715186583931117568-CezaDXyWIAEWQC2.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 30 14:39:03 +0000 2016](https://twitter.com/bruncedric/status/715186583931117568)
 
@@ -15799,7 +15799,7 @@ Replying to [@darkjabberwock and @sbegaudeau](https://twitter.com/darkjabberwock
 
 > Just a few more hours to submit your talk to #eclipsecon France! https://www.eclipsecon.org/france2016/cfp 
 > 
-> <video controls><source src="{{ site.url }}/media/716922787873603584-CfMFRs8WwAACm_1.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/716922787873603584-CfMFRs8WwAACm_1.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 04 09:38:07 +0000 2016](https://twitter.com/bruncedric/status/716922787873603584)
 
@@ -16144,7 +16144,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7234070769369456
 
 > Acceleo 3.7.0M7 (Neon) will bring a better way to launch code generators as part of your CI https://bugs.eclipse.org/bugs/show_bug.cgi?id=475353 
 > 
-> <video controls><source src="{{ site.url }}/media/724887851729604609-Cg9OnWWWYAAEsfR.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/724887851729604609-Cg9OnWWWYAAEsfR.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 26 09:08:26 +0000 2016](https://twitter.com/bruncedric/status/724887851729604609)
 
@@ -16263,7 +16263,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 > This week: M7 milestones for EcoreTools, Amalgam, Sirius, testing the Modeling package. Plot twist: 3 work days ! 
 > 
-> <video controls><source src="{{ site.url }}/media/727412029292711936-ChhJOHaWwAA3oHW.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/727412029292711936-ChhJOHaWwAA3oHW.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 03 08:18:37 +0000 2016](https://twitter.com/bruncedric/status/727412029292711936)
 
@@ -16290,7 +16290,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 > 15 extremely important things to check when defining your domain specific model http://cedric.brun.io/eclipse/ecore-design-checklist-part1/ #clickbait 
 > 
-> <video controls><source src="{{ site.url }}/media/727761485716463617-ChmG5iTW0AEvPAF.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/727761485716463617-ChmG5iTW0AEvPAF.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 04 07:27:14 +0000 2016](https://twitter.com/bruncedric/status/727761485716463617)
 
@@ -16456,7 +16456,7 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/73077677
 
 > Sorry Matt... #BestGifEver 
 > 
-> <video controls><source src="{{ site.url }}/media/730825101411794944-CiRphZOWUAAQ55n.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/730825101411794944-CiRphZOWUAAQ55n.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 12 18:20:56 +0000 2016](https://twitter.com/bruncedric/status/730825101411794944)
 
@@ -16538,7 +16538,7 @@ Replying to [@laurentdelaigue](https://twitter.com/laurentdelaigue/status/732856
 
 > It's when you are working from home that the landline operator decides to cut your connection. Working through 3G... 
 > 
-> <video controls><source src="{{ site.url }}/media/732864580766957568-CiuoaaYWUAILY7p.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/732864580766957568-CiuoaaYWUAILY7p.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 18 09:25:06 +0000 2016](https://twitter.com/bruncedric/status/732864580766957568)
 
@@ -16576,7 +16576,7 @@ Replying to [@ejuliot and @waynebeaton](https://twitter.com/ejuliot/status/73355
 
 > And thaaaaaaaats a wrap, Eclipse Neon (4.6.0) RC1 is published!  Go test it! https://www.eclipse.org/downloads/index-developer.php 
 > 
-> <video controls><source src="{{ site.url }}/media/733671457776128001-Ci6GMx3WUAAsd33.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/733671457776128001-Ci6GMx3WUAAsd33.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 20 14:51:21 +0000 2016](https://twitter.com/bruncedric/status/733671457776128001)
 
@@ -16608,7 +16608,7 @@ Replying to [@torkildr, @ejuliot and @waynebeaton](https://twitter.com/torkildr/
 
 > This moment right before contributing the RC2 milestone: "hum... this looks weird and unexpected..." 
 > 
-> <video controls><source src="{{ site.url }}/media/735469108133761024-CjTo6k0WgAAxlHm.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/735469108133761024-CjTo6k0WgAAxlHm.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 25 13:54:34 +0000 2016](https://twitter.com/bruncedric/status/735469108133761024)
 
@@ -16689,7 +16689,7 @@ Replying to [@torkildr, @ejuliot and @waynebeaton](https://twitter.com/torkildr/
 
 > I just bought software. A postman will deliver it in the next 5/10 days. Seriously! 
 > 
-> <video controls><source src="{{ site.url }}/media/737303782296539136-CjtttFBXAAAMzhy.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/737303782296539136-CjtttFBXAAAMzhy.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 30 15:24:54 +0000 2016](https://twitter.com/bruncedric/status/737303782296539136)
 
@@ -16697,7 +16697,7 @@ Replying to [@torkildr, @ejuliot and @waynebeaton](https://twitter.com/torkildr/
 
 > This week: final touches to Eclipse Neon with the RC3 milestone ! 
 > 
-> <video controls><source src="{{ site.url }}/media/737623994023575552-CjyQ6IrUoAEfEY7.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/737623994023575552-CjyQ6IrUoAEfEY7.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 31 12:37:19 +0000 2016](https://twitter.com/bruncedric/status/737623994023575552)
 
@@ -16859,7 +16859,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 > RT @melaniebats: Better i have a video 😃 @bruncedric @Samuel_Rochet 
 > 
-> <video controls><source src="{{ site.url }}/media/740206330326188032-uHgTKH4A4xNTHM31.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/740206330326188032-uHgTKH4A4xNTHM31.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 07 15:38:36 +0000 2016](https://twitter.com/bruncedric/status/740206330326188032)
 
@@ -17159,7 +17159,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 > The mattermost instance of Eclipse has been migrated to a new server and has a new url: https://mattermost.eclipse.org ! 
 > 
-> <video controls><source src="{{ site.url }}/media/741255782885363712-Ckl4IkEWEAEvJP8.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/741255782885363712-Ckl4IkEWEAEvJP8.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 10 13:08:45 +0000 2016](https://twitter.com/bruncedric/status/741255782885363712)
 
@@ -17241,7 +17241,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 > RT @Obeo_Fr: Obeo &lt;3 #Web2Day ! A demain... 
 > 
-> <video controls><source src="{{ site.url }}/media/742976586677379073-Ck7Lme7WUAE1oGv.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/742976586677379073-Ck7Lme7WUAE1oGv.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 15 07:06:36 +0000 2016](https://twitter.com/bruncedric/status/742976586677379073)
 
@@ -17288,7 +17288,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 > My kids did a great job in capturing their disappointment with the weather. #KeepThemBusy 
 > 
-> <video controls><source src="{{ site.url }}/media/743118272116215812-ClAU4qSW0AEAZY6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/743118272116215812-ClAU4qSW0AEAZY6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 15 16:29:37 +0000 2016](https://twitter.com/bruncedric/status/743118272116215812)
 
@@ -17382,7 +17382,7 @@ Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747
 
 > One more day until the RELEASE DAY ! 
 > 
-> <video controls><source src="{{ site.url }}/media/745193723231936512-Cld1umLWAAAyZf6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/745193723231936512-Cld1umLWAAAyZf6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 21 09:56:43 +0000 2016](https://twitter.com/bruncedric/status/745193723231936512)
 
@@ -17390,7 +17390,7 @@ Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747
 
 > today is RELEASE DAY ! In a few hours, Eclipse Neon will be published for general availability ! 
 > 
-> <video controls><source src="{{ site.url }}/media/745509170720313344-CliUhmHUgAA7Pio.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/745509170720313344-CliUhmHUgAA7Pio.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 06:50:11 +0000 2016](https://twitter.com/bruncedric/status/745509170720313344)
 
@@ -17418,7 +17418,7 @@ Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747
 
 > Somewhere in Ottawa, servers are waiting peacefully #EclipseNeon 
 > 
-> <video controls><source src="{{ site.url }}/media/745615124594065408-Clj0_ZcWgAAJ_xu.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/745615124594065408-Clj0_ZcWgAAJ_xu.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 13:51:13 +0000 2016](https://twitter.com/bruncedric/status/745615124594065408)
 
@@ -17426,7 +17426,7 @@ Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747
 
 > This is it, worldwide availability of #EclipseNeon NOW! https://www.eclipse.org/downloads/eclipse-packages/ Let's make these servers burn ! 
 > 
-> <video controls><source src="{{ site.url }}/media/745617551296761856-Clj224vWIAAKKIr.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/745617551296761856-Clj224vWIAAKKIr.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 14:00:51 +0000 2016](https://twitter.com/bruncedric/status/745617551296761856)
 
@@ -17476,7 +17476,7 @@ Replying to [@salvatore182glt](https://twitter.com/salvatore182glt/status/745639
 
 > A stormy wednesday, a new ending for the homemade cartoon! #KeepThemBusy 
 > 
-> <video controls><source src="{{ site.url }}/media/745657384085897216-ClkbO4jWkAA4uI9.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/745657384085897216-ClkbO4jWkAA4uI9.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 16:39:08 +0000 2016](https://twitter.com/bruncedric/status/745657384085897216)
 
@@ -17575,7 +17575,7 @@ Replying to [@EclipseFdn and @waynebeaton](https://twitter.com/EclipseFdn/status
 
 > I'm gonna plead the fifth on that one ! 
 > 
-> <video controls><source src="{{ site.url }}/media/747453624893186048-Cl99Ff4WYAEb6j0.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/747453624893186048-Cl99Ff4WYAEb6j0.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 27 15:36:45 +0000 2016](https://twitter.com/bruncedric/status/747453624893186048)
 
@@ -17585,7 +17585,7 @@ Replying to [@roxannejoncas and @waynebeaton](https://twitter.com/roxannejoncas/
 
 > I expect more from you ! 
 > 
-> <video controls><source src="{{ site.url }}/media/747456866368786432-Cl9_4MpWEAEOXiH.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/747456866368786432-Cl9_4MpWEAEOXiH.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 27 15:49:38 +0000 2016](https://twitter.com/bruncedric/status/747456866368786432)
 
@@ -17611,7 +17611,7 @@ Replying to [@roxannejoncas and @waynebeaton](https://twitter.com/roxannejoncas/
 
 > I worked on a streamlined wizard for the "Initialize Ecore Diagram" action. https://bugs.eclipse.org/bugs/show_bug.cgi?id=495102 
 > 
-> <video controls><source src="{{ site.url }}/media/747697333429800960-CmBaabUXEAABbg4.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/747697333429800960-CmBaabUXEAABbg4.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 28 07:45:10 +0000 2016](https://twitter.com/bruncedric/status/747697333429800960)
 
@@ -17663,7 +17663,7 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/7480559152
 
 > We need more talks in for the early bird deadline of #EclipseCon Europe! This is your chance! It ends tomorrow! 
 > 
-> <video controls><source src="{{ site.url }}/media/748137483729248256-CmHq8GIWEAAJqGb.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/748137483729248256-CmHq8GIWEAAJqGb.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 29 12:54:10 +0000 2016](https://twitter.com/bruncedric/status/748137483729248256)
 
@@ -17703,7 +17703,7 @@ Replying to [@abernard_dvp and @torkildr](https://twitter.com/abernard_dvp/statu
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 30 10:18:33 +0000 2016](https://twitter.com/bruncedric/status/748460708396949504)> vDSL deployement is going further. My whole village is like "Faster Internet !" 
 > 
-> <video controls><source src="{{ site.url }}/media/748778098892476416-CmQxdptVYAAO5cS.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/748778098892476416-CmQxdptVYAAO5cS.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 01 07:19:45 +0000 2016](https://twitter.com/bruncedric/status/748778098892476416)
 
@@ -17750,7 +17750,7 @@ Replying to [@dunkfordyce](https://twitter.com/dunkfordyce/status/74889286541423
 > RT @Jainmusic: Un grand MERCI @LaNuitdelErdre 😊
 > À très bientôt... 
 > 
-> <video controls><source src="{{ site.url }}/media/749545415184412672-HzFHBOWRuoTDW7AO.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/749545415184412672-HzFHBOWRuoTDW7AO.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Jul 03 10:08:47 +0000 2016](https://twitter.com/bruncedric/status/749545415184412672)
 
@@ -17882,7 +17882,7 @@ Replying to [@alex_schl and @eclipsecon](https://twitter.com/alex_schl/status/75
 
 > Not even an awesome sunset pic? I'm not sure I'll believe it! ;) 
 > 
-> <video controls><source src="{{ site.url }}/media/752855472298987520-CnKtufHWAAAh4J3.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/752855472298987520-CnKtufHWAAAh4J3.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jul 12 13:21:46 +0000 2016](https://twitter.com/bruncedric/status/752855472298987520)
 
@@ -17975,7 +17975,7 @@ Replying to [@sbegaudeau, @mcartaud and @GCoutable](https://twitter.com/sbegaude
 
 > It's the last day to submit a talk to #EclipseCon Europe https://www.eclipsecon.org/europe2016/cfp 
 > 
-> <video controls><source src="{{ site.url }}/media/754960832967180288-CnoouIUXYAA3JQI.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/754960832967180288-CnoouIUXYAA3JQI.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jul 18 08:47:43 +0000 2016](https://twitter.com/bruncedric/status/754960832967180288)
 
@@ -17983,7 +17983,7 @@ Replying to [@sbegaudeau, @mcartaud and @GCoutable](https://twitter.com/sbegaude
 
 > The proposals are flowing ! keep up the good work, only a few hours left ! #EclipseCon 
 > 
-> <video controls><source src="{{ site.url }}/media/755008544517267456-CnpUHZOWAAAJOjg.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/755008544517267456-CnpUHZOWAAAJOjg.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jul 18 11:57:19 +0000 2016](https://twitter.com/bruncedric/status/755008544517267456)
 
@@ -18001,7 +18001,7 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/7550161492
 
 > I'm so anxious right now... 
 > 
-> <video controls><source src="{{ site.url }}/media/755018746935275520-CnpdIcMWAAAJ_aG.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/755018746935275520-CnpdIcMWAAAJ_aG.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jul 18 12:37:51 +0000 2016](https://twitter.com/bruncedric/status/755018746935275520)
 
@@ -18133,7 +18133,7 @@ Replying to [@ocnarftweet and @melaniebats](https://twitter.com/ocnarftweet/stat
 
 > RT @fmadiot: Cool! My @EclipseSirius Workshop has been accepted at @eclipsecon EU: our robot will go to Germany 
 > 
-> <video controls><source src="{{ site.url }}/media/759032735667200001-CoieakDW8AAHynV.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/759032735667200001-CoieakDW8AAHynV.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 29 14:28:00 +0000 2016](https://twitter.com/bruncedric/status/759032735667200001)> RT @EclipseSirius: Facing an issue with your #EclipseSirius project? Registered at #SiriusCon &amp; its Sirius Clinic to get our feedback! http…
 
@@ -18342,7 +18342,7 @@ Replying to [@laurentdelaigue and @Bouletcorp](https://twitter.com/laurentdelaig
 > 
 > CC @droy_eclipse  @EclipseFdn 
 > 
-> <video controls><source src="{{ site.url }}/media/770630373621497857-CrHUN8lWEAACtR6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/770630373621497857-CrHUN8lWEAACtR6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 30 14:32:53 +0000 2016](https://twitter.com/bruncedric/status/770630373621497857)
 
@@ -18468,7 +18468,7 @@ Replying to [@haltraet and @torkildr](https://twitter.com/haltraet/status/771266
 
 > RT @NetflixFR: 🎶 🎵 Le son de #TheGetDown est maintenant disponible sur Spotify. 🎵🎶  https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P 
 > 
-> <video controls><source src="{{ site.url }}/media/774711459574059008-Cr68fNGW8AEqG7K.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/774711459574059008-Cr68fNGW8AEqG7K.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Sep 10 20:49:40 +0000 2016](https://twitter.com/bruncedric/status/774711459574059008)
 
@@ -18482,7 +18482,7 @@ Replying to [@haltraet and @torkildr](https://twitter.com/haltraet/status/771266
 
 > This moment when your chatbot answer whereas the server was powered off #shivers #skynet 
 > 
-> <video controls><source src="{{ site.url }}/media/775316083402301444-CsJ5ttwXEAA9w7x.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/775316083402301444-CsJ5ttwXEAA9w7x.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 12 12:52:13 +0000 2016](https://twitter.com/bruncedric/status/775316083402301444)
 
@@ -18502,7 +18502,7 @@ Replying to [@haltraet and @torkildr](https://twitter.com/haltraet/status/771266
 
 > When you can't launch the tests on the CI server anymore 
 > 
-> <video controls><source src="{{ site.url }}/media/775618636643991552-CsOMoAHWcAEAZvA.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/775618636643991552-CsOMoAHWcAEAZvA.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 13 08:54:27 +0000 2016](https://twitter.com/bruncedric/status/775618636643991552)
 
@@ -18596,7 +18596,7 @@ Replying to [@roxannejoncas and @sbegaudeau](https://twitter.com/roxannejoncas/s
 
 > ouch, this activy is also deeply intertwined with cheese... 
 > 
-> <video controls><source src="{{ site.url }}/media/776464375783780352-CsaONjlXEAAWlFr.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/776464375783780352-CsaONjlXEAAWlFr.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 15 16:55:07 +0000 2016](https://twitter.com/bruncedric/status/776464375783780352)
 
@@ -18620,7 +18620,7 @@ Replying to [@roxannejoncas and @sbegaudeau](https://twitter.com/roxannejoncas/s
 
 > A Sirius based diagram which display any model and highlight the result of a query. #FridayExperiment 
 > 
-> <video controls><source src="{{ site.url }}/media/776804154228477952-CsfDNvBWEAAFKuF.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/776804154228477952-CsfDNvBWEAAFKuF.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 16 15:25:17 +0000 2016](https://twitter.com/bruncedric/status/776804154228477952)
 
@@ -18628,7 +18628,7 @@ Replying to [@roxannejoncas and @sbegaudeau](https://twitter.com/roxannejoncas/s
 
 > More illustrated AQL queries (an OCL flavor) on top of a simple UML model. This will walk you through the basics. 
 > 
-> <video controls><source src="{{ site.url }}/media/777794421706424320-CstH3OZWIAANxPT.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/777794421706424320-CstH3OZWIAANxPT.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 19 09:00:15 +0000 2016](https://twitter.com/bruncedric/status/777794421706424320)
 
@@ -19049,7 +19049,7 @@ Replying to [@antoniogado and @richpaige](https://twitter.com/antoniogado/status
 
 > MDE powered robots are inspecting the conference environment in preparation of the reception #models16 
 > 
-> <video controls><source src="{{ site.url }}/media/783708201040642048-Q0_lJvexW1qv8uR3.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/783708201040642048-Q0_lJvexW1qv8uR3.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 05 16:39:30 +0000 2016](https://twitter.com/bruncedric/status/783708201040642048)
 
@@ -19151,7 +19151,7 @@ Replying to [@abstratt](https://twitter.com/modelprogrammer/status/7840284976186
 
 > RT @petitroll: Si vous cherchez les inventeurs d'UML, ils sont en train de danser dans une cave a st malo 
 > 
-> <video controls><source src="{{ site.url }}/media/784162155927134208-AYNJWHcGGPmA1o6n.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/784162155927134208-AYNJWHcGGPmA1o6n.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 06 22:43:21 +0000 2016](https://twitter.com/bruncedric/status/784162155927134208)
 
@@ -19281,7 +19281,7 @@ Replying to [@softmodeling](https://twitter.com/JordiCabot/status/78590731813113
 
 > RT @EclipseSirius: Congrats to @_pcdavid from @obeo_corp who achieved his thousandth #EclipseSirius commit! #Wow 
 > 
-> <video controls><source src="{{ site.url }}/media/786119098799312896-CujXVkxXEAQWi4d.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/786119098799312896-CujXVkxXEAQWi4d.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 12 08:19:33 +0000 2016](https://twitter.com/bruncedric/status/786119098799312896)
 
@@ -19378,7 +19378,7 @@ Replying to [@mikbarbero](https://twitter.com/mikbarbero/status/7883712917492981
 
 > Current status: packing everything for @eclipsecon in a cabin luggage. Looking forward to it! #eclipsecon 
 > 
-> <video controls><source src="{{ site.url }}/media/790432805335498753-CvgucBfWcAAhjqE.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/790432805335498753-CvgucBfWcAAhjqE.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 24 06:00:40 +0000 2016](https://twitter.com/bruncedric/status/790432805335498753)
 
@@ -19482,7 +19482,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/7908990852639662
 
 > I'm pleading the fifth! 
 > 
-> <video controls><source src="{{ site.url }}/media/790899731111276544-CvnXGwQWcAAOSY3.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/790899731111276544-CvnXGwQWcAAOSY3.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 25 12:56:04 +0000 2016](https://twitter.com/bruncedric/status/790899731111276544)
 
@@ -19975,7 +19975,7 @@ Replying to [@cra and @EclipseFdn](https://twitter.com/cra/status/79382313956207
 
 > RT @EclipseSirius: One week before #SiriusCon Paris. Are you ready? Register now! http://www.siriuscon.org/register.php 
 > 
-> <video controls><source src="{{ site.url }}/media/795929766272659456-CwuvFPgWEAAZeQC.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/795929766272659456-CwuvFPgWEAAZeQC.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 08 10:03:38 +0000 2016](https://twitter.com/bruncedric/status/795929766272659456)
 
@@ -20131,7 +20131,7 @@ Replying to [@CoMarchand, @MarionArru, @emmaperaldi and @YouTube](https://twitte
 
 > Plan A: "This presentation will mostly be demo" and then "There is so many things to share I have 60 slides!". Let's work on Plan B 
 > 
-> <video controls><source src="{{ site.url }}/media/798222175094394880-CxPafmbXEAEuZ4E.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/798222175094394880-CxPafmbXEAEuZ4E.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 14 17:52:51 +0000 2016](https://twitter.com/bruncedric/status/798222175094394880)
 
@@ -20353,7 +20353,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/79822396550417
 
 > Current status: digging into p2.inf instructions. Feels like dark magic. 
 > 
-> <video controls><source src="{{ site.url }}/media/799626589101322240-CxjYDYEWIAAV_Go.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/799626589101322240-CxjYDYEWIAAV_Go.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 18 14:53:29 +0000 2016](https://twitter.com/bruncedric/status/799626589101322240)
 
@@ -20435,7 +20435,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/801830
 
 > When continuous integration, local maven launch and IDE won't agree on the test results... 
 > 
-> <video controls><source src="{{ site.url }}/media/802176685579927552-CyHnNo2WgAAyTa_.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/802176685579927552-CyHnNo2WgAAyTa_.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 25 15:46:40 +0000 2016](https://twitter.com/bruncedric/status/802176685579927552)
 
@@ -20599,7 +20599,7 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/8076448560
 
 > That's what I do! 
 > 
-> <video controls><source src="{{ site.url }}/media/807646448233971712-CzVWI7pXcAEZTtT.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/807646448233971712-CzVWI7pXcAEZTtT.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Dec 10 18:01:33 +0000 2016](https://twitter.com/bruncedric/status/807646448233971712)
 
@@ -20694,7 +20694,7 @@ Replying to [@erwan_bousse, @Obeo_Corp and @gemocinitiative](https://twitter.com
 
 > My car decides to break down on the day #RogueOne is released :'( 
 > 
-> <video controls><source src="{{ site.url }}/media/809041328239689728-CzpKyR9XgAAsB9f.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/809041328239689728-CzpKyR9XgAAsB9f.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 14 14:24:18 +0000 2016](https://twitter.com/bruncedric/status/809041328239689728)
 
@@ -20796,7 +20796,7 @@ Replying to [@psuzzi](https://twitter.com/psuzzi/status/810633275219857410)
 
 > RT @Obeo_Corp: Merry Christmas Everyone! 
 > 
-> <video controls><source src="{{ site.url }}/media/812600082650513413-C0Xiw4XWEAEuQ6t.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/812600082650513413-C0Xiw4XWEAEuQ6t.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Dec 24 10:05:31 +0000 2016](https://twitter.com/bruncedric/status/812600082650513413)
 
@@ -20812,7 +20812,7 @@ Replying to [@psuzzi](https://twitter.com/psuzzi/status/810633275219857410)
 
 > RT @macjshiggins: More proof that my job is like working at an amusement park. 
 > 
-> <video controls><source src="{{ site.url }}/media/816736561719103494-kxTMlT16-TT1AozT.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/816736561719103494-kxTMlT16-TT1AozT.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 04 20:02:25 +0000 2017](https://twitter.com/bruncedric/status/816736561719103494)
 
@@ -20884,7 +20884,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8194703006644961
 
 > running the poll at Obeo, chocolates (obviously) are the prize! 
 > 
-> <video controls><source src="{{ site.url }}/media/819479754508271616-C19gWzGWQAAzwzU.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/819479754508271616-C19gWzGWQAAzwzU.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 12 09:42:53 +0000 2017](https://twitter.com/bruncedric/status/819479754508271616)
 
@@ -21036,7 +21036,7 @@ Replying to [@alex_morel_](https://twitter.com/alex_morel_/status/81956870556247
 
 > Lunch discussions made me realize I needed to watch the best movie of all times again. #WhatsUpHarry 
 > 
-> <video controls><source src="{{ site.url }}/media/819936748172087298-C2D-uehWIAAReJi.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/819936748172087298-C2D-uehWIAAReJi.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 13 15:58:49 +0000 2017](https://twitter.com/bruncedric/status/819936748172087298)
 
@@ -21044,7 +21044,7 @@ Replying to [@alex_morel_](https://twitter.com/alex_morel_/status/81956870556247
 
 Replying to [@MaudiMm](https://twitter.com/CamilleAmiaud/status/819937321063747585)
 
-> <video controls><source src="{{ site.url }}/media/819937908253753344-C2EBHiBW8AQWpUF.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/819937908253753344-C2EBHiBW8AQWpUF.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 13 16:03:25 +0000 2017](https://twitter.com/bruncedric/status/819937908253753344)
 
@@ -21169,7 +21169,7 @@ Replying to [@abstratt](https://twitter.com/modelprogrammer/status/8214337112584
 
 > You know what, this whole "Gmail will not consider the '.' in the address" is really really hard to get for normal (non IT) humans. 
 > 
-> <video controls><source src="{{ site.url }}/media/821441836787126272-C2ZY_XrXAAADeKa.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/821441836787126272-C2ZY_XrXAAADeKa.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 17 19:39:30 +0000 2017](https://twitter.com/bruncedric/status/821441836787126272)
 
@@ -21377,7 +21377,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8224902718249697
 
 > Today feels like a Tuesday.  (Yes, I had to double check, that's how confused I am when the internet seems to break) #IsTheInternetDownYet 
 > 
-> <video controls><source src="{{ site.url }}/media/824541462452920321-C3Fbu3-WYAEkW1P.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/824541462452920321-C3Fbu3-WYAEkW1P.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 26 08:56:18 +0000 2017](https://twitter.com/bruncedric/status/824541462452920321)
 
@@ -21617,7 +21617,7 @@ Replying to [@ftomasse](https://twitter.com/bruncedric/status/834359957072015360
 
 > 71383 x 699  image export fails during CI.... Cairo is the lawbreaker ! 
 > 
-> <video controls><source src="{{ site.url }}/media/834426402103578624-C5R5cvPWQAIUA66.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/834426402103578624-C5R5cvPWQAIUA66.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 22 15:35:31 +0000 2017](https://twitter.com/bruncedric/status/834426402103578624)
 
@@ -21676,7 +21676,7 @@ Replying to [@oisin](https://twitter.com/oisin/status/836301897179009024)
 
 > RT @will_price: Reading the #awscloud feed during the S3 downtime: 
 > 
-> <video controls><source src="{{ site.url }}/media/836661366186459137-C5xicPZXQAAH4Pq.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/836661366186459137-C5xicPZXQAAH4Pq.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Feb 28 19:36:28 +0000 2017](https://twitter.com/bruncedric/status/836661366186459137)
 
@@ -21700,7 +21700,7 @@ Replying to [@oisin](https://twitter.com/oisin/status/836301897179009024)
 
 > On my way to Toulouse for the Eclipse Democamp (if only the plane would come)... 
 > 
-> <video controls><source src="{{ site.url }}/media/837032995496333313-C529D6mXEAUPPqV.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/837032995496333313-C529D6mXEAUPPqV.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 01 20:13:12 +0000 2017](https://twitter.com/bruncedric/status/837032995496333313)
 
@@ -21708,7 +21708,7 @@ Replying to [@oisin](https://twitter.com/oisin/status/836301897179009024)
 
 > The plane is here and will not have time to cool down, it feels more and more like taking the bus o_O 
 > 
-> <video controls><source src="{{ site.url }}/media/837040594916675586-C53D9vTXMAAwqy6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/837040594916675586-C53D9vTXMAAwqy6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 01 20:43:23 +0000 2017](https://twitter.com/bruncedric/status/837040594916675586)
 
@@ -21724,7 +21724,7 @@ Replying to [@oisin](https://twitter.com/oisin/status/836301897179009024)
 
 > Live from Obeo Toulouse: Mr Robot getting ready for the #Eclipse #DemoCamp ! 
 > 
-> <video controls><source src="{{ site.url }}/media/837282592126795776-vsBIphLC96Tcv3Zp.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/837282592126795776-vsBIphLC96Tcv3Zp.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 02 12:45:00 +0000 2017](https://twitter.com/bruncedric/status/837282592126795776)
 
@@ -21822,7 +21822,7 @@ Replying to [@Adaussy](https://twitter.com/Adaussy/status/837626682420899840)
 
 > Operation "Let's save the data which is on the unreliable Samsung SSD " is starting. Rsync'ing stuff, then running badblocks... 
 > 
-> <video controls><source src="{{ site.url }}/media/837950850530172928-rDV3kHJhB1iTVdO_.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/837950850530172928-rDV3kHJhB1iTVdO_.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Mar 04 09:00:25 +0000 2017](https://twitter.com/bruncedric/status/837950850530172928)
 
@@ -21903,7 +21903,7 @@ Replying to [@jpe_obeo](https://twitter.com/@jpe_obeo/status/838743910952337411)
 
 > It must be a law of life:  The M6 milestone will be packed with the *new stuff*, fresh out of the press! #GiveYourFeedback 
 > 
-> <video controls><source src="{{ site.url }}/media/841280335023337472-C6zT984WsAE4eC7.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/841280335023337472-C6zT984WsAE4eC7.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 13 13:30:36 +0000 2017](https://twitter.com/bruncedric/status/841280335023337472)
 
@@ -21919,7 +21919,7 @@ Replying to [@droy_eclipse](https://twitter.com/droy_eclipse/status/841281758729
 
 > JIT deployment ;-) 
 > 
-> <video controls><source src="{{ site.url }}/media/841282680893407232-C6zV5xjWwAEj1cQ.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/841282680893407232-C6zV5xjWwAEj1cQ.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 13 13:39:56 +0000 2017](https://twitter.com/bruncedric/status/841282680893407232)
 
@@ -21927,7 +21927,7 @@ Replying to [@droy_eclipse](https://twitter.com/droy_eclipse/status/841281758729
 
 Replying to [@MaudiMm](https://twitter.com/CamilleAmiaud/status/841287723197566978)
 
-> <video controls><source src="{{ site.url }}/media/841288519024812036-C6zbblLWoAIncnn.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/841288519024812036-C6zbblLWoAIncnn.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 13 14:03:07 +0000 2017](https://twitter.com/bruncedric/status/841288519024812036)
 
@@ -22426,7 +22426,7 @@ Replying to [@droy_eclipse](https://twitter.com/droy_eclipse/status/849704404789
 
 > Plan for the nxt 24H: preparing for being substitute speaker for the #Devoxxfr talk "Great new features and enhancements in the Eclipse IDE" 
 > 
-> <video controls><source src="{{ site.url }}/media/849920246995668992-C8uFOltXUAIjzhP.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/849920246995668992-C8uFOltXUAIjzhP.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 06 09:42:32 +0000 2017](https://twitter.com/bruncedric/status/849920246995668992)
 
@@ -22738,7 +22738,7 @@ Replying to [@mikbarbero](https://twitter.com/mikbarbero/status/8568590336255590
 
 > Always happy to help ! 
 > 
-> <video controls><source src="{{ site.url }}/media/856860373064056832-C-Qt7obWsAEGpjp.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/856860373064056832-C-Qt7obWsAEGpjp.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 25 13:20:07 +0000 2017](https://twitter.com/bruncedric/status/856860373064056832)
 
@@ -23000,7 +23000,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/8672890356
 
 > Indeed!  Persistence pays off! 
 > 
-> <video controls><source src="{{ site.url }}/media/867295697678323714-DAlA1NxXoAACI3V.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/867295697678323714-DAlA1NxXoAACI3V.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 24 08:26:22 +0000 2017](https://twitter.com/bruncedric/status/867295697678323714)
 
@@ -23473,7 +23473,7 @@ Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeF
 
 > We'll release the Eclipse Oxygen bits in about 45 minutes ! 
 > 
-> <video controls><source src="{{ site.url }}/media/880052752327606272-DDaTMkXXYAAKLZz.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/880052752327606272-DDaTMkXXYAAKLZz.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 28 13:18:21 +0000 2017](https://twitter.com/bruncedric/status/880052752327606272)
 
@@ -23481,7 +23481,7 @@ Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeF
 
 > We'll release the Eclipse Oxygen bits in about 40 minutes ! #EclipseOxygen #SomebodyPulledMyHears 
 > 
-> <video controls><source src="{{ site.url }}/media/880055214270808069-DDaVUMVXoAIse0W.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/880055214270808069-DDaVUMVXoAIse0W.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 28 13:28:08 +0000 2017](https://twitter.com/bruncedric/status/880055214270808069)
 
@@ -23813,7 +23813,7 @@ Replying to [@emmaperaldi and @orange](https://twitter.com/bruncedric/status/887
 
 > With Oxygen.0 we shiped the 33th release since @EclipseSirius 1.0.0 (2014), we have completed over 1K feature requests and bug reports. 
 > 
-> <video controls><source src="{{ site.url }}/media/887691008254803968-DFG2Bb9XYAEKLG4.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/887691008254803968-DFG2Bb9XYAEKLG4.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jul 19 15:10:03 +0000 2017](https://twitter.com/bruncedric/status/887691008254803968)
 
@@ -23821,7 +23821,7 @@ Replying to [@emmaperaldi and @orange](https://twitter.com/bruncedric/status/887
 
 > I woke up this morning realizing I did tweet with an ugly spelling mistake and it had a fair share of retweets. I'm trapped in a dilemna ... 
 > 
-> <video controls><source src="{{ site.url }}/media/888048817240768513-DFL7fw8W0AAfTqE.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/888048817240768513-DFL7fw8W0AAfTqE.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 20 14:51:51 +0000 2017](https://twitter.com/bruncedric/status/888048817240768513)
 
@@ -24451,7 +24451,7 @@ Replying to [@nantesjug, @ejuliot, @fanchok, @Remi_PICARD and @ejuliot](https://
 
 >  :D 
 > 
-> <video controls><source src="{{ site.url }}/media/909856755957600256-DKB11JOXoAUXl8N.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/909856755957600256-DKB11JOXoAUXl8N.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 18 19:08:49 +0000 2017](https://twitter.com/bruncedric/status/909856755957600256)
 
@@ -24806,7 +24806,7 @@ Replying to [@Samuel_Rochet](https://twitter.com/Samuel_Rochet/status/9108022105
 
 >  
 > 
-> <video controls><source src="{{ site.url }}/media/910804492316282880-DKPT1sFXoAAlKhL.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/910804492316282880-DKPT1sFXoAAlKhL.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 21 09:54:47 +0000 2017](https://twitter.com/bruncedric/status/910804492316282880)
 
@@ -25861,7 +25861,7 @@ Replying to [@alex_schl and @esconfs](https://twitter.com/alex_schl/status/92827
 
 > (sorry, could not resist) 
 > 
-> <video controls><source src="{{ site.url }}/media/928275276269871104-DOHlbG2W4AAqNYx.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/928275276269871104-DOHlbG2W4AAqNYx.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 08 14:57:27 +0000 2017](https://twitter.com/bruncedric/status/928275276269871104)
 
@@ -25935,10 +25935,10 @@ Replying to [@alex_schl and @esconfs](https://twitter.com/alex_schl/status/92827
 > 
 > ![]({{ site.url }}/media/928610984322879489-DOL6nthWsAAF7-B.jpg)
 > 
-> <video controls><source src="{{ site.url }}/media/928610984322879489-DOL6nthWsAAF7-B.jpg">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/928610984322879489-DOL6nthWsAAF7-B.jpg">Your browser does not support the video tag.</video>
 > 
 > 
-> <video controls><source src="{{ site.url }}/media/928610984322879489-DOL6nthWsAAF7-B.jpg">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/928610984322879489-DOL6nthWsAAF7-B.jpg">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 09 13:11:26 +0000 2017](https://twitter.com/bruncedric/status/928610984322879489)
 
@@ -25990,7 +25990,7 @@ Replying to [@alex_schl and @esconfs](https://twitter.com/alex_schl/status/92827
 > RT @Samuel_Rochet: @melaniebats And, if you're using @capella_arcadia, have a look at http://www.m2doc.org/capella/
 > Enjoy! 
 > 
-> <video controls><source src="{{ site.url }}/media/928656896332062720-DONAEv_WsAE-e-C.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/928656896332062720-DONAEv_WsAE-e-C.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 09 16:13:52 +0000 2017](https://twitter.com/bruncedric/status/928656896332062720)
 
@@ -26193,7 +26193,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/9292878782613299
 
 > Starting the day poking at some servers to make them serve! 
 > 
-> <video controls><source src="{{ site.url }}/media/935430956386791424-DPtRfaXXkAEiWFs.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/935430956386791424-DPtRfaXXkAEiWFs.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 28 08:51:34 +0000 2017](https://twitter.com/bruncedric/status/935430956386791424)
 
@@ -26208,7 +26208,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/9292878782613299
 > I'm quoted by the awesome @roxannejoncas in a blog post! "My first conference tech talk" 
 > https://medium.com/@roxanne.iot/my-first-conference-tech-talk-f73d6625d8ec?source=rss-82f8afd3e513------2 
 > 
-> <video controls><source src="{{ site.url }}/media/936179302604984321-DP36CT1WsAAR6a9.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/936179302604984321-DP36CT1WsAAR6a9.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 30 10:25:13 +0000 2017](https://twitter.com/bruncedric/status/936179302604984321)
 
@@ -26323,7 +26323,7 @@ Replying to [@tracymiranda](https://twitter.com/tracymiranda/status/940875480563
 
 > That, I shall fix indeed! 
 > 
-> <video controls><source src="{{ site.url }}/media/940881542850793472-DQ6uwtZXUAEzDYq.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/940881542850793472-DQ6uwtZXUAEzDYq.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 13 09:50:15 +0000 2017](https://twitter.com/bruncedric/status/940881542850793472)
 
@@ -26439,7 +26439,7 @@ Replying to [@jperiodlangley and @getplanapp](https://twitter.com/jperiodlangley
 
 > Time for heading back home and enjoy the weekend, thrilled by all the invitations to challenge our society and our business models I had today, especially coming from such awesome speakers. Let's keep moving!  💪 #CJDFrance 
 > 
-> <video controls><source src="{{ site.url }}/media/941703867754000384-DRGaq06W4AAXYMY.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/941703867754000384-DRGaq06W4AAXYMY.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 15 16:17:52 +0000 2017](https://twitter.com/bruncedric/status/941703867754000384)
 
@@ -26447,7 +26447,7 @@ Replying to [@jperiodlangley and @getplanapp](https://twitter.com/jperiodlangley
 
 > Sunday shower idea: building a DIY laser tag game! And as always internet is an helpful resource! 
 > 
-> <video controls><source src="{{ site.url }}/media/942335873517084672-DRPZeGnXUAA-uRl.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/942335873517084672-DRPZeGnXUAA-uRl.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Dec 17 10:09:14 +0000 2017](https://twitter.com/bruncedric/status/942335873517084672)
 
@@ -26455,7 +26455,7 @@ Replying to [@jperiodlangley and @getplanapp](https://twitter.com/jperiodlangley
 
 > YOU CAN START SPOILING I DONT CARE ANYMORE ! :-D. 
 > 
-> <video controls><source src="{{ site.url }}/media/942458547308236801-DRRJC96W0AEsOzq.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/942458547308236801-DRRJC96W0AEsOzq.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Dec 17 18:16:42 +0000 2017](https://twitter.com/bruncedric/status/942458547308236801)
 
@@ -26569,7 +26569,7 @@ Replying to [@stephanepechard](https://twitter.com/stephanepechard/status/947005
 
 > AWOL because of Zelda, planning to return to the human world mid 2018 
 > 
-> <video controls><source src="{{ site.url }}/media/947527443035885570-DSZLHvgWsAA-guP.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/947527443035885570-DSZLHvgWsAA-guP.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Dec 31 17:58:41 +0000 2017](https://twitter.com/bruncedric/status/947527443035885570)> RT @year_progress: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%
 
@@ -26585,7 +26585,7 @@ Replying to [@stephanepechard](https://twitter.com/stephanepechard/status/947005
 
 > RT @Obeo_Corp: Obeo wish you the best for 2018! Have a happy, wealthy and successful new year! 
 > 
-> <video controls><source src="{{ site.url }}/media/948121688939614208-DShjgZdWAAEsvXR.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/948121688939614208-DShjgZdWAAEsvXR.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 02 09:20:00 +0000 2018](https://twitter.com/bruncedric/status/948121688939614208)
 
@@ -26767,7 +26767,7 @@ Replying to [@jg_gatech](https://twitter.com/jg_gatech/status/954095991149547524
 
 > Starting the week with an alarm-clock mess up, a flash shower, a speedy drive to Nantes from my countryside and then a run before the 🚆 leaves for Paris. 
 > 
-> <video controls><source src="{{ site.url }}/media/955320347594719232-DUH6yYgWsAUNFC_.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/955320347594719232-DUH6yYgWsAUNFC_.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 22 06:04:54 +0000 2018](https://twitter.com/bruncedric/status/955320347594719232)
 
@@ -26906,7 +26906,7 @@ Replying to [@souvik_cs](https://twitter.com/souvik_cs/status/960783821410131968
 
 > Current status: crunching numbers! 
 > 
-> <video controls><source src="{{ site.url }}/media/961287623326265344-DVcos8cW4AAJQ8q.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/961287623326265344-DVcos8cW4AAJQ8q.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 07 17:16:43 +0000 2018](https://twitter.com/bruncedric/status/961287623326265344)
 
@@ -26920,7 +26920,7 @@ Replying to [@souvik_cs](https://twitter.com/souvik_cs/status/960783821410131968
 
 > RT @Samuel_Rochet: @bruncedric  
 > 
-> <video controls><source src="{{ site.url }}/media/961521775581585409-DVf_3HpXUAA10Ff.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/961521775581585409-DVf_3HpXUAA10Ff.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 08 08:47:10 +0000 2018](https://twitter.com/bruncedric/status/961521775581585409)
 
@@ -27078,7 +27078,7 @@ Replying to [@weslleytorres, @fmadiot and @capella_arcadia](https://twitter.com/
 
 > Did I already mentioned how much I love WIFI on board in high speed trains ? 
 > 
-> <video controls><source src="{{ site.url }}/media/966240433121742849-DWjGiYCX4AEMDRw.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/966240433121742849-DWjGiYCX4AEMDRw.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 21 09:17:25 +0000 2018](https://twitter.com/bruncedric/status/966240433121742849)
 
@@ -27098,7 +27098,7 @@ Replying to [@weslleytorres, @fmadiot and @capella_arcadia](https://twitter.com/
 
 > CheConf 2018 just started! https://www.crowdcast.io/e/checonf18/1 
 > 
-> <video controls><source src="{{ site.url }}/media/966327504263942144-DWkVrXuXkAAGl8k.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/966327504263942144-DWkVrXuXkAAGl8k.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 21 15:03:25 +0000 2018](https://twitter.com/bruncedric/status/966327504263942144)
 
@@ -27144,7 +27144,7 @@ Replying to [@weslleytorres, @fmadiot and @capella_arcadia](https://twitter.com/
 
 > Brussels, I am in you! \o/ 
 > 
-> <video controls><source src="{{ site.url }}/media/966966909450244096-DWtbRT8X4AAjGpK.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/966966909450244096-DWtbRT8X4AAjGpK.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 23 09:24:11 +0000 2018](https://twitter.com/bruncedric/status/966966909450244096)
 
@@ -27152,7 +27152,7 @@ Replying to [@weslleytorres, @fmadiot and @capella_arcadia](https://twitter.com/
 
 > Waiting for take off. The plane is not working: "have you tried turning it off and on again?". That's what we are doing now. 
 > 
-> <video controls><source src="{{ site.url }}/media/967128954153918464-DWvupq4XkAEgcAl.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/967128954153918464-DWvupq4XkAEgcAl.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 23 20:08:05 +0000 2018](https://twitter.com/bruncedric/status/967128954153918464)
 
@@ -27199,7 +27199,7 @@ Replying to [@jfbrazeau](https://twitter.com/jfbrazeau/status/967499527480635393
 
 > Fancy a web-based tool for your modeling activities? Here is a prototype: based on the @EclipseSirius spec, 100% auto-layout, SVG powered. It could be your tool! learn more with @melaniebats 's blog https://blog.obeo.fr/modeling-tools-go-up-to-the-cloud 
 > 
-> <video controls><source src="{{ site.url }}/media/968121590289399809-DW90rD3X4AA9TD1.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/968121590289399809-DW90rD3X4AA9TD1.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 26 13:52:28 +0000 2018](https://twitter.com/bruncedric/status/968121590289399809)
 
@@ -27314,7 +27314,7 @@ Replying to [@Tcharl, @EclipseSirius and @melaniebats](https://twitter.com/Tchar
 
 > RT @noopur2507: Last day to submit a talk for @EclipseCon France. Hurry up! https://www.eclipsecon.org/france2018/cfp 
 > 
-> <video controls><source src="{{ site.url }}/media/975718305712484352-DYpEbZ1WsAEo99r.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/975718305712484352-DYpEbZ1WsAEo99r.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 19 12:59:06 +0000 2018](https://twitter.com/bruncedric/status/975718305712484352)
 
@@ -27356,7 +27356,7 @@ Replying to [@Tcharl, @EclipseSirius and @melaniebats](https://twitter.com/Tchar
 
 > Obeo supports your deployement with bugfix releases: the @EclipseSirius project just shipped a 4.1.9 release, 4.1.0 was in 2016 (oct) while master is 6.0.0. https://wiki.eclipse.org/Sirius/4.1.9 Get in touch with us if you are looking for continuity! 
 > 
-> <video controls><source src="{{ site.url }}/media/976380917127184384-DYzNC7PX4AA5N7w.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/976380917127184384-DYzNC7PX4AA5N7w.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 21 08:52:05 +0000 2018](https://twitter.com/bruncedric/status/976380917127184384)
 
@@ -27573,7 +27573,7 @@ Replying to [@jg_gatech](https://twitter.com/jg_gatech/status/981852017831366656
 
 > Yesterday we experienced: Virtual Collaborative Escape Game. Immersion was total, watching the earth rotate from the moon was my favorite moment! 
 > 
-> <video controls><source src="{{ site.url }}/media/982170573101981696-DaFe7HHVMAAz_eZ.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/982170573101981696-DaFe7HHVMAAz_eZ.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 06 08:18:07 +0000 2018](https://twitter.com/bruncedric/status/982170573101981696)
 
@@ -27657,7 +27657,7 @@ Replying to [@gaudol and @SonarSource](https://twitter.com/gaudol/status/9869248
 
 > It's Fri-yeah! Take a moment to picture your own graphical design tool with this automatic shortcut for creating relations! 
 > 
-> <video controls><source src="{{ site.url }}/media/987339605824466946-DbO8DlmWkAAovXT.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/987339605824466946-DbO8DlmWkAAovXT.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 20 14:38:00 +0000 2018](https://twitter.com/bruncedric/status/987339605824466946)
 
@@ -27712,7 +27712,7 @@ Replying to [@nedgar](https://twitter.com/nedgar/status/987618342092632066)
 
 > Something I experienced in the last few month. I took a few minutes to write down my short term objectives regarding a given skill and to estimate what rating would make me think I'm fluent (e.g. on a 10 scale). ⇩ 
 > 
-> <video controls><source src="{{ site.url }}/media/988326284907499521-Dbc9T8MX4AA_F_0.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/988326284907499521-Dbc9T8MX4AA_F_0.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 23 07:58:43 +0000 2018](https://twitter.com/bruncedric/status/988326284907499521)
 
@@ -27722,7 +27722,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/9883262849074995
 
 > Time flies and I'm constantly focusing on subjects I'm not 100% proficient yet. A few months later I evaluate again and compare with the original rating: congrats, it's done! Discerning progress is essential! 
 > 
-> <video controls><source src="{{ site.url }}/media/988326536850890752-Dbc9uFhXcAAHBiy.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/988326536850890752-Dbc9uFhXcAAHBiy.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 23 07:59:43 +0000 2018](https://twitter.com/bruncedric/status/988326536850890752)
 
@@ -27996,7 +27996,7 @@ Replying to [@mbrung](https://twitter.com/mbrung/status/997408515626078209)
 
 >  
 > 
-> <video controls><source src="{{ site.url }}/media/1002479106871693314-DemFbK_XUAUS7yG.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1002479106871693314-DemFbK_XUAUS7yG.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 01 09:16:58 +0000 2018](https://twitter.com/bruncedric/status/1002479106871693314)
 
@@ -28417,7 +28417,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/1016786843
 
 > Naaah, I have a good feeling this time! 
 > 
-> <video controls><source src="{{ site.url }}/media/1016787260052836353-DhxanOTWkAECWfi.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1016787260052836353-DhxanOTWkAECWfi.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jul 10 20:52:28 +0000 2018](https://twitter.com/bruncedric/status/1016787260052836353)
 
@@ -28575,7 +28575,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/1023641318772416512)
 
 > I think I might now be able to draft a "Clean Spreadsheets" book, that would be like "Clean Code" by @unclebobmartin . 
 > 
-> <video controls><source src="{{ site.url }}/media/1025298415406731264-DjqXdohXgAA3TU6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1025298415406731264-DjqXdohXgAA3TU6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Aug 03 08:32:46 +0000 2018](https://twitter.com/bruncedric/status/1025298415406731264)
 
@@ -28601,7 +28601,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/1023641318772416512)
 
 > Looks like we'll get a functioning Air Conditioning in 3.. 2...once the heat wave is gone. 
 > 
-> <video controls><source src="{{ site.url }}/media/1027902509711548416-DkPX3zVXoAA1xnR.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1027902509711548416-DkPX3zVXoAA1xnR.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Aug 10 13:00:30 +0000 2018](https://twitter.com/bruncedric/status/1027902509711548416)
 
@@ -28733,7 +28733,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/1023641318772416512)
 
 > Two out of three kittens found a nice home already, one to go but she/he is so fun she/he might be out of the market soon! 
 > 
-> <video controls><source src="{{ site.url }}/media/1037067341698347010-HllBPYxoHY89jyTj.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1037067341698347010-HllBPYxoHY89jyTj.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 04 19:58:16 +0000 2018](https://twitter.com/bruncedric/status/1037067341698347010)
 
@@ -28743,7 +28743,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1037067341698347
 
 > Playing video games, you know, living the life! 
 > 
-> <video controls><source src="{{ site.url }}/media/1037068037776723973-5RXpee9gHWQcnqnd.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1037068037776723973-5RXpee9gHWQcnqnd.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 04 20:01:02 +0000 2018](https://twitter.com/bruncedric/status/1037068037776723973)
 
@@ -28802,7 +28802,7 @@ Replying to [@jperiodlangley and @Obeo_Fr](https://twitter.com/jperiodlangley/st
 
 > LOL! 
 > 
-> <video controls><source src="{{ site.url }}/media/1039921076510384129-Dm6KshPW4AAjgo5.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1039921076510384129-Dm6KshPW4AAjgo5.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 12 16:58:00 +0000 2018](https://twitter.com/bruncedric/status/1039921076510384129)
 
@@ -28833,7 +28833,7 @@ Replying to [@Windows](https://twitter.com/Windows/status/1039980328004341766)
 
 > ;-) 
 > 
-> <video controls><source src="{{ site.url }}/media/1040221953762762753-Dm-cVtsWwAAIIiL.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1040221953762762753-Dm-cVtsWwAAIIiL.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 13 12:53:34 +0000 2018](https://twitter.com/bruncedric/status/1040221953762762753)
 
@@ -28876,7 +28876,7 @@ Replying to [@Windows](https://twitter.com/bruncedric/status/1040221953762762753
 
 > Godless is a pretty good show while counting the days to Red Dead Redemption 2... 
 > 
-> <video controls><source src="{{ site.url }}/media/1041770465918898176-DnUcth7W4AAHSX1.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1041770465918898176-DnUcth7W4AAHSX1.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 17 19:26:48 +0000 2018](https://twitter.com/bruncedric/status/1041770465918898176)
 
@@ -28943,7 +28943,7 @@ Replying to [@Windows](https://twitter.com/Windows/status/1040296941916180480)
 
 > Just finished a day with very little room in my calendar, let's call that "Tetris days"! That being said it went well and revealed several new opportunities! 
 > 
-> <video controls><source src="{{ site.url }}/media/1046869315675402240-Doc6FQaWkAMC_14.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1046869315675402240-Doc6FQaWkAMC_14.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 01 21:07:49 +0000 2018](https://twitter.com/bruncedric/status/1046869315675402240)
 
@@ -28966,7 +28966,7 @@ Replying to [@softmodeling, @rrecheve and @Obeo_Corp](https://twitter.com/JordiC
 
 > I'm happy for having welcomed 4 - soon 5 - new people at Obeo in the last few weeks! Strengthening Administration, Communication, Software Development and Consulting. Each time it is a great pleasure for me to meet a new personality which will contribute to the team spirit! 
 > 
-> <video controls><source src="{{ site.url }}/media/1048213315401469954-DowAcS1W0AYogPf.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1048213315401469954-DowAcS1W0AYogPf.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 05 14:08:23 +0000 2018](https://twitter.com/bruncedric/status/1048213315401469954)
 
@@ -29485,7 +29485,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1055108440790577
 
 > Next speaker is having a hard time setting up the projection. First issue I've seen during the conference. 
 > 
-> <video controls><source src="{{ site.url }}/media/1055111259891339265-DqSCA21WkAAtbpI.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1055111259891339265-DqSCA21WkAAtbpI.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 24 14:58:22 +0000 2018](https://twitter.com/bruncedric/status/1055111259891339265)
 
@@ -29753,7 +29753,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1064886164476313
 
 > I might have cracked the whole situation: it's actually for the dramatic effect of bursting through the streets and saving your ass at the last minute. 
 > 
-> <video controls><source src="{{ site.url }}/media/1064891501744988160-DsdBK4_XcAcDpUe.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1064891501744988160-DsdBK4_XcAcDpUe.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 20 14:41:33 +0000 2018](https://twitter.com/bruncedric/status/1064891501744988160)
 
@@ -29809,7 +29809,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1064886164476313
 > This is #SiriusCon's week! Do yourself a favor and register on @CrowdcastHQ to have access to this Web event on Modeling! 
 > https://www.crowdcast.io/e/siriuscon-2018-the/register 
 > 
-> <video controls><source src="{{ site.url }}/media/1069517694112808960-DtewaPfWoAEk_Iu.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1069517694112808960-DtewaPfWoAEk_Iu.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Dec 03 09:04:23 +0000 2018](https://twitter.com/bruncedric/status/1069517694112808960)
 
@@ -29865,7 +29865,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1064886164476313
 
 Replying to [@Samuel_Rochet](https://twitter.com/Samuel_Rochet/status/1070297282015387648)
 
-> <video controls><source src="{{ site.url }}/media/1070297635792261121-Dtp2BUrXgAAmiZb.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1070297635792261121-Dtp2BUrXgAAmiZb.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 05 12:43:36 +0000 2018](https://twitter.com/bruncedric/status/1070297635792261121)
 
@@ -29921,7 +29921,7 @@ Replying to [@naomod_team, @sunye and @HugoBruneliere](https://twitter.com/naomo
 
 > Well deserved vacations for the @Obeo_Corp team. We're closing an exciting year filled with success, twists and hard work. No doubt the commitment and energy of everyone made a huge difference. Thanks folks!! 
 > 
-> <video controls><source src="{{ site.url }}/media/1076221840132112385-Du-CDSvWsAAQls3.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1076221840132112385-Du-CDSvWsAAQls3.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 21 21:04:16 +0000 2018](https://twitter.com/bruncedric/status/1076221840132112385)
 
@@ -29974,7 +29974,7 @@ Replying to [@naomod_team, @sunye and @HugoBruneliere](https://twitter.com/naomo
 
 > The good thing when flying back home on the Saturday morning is you get an almost empty plane, the bad thing: starting the weekend with a much too early alarm clock and a red-eye... 
 > 
-> <video controls><source src="{{ site.url }}/media/1084001402899386369-DwslhjVX4AAfUKg.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1084001402899386369-DwslhjVX4AAfUKg.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Jan 12 08:17:28 +0000 2019](https://twitter.com/bruncedric/status/1084001402899386369)
 
@@ -29988,7 +29988,7 @@ Replying to [@naomod_team, @sunye and @HugoBruneliere](https://twitter.com/naomo
 
 > Booting Windows 10 in 2019 feels like being at the mall... 
 > 
-> <video controls><source src="{{ site.url }}/media/1085175976198316033-Dw9RoDRXQAAHtlI.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1085175976198316033-Dw9RoDRXQAAHtlI.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 15 14:04:48 +0000 2019](https://twitter.com/bruncedric/status/1085175976198316033)
 
@@ -30020,7 +30020,7 @@ Replying to [@alex_schl, @mickaelkeromnes and @ejuliot](https://twitter.com/alex
 
 > When @NetflixFR greets you with an episode starting a new season of Star Trek Discovery on a night without my better half ! 
 > 
-> <video controls><source src="{{ site.url }}/media/1089974605186514944-DyBeHh_WkAYUv7F.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1089974605186514944-DyBeHh_WkAYUv7F.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 28 19:52:51 +0000 2019](https://twitter.com/bruncedric/status/1089974605186514944)
 
@@ -30028,7 +30028,7 @@ Replying to [@alex_schl, @mickaelkeromnes and @ejuliot](https://twitter.com/alex
 
 > RT @CJD_NANTES: Dernier jour de janvier... nous vous souhaitons d'agir ! 
 > 
-> <video controls><source src="{{ site.url }}/media/1091039561470349313-DyOSWqZX0AAO4-4.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1091039561470349313-DyOSWqZX0AAO4-4.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 31 18:24:36 +0000 2019](https://twitter.com/bruncedric/status/1091039561470349313)> RT @cponsard: Proud to see that our SimQRi modelling and simulation tool for #Industry40 is now on the @EclipseSirius official gallery. Gre…
 
@@ -30238,7 +30238,7 @@ Replying to [@mporhel, @sbegaudeau, @MaudiMm, @ejuliot, @slacrampe, @melaniebats
 
 > You folks are incredible! #WeAreObeo 
 > 
-> <video controls><source src="{{ site.url }}/media/1114149820397125633-D3ZBWdeW0AErdN6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1114149820397125633-D3ZBWdeW0AErdN6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 05 12:56:31 +0000 2019](https://twitter.com/bruncedric/status/1114149820397125633)
 
@@ -30252,7 +30252,7 @@ Replying to [@mporhel, @sbegaudeau, @MaudiMm, @ejuliot, @slacrampe, @melaniebats
 
 > Back home exhausted, highly satisfied and with strong withdrawal symptoms. This team is EXCEPTIONAL! #WeAreObeo 
 > 
-> <video controls><source src="{{ site.url }}/media/1114196465965047808-D3Zrxj7X4AEiUbh.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1114196465965047808-D3Zrxj7X4AEiUbh.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 05 16:01:52 +0000 2019](https://twitter.com/bruncedric/status/1114196465965047808)
 
@@ -30505,7 +30505,7 @@ Replying to [@torkildr and @ttoine](https://twitter.com/torkildr/status/11291078
 
 > Donuts Time! #RealizeLIVE 
 > 
-> <video controls><source src="{{ site.url }}/media/1138564978749911042-P1UegX2jZioxjyeQ.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1138564978749911042-P1UegX2jZioxjyeQ.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 11 21:53:39 +0000 2019](https://twitter.com/bruncedric/status/1138564978749911042)
 
@@ -30629,7 +30629,7 @@ Replying to [@kartben](https://twitter.com/kartben/status/1151861146409848832)
 
 > Current status: reviving this old build nobody touched in years... 
 > 
-> <video controls><source src="{{ site.url }}/media/1153315556105342976-EAFmYWpXsAAx6Fy.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1153315556105342976-EAFmYWpXsAAx6Fy.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jul 22 14:47:10 +0000 2019](https://twitter.com/bruncedric/status/1153315556105342976)
 
@@ -30681,7 +30681,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1164439572681580
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 27 13:20:15 +0000 2019](https://twitter.com/bruncedric/status/1166339646365868034)> The summer break was awesome but the thing is: I am now very eager to get back to Obeo. I look forward to see the team and tackle the upcoming challenges! Stay tuned: we have a pile of good stuff coming up! #WeAreObeo 
 > 
-> <video controls><source src="{{ site.url }}/media/1168233405865177094-EDZmFd7WsAQkBLF.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1168233405865177094-EDZmFd7WsAQkBLF.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Sep 01 18:45:23 +0000 2019](https://twitter.com/bruncedric/status/1168233405865177094)
 
@@ -30705,7 +30705,7 @@ Replying to [@dougschaefer](https://twitter.com/dougschaefer/status/116890089964
 
 > Kid[0] picked German at school. I now get to listen to Rammstein and Nina Hagen at home ^_^! 
 > 
-> <video controls><source src="{{ site.url }}/media/1171498925435412481-EEIADoyU0AEkZp6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1171498925435412481-EEIADoyU0AEkZp6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 10 19:01:23 +0000 2019](https://twitter.com/bruncedric/status/1171498925435412481)
 
@@ -30745,7 +30745,7 @@ Replying to [@peterfriese](https://twitter.com/bruncedric/status/117167885707166
 
 > It was a pleasure to celebrate the 30th birthday of @HLPAUDIT , Thanks for the invite and the great moment! 
 > 
-> <video controls><source src="{{ site.url }}/media/1172482682422472705-EEV-xVtXkAIDXHM.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1172482682422472705-EEV-xVtXkAIDXHM.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 13 12:10:29 +0000 2019](https://twitter.com/bruncedric/status/1172482682422472705)
 
@@ -30759,7 +30759,7 @@ Replying to [@peterfriese](https://twitter.com/bruncedric/status/117167885707166
 
 > I'm way too much excited by Link's Awakening on Switch coming next week ^_^ 
 > 
-> <video controls><source src="{{ site.url }}/media/1172827825839255552-EEa4rjaXkAAuqdT.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1172827825839255552-EEa4rjaXkAAuqdT.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Sep 14 11:01:58 +0000 2019](https://twitter.com/bruncedric/status/1172827825839255552)
 
@@ -30812,7 +30812,7 @@ Replying to [@jfbrazeau, @Obeo_Fr, @theseacleaners and @RefitNGIN](https://twitt
 
 Replying to [@jfbrazeau, @Obeo_Fr, @theseacleaners, @RefitNGIN and @tradediscount](https://twitter.com/jfbrazeau/status/1175313555375230976)
 
-> <video controls><source src="{{ site.url }}/media/1175315857842606080-EE-PibeWkAA-cDA.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1175315857842606080-EE-PibeWkAA-cDA.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Sep 21 07:48:31 +0000 2019](https://twitter.com/bruncedric/status/1175315857842606080)
 
@@ -31252,7 +31252,7 @@ Replying to [@sbegaudeau](https://twitter.com/bruncedric/status/1205223323610820
 
 > Just voted to elect the next President of @cjd_france ! 3 great candidates :-) 
 > 
-> <video controls><source src="{{ site.url }}/media/1205566873917698049-ELsIpuqWoAYKBIS.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1205566873917698049-ELsIpuqWoAYKBIS.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 13 19:15:15 +0000 2019](https://twitter.com/bruncedric/status/1205566873917698049)
 
@@ -31311,7 +31311,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/1206871619358134278)
 > The Eclipse IDE, the most versatile tooling platform truly open just got released with a ton of improvements:  performance, Java 13, Maven, Git and much more. 
 > Congrats to the 123 commiters who worked on this milestone! We hope you'll enjoy this release! https://www.eclipse.org/eclipseide/ 
 > 
-> <video controls><source src="{{ site.url }}/media/1207985392533811201-EMOgQ5YW4AAmfFD.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1207985392533811201-EMOgQ5YW4AAmfFD.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 20 11:25:35 +0000 2019](https://twitter.com/bruncedric/status/1207985392533811201)
 
@@ -31435,7 +31435,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1244617611880652
 
 > I can already say we are on the right track. Of course we'll adapt, we'll innovate and in doing so we might fumble, and that's OK: we'll use our core values as guidance. [...] 
 > 
-> <video controls><source src="{{ site.url }}/media/1244617902193545217-EUXFYXGWoAE9Xl6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1244617902193545217-EUXFYXGWoAE9Xl6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 30 13:30:06 +0000 2020](https://twitter.com/bruncedric/status/1244617902193545217)
 
@@ -31445,7 +31445,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1244617902193545
 
 > I consider myself lucky for many reasons: our activity is definitely in the category of the most straightforward ones to adapt, we have strong year over year relationships with many customers all over the world and they are here too, with us. [...] 
 > 
-> <video controls><source src="{{ site.url }}/media/1244618171857977344-EUXFoC1WsAAC67S.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1244618171857977344-EUXFoC1WsAAC67S.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 30 13:31:10 +0000 2020](https://twitter.com/bruncedric/status/1244618171857977344)
 
@@ -31464,7 +31464,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1244618171857977
 
 > Locked down status gives a very strange perception of time. Time flies when you jump all day from visio to mail to chat to visio to phone to kids to visio to chat to mail to visio.... up to diner....  without even physically moving! 
 > 
-> <video controls><source src="{{ site.url }}/media/1245389447107170306-EUiDGLvXgAAPyxQ.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1245389447107170306-EUiDGLvXgAAPyxQ.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 01 16:35:57 +0000 2020](https://twitter.com/bruncedric/status/1245389447107170306)
 
@@ -31507,7 +31507,7 @@ Replying to [@j2r2b and @EclipseCon](https://twitter.com/j2r2b/status/1247420749
 
 > When all the DSLAM's in your region starts to fail one after the other... 
 > 
-> <video controls><source src="{{ site.url }}/media/1248226891275874310-EVKXu_eVAAEJyO1.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1248226891275874310-EVKXu_eVAAEJyO1.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 09 12:30:56 +0000 2020](https://twitter.com/bruncedric/status/1248226891275874310)
 
@@ -31543,7 +31543,7 @@ Replying to [@tracymiranda](https://twitter.com/tracymiranda/status/125038704629
 
 > It's almost a daily thing for us too! 
 > 
-> <video controls><source src="{{ site.url }}/media/1250416270190804992-EVpe9usUUAEUIAo.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1250416270190804992-EVpe9usUUAEUIAo.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 15 13:30:45 +0000 2020](https://twitter.com/bruncedric/status/1250416270190804992)
 
@@ -31777,7 +31777,7 @@ Replying to [@alex_morel_, @mchv, @CodeLutin, @aprilorg, @AllianceLibre, @Codeur
 
 > Last day for submitting a talk to @eclipsecon 2020! bring in the proposals! https://www.eclipsecon.org/2020/cfp 
 > 
-> <video controls><source src="{{ site.url }}/media/1272522052680003592-EajoDtZWkAMKFNk.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1272522052680003592-EajoDtZWkAMKFNk.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 15 13:31:14 +0000 2020](https://twitter.com/bruncedric/status/1272522052680003592)
 
@@ -31823,7 +31823,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/12728854
 
 > Starting the day with reaching an all-time record of community members signing-in for #SiriusCon which will start later today. Thank you for joining, the team is ready!  If you want to join the party: https://www.crowdcast.io/e/siriuscon-live-2020/register 
 > 
-> <video controls><source src="{{ site.url }}/media/1273501762570334210-EaxjGTpXQAAVpyP.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1273501762570334210-EaxjGTpXQAAVpyP.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 18 06:24:15 +0000 2020](https://twitter.com/bruncedric/status/1273501762570334210)
 
@@ -31841,7 +31841,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1273501762570334
 
 > It's on! 
 > 
-> <video controls><source src="{{ site.url }}/media/1273583012236734466-Eays_pzWsAArraN.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1273583012236734466-Eays_pzWsAArraN.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 18 11:47:06 +0000 2020](https://twitter.com/bruncedric/status/1273583012236734466)
 
@@ -31918,7 +31918,7 @@ Replying to [@waynebeaton, @ejuliot and @EclipseSirius](https://twitter.com/wayn
 
 > Let's take a minute to thanks the team backstage and send all the energy we can through the wires! #siriuscon 
 > 
-> <video controls><source src="{{ site.url }}/media/1273615086914088968-EazKKpkXsAIRf4a.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1273615086914088968-EazKKpkXsAIRf4a.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 18 13:54:34 +0000 2020](https://twitter.com/bruncedric/status/1273615086914088968)
 
@@ -32044,7 +32044,7 @@ Replying to [@EclipseSirius, @melaniebats and @sbegaudeau](https://twitter.com/E
 
 > Finalizing the schedule for #EclipseCon with the help of the other program committe brains! I don't need no software with such a great help ;-) 
 > 
-> <video controls><source src="{{ site.url }}/media/1285962742629904388-EdioS1MWsAIf9yj.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1285962742629904388-EdioS1MWsAIf9yj.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jul 22 15:39:44 +0000 2020](https://twitter.com/bruncedric/status/1285962742629904388)> RT @EclipseSirius: 🚨New examples of #graphicalmodeling tools created with #EclipseSirius
 > -Component Fault Tree (@siemenssoftware)
@@ -32347,7 +32347,7 @@ Replying to [@ralph_mueller, @mmilinkov and @EclipseCon](https://twitter.com/ral
 
 > T-00:42 Obeo Launch Director verifies “GO” for launch #EclipseCon #OpenSource #SiriusWeb #EclipseSirius 
 > 
-> <video controls><source src="{{ site.url }}/media/1318874610595758082-ZM9hVQoxdvdCvMGm.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1318874610595758082-ZM9hVQoxdvdCvMGm.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 21 11:19:45 +0000 2020](https://twitter.com/bruncedric/status/1318874610595758082)
 
@@ -32355,7 +32355,7 @@ Replying to [@ralph_mueller, @mmilinkov and @EclipseCon](https://twitter.com/ral
 
 > RT @melaniebats: @bruncedric Yes captain! Roger that. #EclipseCon #OpenSource #SiriusWeb #EclipseSirius 
 > 
-> <video controls><source src="{{ site.url }}/media/1318877188146561024-Ek2Wu-AXEAEhsgB.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1318877188146561024-Ek2Wu-AXEAEhsgB.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 21 11:29:59 +0000 2020](https://twitter.com/bruncedric/status/1318877188146561024)
 
@@ -32720,7 +32720,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 > RT @atanaka: Browsing a sample project with ODP tool (work in progress and powered by Eclipse/Sirius) 
 > 
-> <video controls><source src="{{ site.url }}/media/1375722073201520640-lL832FLImHX6ddxz.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1375722073201520640-lL832FLImHX6ddxz.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Mar 27 08:11:16 +0000 2021](https://twitter.com/bruncedric/status/1375722073201520640)
 
@@ -32766,7 +32766,7 @@ Replying to [@gblondelle, @EclipseFdn, @OPCoach_Eclipse, @tracymiranda, @alex_sc
 > 
 > Watch "Behind the Scene #3 to learn more: https://youtube.com/watch?v=S8s8GmEOWqQ&t=3s 
 > 
-> <video controls><source src="{{ site.url }}/media/1378007575967510529-Ex-qUu7XEAA5N0l.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1378007575967510529-Ex-qUu7XEAA5N0l.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 02 15:33:02 +0000 2021](https://twitter.com/bruncedric/status/1378007575967510529)
 
@@ -32832,7 +32832,7 @@ Replying to [@gblondelle, @EclipseFdn, @OPCoach_Eclipse, @tracymiranda, @alex_sc
 > Learn more in BehindTheScene#4 by @melaniebats 
 > http://melb.enix.org/2021/04/29/behind-the-scene-list-container/ 
 > 
-> <video controls><source src="{{ site.url }}/media/1390593880459030528-E0xgs3NWQAIudH-.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1390593880459030528-E0xgs3NWQAIudH-.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 07 09:06:31 +0000 2021](https://twitter.com/bruncedric/status/1390593880459030528)
 
@@ -32888,7 +32888,7 @@ Replying to [@VincentAranega, @EclipseSirius and @melaniebats](https://twitter.c
 
 > Tick-tock, tick-tock, early bird selection for @EclipseCon  is next Tuesday, we'll pick 5 talks from the ones submitted at that time, use that chance to get your talk in! 
 > 
-> <video controls><source src="{{ site.url }}/media/1397967177693765632-E2aTvCOWYAY1E_H.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1397967177693765632-E2aTvCOWYAY1E_H.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 27 17:25:22 +0000 2021](https://twitter.com/bruncedric/status/1397967177693765632)
 
@@ -32983,7 +32983,7 @@ Replying to [@ZimMatthias and @etherisc](https://twitter.com/ZimMatthias/status/
 
 > [hype intensifies] 
 > 
-> <video controls><source src="{{ site.url }}/media/1404722033041227780-oRHZzElI2Z9h-3ny.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1404722033041227780-oRHZzElI2Z9h-3ny.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 15 08:46:45 +0000 2021](https://twitter.com/bruncedric/status/1404722033041227780)
 
@@ -32997,7 +32997,7 @@ Replying to [@ZimMatthias and @etherisc](https://twitter.com/ZimMatthias/status/
 
 > https://www.crowdcast.io/e/siriuscon-2021 
 > 
-> <video controls><source src="{{ site.url }}/media/1404785601535254530-E37NDctUUAIyB-r.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1404785601535254530-E37NDctUUAIyB-r.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 15 12:59:21 +0000 2021](https://twitter.com/bruncedric/status/1404785601535254530)
 
@@ -33019,7 +33019,7 @@ Replying to [@ZimMatthias and @etherisc](https://twitter.com/ZimMatthias/status/
 
 > Oh, it looks like you folks did submit at the last minute for #EclipseCon this year, nice job getting the proposals in! 
 > 
-> <video controls><source src="{{ site.url }}/media/1405072697621680131-E3_SKtgWQAEYPZY.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1405072697621680131-E3_SKtgWQAEYPZY.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 16 08:00:10 +0000 2021](https://twitter.com/bruncedric/status/1405072697621680131)
 
@@ -33064,7 +33064,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1405129400866250
 > 
 > https://www.crowdcast.io/e/siriuscon-2021/register 
 > 
-> <video controls><source src="{{ site.url }}/media/1405151864014966791-E4AQDAWVkAQ4jS4.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1405151864014966791-E4AQDAWVkAQ4jS4.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 16 13:14:45 +0000 2021](https://twitter.com/bruncedric/status/1405151864014966791)
 
@@ -33296,7 +33296,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1405129400866250
 
 > Congrats to all the Eclipse community award winners!  Special kudos to @melaniebats  for the "Lifetime Achievement Award" #eclipsecon 
 > 
-> <video controls><source src="{{ site.url }}/media/1452959660139548677-FCnzGyCWYAcp-2L.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1452959660139548677-FCnzGyCWYAcp-2L.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 26 11:25:52 +0000 2021](https://twitter.com/bruncedric/status/1452959660139548677)
 
@@ -33323,7 +33323,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1405129400866250
 
 > Current status involves live talks at #eclipsecon, 5 chats in parallel + twitter+ ... 
 > 
-> <video controls><source src="{{ site.url }}/media/1452975502441033729-FCoBg8FXMAIx4SH.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1452975502441033729-FCoBg8FXMAIx4SH.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 26 12:28:49 +0000 2021](https://twitter.com/bruncedric/status/1452975502441033729)
 
@@ -33334,7 +33334,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1405129400866250
 > 
 > https://eclipsecon.app.swapcard.com/event/eclipsecon-2021/planning/UGxhbm5pbmdfNjA4NTM1 
 > 
-> <video controls><source src="{{ site.url }}/media/1452984292817219593-FCoJgmzXIAI7m1q.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1452984292817219593-FCoJgmzXIAI7m1q.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 26 13:03:45 +0000 2021](https://twitter.com/bruncedric/status/1452984292817219593)
 
@@ -33342,7 +33342,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1405129400866250
 
 > WHAT?!? Am I the Queen ?!! 
 > 
-> <video controls><source src="{{ site.url }}/media/1452988532310650887-FCoNXYJWEAUk0v6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1452988532310650887-FCoNXYJWEAUk0v6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 26 13:20:35 +0000 2021](https://twitter.com/bruncedric/status/1452988532310650887)
 
@@ -33427,7 +33427,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1452999289345564
 
 > As the conference is coming to an end, I think of all the speakers: no doubt you did put great care in preparing your talks and the content was really solid! Thanks for sharing and making #EclipseCon a success! 
 > 
-> <video controls><source src="{{ site.url }}/media/1453742176672825356-FCy6zQLWQAoMWbP.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1453742176672825356-FCy6zQLWQAoMWbP.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 28 15:15:18 +0000 2021](https://twitter.com/bruncedric/status/1453742176672825356)
 
@@ -33849,7 +33849,7 @@ Replying to [@Obeo_Fr, @RIDE2022, @fmadiot and @Polemc2](https://twitter.com/Obe
 
 > RT @EclipseFdn: Only 5 days until the next #EclipseIDE update! #opensource #Java @EclipseJavaIDE 
 > 
-> <video controls><source src="{{ site.url }}/media/1535269967083581449-VqnWA692AAaer9S6.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1535269967083581449-VqnWA692AAaer9S6.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 10 14:37:38 +0000 2022](https://twitter.com/bruncedric/status/1535269967083581449)
 
@@ -33879,7 +33879,7 @@ Replying to [@Obeo_Fr, @RIDE2022, @fmadiot and @Polemc2](https://twitter.com/Obe
 > SiriusCon starts now !
 > https://www.bigmarker.com/obeo/SiriusCon-2022-Day-1 
 > 
-> <video controls><source src="{{ site.url }}/media/1536710496979648515-FVN-DGwWYAEAH1W.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1536710496979648515-FVN-DGwWYAEAH1W.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 14 14:01:47 +0000 2022](https://twitter.com/bruncedric/status/1536710496979648515)
 
@@ -33945,7 +33945,7 @@ Replying to [@Obeo_Fr, @RIDE2022, @fmadiot and @Polemc2](https://twitter.com/Obe
 
 > RT @fmadiot: Le final ! Bravo ⁦@laurentdelaigue⁩ 👍🤩 
 > 
-> <video controls><source src="{{ site.url }}/media/1539376251214905344-qgbLtQrodjtCrpp5.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1539376251214905344-qgbLtQrodjtCrpp5.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 21 22:34:33 +0000 2022](https://twitter.com/bruncedric/status/1539376251214905344)
 
@@ -34223,7 +34223,7 @@ Replying to [@mmilinkov](https://twitter.com/mmilinkov/status/158481012947973734
 
 > During her talk @melaniebats had no time to demonstrate @EclipseSirius Web and @ProjectJupyter   Notebook working together. Here is a video showing this tiny proof of concept for you to enjoy while travelling from Ludwigsburg! #eclipsecon 
 > 
-> <video controls><source src="{{ site.url }}/media/1585602412613697536-mtzkK6_9cWzEgkH4.mp4">Your browser does not support the video tag.</video>
+> <video preload="none" controls><source src="{{ site.url }}/media/1585602412613697536-mtzkK6_9cWzEgkH4.mp4">Your browser does not support the video tag.</video>
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 27 12:00:48 +0000 2022](https://twitter.com/bruncedric/status/1585602412613697536)
 
