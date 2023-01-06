@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Graphical Modeling Tools: Approaches to Reducing Complexity
+title: Building Graphical Modeling Tools, Approaches to Reducing Complexity
 categories: [modeling]
 tags: [draft]
 ---
