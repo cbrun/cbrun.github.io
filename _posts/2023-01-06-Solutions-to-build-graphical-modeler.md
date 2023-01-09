@@ -63,7 +63,7 @@ It's life changing, as then the cost of trying another way to represent the doma
 
 With Sirius Web we even go one step further in reducing this feedback loop: you adapt the tool, it's instantly usable by all the engineers accessing it directly from their web browser.
 
-<video preload="none" controls><source src="{{ site.url }}/media/SiriusWeb and JupyterNotebook.mp4">Your browser does not support the video tag.</video>
+<video width="640" height="360" controls><source src="{{ site.url }}/media/SiriusWeb and JupyterNotebook.mp4">Your browser does not support the video tag.</video>
 
 
 ----
