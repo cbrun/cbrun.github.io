@@ -2,7 +2,8 @@
 layout: post
 title: Building Graphical Modeling Tools, Approaches to Reducing Complexity
 categories: [modeling]
-tags: [draft]
+categories: [eclipse]
+tags: [modeling, emf, eclipse, sirius]
 ---
 
 Building graphical modeling tools can be a complex undertaking, especially if they need to support many features and functions. At Obeo, we have extensive experience in this area and strive to make the process as easy and accessible as possible. To accomplish this, we rely on several strategies, including modular design, higher-level abstractions, and the ability to iterate quickly on a tool definition. In the last few years we have kept these principles while transitionning the technologies to the Web.
