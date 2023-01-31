@@ -3,6 +3,13 @@ layout: page
 title: Talks and Papers
 permalink: /talks/
 ---
+## 2021
+* [Interview by the Eclipse Foundation](https://www.youtube.com/watch?v=zh6uTWMIqzs), Why Participate in Open-Source, April 2021
+* [Open Source Community Participation Drives Business Success](https://outreach.eclipse.foundation/participate-open-source-ebook), Contributed to an eBook published by the Eclipse Foundation.
+
+## 2020
+* [Interview by Federico Tomassetti - Strumenta](https://tomassetti.me/interview-with-cedric-brun/) "If you look in the future, you’ll get tools which have awesome user experience, which are getting data from all the other systems in order to support engineering activities. You are going to be able to use statistics and AI and so on in order to help you make decisions while designing your architecture or your system or whatever [...]"
+
 
 ## 2017
 * [Integrating Xtext and Sirius: Strategies and Pitfalls](https://www.slideshare.net/cbrun/integrating-xtext-and-sirius-strategies-and-pitfalls) at EclipseCon France 2017, Toulouse
