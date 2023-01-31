@@ -40,6 +40,7 @@ permalink: /talks/
 
 * [EcoreTools 2.0: The Making Of](https://www.eclipsecon.org/europe2013/ecoretools-20-making) EclipseCon Europe, Ludwigsburg, Germany ([Video](https://www.youtube.com/watch?v=XSP-oAmmS_E), [slides](https://www.eclipsecon.org/europe2013/sites/eclipsecon.org.europe2013/files/EcoreTools2.pdf))
 * [Interview: Sirius getting contributed to Eclipse](https://www.youtube.com/watch?v=hyDxSmbSi2g)
+* [Interview by InfoQ: Obeo Designer passe Open Source (Sirius)](https://www.infoq.com/fr/interviews/obeo-designer-open-source-sirius/)
 
 ## 2012
 
