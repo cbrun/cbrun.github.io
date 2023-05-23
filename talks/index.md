@@ -81,7 +81,7 @@ permalink: /talks/
 
 * [Comparing and Merging Models with Eclipse : an Update on EMF Compare](https://www.eclipsecon.org/2008/index7123.html?page=sub/&id=328) at EclipseCon, San Francisco ([slides](https://cedric.brun.io/talks/EclipseConUS2008/EMFCompare_update_2008.pdf))
 * [Mega Modeling Mania](https://www.eclipsecon.org/2008/index17da.html?page=sub/&id=564) at EclipseCon, San Francisco
-* BRUN, Cédric et PIERANTONIO, Alfonso. [Model differences in the eclipse modeling framework](https://www.cepis.org/upgrade/files/2008-II-pierantonio.pdf). UPGRADE, The European Journal for the Informatics Professional, 2008, vol. 9, no 2, p. 29-34.
+* BRUN, Cédric et PIERANTONIO, Alfonso. [Model differences in the eclipse modeling framework](https://cedric.brun.io/talks/Upgrade2008/preprint-upgrade-vol-IX-2.pdf). UPGRADE, The European Journal for the Informatics Professional, 2008, vol. 9, no 2, p. 29-34.
 * [Les outils MDA Open Source: Application à JEE](https://cedric.brun.io/talks/SolutionsLinux2008/MDAOpenSource.pdf) Solutions Linux, Paris
 
 
