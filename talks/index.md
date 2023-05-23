@@ -50,7 +50,7 @@ permalink: /talks/
 
 * [15 EMF projects in 25 minutes](https://cedric.brun.io/eclipsecon-europe-2012-slides/) at EclipseCon Europe, ([slides](https://cedric.brun.io/eclipsecon-europe-2012-slides/))
 * [Tutorial: building webapp (backbone.js, ..) generator with Eclipse Modeling ](https://plus.google.com/+C%C3%A9dricBrun/posts/EKgDZ1grtEv) Breizhcamp, Rennes.
-* [Understanding Eclipse Modeling](https://www.eclipsedaytoulouse.com/programme/#modeling) at Eclipse Day Toulouse [video](https://www.youtube.com/watch?v=sFf34a5u92U)
+* *Understanding Eclipse Modeling*  at Eclipse Day Toulouse [video](https://www.youtube.com/watch?v=sFf34a5u92U)
 * [Interview: Opees and Polarsys at the core of Obeo's strategy](https://www.youtube.com/watch?v=DD-miRQlnQc) at Eclipse Day Toulouse
 * [Your custom modeling environment definition made easy. At last!](https://www.eclipsecon.org/2013/sessions/your-custom-modeling-environment-definition-made-easy-last) at EclipseCon, Boston
 
@@ -58,7 +58,7 @@ permalink: /talks/
 ## 2011
 
 * [Building tools for software re-architecture](https://sites.google.com/site/jugsummercamp/) at JugSummer Camp, La Rochelle
-* [What the heck is Eclipse Modeling and why should you care !](https://www.eclipsedayparis.com/) at EclipseDay Paris ([slides](https://cedric.brun.io/talks/EclipseDayParis2011/EclipseModeling.pdf))
+* [What the heck is Eclipse Modeling and why should you care !](https://cedric.brun.io/talks/EclipseDayParis2011/EclipseModeling.pdf) at EclipseDay Paris ([slides](https://cedric.brun.io/talks/EclipseDayParis2011/EclipseModeling.pdf))
 * [Collaborative Modeling : The New Deal](https://dl.acm.org/citation.cfm?id=2000411&dl=ACM&coll=DL&CFID=484729923&CFTOKEN=19061534) Keynote at IWMCP, Zurich ([slides](https://cedric.brun.io/talks/IWCMP2011/Collaborative Modeling_New_Deal.pdf))
 * [Collaborative Modeling : The New Deal](https://www.eclipsecon.org/europe2011/sessions/collaborative-modeling-new-deal.html) at EclipseCon Europe, Ludwigsburg
 * [What every developper should know about EMF Compare?](https://cedric.brun.io/talks/EclipseConEurope2011/CompareEcon.pdf) at EclipseCon Europe, Ludwigsburg
