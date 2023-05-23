@@ -58,21 +58,21 @@ permalink: /talks/
 ## 2011
 
 * [Building tools for software re-architecture](https://sites.google.com/site/jugsummercamp/) at JugSummer Camp, La Rochelle
-* [What the heck is Eclipse Modeling and why should you care !](https://www.eclipsedayparis.com/) at EclipseDay Paris ([slides](https://www.eclipsedayparis.com/2011/uploads/slides2011/CedricBrun_EclipseModeling.pdf))
-* [Collaborative Modeling : The New Deal](https://www.iwmcp.org/2011/page.php?id=36) Keynote at IWMCP, Zurich ([slides](https://dl.acm.org/citation.cfm?id=2000411&dl=ACM&coll=DL&CFID=484729923&CFTOKEN=19061534))
+* [What the heck is Eclipse Modeling and why should you care !](https://www.eclipsedayparis.com/) at EclipseDay Paris ([slides](https://cedric.brun.io/talks/EclipseDayParis2011/EclipseModeling.pdf))
+* [Collaborative Modeling : The New Deal](https://www.iwmcp.org/2011/page.php?id=36) Keynote at IWMCP, Zurich ([slides](https://dl.acm.org/citation.cfm?id=2000411&dl=ACM&coll=DL&CFID=484729923&CFTOKEN=19061534))([slides](https://cedric.brun.io/talks/IWCMP2011/Collaborative Modeling_New_Deal.pdf)
 * [Collaborative Modeling : The New Deal](https://www.eclipsecon.org/europe2011/sessions/collaborative-modeling-new-deal.html) at EclipseCon Europe, Ludwigsburg
 
 
 ## 2010
 
 * [Eclipse Modeling Panel](https://www.eclipsecon.org/2010/sessions/index8474.html?id=1528) at EclipseCon, San Francisco
-* [Diff, Merge and Patch your models with Helios](https://www.eclipsecon.org/2010/sessions/index8b56.html?id=1169) at EclipseCon, San Francisco
+* [Diff, Merge and Patch your models with Helios](https://cedric.brun.io/talks/EclipseConUS2010/Compare.pdf) at EclipseCon, San Francisco
 * [Challenge Eclipse - Ask the Architecture Council](https://www.eclipsecon.org/2010/sessions/index3b81.html?id=1209)
 
 ## 2009
 
-* [From Acceleo.org to Eclipse Modeling](https://www.eclipsecon.org/summiteurope2009/sessions9f0a.html?id=971) at Eclipse Summit Europe, Ludwigsburg
-* [Team Work with Models : Compare and Merge with EMF Compare in Galileo](https://www.eclipsecon.org/2009/sessions5cad.html?id=461) at EclipseCon, San Francisco
+* [From Acceleo.org to Eclipse Modeling](https://cedric.brun.io/talks/EclipseSummit2009/from_Acceleo.org_to_Eclipse_Modeling.pdf) at Eclipse Summit Europe, Ludwigsburg
+* [Team Work with Models : Compare and Merge with EMF Compare in Galileo](https://cedric.brun.io/talks/EclipseConUS2009/TeamWorkWithModels_econ2009.pdf) at EclipseCon, San Francisco
 
 ## 2008
 
