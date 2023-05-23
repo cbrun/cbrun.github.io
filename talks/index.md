@@ -17,7 +17,7 @@ permalink: /talks/
 * [Eclipse Modeling Guided Tour : EMF Compare](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-compare.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany 
 * [Integrating Xtext and Sirius: Strategies and Pitfalls](https://cedric.brun.io/talks/EclipseConEU2017/Sirius%20and%20Xtext-%20ECE.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany
 * [Integrating Xtext and Sirius: Strategies and Pitfalls](https://www.slideshare.net/cbrun/integrating-xtext-and-sirius-strategies-and-pitfalls) at EclipseCon France 2017, Toulouse
-* [EcoreTools-Next: Executable DSL made (more) accessible](https://cedric.brun.io/talks/EclipseConEU2017/EclipseConFR2017.pdf) at EclipseCon France 2017, Toulouse  [video](https://www.youtube.com/watch?v=x4viqEFN7PU)
+* [EcoreTools-Next: Executable DSL made (more) accessible](https://cedric.brun.io/talks/EclipseConFR2017/ALE_talk.pdf) at EclipseCon France 2017, Toulouse  [video](https://www.youtube.com/watch?v=x4viqEFN7PU)
 * [Great new features and enhancements in the Eclipse IDE](https://www.slideshare.net/mikaelbarbero/whats-new-in-eclipse-oxygen-devoxx-france-2017) at Devoxx (last minute backup for Mikaël), France, Paris,  [video](https://www.youtube.com/watch?v=jIcFiFZppSw)
 
 ## 2016
@@ -27,7 +27,7 @@ permalink: /talks/
 
 ## 2015
 * [Sirius : Origins, Present, Future](https://cedric.brun.io/talks/SiriusOriginsPresentFuture/#/) at SiriusCon 2015, France, Paris
-* [Domain Globalization: Using Languages to Support Technical and Social Coordination](https://www.springer.com/us/book/9783319261713) within the book 'Globalizing Domain-Specific Languages', Springer.
+* [Domain Globalization: Using Languages to Support Technical and Social Coordination](https://link.springer.com/chapter/10.1007/978-3-319-26172-0_5) within the book 'Globalizing Domain-Specific Languages', Springer.
 * [A Solution to the TTC'15 Model Execution Case Using the GEMOC Studio](https://hal.inria.fr/hal-01152342/), Transformation Tool Contest 2015.
 * [Sirius 3.0 : Faster, Stronger and Smarter Diagram Editors](https://cedric.brun.io/talks/Sirius300FasterStrongerSmarter/slides/#/) at EclipseCon France, Toulouse.
 * [Breathe Life Into Your Designer!](https://siriuslab.github.io/talks/BreatheLifeInYourDesigner/slides/index.html) at EclipseCon France, Toulouse.
@@ -37,7 +37,7 @@ permalink: /talks/
 * [Sirius + Xtext = ♥](https://www.eclipsecon.org/europe2014/session/sirius-xtext-%E2%99%A5) at EclipseCon Europe, Ludwigsburg, Germany. 
 * [Sirius + Xtext = ♥](https://www.eclipsecon.org/france2014/sites/default/files/slides/Xtext_Sirius.pdf) at EclipseCon France, Toulouse ([Video](https://www.youtube.com/watch?v=Ha0FbmcLjYY), [slides](https://www.eclipsecon.org/france2014/sites/default/files/slides/Xtext_Sirius.pdf))
 * [Hands-On Sirius: Create Graphical Editors for your Domain-Specific Language](https://www.eclipsecon.org/france2014/session/hands-sirius-create-graphical-editors-your-domain-specific-language) at EclipseCon France, Toulouse
-* [Sirius + Xtext = ♥](https://www.xtextcon.org/slides/) at XtextCon at Kiel, Germany ([slides](https://cedric.brun.io/talks/XtextCon2014/Xtext_Sirius.pdf))
+* [Sirius + Xtext = ♥](https://cedric.brun.io/talks/XtextCon2014/Xtext_Sirius.pdf) at XtextCon at Kiel, Germany ([slides](https://cedric.brun.io/talks/XtextCon2014/Xtext_Sirius.pdf))
 * [EcoreTools 2.0: The Luna Revival](https://cedric.brun.io/talks/EclipseConUS2014/EcoreTools2.pdf) EclipseCon Nort America - San Francisco
 
 ## 2013
