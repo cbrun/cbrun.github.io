@@ -76,7 +76,7 @@ permalink: /talks/
 
 ## 2008
 
-* [Comparing and Merging Models with Eclipse : an Update on EMF Compare](https://www.eclipsecon.org/2008/index7123.html?page=sub/&id=328) at EclipseCon, San Francisco ([slides](https://www.eclipsecon.org/2008/sub/attachments/Comparing_and_Merging_Models_with_Eclipse__an_Update_on_EMF_Compare.pdf))
+* [Comparing and Merging Models with Eclipse : an Update on EMF Compare](https://www.eclipsecon.org/2008/index7123.html?page=sub/&id=328) at EclipseCon, San Francisco ([slides](https://cedric.brun.io/talks/EclipseConUS2008/EMFCompare_update_2008.pdf))
 * [Mega Modeling Mania](https://www.eclipsecon.org/2008/index17da.html?page=sub/&id=564) at EclipseCon, San Francisco
 * BRUN, Cédric et PIERANTONIO, Alfonso. [Model differences in the eclipse modeling framework](https://www.cepis.org/upgrade/files/2008-II-pierantonio.pdf). UPGRADE, The European Journal for the Informatics Professional, 2008, vol. 9, no 2, p. 29-34.
 
