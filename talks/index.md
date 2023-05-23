@@ -82,9 +82,10 @@ permalink: /talks/
 
 
 ## 2007
-* [Model Comparison Panel](https://www.eclipsecon.org/2007/indexb8e1.html?page=sub/&id=3593) at EclipseCon, San Francisco
+* [Model Comparison Panel](https://cedric.brun.io/talks/EclipseConUS2007/panel.pdf) at EclipseCon, San Francisco
 * [Setting up a Domain Specific Tooling](https://www.eclipsecon.org/summiteurope2007/index337e.html?page=detail/&id=17) at Eclipse Summit Europe, Ludwigsburg ([slides](https://www.eclipsecon.org/summiteurope2007/presentations/ESE2007_SettingUpDSMtooling.pdf))
 * [EMF Compare: One Year Later](https://www.eclipsecon.org/summiteurope2007/index34ed.html?page=detail/&id=24) at Eclipse Summit Europe, Ludwigsburg ([slides](https://www.eclipsecon.org/summiteurope2007/presentations/ESE2007_EMFCompare.pdf))
 * [Acceleo, un générateur open source pour des développements dirigé par les modèles](https://scenari-platform.org/projects/others/files/solutionslinux2007.pdf) at Solutions Linux, Paris
 
-
+## 2006
+* [Ingénierie des Modèles 2006](https://cedric.brun.io/talks/IDM06/Obeo.pdf) at IDM, Lilles
