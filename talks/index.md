@@ -17,7 +17,7 @@ permalink: /talks/
 * [Eclipse Modeling Guided Tour : EMF Compare](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-compare.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany 
 * [Integrating Xtext and Sirius: Strategies and Pitfalls](https://cedric.brun.io/talks/EclipseConEU2017/Sirius%20and%20Xtext-%20ECE.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany
 * [Integrating Xtext and Sirius: Strategies and Pitfalls](https://www.slideshare.net/cbrun/integrating-xtext-and-sirius-strategies-and-pitfalls) at EclipseCon France 2017, Toulouse
-* [EcoreTools-Next: Executable DSL made (more) accessible](https://www.slideshare.net/cbrun/ecoretoolsnext-executable-dsl-made-more-accessible) at EclipseCon France 2017, Toulouse  [video](https://www.youtube.com/watch?v=x4viqEFN7PU)
+* [EcoreTools-Next: Executable DSL made (more) accessible](https://cedric.brun.io/talks/EclipseConEU2017/EclipseConFR2017.pdf) at EclipseCon France 2017, Toulouse  [video](https://www.youtube.com/watch?v=x4viqEFN7PU)
 * [Great new features and enhancements in the Eclipse IDE](https://www.slideshare.net/mikaelbarbero/whats-new-in-eclipse-oxygen-devoxx-france-2017) at Devoxx (last minute backup for Mikaël), France, Paris,  [video](https://www.youtube.com/watch?v=jIcFiFZppSw)
 
 ## 2016
@@ -38,7 +38,7 @@ permalink: /talks/
 * [Sirius + Xtext = ♥](https://www.eclipsecon.org/france2014/sites/default/files/slides/Xtext_Sirius.pdf) at EclipseCon France, Toulouse ([Video](https://www.youtube.com/watch?v=Ha0FbmcLjYY), [slides](https://www.eclipsecon.org/france2014/sites/default/files/slides/Xtext_Sirius.pdf))
 * [Hands-On Sirius: Create Graphical Editors for your Domain-Specific Language](https://www.eclipsecon.org/france2014/session/hands-sirius-create-graphical-editors-your-domain-specific-language) at EclipseCon France, Toulouse
 * [Sirius + Xtext = ♥](https://www.xtextcon.org/slides/) at XtextCon at Kiel, Germany ([slides](https://www.xtextcon.org/slides/Sirius%20+%20Xtext%20=%20%3C3%20-%20Cedric%20Brun.pdf))
-* [EcoreTools 2.0: The Luna Revival](https://fr.slideshare.net/cbrun/ecore-tools2) EclipseCon Nort America - San Francisco
+* [EcoreTools 2.0: The Luna Revival](https://cedric.brun.io/talks/EclipseConUS2014/EcoreTools2.pdf) EclipseCon Nort America - San Francisco
 
 ## 2013
 
