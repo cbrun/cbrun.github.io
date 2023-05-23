@@ -59,8 +59,11 @@ permalink: /talks/
 
 * [Building tools for software re-architecture](https://sites.google.com/site/jugsummercamp/) at JugSummer Camp, La Rochelle
 * [What the heck is Eclipse Modeling and why should you care !](https://www.eclipsedayparis.com/) at EclipseDay Paris ([slides](https://cedric.brun.io/talks/EclipseDayParis2011/EclipseModeling.pdf))
-* [Collaborative Modeling : The New Deal](https://www.iwmcp.org/2011/page.php?id=36) Keynote at IWMCP, Zurich ([slides](https://dl.acm.org/citation.cfm?id=2000411&dl=ACM&coll=DL&CFID=484729923&CFTOKEN=19061534))([slides](https://cedric.brun.io/talks/IWCMP2011/Collaborative Modeling_New_Deal.pdf)
+* [Collaborative Modeling : The New Deal](https://dl.acm.org/citation.cfm?id=2000411&dl=ACM&coll=DL&CFID=484729923&CFTOKEN=19061534) Keynote at IWMCP, Zurich ([slides](https://cedric.brun.io/talks/IWCMP2011/Collaborative Modeling_New_Deal.pdf))
 * [Collaborative Modeling : The New Deal](https://www.eclipsecon.org/europe2011/sessions/collaborative-modeling-new-deal.html) at EclipseCon Europe, Ludwigsburg
+* [What every developper should know about EMF Compare?](https://cedric.brun.io/talks/EclipseConEurope2011/CompareEcon.pdf) at EclipseCon Europe, Ludwigsburg
+* [Mylyn meets Intent: Documentation made fun and useful](https://cedric.brun.io/talks/EclipseConEurope2011/Intent.pdf) at EclipseCon Europe, Ludwigsburg
+
 
 
 ## 2010
