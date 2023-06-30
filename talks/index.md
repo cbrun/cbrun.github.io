@@ -4,6 +4,7 @@ title: Talks and Papers
 permalink: /talks/
 ---
 ## 2021
+* [The State Of Sirius : Where we are, and Where we are Going](https://www.youtube.com/watch?v=MBc6O_pxinA),[slides](https://cedric.brun.io/talks/SiriusCon2021/SiriusCon_2021-The_State_of_Sirius_Where_We_Are_and_Where_We_Are_Going.pdf) SiriusCon, June 2021
 * [Interview by the Eclipse Foundation](https://www.youtube.com/watch?v=zh6uTWMIqzs), Why Participate in Open-Source, April 2021
 * [Open Source Community Participation Drives Business Success](https://outreach.eclipse.foundation/participate-open-source-ebook), Contributed to an eBook published by the Eclipse Foundation.
 
