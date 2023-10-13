@@ -3,6 +3,10 @@ layout: page
 title: Talks and Papers
 permalink: /talks/
 ---
+## 2023
+* [(Sirius + Papyrus) × Web: a new Era for Collaborative Engineering tools](https://www.eclipsecon.org/2023/sessions/sirius-papyrus-%C3%97-web-new-era-collaborative-engineering-tools), EclipseCon 2023, Ludwigsburg, Germany 
+* [(Sirius + Papyrus) × Web: a new Era for Collaborative Engineering tools](https://conf.researchr.org/track/models-2023/models-2023-industry-days#program), Models 2023 - Industry Day, October 2023
+
 ## 2021
 * [The State Of Sirius : Where we are, and Where we are Going](https://www.youtube.com/watch?v=MBc6O_pxinA),[slides](https://cedric.brun.io/talks/SiriusCon2021/SiriusCon_2021-The_State_of_Sirius_Where_We_Are_and_Where_We_Are_Going.pdf) SiriusCon, June 2021
 * [Interview by the Eclipse Foundation](https://www.youtube.com/watch?v=zh6uTWMIqzs), Why Participate in Open-Source, April 2021
