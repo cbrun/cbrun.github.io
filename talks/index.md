@@ -18,9 +18,14 @@ permalink: /talks/
 
 
 ## 2017
-* [Eclipse Modeling Guided Tour : EcoreTools](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-ecoretools.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany 
-* [Eclipse Modeling Guided Tour : AQL](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-aql.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany 
-* [Eclipse Modeling Guided Tour : EMF Compare](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-compare.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany 
+[![](https://cedric.brun.io/talks/EclipseConEU2017/ecoretools_thumbnail.png)](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-ecoretools.pdf)
+* [Eclipse Modeling Guided Tour : EcoreTools](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-ecoretools.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany
+
+[![](https://cedric.brun.io/talks/EclipseConEU2017/aql_thumbnail.png)](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-aql.pdf)
+* [Eclipse Modeling Guided Tour : AQL](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-aql.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany
+  
+[![](https://cedric.brun.io/talks/EclipseConEU2017/compare_thumbnail.png)](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-compare.pdf)
+* [Eclipse Modeling Guided Tour : EMF Compare](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-compare.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany
 * [Integrating Xtext and Sirius: Strategies and Pitfalls](https://cedric.brun.io/talks/EclipseConEU2017/Sirius%20and%20Xtext-%20ECE.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany
 * [Integrating Xtext and Sirius: Strategies and Pitfalls](https://www.slideshare.net/cbrun/integrating-xtext-and-sirius-strategies-and-pitfalls) at EclipseCon France 2017, Toulouse
 * [EcoreTools-Next: Executable DSL made (more) accessible](https://cedric.brun.io/talks/EclipseConFR2017/ALE_talk.pdf) at EclipseCon France 2017, Toulouse  [video](https://www.youtube.com/watch?v=x4viqEFN7PU)
