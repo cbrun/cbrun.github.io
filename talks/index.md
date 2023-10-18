@@ -4,7 +4,7 @@ title: Talks and Papers
 permalink: /talks/
 ---
 ## 2023
-* [(Sirius + Papyrus) × Web: a new Era for Collaborative Engineering tools](https://www.eclipsecon.org/2023/sessions/sirius-papyrus-%C3%97-web-new-era-collaborative-engineering-tools), EclipseCon 2023, Ludwigsburg, Germany 
+* [(Sirius + Papyrus) × Web: a new Era for Collaborative Engineering tools](https://www.eclipsecon.org/2023/sessions/sirius-papyrus-%C3%97-web-new-era-collaborative-engineering-tools), [slides](https://cedric.brun.io/talks/EclipseCon2023/EclipseCon_SiriusPapyrus_Web.pdf) EclipseCon 2023, Ludwigsburg, Germany 
 * [(Sirius + Papyrus) × Web: a new Era for Collaborative Engineering tools](https://conf.researchr.org/track/models-2023/models-2023-industry-days#program), Models 2023 - Industry Day, October 2023
 
 ## 2021
