@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 ## 2023
 [![](https://cedric.brun.io/talks/EclipseCon2023/thumbnail.png)](https://cedric.brun.io/talks/EclipseCon2023/EclipseCon_SiriusPapyrus_Web.pdf) 
-* [(Sirius + Papyrus) × Web: a new Era for Collaborative Engineering tools](https://www.eclipsecon.org/2023/sessions/sirius-papyrus-%C3%97-web-new-era-collaborative-engineering-tools), EclipseCon 2023, Ludwigsburg, Germany 
+* [(Sirius + Papyrus) × Web: a new Era for Collaborative Engineering tools](https://www.eclipsecon.org/2023/sessions/sirius-papyrus-%C3%97-web-new-era-collaborative-engineering-tools), EclipseCon 2023, Ludwigsburg, Germany , [video](https://www.youtube.com/watch?v=18MuxEVm6y0)
 * [(Sirius + Papyrus) × Web: a new Era for Collaborative Engineering tools](https://conf.researchr.org/track/models-2023/models-2023-industry-days#program), Models 2023 - Industry Day, October 2023
 
 ## 2021
@@ -18,6 +18,7 @@ permalink: /talks/
 
 
 ## 2017
+* [Xtext/Sirius White Paper](https://www.obeodesigner.com/en/white-paper-xtext-sirius)
 [![](https://cedric.brun.io/talks/EclipseConEU2017/ecoretools_thumbnail.png)](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-ecoretools.pdf)
 * [Eclipse Modeling Guided Tour : EcoreTools](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-ecoretools.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany
 
