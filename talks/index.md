@@ -19,6 +19,7 @@ permalink: /talks/
 
 ## 2017
 * [Xtext/Sirius White Paper](https://www.obeodesigner.com/en/white-paper-xtext-sirius)
+
 [![](https://cedric.brun.io/talks/EclipseConEU2017/ecoretools_thumbnail.png)](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-ecoretools.pdf)
 * [Eclipse Modeling Guided Tour : EcoreTools](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-ecoretools.pdf) at EclipseCon Europe 2017, Ludwigsburg, Germany
 
