@@ -5,7 +5,7 @@ categories: [social]
 tags: [social, tweets]
 ---
 
-> Blogging about Eclipse, OSS and the Obeo Company  "Unusual Propulsion System" : http://tinyurl.com/ybazp84
+> Blogging about Eclipse, OSS and the Obeo Company  "Unusual Propulsion System" : https://tinyurl.com/ybazp84
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 01 12:52:35 +0000 2010](https://twitter.com/bruncedric/status/9823343144)
 
@@ -29,7 +29,7 @@ tags: [social, tweets]
 
 ----
 
-> Modeling Components are providing their information for  the modeling bundle : http://tinyurl.com/yka4f74
+> Modeling Components are providing their information for  the modeling bundle : https://tinyurl.com/yka4f74
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 02 14:19:52 +0000 2010](https://twitter.com/bruncedric/status/9875945357)
 
@@ -47,7 +47,7 @@ tags: [social, tweets]
 
 ----
 
-> Ecore Graphical Modeler In Color (bis) and In Motion : http://tinyurl.com/yc4zajt
+> Ecore Graphical Modeler In Color (bis) and In Motion : https://tinyurl.com/yc4zajt
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 04 13:42:48 +0000 2010](https://twitter.com/bruncedric/status/9973691465)
 
@@ -95,7 +95,7 @@ tags: [social, tweets]
 
 ----
 
-> A few more ideas for GSOC and Eclipse http://tinyurl.com/y8eqtne , you're a student ? use that chance !
+> A few more ideas for GSOC and Eclipse https://tinyurl.com/y8eqtne , you're a student ? use that chance !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 11 17:26:40 +0000 2010](https://twitter.com/bruncedric/status/10331632208)
 
@@ -163,7 +163,7 @@ tags: [social, tweets]
 
 ----
 
-> RT @jeromebenois: Obeo provides a new Visual Basic 6 Sonar plugin! http://bit.ly/9urfk9 #sonar #vb6 #obeo
+> RT @jeromebenois: Obeo provides a new Visual Basic 6 Sonar plugin! https://bit.ly/9urfk9 #sonar #vb6 #obeo
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 16 11:39:10 +0000 2010](https://twitter.com/bruncedric/status/12277812452)
 
@@ -193,13 +193,13 @@ tags: [social, tweets]
 
 ----
 
-> Good news for the EMF Compare adopters : http://tinyurl.com/378no4r
+> Good news for the EMF Compare adopters : https://tinyurl.com/378no4r
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 28 13:02:05 +0000 2010](https://twitter.com/bruncedric/status/13005026181)
 
 ----
 
-> @alex77 EList.addUnique, computing derived reference for nothing, and a few stupid mistakes ;)  mostly captured here -&gt; http://bit.ly/bPw9Xq
+> @alex77 EList.addUnique, computing derived reference for nothing, and a few stupid mistakes ;)  mostly captured here -&gt; https://bit.ly/bPw9Xq
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 28 19:10:58 +0000 2010](https://twitter.com/bruncedric/status/13023028947)
 
@@ -225,13 +225,13 @@ tags: [social, tweets]
 
 ----
 
-> Rain, rain all the time and everywhere... Looks like I have to find a B plan for Sunday's barbecue. http://ht.ly/1Ix7s
+> Rain, rain all the time and everywhere... Looks like I have to find a B plan for Sunday's barbecue. https://ht.ly/1Ix7s
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat May 08 12:16:06 +0000 2010](https://twitter.com/bruncedric/status/13605083709)
 
 ----
 
-> Watching the Google Keynote #io2010  =&gt; http://bit.ly/awEBRk
+> Watching the Google Keynote #io2010  =&gt; https://bit.ly/awEBRk
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 19 16:42:11 +0000 2010](https://twitter.com/bruncedric/status/14304282805)
 
@@ -243,7 +243,7 @@ tags: [social, tweets]
 
 ----
 
-> RT @allilaire: 8th of June, Obeo organizes a seminary "Is MDE/MDA serving the transformation and governance of IS" in Paris http://tinyu ...
+> RT @allilaire: 8th of June, Obeo organizes a seminary "Is MDE/MDA serving the transformation and governance of IS" in Paris https://tinyu ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 25 11:14:57 +0000 2010](https://twitter.com/bruncedric/status/14686099331)
 
@@ -255,7 +255,7 @@ tags: [social, tweets]
 
 ----
 
-> RT @IanSkerrett: Eclipse Helios RC2 package now available http://bit.ly/bFv64j  testers needed
+> RT @IanSkerrett: Eclipse Helios RC2 package now available https://bit.ly/bFv64j  testers needed
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 28 15:28:24 +0000 2010](https://twitter.com/bruncedric/status/14913462879)> @IanSkerrett "Helios packages" versus "other packages not even having their logo" is making things twisted. Platform filter is good though.
 
@@ -263,7 +263,7 @@ tags: [social, tweets]
 
 ----
 
-> @jeromebenois awesome :) , @svenefftinge Obeo Designer is available here http://www.obeo.fr/pages/obeo-designer/download/
+> @jeromebenois awesome :) , @svenefftinge Obeo Designer is available here https://www.obeo.fr/pages/obeo-designer/download/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 04 07:14:23 +0000 2010](https://twitter.com/bruncedric/status/15399312740)
 
@@ -281,7 +281,7 @@ tags: [social, tweets]
 
 ----
 
-> RT @adietisheim: RT @softmodeling: How an Android file could become a code generation template in few clicks?  http://bit.ly/dnywhj
+> RT @adietisheim: RT @softmodeling: How an Android file could become a code generation template in few clicks?  https://bit.ly/dnywhj
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 08 07:29:22 +0000 2010](https://twitter.com/bruncedric/status/15690398534)
 
@@ -300,31 +300,31 @@ tags: [social, tweets]
 ----
 
 > Please provide feedback to the modeling team through this 6 questions survey 
->  http://bit.ly/9taMSp
+>  https://bit.ly/9taMSp
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 10 08:31:41 +0000 2010](https://twitter.com/bruncedric/status/15836758222)
 
 ----
 
-> Looking forward to the Nantes #EclipseDemoCamp on July 8th =&gt; http://tinyurl.com/2ajmqqr
+> Looking forward to the Nantes #EclipseDemoCamp on July 8th =&gt; https://tinyurl.com/2ajmqqr
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 10 16:08:52 +0000 2010](https://twitter.com/bruncedric/status/15860551316)
 
 ----
 
-> Eclipse WorldCup http://bit.ly/9gZZ0k, too bad we're missing a mobile client, any MDD company  specialized in mobile apps around here ? ;)
+> Eclipse WorldCup https://bit.ly/9gZZ0k, too bad we're missing a mobile client, any MDD company  specialized in mobile apps around here ? ;)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 10 16:35:25 +0000 2010](https://twitter.com/bruncedric/status/15862302012)
 
 ----
 
-> Just submitted my forecast for the worldcup, you want to challenge the Eclipse community ? go ! http://bit.ly/d3Io8Z
+> Just submitted my forecast for the worldcup, you want to challenge the Eclipse community ? go ! https://bit.ly/d3Io8Z
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 11 12:39:45 +0000 2010](https://twitter.com/bruncedric/status/15924891426)
 
 ----
 
-> Already 50 people playing, commit will soon be closed for the first match and reopened later #EclipseWorldCup http://bit.ly/d3Io8Z
+> Already 50 people playing, commit will soon be closed for the first match and reopened later #EclipseWorldCup https://bit.ly/d3Io8Z
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 11 13:58:58 +0000 2010](https://twitter.com/bruncedric/status/15929901786)
 
@@ -336,13 +336,13 @@ tags: [social, tweets]
 
 ----
 
-> Yeah, I'm in the first row for the World Cup \o/ http://twitpic.com/1vuz3s
+> Yeah, I'm in the first row for the World Cup \o/ https://twitpic.com/1vuz3s
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 11 16:27:23 +0000 2010](https://twitter.com/bruncedric/status/15940484754)
 
 ----
 
-> #EclipseWorldCup :an acceleo generated report is now available http://bit.ly/ax50LE. I'm still in the top forecasters, like I know soccer...
+> #EclipseWorldCup :an acceleo generated report is now available https://bit.ly/ax50LE. I'm still in the top forecasters, like I know soccer...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 16 16:33:43 +0000 2010](https://twitter.com/bruncedric/status/16319377161)
 
@@ -354,7 +354,7 @@ tags: [social, tweets]
 
 ----
 
-> Eclipse Modeling Package survey results =&gt; http://bit.ly/bunWmv
+> Eclipse Modeling Package survey results =&gt; https://bit.ly/bunWmv
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 18 13:18:30 +0000 2010](https://twitter.com/bruncedric/status/16469356185)
 
@@ -366,7 +366,7 @@ tags: [social, tweets]
 
 ----
 
-> People don't get that you can write commercial apps and free software http://bit.ly/bPdr6N , yes Obeo contributed even more in  2009 !
+> People don't get that you can write commercial apps and free software https://bit.ly/bPdr6N , yes Obeo contributed even more in  2009 !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 21 08:59:45 +0000 2010](https://twitter.com/bruncedric/status/16680412097)
 
@@ -396,19 +396,19 @@ tags: [social, tweets]
 
 ----
 
-> RT @allilaire: updated Obeo.fr web site to celebrate #eclipse #helios: http://tinyurl.com/25rj5l5
+> RT @allilaire: updated Obeo.fr web site to celebrate #eclipse #helios: https://tinyurl.com/25rj5l5
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 23 11:59:48 +0000 2010](https://twitter.com/bruncedric/status/16844581712)
 
 ----
 
-> Sortie de Eclipse 3.6 - Helios -  http://linuxfr.org/2010/06/23/27041.html
+> Sortie de Eclipse 3.6 - Helios -  https://linuxfr.org/2010/06/23/27041.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 23 13:10:31 +0000 2010](https://twitter.com/bruncedric/status/16848622908)
 
 ----
 
-> 3 days without forecasts and I lost my rank http://bit.ly/ax50LE, I'll have to summon EMF magic to get back in the game !
+> 3 days without forecasts and I lost my rank https://bit.ly/ax50LE, I'll have to summon EMF magic to get back in the game !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 25 07:57:06 +0000 2010](https://twitter.com/bruncedric/status/16998154924)
 
@@ -420,15 +420,15 @@ tags: [social, tweets]
 
 ----
 
-> Eclipse World Cup Forecasts : Comparison  FTW ! http://bit.ly/a2bR5I
+> Eclipse World Cup Forecasts : Comparison  FTW ! https://bit.ly/a2bR5I
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 28 09:06:15 +0000 2010](https://twitter.com/bruncedric/status/17238681648)
 
 ----
 
-> Preparing for #helios in action part 2 :  "Modeling" session. http://bit.ly/dByvqa
+> Preparing for #helios in action part 2 :  "Modeling" session. https://bit.ly/dByvqa
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 28 13:48:09 +0000 2010](https://twitter.com/bruncedric/status/17252394437)> 3 Good Reasons to use the Helios Eclipse Modeling Package : http://bit.ly/a159um
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 28 13:48:09 +0000 2010](https://twitter.com/bruncedric/status/17252394437)> 3 Good Reasons to use the Helios Eclipse Modeling Package : https://bit.ly/a159um
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jul 05 15:15:00 +0000 2010](https://twitter.com/bruncedric/status/17796920520)
 
@@ -448,7 +448,7 @@ Replying to [@adietisheim](https://twitter.com/adietisheim/status/17869974668)
 
 ----
 
-> RT @ejuliot: Interview with Cédric Brun: Eclipse Amalgam: 'The Helios Release is a Fresh Start for this Project.' http://bit.ly/d1KlgT
+> RT @ejuliot: Interview with Cédric Brun: Eclipse Amalgam: 'The Helios Release is a Fresh Start for this Project.' https://bit.ly/d1KlgT
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jul 06 19:05:53 +0000 2010](https://twitter.com/bruncedric/status/17888998103)
 
@@ -460,13 +460,13 @@ Replying to [@adietisheim](https://twitter.com/adietisheim/status/17869974668)
 
 ----
 
-> I'm going to the Nantes #Eclipse #DemoCamp : http://bit.ly/c3v1Do tonight, meet me there !
+> I'm going to the Nantes #Eclipse #DemoCamp : https://bit.ly/c3v1Do tonight, meet me there !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 08 11:45:29 +0000 2010](https://twitter.com/bruncedric/status/18028388174)
 
 ----
 
-> @lgayowski got a better score and passed me during the final round http://bit.ly/ax50LE !
+> @lgayowski got a better score and passed me during the final round https://bit.ly/ax50LE !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jul 12 08:09:23 +0000 2010](https://twitter.com/bruncedric/status/18339217332)
 
@@ -492,7 +492,7 @@ Replying to [@KentBeck](https://twitter.com/KentBeck/status/18452897988)
 
 ----
 
-> Index Based Model Comparison is shaping up thanks to GSOC 2010 :) http://bit.ly/ccFXtL
+> Index Based Model Comparison is shaping up thanks to GSOC 2010 :) https://bit.ly/ccFXtL
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 15 13:33:46 +0000 2010](https://twitter.com/bruncedric/status/18602253745)
 
@@ -516,7 +516,7 @@ Replying to [@KentBeck](https://twitter.com/KentBeck/status/18452897988)
 
 ----
 
-> Just received my GWT 2.0 book, thanks LinuxFR ! http://linuxfr.org/2010/07/15/27126.html
+> Just received my GWT 2.0 book, thanks LinuxFR ! https://linuxfr.org/2010/07/15/27126.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jul 21 07:56:39 +0000 2010](https://twitter.com/bruncedric/status/19060265649)
 
@@ -542,7 +542,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/19470095
 
 ----
 
-> Eclipse 4.0 early adopters, and now SWT-QT  (http://bit.ly/anFgMd), yes Eclipse is a constantly evolving technology !
+> Eclipse 4.0 early adopters, and now SWT-QT  (https://bit.ly/anFgMd), yes Eclipse is a constantly evolving technology !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 29 09:00:05 +0000 2010](https://twitter.com/bruncedric/status/19811910731)
 
@@ -550,13 +550,13 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/19470095
 
 > On holiday  \o/
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 30 16:25:22 +0000 2010](https://twitter.com/bruncedric/status/19921939057)> RT @irbull: A good post about google's acquisition of Instantiations:  http://bit.ly/bb73YR.
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 30 16:25:22 +0000 2010](https://twitter.com/bruncedric/status/19921939057)> RT @irbull: A good post about google's acquisition of Instantiations:  https://bit.ly/bb73YR.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 05 06:27:52 +0000 2010](https://twitter.com/bruncedric/status/20367657256)
 
 ----
 
-> RT @akuhn: Google wave discontinued, http://mash.to/2l8Wo #RIP
+> RT @akuhn: Google wave discontinued, https://mash.to/2l8Wo #RIP
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 05 06:31:35 +0000 2010](https://twitter.com/bruncedric/status/20367832189)
 
@@ -568,19 +568,19 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/19470095
 
 ----
 
-> Liu Fang : http://amzn.to/dzmKoL best music I found so far to calm down my child before the nap :)
+> Liu Fang : https://amzn.to/dzmKoL best music I found so far to calm down my child before the nap :)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 10 10:12:30 +0000 2010](https://twitter.com/bruncedric/status/20783583753)
 
 ----
 
-> Week #1 : a new room is appearing in the house : http://bit.ly/cXmxuq  http://bit.ly/96bGFn
+> Week #1 : a new room is appearing in the house : https://bit.ly/cXmxuq  https://bit.ly/96bGFn
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 10 10:36:12 +0000 2010](https://twitter.com/bruncedric/status/20784680971)
 
 ----
 
-> Porting a GCompris (http://gcompris.net/ ) game to the web with JQuery.
+> Porting a GCompris (https://gcompris.net/ ) game to the web with JQuery.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 10 12:25:35 +0000 2010](https://twitter.com/bruncedric/status/20790435829)
 
@@ -666,7 +666,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/21401514466)
 
 ----
 
-> RT @jeppec: Wazaabi - next generation model driven UI - looks quite impressive - http://bit.ly/aIRoro
+> RT @jeppec: Wazaabi - next generation model driven UI - looks quite impressive - https://bit.ly/aIRoro
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 23 12:55:19 +0000 2010](https://twitter.com/bruncedric/status/21911486698)
 
@@ -684,7 +684,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/21401514466)
 
 ----
 
-> Updating the EMF Compare roadmap http://wiki.eclipse.org/EMF_Compare/Roadmap
+> Updating the EMF Compare roadmap https://wiki.eclipse.org/EMF_Compare/Roadmap
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Aug 27 14:52:28 +0000 2010](https://twitter.com/bruncedric/status/22273108453)
 
@@ -696,13 +696,13 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/21401514466)
 
 ----
 
-> Internships are coming to an end but this year students reached the ultimate level in chocolate commits : http://bit.ly/bVcMOy
+> Internships are coming to an end but this year students reached the ultimate level in chocolate commits : https://bit.ly/bVcMOy
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 30 12:47:10 +0000 2010](https://twitter.com/bruncedric/status/22520995324)
 
 ----
 
-> @toutpt Groovy Creator James Strachan  bet on Scala :D http://bit.ly/ZjXxv
+> @toutpt Groovy Creator James Strachan  bet on Scala :D https://bit.ly/ZjXxv
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 30 12:59:41 +0000 2010](https://twitter.com/bruncedric/status/22521846957)> Moving and refactoring code around. I can't imagine doing this without static typing and the Eclipse tooling. #eclipseisawesome
 
@@ -710,7 +710,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/21401514466)
 
 ----
 
-> RT @alexismp: http://www.jugsummercamp.org/ derniers jours pour vous inscrire (La Rochelle ce vendredi). (via @emmanuelbernard)
+> RT @alexismp: https://www.jugsummercamp.org/ derniers jours pour vous inscrire (La Rochelle ce vendredi). (via @emmanuelbernard)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 06 14:17:41 +0000 2010](https://twitter.com/bruncedric/status/23148252761)
 
@@ -722,7 +722,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/21401514466)
 
 ----
 
-> RT @allilaire: Acceleo has been selected to participate in the final of the DemoCup at the OpenWorldForum: http://bit.ly/9mAYEz
+> RT @allilaire: Acceleo has been selected to participate in the final of the DemoCup at the OpenWorldForum: https://bit.ly/9mAYEz
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 08 15:03:45 +0000 2010](https://twitter.com/bruncedric/status/23921522733)
 
@@ -740,7 +740,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/21401514466)
 
 ----
 
-> MDA, 200-&gt;2010 by Jérôme  (FR) http://www.slideshare.net/jerome.benois/20100910-mda-en2010jugsummercamp
+> MDA, 200-&gt;2010 by Jérôme  (FR) https://www.slideshare.net/jerome.benois/20100910-mda-en2010jugsummercamp
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 13 08:02:33 +0000 2010](https://twitter.com/bruncedric/status/24364538281)
 
@@ -784,7 +784,7 @@ Replying to [@jeromebenois](https://twitter.com/jeromebenois/status/24653764112)
 
 ----
 
-> RT @IanSkerrett: Eclipse Helios SR1 now available for download  http://bit.ly/cmIzIr
+> RT @IanSkerrett: Eclipse Helios SR1 now available for download  https://bit.ly/cmIzIr
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 24 18:54:51 +0000 2010](https://twitter.com/bruncedric/status/25430103332)
 
@@ -816,19 +816,19 @@ Replying to [@jeromebenois](https://twitter.com/jeromebenois/status/24653764112)
 
 ----
 
-> Acceleo is acknowledged as one of the most innovative open-source project at the Open World Forum : http://www.obeo.fr/pages/news/en#041010
+> Acceleo is acknowledged as one of the most innovative open-source project at the Open World Forum : https://www.obeo.fr/pages/news/en#041010
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 06 09:30:49 +0000 2010](https://twitter.com/bruncedric/status/26536469202)
 
 ----
 
-> Modeling 2.0 in its glory  : "Learn how to create a language for Android apps" at #ese2010 http://goo.gl/jm16
+> Modeling 2.0 in its glory  : "Learn how to create a language for Android apps" at #ese2010 https://goo.gl/jm16
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 06 12:58:29 +0000 2010](https://twitter.com/bruncedric/status/26548557908)
 
 ----
 
-> RT @adietisheim: emf based #eclipse editor for UNI/EDIFACT messages. Built on top of #jboss #smooks. http://bit.ly/c7qhNK #m2m #emf #compare
+> RT @adietisheim: emf based #eclipse editor for UNI/EDIFACT messages. Built on top of #jboss #smooks. https://bit.ly/c7qhNK #m2m #emf #compare
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 07 13:38:36 +0000 2010](https://twitter.com/bruncedric/status/26649113363)
 
@@ -840,7 +840,7 @@ Replying to [@jeromebenois](https://twitter.com/jeromebenois/status/24653764112)
 
 ----
 
-> MPatch is a cool contribution in the EMF Compare project, blog post from Patrick : http://bit.ly/8Zsn7N
+> MPatch is a cool contribution in the EMF Compare project, blog post from Patrick : https://bit.ly/8Zsn7N
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 13 13:14:00 +0000 2010](https://twitter.com/bruncedric/status/27239594492)
 
@@ -852,7 +852,7 @@ Replying to [@jeromebenois](https://twitter.com/jeromebenois/status/24653764112)
 
 ----
 
-> First car on the two ordered arrived today : http://bit.ly/cvWlCC . You can guess the family is going to be bigger soon ;)
+> First car on the two ordered arrived today : https://bit.ly/cvWlCC . You can guess the family is going to be bigger soon ;)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 14 19:54:02 +0000 2010](https://twitter.com/bruncedric/status/27371374850)
 
@@ -866,7 +866,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> RT @softmodeling: Read the realtionship between MPatch and EMF modeling operations http://bit.ly/9Z4pTL Both allow to apply changes on E ...
+> RT @softmodeling: Read the realtionship between MPatch and EMF modeling operations https://bit.ly/9Z4pTL Both allow to apply changes on E ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 18 12:23:17 +0000 2010](https://twitter.com/bruncedric/status/27728988844)
 
@@ -878,7 +878,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> OD 5.0:  *real* sequence diagrams on your own DSL, here with computed colors on a user defined scale http://bit.ly/ayoTIg . Who needs UML ?
+> OD 5.0:  *real* sequence diagrams on your own DSL, here with computed colors on a user defined scale https://bit.ly/ayoTIg . Who needs UML ?
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 20 09:28:23 +0000 2010](https://twitter.com/bruncedric/status/27915314547)
 
@@ -908,7 +908,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> Sequence diagram for your own DSL + latests changes in OD.  http://bit.ly/avG4fy
+> Sequence diagram for your own DSL + latests changes in OD.  https://bit.ly/avG4fy
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 28 09:34:08 +0000 2010](https://twitter.com/bruncedric/status/28973091835)> #ese is warming up,  I could not make it to germany this year but I'm all hears through twitter ;) - go guys !
 
@@ -928,13 +928,13 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> @peterfriese thanks !  #berndshirt  #ese http://yfrog.com/f3x79wj
+> @peterfriese thanks !  #berndshirt  #ese https://yfrog.com/f3x79wj
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 03 16:07:53 +0000 2010](https://twitter.com/bruncedric/status/29584743276)
 
 ----
 
-> Business entities to Doctrine2 / ZendAmf / Flex  code using Eclipse Acceleo : http://bit.ly/9mXkmh
+> Business entities to Doctrine2 / ZendAmf / Flex  code using Eclipse Acceleo : https://bit.ly/9mXkmh
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 05 12:43:04 +0000 2010](https://twitter.com/bruncedric/status/528523613704192)
 
@@ -946,7 +946,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> RT @JBezivin: Started a new Blog at http://lnkd.in/zyhHxB
+> RT @JBezivin: Started a new Blog at https://lnkd.in/zyhHxB
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Nov 06 22:26:52 +0000 2010](https://twitter.com/bruncedric/status/1037830943936512)
 
@@ -1000,7 +1000,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> First EMF Compare build with signing, SDK and everything including #mpatch thanks to Bucky http://bit.ly/bwoNIO
+> First EMF Compare build with signing, SDK and everything including #mpatch thanks to Bucky https://bit.ly/bwoNIO
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 15 16:45:28 +0000 2010](https://twitter.com/bruncedric/status/4213405657333762)
 
@@ -1012,7 +1012,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> You can now install Graphiti in the modeling package in a single click ! http://www.eclipse.org/graphiti/
+> You can now install Graphiti in the modeling package in a single click ! https://www.eclipse.org/graphiti/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 24 17:22:59 +0000 2010](https://twitter.com/bruncedric/status/7484335103938561)
 
@@ -1030,7 +1030,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> GTK3 embedded in HTML in canvas - a challenger to RAP ? http://blogs.gnome.org/alexl/2010/11/23/gtk3-vs-html5/
+> GTK3 embedded in HTML in canvas - a challenger to RAP ? https://blogs.gnome.org/alexl/2010/11/23/gtk3-vs-html5/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 25 19:24:29 +0000 2010](https://twitter.com/bruncedric/status/7877301693841408)
 
@@ -1042,7 +1042,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> You can now install Eclipse Generation Factories in one click from the Helios modeling package ! http://wiki.eclipse.org/EGF
+> You can now install Eclipse Generation Factories in one click from the Helios modeling package ! https://wiki.eclipse.org/EGF
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 26 13:49:27 +0000 2010](https://twitter.com/bruncedric/status/8155373315817472)
 
@@ -1056,7 +1056,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 > Browsing through the #econ2011 talks, a lot of high quality abstracts ! I'm looking forward to the conference.
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 29 21:13:35 +0000 2010](https://twitter.com/bruncedric/status/9354308772438016)> RT @oduquesne: FIRST TOPCASED DAYS TOULOUSE 2011 February 2nd-4th, 2011 Toulouse, France http://www.topcased.org/
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 29 21:13:35 +0000 2010](https://twitter.com/bruncedric/status/9354308772438016)> RT @oduquesne: FIRST TOPCASED DAYS TOULOUSE 2011 February 2nd-4th, 2011 Toulouse, France https://www.topcased.org/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 01 18:29:14 +0000 2010](https://twitter.com/bruncedric/status/10037723435892736)
 
@@ -1086,7 +1086,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> RT @NoDissasemble: How To Pay Down Technical Debt http://bit.ly/fgrAgO #infoq
+> RT @NoDissasemble: How To Pay Down Technical Debt https://bit.ly/fgrAgO #infoq
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 07 08:10:13 +0000 2010](https://twitter.com/bruncedric/status/12056271427469312)
 
@@ -1122,7 +1122,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> Having Fun and Productivity with Acceleo  : http://bit.ly/i0BQnp
+> Having Fun and Productivity with Acceleo  : https://bit.ly/i0BQnp
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 10 10:22:22 +0000 2010](https://twitter.com/bruncedric/status/13176689181851650)
 
@@ -1140,13 +1140,13 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> RT @akuhn: Wow, so many awesome #kinect hacks, http://kinecthacks.net — 2011 is going to be the year of the hardware hackers! :)
+> RT @akuhn: Wow, so many awesome #kinect hacks, https://kinecthacks.net — 2011 is going to be the year of the hardware hackers! :)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Dec 12 10:38:59 +0000 2010](https://twitter.com/bruncedric/status/13905646206324737)
 
 ----
 
-> RT @google: WindowBuilder GUI tool is going open source w/ $5M code contribution to Eclipse Foundation http://goo.gl/Fy5tR (via @GoogleCode)
+> RT @google: WindowBuilder GUI tool is going open source w/ $5M code contribution to Eclipse Foundation https://goo.gl/Fy5tR (via @GoogleCode)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 15 19:54:44 +0000 2010](https://twitter.com/bruncedric/status/15132669939556352)
 
@@ -1170,7 +1170,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> RT @cedricvidal: Just published the first videos of #EclipseDayParis http://bit.ly/EDPVideos
+> RT @cedricvidal: Just published the first videos of #EclipseDayParis https://bit.ly/EDPVideos
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Dec 16 14:44:56 +0000 2010](https://twitter.com/bruncedric/status/15417095244222466)
 
@@ -1200,19 +1200,19 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> RT @SonarSource: New commercial plugin for Natural projects : http://www.sonarsource.com/plugins/plugin-natural/overview/
+> RT @SonarSource: New commercial plugin for Natural projects : https://www.sonarsource.com/plugins/plugin-natural/overview/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Dec 20 10:11:11 +0000 2010](https://twitter.com/bruncedric/status/16797754516840448)
 
 ----
 
-> RT @sbegaudeau: Updated code coverage for #Acceleo 3 http://tumblr.com/xui13p0opd
+> RT @sbegaudeau: Updated code coverage for #Acceleo 3 https://tumblr.com/xui13p0opd
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 21 10:04:26 +0000 2010](https://twitter.com/bruncedric/status/17158442292613121)
 
 ----
 
-> RT @ejuliot: Blog post on performance comparaison of code generators : Acceleo vs Acceleo vs Xpand, http://bit.ly/e4V1lR
+> RT @ejuliot: Blog post on performance comparaison of code generators : Acceleo vs Acceleo vs Xpand, https://bit.ly/e4V1lR
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 21 15:46:00 +0000 2010](https://twitter.com/bruncedric/status/17244403806511104)
 
@@ -1242,13 +1242,13 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> RT @Alex_sedlex: #eclipsecon create useful and up-to-date documentation with Mylyn's Intent http://tinyurl.com/2wd9g87 http://tinyurl.co ...
+> RT @Alex_sedlex: #eclipsecon create useful and up-to-date documentation with Mylyn's Intent https://tinyurl.com/2wd9g87 https://tinyurl.co ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Dec 27 16:33:55 +0000 2010](https://twitter.com/bruncedric/status/19430787564707841)
 
 ----
 
-> RT @mariofusco: Just published: The adventures of a Java developer in MonadLand (aka Scala monads for dummies) http://bit.ly/fkjZXP #sca ...
+> RT @mariofusco: Just published: The adventures of a Java developer in MonadLand (aka Scala monads for dummies) https://bit.ly/fkjZXP #sca ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 28 12:49:33 +0000 2010](https://twitter.com/bruncedric/status/19736712963948544)
 
@@ -1306,7 +1306,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/19626651369340
 
 ----
 
-> The Acceleo wiki is being re-organized : http://wiki.eclipse.org/Acceleo . Hey, have a look on the wishlist !
+> The Acceleo wiki is being re-organized : https://wiki.eclipse.org/Acceleo . Hey, have a look on the wishlist !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 07 13:47:12 +0000 2011](https://twitter.com/bruncedric/status/23375099453251584)
 
@@ -1336,19 +1336,19 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/19626651369340
 
 ----
 
-> RT @JohanDenHaan: Interesting approach: How Google Speeds Up The Chrome Release Cycle (via @goncaloborrega) #agile #releasemgmt http://i ...
+> RT @JohanDenHaan: Interesting approach: How Google Speeds Up The Chrome Release Cycle (via @goncaloborrega) #agile #releasemgmt https://i ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 13 10:12:38 +0000 2011](https://twitter.com/bruncedric/status/25495427755286529)
 
 ----
 
-> RT @fthomas_fr Safety Analysis Modeling :   Eclipse Modeling + EEF + Obeo Designer + GenDoc2 http://modeldrivenblog.blogspot.com/?spref=tw
+> RT @fthomas_fr Safety Analysis Modeling :   Eclipse Modeling + EEF + Obeo Designer + GenDoc2 https://modeldrivenblog.blogspot.com/?spref=tw
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 13 16:32:40 +0000 2011](https://twitter.com/bruncedric/status/25591066472222720)
 
 ----
 
-> RT @sbegaudeau Laurent may have some problems to continue working on #Acceleo :) http://yfrog.com/h3ltudlj=&gt; Time to get a real OS !
+> RT @sbegaudeau Laurent may have some problems to continue working on #Acceleo :) https://yfrog.com/h3ltudlj=&gt; Time to get a real OS !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 14 14:07:14 +0000 2011](https://twitter.com/bruncedric/status/25916853796732928)
 
@@ -1390,7 +1390,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/19626651369340
 
 ----
 
-> RT @ejuliot: Interview about Orion (french): Eclipse place un IDE dans les nuages : http://wik.io/h79C8
+> RT @ejuliot: Interview about Orion (french): Eclipse place un IDE dans les nuages : https://wik.io/h79C8
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 19 09:03:53 +0000 2011](https://twitter.com/bruncedric/status/27652454472482816)
 
@@ -1402,7 +1402,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/19626651369340
 
 ----
 
-> RT @laurentdelaigue: New post on my blog http://softwaremodernization.blogspot.com/ about migration rules. Screenshots soon!
+> RT @laurentdelaigue: New post on my blog https://softwaremodernization.blogspot.com/ about migration rules. Screenshots soon!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 20 05:58:51 +0000 2011](https://twitter.com/bruncedric/status/27968277472878592)
 
@@ -1414,7 +1414,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/19626651369340
 
 ----
 
-> RT @IanSkerret : [..] don't forget to order your Eclipse Cycling Shirts before Feb. 1 http://goo.gl/KXC9O  =&gt; Cool I can see Acceleo !
+> RT @IanSkerret : [..] don't forget to order your Eclipse Cycling Shirts before Feb. 1 https://goo.gl/KXC9O  =&gt; Cool I can see Acceleo !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 21 14:09:20 +0000 2011](https://twitter.com/bruncedric/status/28454097195630592)
 
@@ -1434,7 +1434,7 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/2846605963166515
 
 ----
 
-> RT @fsteeg: RT @google: 2011 will be the 7th annual Summer of Code. University student? Work on open source projects this summer http:// ...
+> RT @fsteeg: RT @google: 2011 will be the 7th annual Summer of Code. University student? Work on open source projects this summer https:// ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 24 20:36:28 +0000 2011](https://twitter.com/bruncedric/status/29638687469871104)
 
@@ -1446,13 +1446,13 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/2846605963166515
 
 ----
 
-> In the process of sharing my "playground" workspace : a java-fluent-api code generator from a state-machine like dsl : http://bit.ly/gK5Wbp
+> In the process of sharing my "playground" workspace : a java-fluent-api code generator from a state-machine like dsl : https://bit.ly/gK5Wbp
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 25 16:53:07 +0000 2011](https://twitter.com/bruncedric/status/29944869124308992)
 
 ----
 
-> From this : http://bit.ly/hPdPVO you'll get this API : http://bit.ly/gmQwNb . Pretty useful if you want to write down test scenarios.
+> From this : https://bit.ly/hPdPVO you'll get this API : https://bit.ly/gmQwNb . Pretty useful if you want to write down test scenarios.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 25 17:19:41 +0000 2011](https://twitter.com/bruncedric/status/29951551871127552)
 
@@ -1460,13 +1460,13 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/2846605963166515
 
 > RT @softmodeling: Interested in applying for a postdoc position with the AtlanMod MDE team? Contact me
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 26 07:44:28 +0000 2011](https://twitter.com/bruncedric/status/30169184885280768)> @xavier_seignard : http://feeds.feedburner.com/MdePipe great !  This one http://sbegaudeau.tumblr.com/ might be of interest too ;)
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 26 07:44:28 +0000 2011](https://twitter.com/bruncedric/status/30169184885280768)> @xavier_seignard : https://feeds.feedburner.com/MdePipe great !  This one https://sbegaudeau.tumblr.com/ might be of interest too ;)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Feb 01 13:40:58 +0000 2011](https://twitter.com/bruncedric/status/32433227071229953)
 
 ----
 
-> The "Mylyn Intent" project is coming ! (http://tinyurl.com/4fo9pyq), please use the Eclipse Forums for feedback http://tinyurl.com/4q2n8qf
+> The "Mylyn Intent" project is coming ! (https://tinyurl.com/4fo9pyq), please use the Eclipse Forums for feedback https://tinyurl.com/4q2n8qf
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 02 09:05:27 +0000 2011](https://twitter.com/bruncedric/status/32726279362977793)
 
@@ -1478,19 +1478,19 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/2846605963166515
 
 ----
 
-> Want more information about Mylyn Intent ?  we'll give a talk at #eclipsecon 2011, the abstract is here  http://bit.ly/hkN1l7
+> Want more information about Mylyn Intent ?  we'll give a talk at #eclipsecon 2011, the abstract is here  https://bit.ly/hkN1l7
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 03 15:49:15 +0000 2011](https://twitter.com/bruncedric/status/33190284514824193)
 
 ----
 
-> Blog post about 2011's start : http://bit.ly/dQ8RnF (Mylyn Intent, EEF, Acceleo and EMF Compare inside)
+> Blog post about 2011's start : https://bit.ly/dQ8RnF (Mylyn Intent, EEF, Acceleo and EMF Compare inside)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 03 16:41:18 +0000 2011](https://twitter.com/bruncedric/status/33203382986481664)
 
 ----
 
-> Migrating 5 millions lines of Forte code to Java, DGFiP says we did a pretty good job :) =&gt; http://bit.ly/gtNJEI (FR) #WeAlsoModernizeApps
+> Migrating 5 millions lines of Forte code to Java, DGFiP says we did a pretty good job :) =&gt; https://bit.ly/gtNJEI (FR) #WeAlsoModernizeApps
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 04 07:38:25 +0000 2011](https://twitter.com/bruncedric/status/33429149733355520)
 
@@ -1520,7 +1520,7 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/2846605963166515
 
 ----
 
-> RT @sggottlieb: New post: Nuxeo Core moving to Eclipse http://goo.gl/fb/N6fOV
+> RT @sggottlieb: New post: Nuxeo Core moving to Eclipse https://goo.gl/fb/N6fOV
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 10 21:53:54 +0000 2011](https://twitter.com/bruncedric/status/35818767888035840)
 
@@ -1546,7 +1546,7 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/2846605963166515
 
 Replying to [@dskolovos, @ICMT11 and @ToolsConference](https://twitter.com/kolovos/status/37141218882232320)
 
-> I'll be there :) http://bit.ly/gaKSxJ
+> I'll be there :) https://bit.ly/gaKSxJ
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 14 16:22:49 +0000 2011](https://twitter.com/bruncedric/status/37185000575209472)
 
@@ -1560,19 +1560,19 @@ Replying to [@dskolovos, @ICMT11 and @ToolsConference](https://twitter.com/kolov
 ----
 
 > RT @webmink: ☆ Is Eclipse Open-By-Rule?: 
-> The Eclipse Foundation is home to a family of projects related to enterprise softwa... http:// ...
+> The Eclipse Foundation is home to a family of projects related to enterprise softwa... https:// ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 16 13:11:47 +0000 2011](https://twitter.com/bruncedric/status/37861699520307200)
 
 ----
 
-> Helios SR2-RC3 packages are available : http://www.eclipse.org/downloads/packages/release/helios/sr2-rc3
+> Helios SR2-RC3 packages are available : https://www.eclipse.org/downloads/packages/release/helios/sr2-rc3
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 16 13:18:54 +0000 2011](https://twitter.com/bruncedric/status/37863489477414912)
 
 ----
 
-> RT @mchv: Just blogged about next version of #obeodesigner : http://bit.ly/h9gJ7p
+> RT @mchv: Just blogged about next version of #obeodesigner : https://bit.ly/h9gJ7p
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 17 14:50:57 +0000 2011](https://twitter.com/bruncedric/status/38249044019118080)
 
@@ -1584,7 +1584,7 @@ Replying to [@dskolovos, @ICMT11 and @ToolsConference](https://twitter.com/kolov
 
 ----
 
-> Domain Specific Graphical Modeler in 5 min, no code generation, no deployement : http://tinyurl.com/5v88v6b #obeodesigner #eclipse
+> Domain Specific Graphical Modeler in 5 min, no code generation, no deployement : https://tinyurl.com/5v88v6b #obeodesigner #eclipse
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 21 15:57:59 +0000 2011](https://twitter.com/bruncedric/status/39715465332920320)
 
@@ -1602,13 +1602,13 @@ Replying to [@dskolovos, @ICMT11 and @ToolsConference](https://twitter.com/kolov
 
 ----
 
-> Oh, this one was lost in my inbox...  Thanks for the T-shirt Eclipse ! http://twitpic.com/42wyry
+> Oh, this one was lost in my inbox...  Thanks for the T-shirt Eclipse ! https://twitpic.com/42wyry
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 23 14:34:15 +0000 2011](https://twitter.com/bruncedric/status/40419169333682176)
 
 ----
 
-> RT @eclipsecon: The third #eclipsecon keynote is David Gondek, Lead of the IBM Watson Strategy Team (Jeopardy Winner http://goo.gl/AM4Nd ...
+> RT @eclipsecon: The third #eclipsecon keynote is David Gondek, Lead of the IBM Watson Strategy Team (Jeopardy Winner https://goo.gl/AM4Nd ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 23 21:40:53 +0000 2011](https://twitter.com/bruncedric/status/40526533948870656)
 
@@ -1616,13 +1616,13 @@ Replying to [@dskolovos, @ICMT11 and @ToolsConference](https://twitter.com/kolov
 
 > RT @dougschaefer: Adding Eclipse preferences takes our inability to agree on functionality and makes it the user's problem. Nice...
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Feb 27 18:27:02 +0000 2011](https://twitter.com/bruncedric/status/41927303281774592)> RT @mchv: Working on #GMF Notation models natively compatible with #CDO. Follow our progress on http://bit.ly/hHGmPK, http://bit.ly/gJat ...
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Feb 27 18:27:02 +0000 2011](https://twitter.com/bruncedric/status/41927303281774592)> RT @mchv: Working on #GMF Notation models natively compatible with #CDO. Follow our progress on https://bit.ly/hHGmPK, https://bit.ly/gJat ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 01 12:44:57 +0000 2011](https://twitter.com/bruncedric/status/42565988373368832)
 
 ----
 
-> RT @slacrampe: Wow ! 5 finalists from Obeo out of 9 categories for EclipseCon Awards #eclipsecon ! finger crossed... http://goo.gl/Ag65c
+> RT @slacrampe: Wow ! 5 finalists from Obeo out of 9 categories for EclipseCon Awards #eclipsecon ! finger crossed... https://goo.gl/Ag65c
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 01 15:59:22 +0000 2011](https://twitter.com/bruncedric/status/42614917093797888)
 
@@ -1634,7 +1634,7 @@ Replying to [@dskolovos, @ICMT11 and @ToolsConference](https://twitter.com/kolov
 
 ----
 
-> @fmadiot keeps playing with #obeodesigner http://tinyurl.com/4dfo6qs while the team is polishing the 5.0 release :)
+> @fmadiot keeps playing with #obeodesigner https://tinyurl.com/4dfo6qs while the team is polishing the 5.0 release :)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 02 17:39:31 +0000 2011](https://twitter.com/bruncedric/status/43002509853343744)
 
@@ -1646,13 +1646,13 @@ Replying to [@dskolovos, @ICMT11 and @ToolsConference](https://twitter.com/kolov
 
 ----
 
-> Want to meet Alice ? See you at #eclipsecon 2011 http://goo.gl/14afN on Tuesday 22th, in Steven Creek  / 11:10
+> Want to meet Alice ? See you at #eclipsecon 2011 https://goo.gl/14afN on Tuesday 22th, in Steven Creek  / 11:10
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 03 16:21:57 +0000 2011](https://twitter.com/bruncedric/status/43345376828334080)
 
 ----
 
-> Updated the EMF Compare website : http://goo.gl/DaAs0 , still missing the EMF logo with a transparent background :'(
+> Updated the EMF Compare website : https://goo.gl/DaAs0 , still missing the EMF logo with a transparent background :'(
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 04 10:39:03 +0000 2011](https://twitter.com/bruncedric/status/43621470252965888)
 
@@ -1690,13 +1690,13 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/43467855
 
 ----
 
-> RT @caniszczyk: hey eclipse.org folks... why not some more google summer of code ideas? http://bit.ly/hnuMnB
+> RT @caniszczyk: hey eclipse.org folks... why not some more google summer of code ideas? https://bit.ly/hnuMnB
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 08 19:39:15 +0000 2011](https://twitter.com/bruncedric/status/45206968369029120)
 
 ----
 
-> We'll work on bringing good UML comparison support + graphical modeler integration (Papyrus) in 2011 ! roadmap =&gt; http://goo.gl/YsegB
+> We'll work on bringing good UML comparison support + graphical modeler integration (Papyrus) in 2011 ! roadmap =&gt; https://goo.gl/YsegB
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 09 09:45:29 +0000 2011](https://twitter.com/bruncedric/status/45419929960316928)
 
@@ -1738,25 +1738,25 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/43467855
 
 ----
 
-> @toutpt  Eclipse SDK :  68000 Unit Tests, ~=7hours   http://goo.gl/A4ffp
+> @toutpt  Eclipse SDK :  68000 Unit Tests, ~=7hours   https://goo.gl/A4ffp
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 15 08:45:20 +0000 2011](https://twitter.com/bruncedric/status/47579116672790528)
 
 ----
 
-> Compare 1.2.0 is published  for the Indigo M6 milestone : http://www.eclipse.org/modeling/emf/downloads/?project=compare
+> Compare 1.2.0 is published  for the Indigo M6 milestone : https://www.eclipse.org/modeling/emf/downloads/?project=compare
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 15 14:03:49 +0000 2011](https://twitter.com/bruncedric/status/47659268429717504)
 
 ----
 
-> Eike Stepper: CDO Enters the 3rd Dimension http://bit.ly/ihxYfq  &lt;-- yet another awesome talk !
+> Eike Stepper: CDO Enters the 3rd Dimension https://bit.ly/ihxYfq  &lt;-- yet another awesome talk !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 15 22:04:49 +0000 2011](https://twitter.com/bruncedric/status/47780317091729408)
 
 ----
 
-> RT @waynebeaton: Mylyn Intent Creation review successful http://bit.ly/f28TmG
+> RT @waynebeaton: Mylyn Intent Creation review successful https://bit.ly/f28TmG
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 17 09:13:16 +0000 2011](https://twitter.com/bruncedric/status/48310925693943808)
 
@@ -1780,19 +1780,19 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/43467855
 
 ----
 
-> Here we are, US Classic Diner  :) http://twitpic.com/4b7vhn
+> Here we are, US Classic Diner  :) https://twitpic.com/4b7vhn
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Mar 19 23:33:17 +0000 2011](https://twitter.com/bruncedric/status/49252130216886272)
 
 ----
 
-> That's something I could not even imagine : photo spot sponsoring. http://twitpic.com/4b7xb5
+> That's something I could not even imagine : photo spot sponsoring. https://twitpic.com/4b7xb5
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Mar 19 23:37:53 +0000 2011](https://twitter.com/bruncedric/status/49253285693108224)
 
 ----
 
-> Let's go to Lolo, 22nd st  and Mission st http://www.lolosf.com/
+> Let's go to Lolo, 22nd st  and Mission st https://www.lolosf.com/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Mar 20 03:46:56 +0000 2011](https://twitter.com/bruncedric/status/49315964919087105)
 
@@ -1828,7 +1828,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/43467855
 
 ----
 
-> My slides from this morning : http://www.slideshare.net/cbrun/what-every-developer-should-know-about-emf-compare
+> My slides from this morning : https://www.slideshare.net/cbrun/what-every-developer-should-know-about-emf-compare
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 21 21:44:49 +0000 2011](https://twitter.com/bruncedric/status/49949607408582656)
 
@@ -1840,7 +1840,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/43467855
 
 ----
 
-> @mehdiaitoufkir check this out :  the Orion web editor  and OrionWeb : http://eclipse.org/orion/
+> @mehdiaitoufkir check this out :  the Orion web editor  and OrionWeb : https://eclipse.org/orion/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 22 07:49:26 +0000 2011](https://twitter.com/bruncedric/status/50101767597342720)
 
@@ -1882,7 +1882,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/43467855
 
 ----
 
-> RT @prapicault: Acceleo supports for #maven released. That's goodness all around :) http://bit.ly/gPlqn5
+> RT @prapicault: Acceleo supports for #maven released. That's goodness all around :) https://bit.ly/gPlqn5
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 24 20:51:57 +0000 2011](https://twitter.com/bruncedric/status/51023467767795712)
 
@@ -1950,19 +1950,19 @@ Replying to [@JohanDenHaan](https://twitter.com/JohanDenHaan/status/523550553361
 
 ----
 
-> Dig deep enough into the Eclipse Platform CVS and you'll find some sort of Mylyn 0.1 : http://goo.gl/IaHcP
+> Dig deep enough into the Eclipse Platform CVS and you'll find some sort of Mylyn 0.1 : https://goo.gl/IaHcP
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 30 09:54:00 +0000 2011](https://twitter.com/bruncedric/status/53032218184007680)
 
 ----
 
-> Any student around here looking for a nice opportunity to get in touch with the Eclipse community ? Submit a GSOC  ! http://goo.gl/DA7tT
+> Any student around here looking for a nice opportunity to get in touch with the Eclipse community ? Submit a GSOC  ! https://goo.gl/DA7tT
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 31 11:54:05 +0000 2011](https://twitter.com/bruncedric/status/53424825720516608)
 
 ----
 
-> Migrating Forte code to Java : http://www.obeo.fr/pages/agility/demonstration/fr (in french so far)
+> Migrating Forte code to Java : https://www.obeo.fr/pages/agility/demonstration/fr (in french so far)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 31 12:27:37 +0000 2011](https://twitter.com/bruncedric/status/53433262990835712)
 
@@ -1970,7 +1970,7 @@ Replying to [@JohanDenHaan](https://twitter.com/JohanDenHaan/status/523550553361
 
 > @softmodeling I have been blocked by a meeting :/
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 31 13:31:34 +0000 2011](https://twitter.com/bruncedric/status/53449355386044416)> A revolution is going on for #acceleo and spreading to #obeodesigner : http://goo.gl/XVyrw  &lt;= get the build while it's hot !
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 31 13:31:34 +0000 2011](https://twitter.com/bruncedric/status/53449355386044416)> A revolution is going on for #acceleo and spreading to #obeodesigner : https://goo.gl/XVyrw  &lt;= get the build while it's hot !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 01 09:00:52 +0000 2011](https://twitter.com/bruncedric/status/53743620884406273)
 
@@ -1982,13 +1982,13 @@ Replying to [@JohanDenHaan](https://twitter.com/JohanDenHaan/status/523550553361
 
 ----
 
-> RT @DDiRuscio: 2nd International Workshop on Model Comparison in Practice - Deadline Extended to April 15, 2011 - http://bit.ly/6SrZTa
+> RT @DDiRuscio: 2nd International Workshop on Model Comparison in Practice - Deadline Extended to April 15, 2011 - https://bit.ly/6SrZTa
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Apr 02 16:54:02 +0000 2011](https://twitter.com/bruncedric/status/54225086923808769)
 
 ----
 
-> RT @softmodeling: Industrialization of research tools: the ATL case http://wp.me/p1qJKD-q
+> RT @softmodeling: Industrialization of research tools: the ATL case https://wp.me/p1qJKD-q
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 04 14:32:49 +0000 2011](https://twitter.com/bruncedric/status/54914322480119808)
 
@@ -2000,7 +2000,7 @@ Replying to [@JohanDenHaan](https://twitter.com/JohanDenHaan/status/523550553361
 
 ----
 
-> RT @IanSkerrett: Eclipse git repos now being mirrored to github http://www.infoq.com/news/2011/04/eclipse-github  great news
+> RT @IanSkerrett: Eclipse git repos now being mirrored to github https://www.infoq.com/news/2011/04/eclipse-github  great news
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 04 18:43:22 +0000 2011](https://twitter.com/bruncedric/status/54977376899178496)
 
@@ -2042,7 +2042,7 @@ Replying to [@JohanDenHaan](https://twitter.com/JohanDenHaan/status/523550553361
 
 ----
 
-> RT @anuradhag: #eclipse if you working with #Acceleo must read OCL guide http://bit.ly/eUFMm7 and http://bit.ly/gPjCLb you can do wonder ...
+> RT @anuradhag: #eclipse if you working with #Acceleo must read OCL guide https://bit.ly/eUFMm7 and https://bit.ly/gPjCLb you can do wonder ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 08 08:34:59 +0000 2011](https://twitter.com/bruncedric/status/56273821715533824)
 
@@ -2086,7 +2086,7 @@ Replying to [@xavier_seignard](https://twitter.com/xavier_seignard/status/563182
 
 ----
 
-> RT @dojofoundation: @maqetta in the press: http://www.eweek.com/c/a/Application-Development/IBM-Launches-Maqetta-HTML5-Tool-as-OpenSource-Answer-to-Flash-Silverlight-669762/
+> RT @dojofoundation: @maqetta in the press: https://www.eweek.com/c/a/Application-Development/IBM-Launches-Maqetta-HTML5-Tool-as-OpenSource-Answer-to-Flash-Silverlight-669762/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 12 14:43:38 +0000 2011](https://twitter.com/bruncedric/status/57816148187680768)
 
@@ -2098,7 +2098,7 @@ Replying to [@xavier_seignard](https://twitter.com/xavier_seignard/status/563182
 
 ----
 
-> RT @nantesgtug: Seconde conférence 26 avril : Guava et EMF : http://goo.gl/qjQhe. Pensez à vous inscrire et à diffuser :)
+> RT @nantesgtug: Seconde conférence 26 avril : Guava et EMF : https://goo.gl/qjQhe. Pensez à vous inscrire et à diffuser :)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 15 14:16:03 +0000 2011](https://twitter.com/bruncedric/status/58896371247349761)
 
@@ -2122,19 +2122,19 @@ Replying to [@xavier_seignard](https://twitter.com/xavier_seignard/status/563182
 
 ----
 
-> EMF Compare's logical resources support : a brief description  http://goo.gl/kObhk and the git branch : http://goo.gl/fsHFF
+> EMF Compare's logical resources support : a brief description  https://goo.gl/kObhk and the git branch : https://goo.gl/fsHFF
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 20 09:50:09 +0000 2011](https://twitter.com/bruncedric/status/60641393621733376)
 
 ----
 
-> RT @nantesgtug: Rappel : 26 avril soirée Guava (librairie utilitaire Java de Google), pensez à vous inscrire : http://goo.gl/3mNRl
+> RT @nantesgtug: Rappel : 26 avril soirée Guava (librairie utilitaire Java de Google), pensez à vous inscrire : https://goo.gl/3mNRl
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 20 18:42:00 +0000 2011](https://twitter.com/bruncedric/status/60775238601940992)
 
 ----
 
-> Using the #Acceleo runtime in a Java project. http://tumblr.com/xui27gvhig #eclipse #MDA &lt;-- cool for standalone generators !
+> Using the #Acceleo runtime in a Java project. https://tumblr.com/xui27gvhig #eclipse #MDA &lt;-- cool for standalone generators !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 21 15:06:49 +0000 2011](https://twitter.com/bruncedric/status/61083473951211520)
 
@@ -2170,7 +2170,7 @@ Replying to [@xavier_seignard](https://twitter.com/xavier_seignard/status/563182
 
 ----
 
-> RT @mchv: Obeo Designer @ Code Generation 2011 and some news about the next version → http://bit.ly/mxqdm6 #cg2011 #obeodesigner
+> RT @mchv: Obeo Designer @ Code Generation 2011 and some news about the next version → https://bit.ly/mxqdm6 #cg2011 #obeodesigner
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 28 15:30:05 +0000 2011](https://twitter.com/bruncedric/status/63626042438455296)
 
@@ -2184,19 +2184,19 @@ Replying to [@xavier_seignard](https://twitter.com/xavier_seignard/status/563182
 
 > RT @milesparker: But the Agent Modeling Platform M7 release is coming along very nicely despite some glitches. We're going to have Syste ...
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Apr 30 06:16:48 +0000 2011](https://twitter.com/bruncedric/status/64211581508141056)> RT @bokowski: RT @aniefer: Orion 0.2M7 is now available: http://trunc.it/gbjqz
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Apr 30 06:16:48 +0000 2011](https://twitter.com/bruncedric/status/64211581508141056)> RT @bokowski: RT @aniefer: Orion 0.2M7 is now available: https://trunc.it/gbjqz
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 02 20:08:46 +0000 2011](https://twitter.com/bruncedric/status/65145728464465920)
 
 ----
 
-> RT @ejuliot: Les phases de développement d’une jeune entreprise innovante, cas d’une start-up nantaise: Obeo http://www.actyvea.com/2011/04/21/les-phases-de-developpement-d%e2%80%99une-jeune-entreprise-innovante-%e2%80%93-cas-d%e2%80%99une-start-up-nantaise-obeo/?sms_ss=twitter&at_xt=4dbfa8bccef42c9c,1 @actyve ...
+> RT @ejuliot: Les phases de développement d’une jeune entreprise innovante, cas d’une start-up nantaise: Obeo https://www.actyvea.com/2011/04/21/les-phases-de-developpement-d%e2%80%99une-jeune-entreprise-innovante-%e2%80%93-cas-d%e2%80%99une-start-up-nantaise-obeo/?sms_ss=twitter&at_xt=4dbfa8bccef42c9c,1 @actyve ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 03 07:45:25 +0000 2011](https://twitter.com/bruncedric/status/65321046315765760)
 
 ----
 
-> Awesome Guava/EMF/EMFPath presentation by @mikbarbero at GTUG, slides are here  : http://goo.gl/P4X20
+> Awesome Guava/EMF/EMFPath presentation by @mikbarbero at GTUG, slides are here  : https://goo.gl/P4X20
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 03 10:18:05 +0000 2011](https://twitter.com/bruncedric/status/65359466194944000)
 
@@ -2220,13 +2220,13 @@ Replying to [@xavier_seignard](https://twitter.com/xavier_seignard/status/563182
 
 ----
 
-> RT @JBezivin: In these times the conference registration fees were reasonable: http://goo.gl/jNPXK $40 (general) $10 (student) $35 (ACM  ...
+> RT @JBezivin: In these times the conference registration fees were reasonable: https://goo.gl/jNPXK $40 (general) $10 (student) $35 (ACM  ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 04 11:21:04 +0000 2011](https://twitter.com/bruncedric/status/65737702737313792)
 
 ----
 
-> RT @alblue: Oracle proposes donating Hudson (inc. TM) to Eclipse Foundation: http://www.infoq.com/news/2011/05/eclipse-hudson by @alblue #Hudson #Jenkins
+> RT @alblue: Oracle proposes donating Hudson (inc. TM) to Eclipse Foundation: https://www.infoq.com/news/2011/05/eclipse-hudson by @alblue #Hudson #Jenkins
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 04 15:08:58 +0000 2011](https://twitter.com/bruncedric/status/65795056291946496)
 
@@ -2260,7 +2260,7 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/6588271426339225
 
 ----
 
-> Jaxenter Daily Roundup with EEF (Extended Editing Framework ;) ) 0.9 released http://bit.ly/mF8vyS
+> Jaxenter Daily Roundup with EEF (Extended Editing Framework ;) ) 0.9 released https://bit.ly/mF8vyS
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 05 12:04:01 +0000 2011](https://twitter.com/bruncedric/status/66110899714404352)
 
@@ -2272,19 +2272,19 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/6588271426339225
 
 ----
 
-> RT @allilaire: Interview of Goulwen about EEF (Extended Editing Framework) : http://bit.ly/lj1lsp
+> RT @allilaire: Interview of Goulwen about EEF (Extended Editing Framework) : https://bit.ly/lj1lsp
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 06 12:31:00 +0000 2011](https://twitter.com/bruncedric/status/66480077285752832)
 
 ----
 
-> Do you want an SDK modeling package or a non-SDK ? : http://goo.gl/z6has
+> Do you want an SDK modeling package or a non-SDK ? : https://goo.gl/z6has
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 06 12:51:48 +0000 2011](https://twitter.com/bruncedric/status/66485312167227392)
 
 ----
 
-> The Eclipse Modeling Package needs you ! http://goo.gl/6Q5C9 (Please pass around to get the broader audience possible)
+> The Eclipse Modeling Package needs you ! https://goo.gl/6Q5C9 (Please pass around to get the broader audience possible)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 06 14:42:17 +0000 2011](https://twitter.com/bruncedric/status/66513119085727744)
 
@@ -2296,7 +2296,7 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/6588271426339225
 
 ----
 
-> RT @IanSkerrett: Last week to complete the Eclipse Community Survey  http://goo.gl/MrSqG
+> RT @IanSkerrett: Last week to complete the Eclipse Community Survey  https://goo.gl/MrSqG
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 09 13:45:35 +0000 2011](https://twitter.com/bruncedric/status/67586010443296768)
 
@@ -2344,25 +2344,25 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/6588271426339225
 
 ----
 
-> RT @cgconf: There are still a few places available on the 1st Language Workbench Competition: http://dld.bz/UQVH #lwc #cg2011 #mdd
+> RT @cgconf: There are still a few places available on the 1st Language Workbench Competition: https://dld.bz/UQVH #lwc #cg2011 #mdd
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 11 08:52:38 +0000 2011](https://twitter.com/bruncedric/status/68237065229307904)
 
 ----
 
-> EMF Compare 1.2 : grouping and filtering facilities : http://goo.gl/Hvgro http://goo.gl/0XI5k
+> EMF Compare 1.2 : grouping and filtering facilities : https://goo.gl/Hvgro https://goo.gl/0XI5k
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 11 15:48:38 +0000 2011](https://twitter.com/bruncedric/status/68341754717421568)
 
 ----
 
-> EMF Compare 1.2 : Textual diff in model : http://wiki.eclipse.org/EMF_Compare/Textual_diff_in_model_diff
+> EMF Compare 1.2 : Textual diff in model : https://wiki.eclipse.org/EMF_Compare/Textual_diff_in_model_diff
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 11 15:49:24 +0000 2011](https://twitter.com/bruncedric/status/68341946996899840)
 
 ----
 
-> EMF Compare 1.2 : UML Compare http://wiki.eclipse.org/EMF_Compare/UML_Compare
+> EMF Compare 1.2 : UML Compare https://wiki.eclipse.org/EMF_Compare/UML_Compare
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 11 15:55:59 +0000 2011](https://twitter.com/bruncedric/status/68343604770373632)
 
@@ -2382,7 +2382,7 @@ Replying to [@The0retico](https://twitter.com/The0retico/status/6588271426339225
 
 Replying to [@nbrouwers42](https://twitter.com/nbrouwers42/status/68594943312134145)
 
-> look at this : http://goo.gl/Qpeh5 That's a work in progress and it's not going to make it to 1.2 for Indigo but later.
+> look at this : https://goo.gl/Qpeh5 That's a work in progress and it's not going to make it to 1.2 for Indigo but later.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 12 08:42:58 +0000 2011](https://twitter.com/bruncedric/status/68597019773636608)
 
@@ -2394,19 +2394,19 @@ Replying to [@nbrouwers42](https://twitter.com/nbrouwers42/status/68594943312134
 
 ----
 
-> @svenefftinge http://www.djangobook.com/en/1.0/ always looked pretty good to me.
+> @svenefftinge https://www.djangobook.com/en/1.0/ always looked pretty good to me.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 16 11:27:06 +0000 2011](https://twitter.com/bruncedric/status/70087875399651328)
 
 ----
 
-> RT @sbegaudeau: PairHero: A game of collaboration for pair programming - happyprog http://www.happyprog.com/pairhero/ #eclipse
+> RT @sbegaudeau: PairHero: A game of collaboration for pair programming - happyprog https://www.happyprog.com/pairhero/ #eclipse
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 16 18:56:13 +0000 2011](https://twitter.com/bruncedric/status/70200898294521856)
 
 ----
 
-> RT @IanSkerrett: just hit 500,000 successful install on Eclipse Marketplace http://marketplace.eclipse.org/
+> RT @IanSkerrett: just hit 500,000 successful install on Eclipse Marketplace https://marketplace.eclipse.org/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 20 18:52:37 +0000 2011](https://twitter.com/bruncedric/status/71649546400305152)
 
@@ -2424,7 +2424,7 @@ Replying to [@nbrouwers42](https://twitter.com/nbrouwers42/status/68594943312134
 
 ----
 
-> RT @mmilinkov: RT @ejuliot: Webinar: French webinar on ECon '11 and Eclipse 3.7 http://bit.ly/mCch4B &lt;&lt; Une belle occasion pour no ...
+> RT @mmilinkov: RT @ejuliot: Webinar: French webinar on ECon '11 and Eclipse 3.7 https://bit.ly/mCch4B &lt;&lt; Une belle occasion pour no ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 30 13:24:51 +0000 2011](https://twitter.com/bruncedric/status/75190937478893568)
 
@@ -2444,7 +2444,7 @@ Replying to [@nbrouwers42](https://twitter.com/nbrouwers42/status/68594943312134
 
 > Never ever ask Etienne to keep an eye on the watch ;) We might be a bit late ending this webinar, so much things to say !
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 31 14:04:55 +0000 2011](https://twitter.com/bruncedric/status/75563408073822209)> RT @mariofusco: Why Java Folks Should Look Forward to Scala http://java.dzone.com/articles/why-java-folks-should-look
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 31 14:04:55 +0000 2011](https://twitter.com/bruncedric/status/75563408073822209)> RT @mariofusco: Why Java Folks Should Look Forward to Scala https://java.dzone.com/articles/why-java-folks-should-look
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 01 12:33:12 +0000 2011](https://twitter.com/bruncedric/status/75902716211236864)
 
@@ -2456,7 +2456,7 @@ Replying to [@nbrouwers42](https://twitter.com/nbrouwers42/status/68594943312134
 
 ----
 
-> Tycho based build for an Obeo Designer graphical modeler  : http://goo.gl/KMoNU
+> Tycho based build for an Obeo Designer graphical modeler  : https://goo.gl/KMoNU
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 06 13:53:06 +0000 2011](https://twitter.com/bruncedric/status/77734765096214528)
 
@@ -2480,7 +2480,7 @@ Replying to [@nbrouwers42](https://twitter.com/nbrouwers42/status/68594943312134
 
 ----
 
-> My abstract for the IWMCP 2011 talk is currently being reviewed at Obeo... http://www.iwmcp.org/2011/
+> My abstract for the IWMCP 2011 talk is currently being reviewed at Obeo... https://www.iwmcp.org/2011/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 08 08:26:19 +0000 2011](https://twitter.com/bruncedric/status/78377300135120896)
 
@@ -2508,7 +2508,7 @@ Replying to [@abstratt and @The0retico](https://twitter.com/modelprogrammer/stat
 
 Replying to [@The0retico and @abstratt](https://twitter.com/The0retico/status/78469246434279424)
 
-> looks like somebody already referenced this : http://goo.gl/PAAHc
+> looks like somebody already referenced this : https://goo.gl/PAAHc
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 08 15:36:43 +0000 2011](https://twitter.com/bruncedric/status/78485615724859392)
 
@@ -2528,13 +2528,13 @@ Replying to [@seidewitz, @The0retico and @abstratt](https://twitter.com/seidewit
 
 ----
 
-> RT @mboillod: présente Memory Analyzer le 30 juin, lors de l'#Eclipse DemoCamps de Nantes http://bit.ly/jcsLZa @ZenikaIT
+> RT @mboillod: présente Memory Analyzer le 30 juin, lors de l'#Eclipse DemoCamps de Nantes https://bit.ly/jcsLZa @ZenikaIT
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 10 07:54:53 +0000 2011](https://twitter.com/bruncedric/status/79094168164646912)
 
 ----
 
-> RT @IanSkerrett: We have published the result of the Eclipse Community Survey  http://www.eclipse.org/org/press-release/20110610_survey.php
+> RT @IanSkerrett: We have published the result of the Eclipse Community Survey  https://www.eclipse.org/org/press-release/20110610_survey.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 10 13:17:39 +0000 2011](https://twitter.com/bruncedric/status/79175394695188480)
 
@@ -2564,25 +2564,25 @@ Replying to [@seidewitz, @The0retico and @abstratt](https://twitter.com/seidewit
 
 ----
 
-> RT @fthomas_fr: Cool ! I will talk with #Alstom about safety viewpoints to the next CSDM conference -&gt; http://www.csdm2011.csdm.fr/
+> RT @fthomas_fr: Cool ! I will talk with #Alstom about safety viewpoints to the next CSDM conference -&gt; https://www.csdm2011.csdm.fr/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 14 08:56:23 +0000 2011](https://twitter.com/bruncedric/status/80559195707023360)
 
 ----
 
-> Your Acceleo 3 generator can easily be built and deployed thanks to Maven/Tycho : http://tumblr.com/xxa2zsawwh
+> Your Acceleo 3 generator can easily be built and deployed thanks to Maven/Tycho : https://tumblr.com/xxa2zsawwh
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 14 15:45:59 +0000 2011](https://twitter.com/bruncedric/status/80662275400282112)
 
 ----
 
-> RT @mikbarbero: Some screenshots of my implementation of the UML2 comparison engine in EMFCompare: http://goo.gl/KQRBE
+> RT @mikbarbero: Some screenshots of my implementation of the UML2 comparison engine in EMFCompare: https://goo.gl/KQRBE
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 16 09:46:15 +0000 2011](https://twitter.com/bruncedric/status/81296521701765120)
 
 ----
 
-> The migration to git initiated for the Acceleo project : http://goo.gl/E6eZe
+> The migration to git initiated for the Acceleo project : https://goo.gl/E6eZe
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 16 15:30:22 +0000 2011](https://twitter.com/bruncedric/status/81383120343015424)
 
@@ -2602,19 +2602,19 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/81416560157278
 
 ----
 
-> @mporhel @allilaire http://goo.gl/Ms0eo . You'll get more by mail ;)
+> @mporhel @allilaire https://goo.gl/Ms0eo . You'll get more by mail ;)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Jun 18 13:01:46 +0000 2011](https://twitter.com/bruncedric/status/82070500871909376)
 
 ----
 
-> RT @fmadiot: Obeo Designer Roadshow starts wednesday in Toulouse http://tinyurl.com/3smrnnx #obeodesigner
+> RT @fmadiot: Obeo Designer Roadshow starts wednesday in Toulouse https://tinyurl.com/3smrnnx #obeodesigner
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 20 13:12:08 +0000 2011](https://twitter.com/bruncedric/status/82797883715362816)
 
 ----
 
-> RT @IanSkerrett: what a great agenda for the Eclipse DemoCamp in Toulouse  http://toulibre.org/eclipseparty
+> RT @IanSkerrett: what a great agenda for the Eclipse DemoCamp in Toulouse  https://toulibre.org/eclipseparty
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 21 08:25:54 +0000 2011](https://twitter.com/bruncedric/status/83088240244031488)
 
@@ -2628,37 +2628,37 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/81416560157278
 
 Replying to [@KennHussey](https://twitter.com/KennHussey/status/83144674767929344)
 
->  You should come to Toulouse !  http://toulibre.org/eclipseparty
+>  You should come to Toulouse !  https://toulibre.org/eclipseparty
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 21 12:50:47 +0000 2011](https://twitter.com/bruncedric/status/83154900590141440)
 
 ----
 
-> Obeoers are celebrating the Music day (#fetedelamusique) today forming the "Obeo Band": http://goo.gl/rCycu
+> Obeoers are celebrating the Music day (#fetedelamusique) today forming the "Obeo Band": https://goo.gl/rCycu
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 21 12:55:04 +0000 2011](https://twitter.com/bruncedric/status/83155975632203776)
 
 ----
 
-> New blog post : http://goo.gl/4UIWW  "When the wise man point at the model, the idiot looks at the XML "
+> New blog post : https://goo.gl/4UIWW  "When the wise man point at the model, the idiot looks at the XML "
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 21 14:57:09 +0000 2011](https://twitter.com/bruncedric/status/83186700590915584)
 
 ----
 
-> RT @damons: Just received the congrats cake.  From all at Mozilla, thank you, Microsoft. We love you, too. :)  http://img.ly/5k48
+> RT @damons: Just received the congrats cake.  From all at Mozilla, thank you, Microsoft. We love you, too. :)  https://img.ly/5k48
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 21 21:12:19 +0000 2011](https://twitter.com/bruncedric/status/83281114084544512)
 
 ----
 
-> RT @jomusset: Meet the Stealthy Start-Up That Aims to Sharpen Focus of Entire Camera Industry http://dthin.gs/mbvOZO
+> RT @jomusset: Meet the Stealthy Start-Up That Aims to Sharpen Focus of Entire Camera Industry https://dthin.gs/mbvOZO
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 12:15:53 +0000 2011](https://twitter.com/bruncedric/status/83508502957527040)
 
 ----
 
-> #eclipse Indigo is now officialy out \o/ Congrats to all the contributors and commiters involved !  http://www.eclipse.org/downloads/
+> #eclipse Indigo is now officialy out \o/ Congrats to all the contributors and commiters involved !  https://www.eclipse.org/downloads/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 13:31:05 +0000 2011](https://twitter.com/bruncedric/status/83527427795591169)
 
@@ -2670,7 +2670,7 @@ Replying to [@KennHussey](https://twitter.com/KennHussey/status/8314467476792934
 
 ----
 
-> Fondation Eclipse : Indigo, une livraison annuelle marquée par Java http://www.lemondeinformatique.fr/actualites/lire-fondation-eclipse-indigo-une-livraison-annuelle-marquee-par-java-34034.html
+> Fondation Eclipse : Indigo, une livraison annuelle marquée par Java https://www.lemondeinformatique.fr/actualites/lire-fondation-eclipse-indigo-une-livraison-annuelle-marquee-par-java-34034.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 23 15:11:44 +0000 2011](https://twitter.com/bruncedric/status/83915146241642498)
 
@@ -2694,7 +2694,7 @@ Replying to [@KennHussey](https://twitter.com/KennHussey/status/8314467476792934
 
 ----
 
-> RT @mchv: Blogged about #SWTBot presentation at Eclipse Party Toulouse → http://bit.ly/ljCyVa #ept11
+> RT @mchv: Blogged about #SWTBot presentation at Eclipse Party Toulouse → https://bit.ly/ljCyVa #ept11
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Jun 25 14:33:23 +0000 2011](https://twitter.com/bruncedric/status/84630271340711936)
 
@@ -2706,7 +2706,7 @@ Replying to [@KennHussey](https://twitter.com/KennHussey/status/8314467476792934
 
 ----
 
-> RT @mchv: AltaRica textual editor integrated in Eclipse by @fthomas_fr : http://bit.ly/kRaOax. Safety modeling DSLs, a trend to follow.
+> RT @mchv: AltaRica textual editor integrated in Eclipse by @fthomas_fr : https://bit.ly/kRaOax. Safety modeling DSLs, a trend to follow.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 27 13:12:41 +0000 2011](https://twitter.com/bruncedric/status/85334738398756865)
 
@@ -2718,13 +2718,13 @@ Replying to [@KennHussey](https://twitter.com/KennHussey/status/8314467476792934
 
 ----
 
-> RT @sliard: #obeodesigner roadshow start !  http://twitpic.com/5i0fyk
+> RT @sliard: #obeodesigner roadshow start !  https://twitpic.com/5i0fyk
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 28 09:53:57 +0000 2011](https://twitter.com/bruncedric/status/85647112230014976)
 
 ----
 
-> RT @peterbraden: someone asked me what programming was like. I came up with an analogy I'm quite proud of. http://pastebin.com/4BAhcjqU
+> RT @peterbraden: someone asked me what programming was like. I came up with an analogy I'm quite proud of. https://pastebin.com/4BAhcjqU
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 28 11:46:01 +0000 2011](https://twitter.com/bruncedric/status/85675315493478400)
 
@@ -2780,7 +2780,7 @@ Replying to [@KennHussey](https://twitter.com/KennHussey/status/8314467476792934
 
 ----
 
-> RT @caniszczyk: ok, that's funny... Google bid pi billion dollars for the nortel patents... http://bit.ly/lc1WHx
+> RT @caniszczyk: ok, that's funny... Google bid pi billion dollars for the nortel patents... https://bit.ly/lc1WHx
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Jul 02 17:02:17 +0000 2011](https://twitter.com/bruncedric/status/87204458219581440)
 
@@ -2794,7 +2794,7 @@ Replying to [@allilaire](https://twitter.com/allilaire/status/87218513663639553)
 
 ----
 
-> ESA Summer of Code in Space ! http://sophia.estec.esa.int/socis2011/
+> ESA Summer of Code in Space ! https://sophia.estec.esa.int/socis2011/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jul 06 09:21:48 +0000 2011](https://twitter.com/bruncedric/status/88538123130249216)
 
@@ -2808,19 +2808,19 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/8853992916819558
 
 ----
 
-> RT @sbegaudeau: Experimenting with #Scala and #Acceleo http://tumblr.com/xui3ddhtwm #eclipse #mda
+> RT @sbegaudeau: Experimenting with #Scala and #Acceleo https://tumblr.com/xui3ddhtwm #eclipse #mda
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 07 14:32:55 +0000 2011](https://twitter.com/bruncedric/status/88978807473713154)
 
 ----
 
-> RT @mchv: Looking for mixing graphical and textual modeling ? Integration of #Xtext in #obeodesigner http://bit.ly/qOvPxk. Thanks @jerome ...
+> RT @mchv: Looking for mixing graphical and textual modeling ? Integration of #Xtext in #obeodesigner https://bit.ly/qOvPxk. Thanks @jerome ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 07 17:07:39 +0000 2011](https://twitter.com/bruncedric/status/89017749065568256)
 
 ----
 
-> RT @adietisheim: w00t! #eclipse now supports #Java7 http://ow.ly/5zv3D
+> RT @adietisheim: w00t! #eclipse now supports #Java7 https://ow.ly/5zv3D
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 08 07:22:11 +0000 2011](https://twitter.com/bruncedric/status/89232795720888321)
 
@@ -2838,13 +2838,13 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/8853992916819558
 
 ----
 
-> RT @fsteeg: Google Code and Eclipse Labs now support Git http://goo.gl/Dh0jr
+> RT @fsteeg: Google Code and Eclipse Labs now support Git https://goo.gl/Dh0jr
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 15 15:51:30 +0000 2011](https://twitter.com/bruncedric/status/91897686927736833)
 
 ----
 
-> RT @jeffmcaffer: Just posted about moving to Microsoft...  http://mcaffer.com/2011/07/moving-to-microsoft/
+> RT @jeffmcaffer: Just posted about moving to Microsoft...  https://mcaffer.com/2011/07/moving-to-microsoft/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Jul 17 13:08:29 +0000 2011](https://twitter.com/bruncedric/status/92581437433327616)
 
@@ -2862,7 +2862,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/8853992916819558
 
 ----
 
-> RT @pkriens: Got 198 people on the #OSGi map now! Potential OSGi lunches are popping up all over the world :-) http://sharedspaces.googlelabs.com/hRWntztNyV Did y ...
+> RT @pkriens: Got 198 people on the #OSGi map now! Potential OSGi lunches are popping up all over the world :-) https://sharedspaces.googlelabs.com/hRWntztNyV Did y ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jul 19 12:30:14 +0000 2011](https://twitter.com/bruncedric/status/93296588147011584)
 
@@ -2904,7 +2904,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/8853992916819558
 
 ----
 
-> RT @alex_lagarde: Live collaboration with #obeodesigner 6 http://tinyurl.com/3pr76lc Forget about conflicts and manual merging, automatic locks ...
+> RT @alex_lagarde: Live collaboration with #obeodesigner 6 https://tinyurl.com/3pr76lc Forget about conflicts and manual merging, automatic locks ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jul 27 13:20:15 +0000 2011](https://twitter.com/bruncedric/status/96208275695091712)
 
@@ -2916,13 +2916,13 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/8853992916819558
 
 ----
 
-> RT @mgreiler: Josh Bloch, "Java: The Good, Bad, and Ugly Parts" http://goo.gl/Jz0ZQ #java
+> RT @mgreiler: Josh Bloch, "Java: The Good, Bad, and Ugly Parts" https://goo.gl/Jz0ZQ #java
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 29 12:01:28 +0000 2011](https://twitter.com/bruncedric/status/96913225752383488)
 
 ----
 
-> RT @SonarSource: Sonar ABAP Plugin is released, in partnership with Obeo http://bit.ly/ob1WV1 #sap
+> RT @SonarSource: Sonar ABAP Plugin is released, in partnership with Obeo https://bit.ly/ob1WV1 #sap
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 29 12:13:39 +0000 2011](https://twitter.com/bruncedric/status/96916291734077440)Replying to [@g4w3l](https://twitter.com/g4w3l/status/98758223502376960)
 
@@ -2964,7 +2964,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/8853992916819558
 
 Replying to [@davymeers](https://twitter.com/davymeers/status/100476050127065088)
 
-> it works ! Thanks !  For anybody interested in OrionHub, just scroll  down the Orion website : http://www.eclipse.org/orion/index.php
+> it works ! Thanks !  For anybody interested in OrionHub, just scroll  down the Orion website : https://www.eclipse.org/orion/index.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 08 08:22:07 +0000 2011](https://twitter.com/bruncedric/status/100481903685144576)
 
@@ -2990,7 +2990,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/10065980620079
 
 ----
 
-> RT @eclipsecon: New Session Proposal: And you thought you knew Template Based Generators? http://bit.ly/pesl2r
+> RT @eclipsecon: New Session Proposal: And you thought you knew Template Based Generators? https://bit.ly/pesl2r
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 09 08:18:19 +0000 2011](https://twitter.com/bruncedric/status/100843336667107329)
 
@@ -3028,7 +3028,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/10065980620079
 
 ----
 
-> RT @mikbarbero: If you like UML2 diagrams comparison, you may want to vote for http://goo.gl/UKycF
+> RT @mikbarbero: If you like UML2 diagrams comparison, you may want to vote for https://goo.gl/UKycF
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 11 16:00:38 +0000 2011](https://twitter.com/bruncedric/status/101684456024326144)
 
@@ -3053,7 +3053,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/10065980620079
 ----
 
 > RT @ijuma: "Compared to CGit on the same hardware, a JGit daemon server is now
-> 21883 objects/sec faster" http://goo.gl/FfzRO
+> 21883 objects/sec faster" https://goo.gl/FfzRO
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 30 16:14:59 +0000 2011](https://twitter.com/bruncedric/status/108573437475299328)
 
@@ -3073,7 +3073,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/10065980620079
 
 ----
 
-> RT @milesparker: I'll post more on the progress on Mylyn for Modeling next week, but here's a sneak peek. http://twitpic.com/6f3iby
+> RT @milesparker: I'll post more on the progress on Mylyn for Modeling next week, but here's a sneak peek. https://twitpic.com/6f3iby
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Sep 03 07:06:27 +0000 2011](https://twitter.com/bruncedric/status/109884948101595136)
 
@@ -3091,13 +3091,13 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/10065980620079
 
 ----
 
-> RT @milesparker: And as promised, a blog about the Mylyn Modeling Bridge. http://milesparker.blogspot.com/2011/09/mylyn-modeling-love.html Try it out :) http://wiki.eclipse.org/Mylyn/Modeling_Bridge#Installing_Mylyn_for_Modeling
+> RT @milesparker: And as promised, a blog about the Mylyn Modeling Bridge. https://milesparker.blogspot.com/2011/09/mylyn-modeling-love.html Try it out :) https://wiki.eclipse.org/Mylyn/Modeling_Bridge#Installing_Mylyn_for_Modeling
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 07 07:42:38 +0000 2011](https://twitter.com/bruncedric/status/111343603946758144)
 
 ----
 
-> RT @milesparker: Now Modeling + EGit? This is getting downright promiscuous! @bmuskalla What the heck are logical models? http://t.co/ce ...
+> RT @milesparker: Now Modeling + EGit? This is getting downright promiscuous! @bmuskalla What the heck are logical models? https://t.co/ce ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 08 06:45:42 +0000 2011](https://twitter.com/bruncedric/status/111691662119550976)
 
@@ -3111,13 +3111,13 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/10065980620079
 
 Replying to [@milesparker](https://twitter.com/milesparker/status/112206572414967808)
 
-> I have some for emf compare performances test suite (they are generated though) currently uploading : http://goo.gl/vfM5s
+> I have some for emf compare performances test suite (they are generated though) currently uploading : https://goo.gl/vfM5s
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 09 17:35:07 +0000 2011](https://twitter.com/bruncedric/status/112217480977592320)
 
 ----
 
-> " Fedora 17 will have Eclipse 4.2 with Java 7 support and OpenJDK 7"  [.http://overholt.ca/wp/?p=270]  Who said bleeding edge ? :D
+> " Fedora 17 will have Eclipse 4.2 with Java 7 support and OpenJDK 7"  [.https://overholt.ca/wp/?p=270]  Who said bleeding edge ? :D
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 09 19:08:54 +0000 2011](https://twitter.com/bruncedric/status/112241085811662848)
 
@@ -3179,7 +3179,7 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/112836398494662656
 
 ----
 
-> RT @svenefftinge: looking forward to my talk on "unusual" API design in Java at EclipseCon Europe http://bit.ly/oDKpKi
+> RT @svenefftinge: looking forward to my talk on "unusual" API design in Java at EclipseCon Europe https://bit.ly/oDKpKi
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 12 18:40:48 +0000 2011](https://twitter.com/bruncedric/status/113321174229983232)
 
@@ -3209,7 +3209,7 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/112836398494662656
 
 ----
 
-> Hey @prapicault, I'm with @xavierhanin the Apache Ivy creator & EasyAnt commiter ! #jugsummercamp . Cheers ! http://twitpic.com/6lobjc
+> Hey @prapicault, I'm with @xavierhanin the Apache Ivy creator & EasyAnt commiter ! #jugsummercamp . Cheers ! https://twitpic.com/6lobjc
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 16 12:56:49 +0000 2011](https://twitter.com/bruncedric/status/114684163457687554)
 
@@ -3227,7 +3227,7 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/112836398494662656
 
 ----
 
-> RT @adietisheim: #eclipse #egit 1.1 N&N http://wiki.eclipse.org/EGit/New_and_Noteworthy/1.1 released pretty soon
+> RT @adietisheim: #eclipse #egit 1.1 N&N https://wiki.eclipse.org/EGit/New_and_Noteworthy/1.1 released pretty soon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 20 19:18:09 +0000 2011](https://twitter.com/bruncedric/status/116229676875251712)
 
@@ -3239,7 +3239,7 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/112836398494662656
 
 ----
 
-> Does anybody know of a spell+grammar check web app out there other than http://www.polishmywriting.com/ #lazyweb
+> Does anybody know of a spell+grammar check web app out there other than https://www.polishmywriting.com/ #lazyweb
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 21 16:11:32 +0000 2011](https://twitter.com/bruncedric/status/116545104025632768)
 
@@ -3265,13 +3265,13 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/112836398494662656
 
 Replying to [@irbull](https://twitter.com/irbull/status/117068166336741376)
 
-> I'm pretty happy with my Samsung Series 9 , everything works flawlessly on Linux http://www.samsung.com/us/computer/laptops/NP900X3A-A03US
+> I'm pretty happy with my Samsung Series 9 , everything works flawlessly on Linux https://www.samsung.com/us/computer/laptops/NP900X3A-A03US
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 23 10:06:45 +0000 2011](https://twitter.com/bruncedric/status/117178077099999232)
 
 ----
 
-> RT @ngervais: Indigo SR1 Downloads are now live! &gt; http://www.eclipse.org/downloads/ get em while their hot!  #eclipse #OnTimeEveryTime RT?
+> RT @ngervais: Indigo SR1 Downloads are now live! &gt; https://www.eclipse.org/downloads/ get em while their hot!  #eclipse #OnTimeEveryTime RT?
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 23 13:24:59 +0000 2011](https://twitter.com/bruncedric/status/117227964999024640)
 
@@ -3291,13 +3291,13 @@ Replying to [@allilaire](https://twitter.com/allilaire/status/118608562724421632
 
 ----
 
-> RT @waynebeaton: "Retire" CVS support for Eclipse projects http://bit.ly/oml7jZ
+> RT @waynebeaton: "Retire" CVS support for Eclipse projects https://bit.ly/oml7jZ
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 27 12:12:28 +0000 2011](https://twitter.com/bruncedric/status/118659265048215553)
 
 ----
 
-> RT @sbegaudeau: #Acceleo presentation from Code Generation 2011 now on #infoq http://goo.gl/Q8pCx #cg2011
+> RT @sbegaudeau: #Acceleo presentation from Code Generation 2011 now on #infoq https://goo.gl/Q8pCx #cg2011
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 29 08:15:14 +0000 2011](https://twitter.com/bruncedric/status/119324340608172032)
 
@@ -3345,13 +3345,13 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/11956087334909
 
 ----
 
-> RT @sbegaudeau: Planning to use #Acceleo out of Eclipse? Well here is an Acceleo 3.2 generator launched from #Netbeans! http://goo.gl/86TBB
+> RT @sbegaudeau: Planning to use #Acceleo out of Eclipse? Well here is an Acceleo 3.2 generator launched from #Netbeans! https://goo.gl/86TBB
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 06 08:19:42 +0000 2011](https://twitter.com/bruncedric/status/121862178730033152)
 
 ----
 
-> Oops, missed it but #google #guava  10 has been released a few days ago  http://code.google.com/p/guava-libraries/wiki/Release10
+> Oops, missed it but #google #guava  10 has been released a few days ago  https://code.google.com/p/guava-libraries/wiki/Release10
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 06 08:58:24 +0000 2011](https://twitter.com/bruncedric/status/121871919950733312)
 
@@ -3365,7 +3365,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/11956087334909
 
 Replying to [@dunkfordyce](https://twitter.com/dunkfordyce/status/123416721930461186)
 
-> Now you can even generate code to Android through Eclipse ;) http://help.eclipse.org/helios/index.jsp?topic=/org.eclipse.acceleo.doc/doc/html/acceleo_tutorial_android_example.html & https://github.com/eclipse-soc/amalgamation-examples-acceleo
+> Now you can even generate code to Android through Eclipse ;) https://help.eclipse.org/helios/index.jsp?topic=/org.eclipse.acceleo.doc/doc/html/acceleo_tutorial_android_example.html & https://github.com/eclipse-soc/amalgamation-examples-acceleo
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 10 15:20:57 +0000 2011](https://twitter.com/bruncedric/status/123417744275288065)
 
@@ -3373,13 +3373,13 @@ Replying to [@dunkfordyce](https://twitter.com/dunkfordyce/status/12341672193046
 
 Replying to [@dunkfordyce](https://twitter.com/dunkfordyce/status/123419339780132864)
 
-> Looks like Applause might be a better fit then : http://www.slideshare.net/hermanlintvelt/once-code-to-rule-them-all & https://github.com/applause/applause . I never used it #JustSaying
+> Looks like Applause might be a better fit then : https://www.slideshare.net/hermanlintvelt/once-code-to-rule-them-all & https://github.com/applause/applause . I never used it #JustSaying
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 10 15:34:12 +0000 2011](https://twitter.com/bruncedric/status/123421078730190848)
 
 ----
 
-> Graphical Comparison, Logical Model, UML, Ecore, GMF : http://model-driven-blogging.blogspot.com/2011/10/model-comparison-logical-model-uml.html get the build while it's hot !
+> Graphical Comparison, Logical Model, UML, Ecore, GMF : https://model-driven-blogging.blogspot.com/2011/10/model-comparison-logical-model-uml.html get the build while it's hot !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 10 15:51:51 +0000 2011](https://twitter.com/bruncedric/status/123425517012647936)
 
@@ -3391,7 +3391,7 @@ Replying to [@dunkfordyce](https://twitter.com/dunkfordyce/status/12341933978013
 
 ----
 
-> Model Transformation Preview & Conflict Detection : http://model-driven-blogging.blogspot.com/2011/10/model-transformation-preview.html
+> Model Transformation Preview & Conflict Detection : https://model-driven-blogging.blogspot.com/2011/10/model-transformation-preview.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 18 15:46:20 +0000 2011](https://twitter.com/bruncedric/status/126323235481600000)
 
@@ -3409,7 +3409,7 @@ Replying to [@dunkfordyce](https://twitter.com/dunkfordyce/status/12341933978013
 
 ----
 
-> RT @steffen_pingel: Model Focusing Tools (aka Mylyn Context Modeling) project proposal has been posted! http://www.eclipse.org/proposals/mylyn.context.mft/
+> RT @steffen_pingel: Model Focusing Tools (aka Mylyn Context Modeling) project proposal has been posted! https://www.eclipse.org/proposals/mylyn.context.mft/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 20 08:59:59 +0000 2011](https://twitter.com/bruncedric/status/126945749127802880)
 
@@ -3427,7 +3427,7 @@ Replying to [@dunkfordyce](https://twitter.com/dunkfordyce/status/12341933978013
 
 ----
 
-> RT @Federico_II: snapper: A tool for managing btrfs snapshots http://lizards.opensuse.org/2011/04/01/introducing-snapper/ via @openSUSE
+> RT @Federico_II: snapper: A tool for managing btrfs snapshots https://lizards.opensuse.org/2011/04/01/introducing-snapper/ via @openSUSE
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 21 18:59:34 +0000 2011](https://twitter.com/bruncedric/status/127459027805405184)
 
@@ -3445,7 +3445,7 @@ Replying to [@dunkfordyce](https://twitter.com/dunkfordyce/status/12341933978013
 
 ----
 
-> RT @IanSkerrett: Looks like the Eclipse Facebook page is back but at a new url http://www.facebook.com/eclipse.org    #vampireFail
+> RT @IanSkerrett: Looks like the Eclipse Facebook page is back but at a new url https://www.facebook.com/eclipse.org    #vampireFail
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 25 12:54:47 +0000 2011](https://twitter.com/bruncedric/status/128816775449165826)
 
@@ -3472,7 +3472,7 @@ Replying to [@fsteeg and @caniszczyk](https://twitter.com/fsteeg/status/12879235
 
 ----
 
-> RT @mchv: Going to ECE ? Want to demo or present something related to modeling ? think to the modeling symposium : http://bit.ly/pT8eBW  ...
+> RT @mchv: Going to ECE ? Want to demo or present something related to modeling ? think to the modeling symposium : https://bit.ly/pT8eBW  ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 26 10:03:35 +0000 2011](https://twitter.com/bruncedric/status/129136080921427968)
 
@@ -3486,13 +3486,13 @@ Replying to [@IanSkerrett and @eclipsecon](https://twitter.com/IanSkerrett/statu
 
 ----
 
-> RT @IanSkerrett: Congrats to the Acceleo team for their 3.2 release http://sbegaudeau.tumblr.com/post/11989132482/acceleo-3-2-has-been-released
+> RT @IanSkerrett: Congrats to the Acceleo team for their 3.2 release https://sbegaudeau.tumblr.com/post/11989132482/acceleo-3-2-has-been-released
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 27 15:00:05 +0000 2011](https://twitter.com/bruncedric/status/129573083358052352)
 
 ----
 
-> @alex_lagarde http://docs.scala-lang.org : a nice example of doc output for Intent, using @TwBootstrap
+> @alex_lagarde https://docs.scala-lang.org : a nice example of doc output for Intent, using @TwBootstrap
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 27 19:00:50 +0000 2011](https://twitter.com/bruncedric/status/129633670817513473)
 
@@ -3500,7 +3500,7 @@ Replying to [@IanSkerrett and @eclipsecon](https://twitter.com/IanSkerrett/statu
 
 > AARRRRGHHH  ... Kebabci Fatality !
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Oct 30 20:37:19 +0000 2011](https://twitter.com/bruncedric/status/130745114862694400)> RT @gblondelle: Polarsy creation at Eclipse Con Europe: http://bit.ly/s1SbgB
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Oct 30 20:37:19 +0000 2011](https://twitter.com/bruncedric/status/130745114862694400)> RT @gblondelle: Polarsy creation at Eclipse Con Europe: https://bit.ly/s1SbgB
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 02 16:41:22 +0000 2011](https://twitter.com/bruncedric/status/131772901975265280)
 
@@ -3528,7 +3528,7 @@ Replying to [@oisin, @stevebiscuit and @cdynes](https://twitter.com/oisin/status
 
 Replying to [@vwegert](https://twitter.com/vwegert/status/132035840217055232)
 
-> 0.7.0 is waiting for your feedback : http://alagarde.tumblr.com/post/11993643207/intent-0-7-is-waiting-for-your-feedback
+> 0.7.0 is waiting for your feedback : https://alagarde.tumblr.com/post/11993643207/intent-0-7-is-waiting-for-your-feedback
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 03 10:13:59 +0000 2011](https://twitter.com/bruncedric/status/132037801301647360)
 
@@ -3542,7 +3542,7 @@ Replying to [@fsteeg and @alex_lagarde](https://twitter.com/fsteeg/status/130818
 
 ----
 
-> RT @fthomas_fr: A very nice presentation of @alex_lagarde about intent http://wiki.eclipse.org/Intent at #ece2011. Intent is awesome !
+> RT @fthomas_fr: A very nice presentation of @alex_lagarde about intent https://wiki.eclipse.org/Intent at #ece2011. Intent is awesome !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 04 12:39:51 +0000 2011](https://twitter.com/bruncedric/status/132436897925578753)
 
@@ -3568,19 +3568,19 @@ Replying to [@prapicault](https://twitter.com/prapicault/status/1324454870758277
 
 ----
 
-> @dunkfordyce , did you had the chance to play with "playn" http://proppy-playn101.appspot.com already ?
+> @dunkfordyce , did you had the chance to play with "playn" https://proppy-playn101.appspot.com already ?
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 04 20:57:24 +0000 2011](https://twitter.com/bruncedric/status/132562107957911552)
 
 ----
 
-> After 5 years of work, #Taskjuggler 3 is out ! http://groups.google.com/group/taskjuggler-announce/browse_frm/thread/4f6e07b23d0db586?pli=1
+> After 5 years of work, #Taskjuggler 3 is out ! https://groups.google.com/group/taskjuggler-announce/browse_frm/thread/4f6e07b23d0db586?pli=1
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Nov 05 13:24:44 +0000 2011](https://twitter.com/bruncedric/status/132810581072805888)
 
 ----
 
-> Hoo, and it looks like work started to build an xtext based editor for the #taskjuggler dsl... interesting ! http://groups.google.com/group/taskjuggler-dev/browse_thread/thread/fbea667becb161a1
+> Hoo, and it looks like work started to build an xtext based editor for the #taskjuggler dsl... interesting ! https://groups.google.com/group/taskjuggler-dev/browse_thread/thread/fbea667becb161a1
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Nov 05 14:51:40 +0000 2011](https://twitter.com/bruncedric/status/132832459749470208)
 
@@ -3594,7 +3594,7 @@ Replying to [@prapicault](https://twitter.com/prapicault/status/1324454870758277
 
 ----
 
-> Follow the White Rabbit discovering Modeling at Eclipse Day Paris http://model-driven-blogging.blogspot.com/2011/11/follow-white-rabbit.html
+> Follow the White Rabbit discovering Modeling at Eclipse Day Paris https://model-driven-blogging.blogspot.com/2011/11/follow-white-rabbit.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 07 15:59:54 +0000 2011](https://twitter.com/bruncedric/status/133574405350625280)
 
@@ -3606,13 +3606,13 @@ Replying to [@prapicault](https://twitter.com/prapicault/status/1324454870758277
 
 ----
 
-> RT @mchv: Interested by collaborative modeling ? Could not attend to the ECE talk ?  http://bit.ly/rK7oCR #ece2011
+> RT @mchv: Interested by collaborative modeling ? Could not attend to the ECE talk ?  https://bit.ly/rK7oCR #ece2011
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 08 21:42:37 +0000 2011](https://twitter.com/bruncedric/status/134023040064434176)
 
 ----
 
-> RT @mehdiaitoufkir: PunchTab gets $4.4M to pile on gifts -  http://news.cnet.com/8301-1023_3-57320892-93/punchtab-gets-$4.4m-to-pile-on-gifts/ via @cnet
+> RT @mehdiaitoufkir: PunchTab gets $4.4M to pile on gifts -  https://news.cnet.com/8301-1023_3-57320892-93/punchtab-gets-$4.4m-to-pile-on-gifts/ via @cnet
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 09 13:35:38 +0000 2011](https://twitter.com/bruncedric/status/134262873697431552)
 
@@ -3634,7 +3634,7 @@ Replying to [@mchv](https://twitter.com/mchv/status/134304667923513344)
 
 ----
 
-> RT @avibryant: "Are we really going to accept an Interface Of The Future that is less expressive than a sandwich?" -@worrydream http://t ...
+> RT @avibryant: "Are we really going to accept an Interface Of The Future that is less expressive than a sandwich?" -@worrydream https://t ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 09 19:55:52 +0000 2011](https://twitter.com/bruncedric/status/134358564557959168)
 
@@ -3652,13 +3652,13 @@ Replying to [@mchv](https://twitter.com/mchv/status/134304667923513344)
 
 ----
 
-> Preparing for Obeo Designer Roadshow - Rennes : http://www.obeodesigner.com/roadshow/roadshowrennes
+> Preparing for Obeo Designer Roadshow - Rennes : https://www.obeodesigner.com/roadshow/roadshowrennes
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 14 19:40:11 +0000 2011](https://twitter.com/bruncedric/status/136166555842129920)
 
 ----
 
-> RT @imagesreseaux: Obeo termine l’année en boulet de canon http://goo.gl/fb/pjMvY
+> RT @imagesreseaux: Obeo termine l’année en boulet de canon https://goo.gl/fb/pjMvY
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 16 20:27:10 +0000 2011](https://twitter.com/bruncedric/status/136903155492470785)
 
@@ -3672,7 +3672,7 @@ Replying to [@mchv](https://twitter.com/mchv/status/134304667923513344)
 
 Replying to [@leamassiot](https://twitter.com/@leamassiot/status/137274247902019584)
 
-> snapper takes snapshots of your file system in a blink http://lizards.opensuse.org/2011/04/01/introducing-snapper/
+> snapper takes snapshots of your file system in a blink https://lizards.opensuse.org/2011/04/01/introducing-snapper/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 17 21:05:23 +0000 2011](https://twitter.com/bruncedric/status/137275160058269698)
 
@@ -3686,13 +3686,13 @@ Replying to [@leamassiot and @ejuliot](https://twitter.com/@leamassiot/status/13
 
 ----
 
-> Uploaded a bunch of videos demonstrating the new features of EMF Compare : http://www.eclipse.org/emf/compare/doc/features/videos/
+> Uploaded a bunch of videos demonstrating the new features of EMF Compare : https://www.eclipse.org/emf/compare/doc/features/videos/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 21 19:43:07 +0000 2011](https://twitter.com/bruncedric/status/138704010654920704)
 
 ----
 
-> Just started to use my "let's automate boring things" low cost tool : http://www.eclipse.org/emf/compare/doc/features/1.2_new_and_noteworthy.html at the end It might help other Eclipse Projects
+> Just started to use my "let's automate boring things" low cost tool : https://www.eclipse.org/emf/compare/doc/features/1.2_new_and_noteworthy.html at the end It might help other Eclipse Projects
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 21 19:50:38 +0000 2011](https://twitter.com/bruncedric/status/138705900193062912)
 
@@ -3756,7 +3756,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/13944437778430
 
 ----
 
-> RT @allilaire: ObeoNetwork just reached the symbolic number of 1000 members! A nice growing community! http://bit.ly/u7q0gI
+> RT @allilaire: ObeoNetwork just reached the symbolic number of 1000 members! A nice growing community! https://bit.ly/u7q0gI
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 29 13:34:29 +0000 2011](https://twitter.com/bruncedric/status/141510343477297152)
 
@@ -3800,7 +3800,7 @@ Replying to [@gblondelle](https://twitter.com/gblondelle/status/1426438245047377
 
 Replying to [@njbartlett](https://twitter.com/nbartlett/status/142716574632132608)
 
-> *all* the talks in the modeling track have been declined http://www.eclipsecon.org/2012/program/sessions/proposed?field_experience_value_many_to_one=All&field_track_value_many_to_one=Modeling&keys=
+> *all* the talks in the modeling track have been declined https://www.eclipsecon.org/2012/program/sessions/proposed?field_experience_value_many_to_one=All&field_track_value_many_to_one=Modeling&keys=
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 02 21:32:43 +0000 2011](https://twitter.com/bruncedric/status/142717856457572353)
 
@@ -3808,7 +3808,7 @@ Replying to [@njbartlett](https://twitter.com/nbartlett/status/14271657463213260
 
 Replying to [@kingargyle](https://twitter.com/kingargyle/status/142717426679812099)
 
-> all of them are stating "declined" but the web site might be wrong, right ? http://www.eclipsecon.org/2012/program/sessions/proposed?field_experience_value_many_to_one=All&field_track_value_many_to_one=Domain+Specific+Language&keys=
+> all of them are stating "declined" but the web site might be wrong, right ? https://www.eclipsecon.org/2012/program/sessions/proposed?field_experience_value_many_to_one=All&field_track_value_many_to_one=Domain+Specific+Language&keys=
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 02 21:37:31 +0000 2011](https://twitter.com/bruncedric/status/142719066157760513)
 
@@ -3846,7 +3846,7 @@ Replying to [@irbull, @vogella and @dougschaefer](https://twitter.com/irbull/sta
 
 ----
 
-> My feedback about Eclipse Day Paris 2011 (at last! ) http://model-driven-blogging.blogspot.com/2011/12/eclipse-day-paris-2011.html
+> My feedback about Eclipse Day Paris 2011 (at last! ) https://model-driven-blogging.blogspot.com/2011/12/eclipse-day-paris-2011.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 06 15:34:11 +0000 2011](https://twitter.com/bruncedric/status/144077182984130560)
 
@@ -3878,7 +3878,7 @@ Replying to [@irbull, @vogella and @dougschaefer](https://twitter.com/irbull/sta
 
 Replying to [@herberts](https://twitter.com/herberts/status/145615919618605056)
 
->  we're also looking for a K-name for the next Eclipse release. Kouign-Amann (http://idata.over-blog.com/2/57/95/79/Archives-2/blog--aman-1.jpg) is a good candidate :D
+>  we're also looking for a K-name for the next Eclipse release. Kouign-Amann (https://idata.over-blog.com/2/57/95/79/Archives-2/blog--aman-1.jpg) is a good candidate :D
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Dec 10 21:43:32 +0000 2011](https://twitter.com/bruncedric/status/145619680764239873)
 
@@ -3904,7 +3904,7 @@ Replying to [@JohanDenHaan](https://twitter.com/JohanDenHaan/status/146324411123
 
 ----
 
-> With the kids today so that my wife can follow the white rabbit (too!)  http://www.bibliotheque-rennesmetropole.fr/agenda-culturel/expositions/images-d-alice-au-pays-des-merveilles/
+> With the kids today so that my wife can follow the white rabbit (too!)  https://www.bibliotheque-rennesmetropole.fr/agenda-culturel/expositions/images-d-alice-au-pays-des-merveilles/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 14 14:07:42 +0000 2011](https://twitter.com/bruncedric/status/146954521921335298)
 
@@ -3922,7 +3922,7 @@ Replying to [@JohanDenHaan](https://twitter.com/JohanDenHaan/status/146324411123
 
 ----
 
-> #HackOfTheWeek : auto-magically merging 'external changes' in your editor and detecting conflicts http://model-driven-blogging.blogspot.com/2011/12/do-you-want-to-discard-this-editors.html
+> #HackOfTheWeek : auto-magically merging 'external changes' in your editor and detecting conflicts https://model-driven-blogging.blogspot.com/2011/12/do-you-want-to-discard-this-editors.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 16 18:05:16 +0000 2011](https://twitter.com/bruncedric/status/147739081307205632)
 
@@ -3930,13 +3930,13 @@ Replying to [@JohanDenHaan](https://twitter.com/JohanDenHaan/status/146324411123
 
 Replying to [@dzonejames](https://twitter.com/sugrue/status/149137706994249728)
 
-> Looks like it has been available for quite a long time already : http://dev.eclipse.org/viewcvs/viewvc.cgi/?root=TOOLS_WINDOWBUILDER
+> Looks like it has been available for quite a long time already : https://dev.eclipse.org/viewcvs/viewvc.cgi/?root=TOOLS_WINDOWBUILDER
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 20 15:01:11 +0000 2011](https://twitter.com/bruncedric/status/149142305343938560)
 
 ----
 
-> RT @milessabin: #Scala IDE for #Eclipse 2.0 final release available now! http://goo.gl/DdZ9d
+> RT @milessabin: #Scala IDE for #Eclipse 2.0 final release available now! https://goo.gl/DdZ9d
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 21 09:03:25 +0000 2011](https://twitter.com/bruncedric/status/149414660679024640)
 
@@ -3972,7 +3972,7 @@ Replying to [@bruncedric and @droy_eclipse](https://twitter.com/bruncedric/statu
 
 ----
 
-> Discovered (at last)  fslint ( http://www.pixelbeat.org/fslint/ ) The perfect tool to cleanup my photos folder.
+> Discovered (at last)  fslint ( https://www.pixelbeat.org/fslint/ ) The perfect tool to cleanup my photos folder.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Dec 29 15:46:53 +0000 2011](https://twitter.com/bruncedric/status/152415300212625409)
 
@@ -3986,7 +3986,7 @@ Replying to [@bruncedric and @droy_eclipse](https://twitter.com/bruncedric/statu
 
 ----
 
-> RT @waynebeaton: 44.2% of all Eclipse code repositories are Git http://eclipse.org/projects/scmcountdown.php
+> RT @waynebeaton: 44.2% of all Eclipse code repositories are Git https://eclipse.org/projects/scmcountdown.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 03 16:10:44 +0000 2012](https://twitter.com/bruncedric/status/154233239081463809)
 
@@ -4036,7 +4036,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/15503737515896
 
 ----
 
-> @Butterflyzer beta: www, social media, semantic web all in one eclipse based app.  A powerful analysis  tool ! http://milesparker.blogspot.com/2012/01/butterflyzer-beta.html
+> @Butterflyzer beta: www, social media, semantic web all in one eclipse based app.  A powerful analysis  tool ! https://milesparker.blogspot.com/2012/01/butterflyzer-beta.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 06 22:09:55 +0000 2012](https://twitter.com/bruncedric/status/155410793343614976)
 
@@ -4048,13 +4048,13 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/15503737515896
 
 ----
 
-> RT @sbegaudeau: UML to Java Generator for #Acceleo http://tmblr.co/ZnKN_xEYw4Ld #uml
+> RT @sbegaudeau: UML to Java Generator for #Acceleo https://tmblr.co/ZnKN_xEYw4Ld #uml
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 10 14:33:16 +0000 2012](https://twitter.com/bruncedric/status/156745426253520896)
 
 ----
 
-> RT @vtri: Good post by @mjasay on "sales or no sales" conundrum & its implications on how to build product on @nodeable blog: http://t.c ...
+> RT @vtri: Good post by @mjasay on "sales or no sales" conundrum & its implications on how to build product on @nodeable blog: https://t.c ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 18 17:04:19 +0000 2012](https://twitter.com/bruncedric/status/159682541694091265)
 
@@ -4066,7 +4066,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/15503737515896
 
 ----
 
-> RT @IanSkerrett: Someone needs to go a coding game for Eclipse  http://www.geekwire.com/2012/coding-fun-microsofts-visual-studio-badges-leaderboard   Visual Studio can't have all the fun
+> RT @IanSkerrett: Someone needs to go a coding game for Eclipse  https://www.geekwire.com/2012/coding-fun-microsofts-visual-studio-badges-leaderboard   Visual Studio can't have all the fun
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 19 18:35:04 +0000 2012](https://twitter.com/bruncedric/status/160067769554051074)
 
@@ -4108,7 +4108,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/15503737515896
 
 ----
 
-> Acceleo's tutorial at EclipseCon will have #backbonejs, @TwBootstrap 2.0 and #chrome as target technologies . http://www.eclipsecon.org/2012/sessions/creating-tools-simplify-your-application-development-chrome-app-example
+> Acceleo's tutorial at EclipseCon will have #backbonejs, @TwBootstrap 2.0 and #chrome as target technologies . https://www.eclipsecon.org/2012/sessions/creating-tools-simplify-your-application-development-chrome-app-example
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 26 17:17:33 +0000 2012](https://twitter.com/bruncedric/status/162584974988546048)
 
@@ -4122,7 +4122,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/15503737515896
 
 > at Paris going to the Obeo office
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 31 11:41:46 +0000 2012](https://twitter.com/bruncedric/status/164312412663726082)> Sorry, we do provide EMF training sessions but it has nothing to do with high frequency electro magnetic fields. http://www.obeo.fr/pages/training/
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 31 11:41:46 +0000 2012](https://twitter.com/bruncedric/status/164312412663726082)> Sorry, we do provide EMF training sessions but it has nothing to do with high frequency electro magnetic fields. https://www.obeo.fr/pages/training/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 01 09:15:58 +0000 2012](https://twitter.com/bruncedric/status/164638106878885888)
 
@@ -4154,7 +4154,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/15503737515896
 
 ----
 
-> EcoreTools need some love. Lowering the contributor barrier by providing a proper build http://wiki.eclipse.org/index.php/Ecore_Tools
+> EcoreTools need some love. Lowering the contributor barrier by providing a proper build https://wiki.eclipse.org/index.php/Ecore_Tools
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 13 17:45:57 +0000 2012](https://twitter.com/bruncedric/status/169115104930037760)
 
@@ -4174,25 +4174,25 @@ Replying to [@prapicault](https://twitter.com/prapicault/status/1691804172897484
 
 ----
 
-> Valentine's gift for EcoreTools : a brand new git repository : http://git.eclipse.org/c/ecoretools/org.eclipse.ecoretools.git/ and a running build job:https://hudson.eclipse.org/hudson/job/emf-ecoretools-1.1.0/2/
+> Valentine's gift for EcoreTools : a brand new git repository : https://git.eclipse.org/c/ecoretools/org.eclipse.ecoretools.git/ and a running build job:https://hudson.eclipse.org/hudson/job/emf-ecoretools-1.1.0/2/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Feb 14 08:48:04 +0000 2012](https://twitter.com/bruncedric/status/169342129745829889)
 
 ----
 
-> RT @waynapitch: Wayna Pitch has launched a fundraising campaign on Ulule for the feature film Globe http://fr.ulule.com/globe/
+> RT @waynapitch: Wayna Pitch has launched a fundraising campaign on Ulule for the feature film Globe https://fr.ulule.com/globe/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Feb 18 10:07:41 +0000 2012](https://twitter.com/bruncedric/status/170811716375035904)
 
 ----
 
-> RT @orionhub: Orion 0.4 RC2 is now running at http://orionhub.org and available at http://download.eclipse.org/orion/drops/S-0.4RC2-201202171033/index.html - Soon at 0.4 final
+> RT @orionhub: Orion 0.4 RC2 is now running at https://orionhub.org and available at https://download.eclipse.org/orion/drops/S-0.4RC2-201202171033/index.html - Soon at 0.4 final
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Feb 18 10:09:09 +0000 2012](https://twitter.com/bruncedric/status/170812085368922112)
 
 ----
 
-> RT @kartben: Eclipse Day Toulouse 2012 call for papers | http://blog.benjamin-cabe.com/?p=844
+> RT @kartben: Eclipse Day Toulouse 2012 call for papers | https://blog.benjamin-cabe.com/?p=844
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Feb 18 10:12:44 +0000 2012](https://twitter.com/bruncedric/status/170812986494173184)
 
@@ -4218,7 +4218,7 @@ Replying to [@mchv and @zenexity](https://twitter.com/mchv/status/17300307083225
 
 ----
 
-> RT @acceleo: With the release of #Eclipse Indigo SR2, #Acceleo 3.1.3 is now available. http://eclipse.org/modeling/m2t/downloads/?showAll=1&hlbuild=R201202140359&project=acceleo#R201202140359
+> RT @acceleo: With the release of #Eclipse Indigo SR2, #Acceleo 3.1.3 is now available. https://eclipse.org/modeling/m2t/downloads/?showAll=1&hlbuild=R201202140359&project=acceleo#R201202140359
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Feb 28 09:38:39 +0000 2012](https://twitter.com/bruncedric/status/174428290059206656)
 
@@ -4232,7 +4232,7 @@ Replying to [@mchv and @zenexity](https://twitter.com/mchv/status/17300307083225
 
 ----
 
-> Oh, I had missed this nice wrap-up of the Eclipse Day Paris event : http://blog.zenika.com/index.php?post/2011/11/17/Eclipse-Day-Paris-2011-Retour-sur-les-10-ans
+> Oh, I had missed this nice wrap-up of the Eclipse Day Paris event : https://blog.zenika.com/index.php?post/2011/11/17/Eclipse-Day-Paris-2011-Retour-sur-les-10-ans
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 05 21:37:04 +0000 2012](https://twitter.com/bruncedric/status/176783411753652224)
 
@@ -4258,13 +4258,13 @@ Replying to [@mchv and @zenexity](https://twitter.com/mchv/status/17300307083225
 
 Replying to [@cra and @IanSkerrett](https://twitter.com/cra/status/177494892879163392)
 
-> Maybe because of some recently published chinese book? Looks like its in bestsellers : http://www.tenlong.com.tw/tw/bestselling
+> Maybe because of some recently published chinese book? Looks like its in bestsellers : https://www.tenlong.com.tw/tw/bestselling
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 07 21:03:05 +0000 2012](https://twitter.com/bruncedric/status/177499636670545921)
 
 ----
 
-> RT @polarsys: Invitation to Polarsys open meeting co-located with Eclipse Con. http://polarsys.blogspot.com/2012/03/invitation-to-polarsys-open-meeting-co.html
+> RT @polarsys: Invitation to Polarsys open meeting co-located with Eclipse Con. https://polarsys.blogspot.com/2012/03/invitation-to-polarsys-open-meeting-co.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 07 22:11:39 +0000 2012](https://twitter.com/bruncedric/status/177516890246230016)
 
@@ -4284,7 +4284,7 @@ Replying to [@xavier_seignard](https://twitter.com/xavier_seignard/status/179623
 
 ----
 
-> Looks like Christian Damus is back in Eclipse Modeling, nice ! http://give-a-damus.blogspot.com/2012/03/back-in-saddle.html
+> Looks like Christian Damus is back in Eclipse Modeling, nice ! https://give-a-damus.blogspot.com/2012/03/back-in-saddle.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 16 14:24:57 +0000 2012](https://twitter.com/bruncedric/status/180660933486583809)
 
@@ -4296,7 +4296,7 @@ Replying to [@xavier_seignard](https://twitter.com/xavier_seignard/status/179623
 
 ----
 
-> http://programmerryangosling.tumblr.com/ might do too ;)
+> https://programmerryangosling.tumblr.com/ might do too ;)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 16 20:26:02 +0000 2012](https://twitter.com/bruncedric/status/180751801287585792)
 
@@ -4328,37 +4328,37 @@ Replying to [@BryanHunt](https://twitter.com/@BryanHunt/status/18099612547246899
 
 ----
 
-> What do we do in Eclipse? 1 - building the technology to generate code or text from models : #acceleo http://www.eclipse.org/acceleo
+> What do we do in Eclipse? 1 - building the technology to generate code or text from models : #acceleo https://www.eclipse.org/acceleo
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:33:35 +0000 2012](https://twitter.com/bruncedric/status/182852530361991168)
 
 ----
 
-> 2) lowering  the "System" versus "Documentation" barrier http://wiki.eclipse.org/Intent
+> 2) lowering  the "System" versus "Documentation" barrier https://wiki.eclipse.org/Intent
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:34:32 +0000 2012](https://twitter.com/bruncedric/status/182852772901814274)
 
 ----
 
-> 3) providing a cool UI generation technology to pimp your editors http://www.eclipse.org/modeling/emft/?project=eef
+> 3) providing a cool UI generation technology to pimp your editors https://www.eclipse.org/modeling/emft/?project=eef
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:35:01 +0000 2012](https://twitter.com/bruncedric/status/182852891692892160)
 
 ----
 
-> 4) enabling model to model transformations http://www.eclipse.org/atl/
+> 4) enabling model to model transformations https://www.eclipse.org/atl/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:35:31 +0000 2012](https://twitter.com/bruncedric/status/182853017807224832)
 
 ----
 
-> 5) building the Modeling package http://www.eclipse.org/modeling/amalgam/
+> 5) building the Modeling package https://www.eclipse.org/modeling/amalgam/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:36:07 +0000 2012](https://twitter.com/bruncedric/status/182853168437264384)
 
 ----
 
-> 6) enabling team work on models using your favorite SCM http://www.eclipse.org/emf/compare/
+> 6) enabling team work on models using your favorite SCM https://www.eclipse.org/emf/compare/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:36:33 +0000 2012](https://twitter.com/bruncedric/status/182853277891837953)
 
@@ -4370,13 +4370,13 @@ Replying to [@BryanHunt](https://twitter.com/@BryanHunt/status/18099612547246899
 
 ----
 
-> 8) mentoring new projects http://wiki.eclipse.org/Architecture_Council
+> 8) mentoring new projects https://wiki.eclipse.org/Architecture_Council
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:37:42 +0000 2012](https://twitter.com/bruncedric/status/182853567500132352)
 
 ----
 
-> 9) organizing or sponsoring Eclipse related events http://www.eclipsedayparis.com/
+> 9) organizing or sponsoring Eclipse related events https://www.eclipsedayparis.com/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:38:24 +0000 2012](https://twitter.com/bruncedric/status/182853745342824448)
 
@@ -4396,25 +4396,25 @@ Replying to [@prapicault](https://twitter.com/prapicault/status/1828764175020933
 
 ----
 
-> Ok guys, I get it, I should drop that post-it thing http://twitpic.com/907hqz
+> Ok guys, I get it, I should drop that post-it thing https://twitpic.com/907hqz
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 23 15:25:55 +0000 2012](https://twitter.com/bruncedric/status/183212991733436417)
 
 ----
 
-> Obeo's Pikachu is almost ready for its upcoming trip to DC http://twitpic.com/90auwz
+> Obeo's Pikachu is almost ready for its upcoming trip to DC https://twitpic.com/90auwz
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 23 20:14:45 +0000 2012](https://twitter.com/bruncedric/status/183285676391936001)
 
 ----
 
-> Leaving Nantes with Mikael and Stephane http://twitpic.com/90hs7o
+> Leaving Nantes with Mikael and Stephane https://twitpic.com/90hs7o
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Mar 24 06:20:23 +0000 2012](https://twitter.com/bruncedric/status/183438089501413376)
 
 ----
 
-> Boarding A380 to DC. That's a BIG plane ! http://twitpic.com/90jpfl
+> Boarding A380 to DC. That's a BIG plane ! https://twitpic.com/90jpfl
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Mar 24 09:28:22 +0000 2012](https://twitter.com/bruncedric/status/183485399925133313)
 
@@ -4426,7 +4426,7 @@ Replying to [@prapicault](https://twitter.com/prapicault/status/1828764175020933
 
 ----
 
-> "In flight" camera of the Airbus A380. That's a nice idea ! http://twitpic.com/914ugr
+> "In flight" camera of the Airbus A380. That's a nice idea ! https://twitpic.com/914ugr
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Mar 25 13:08:00 +0000 2012](https://twitter.com/bruncedric/status/183903057724194816)
 
@@ -4480,7 +4480,7 @@ Replying to [@prapicault](https://twitter.com/prapicault/status/1828764175020933
 
 ----
 
-> RT @mikbarbero: Slides from my talk @ Eclipse Con 2012, Reston, VA [3MF: EMF to the infinity... and beyond! http://www.slideshare.net/mikaelbarbero/3mf-infinityandbeyond]
+> RT @mikbarbero: Slides from my talk @ Eclipse Con 2012, Reston, VA [3MF: EMF to the infinity... and beyond! https://www.slideshare.net/mikaelbarbero/3mf-infinityandbeyond]
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 27 23:48:25 +0000 2012](https://twitter.com/bruncedric/status/184788998533820417)
 
@@ -4518,13 +4518,13 @@ Replying to [@gaudol](https://twitter.com/gaudol/status/185085916757499905)
 
 ----
 
-> The booth was quite crowded http://twitpic.com/92mgj6
+> The booth was quite crowded https://twitpic.com/92mgj6
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 29 00:55:00 +0000 2012](https://twitter.com/bruncedric/status/185168145026252802)
 
 ----
 
-> The Eclipse crowd at the Hyatt bar. #eclipsecon http://twitpic.com/92oga6
+> The Eclipse crowd at the Hyatt bar. #eclipsecon https://twitpic.com/92oga6
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 29 03:59:38 +0000 2012](https://twitter.com/bruncedric/status/185214610561957888)
 
@@ -4532,13 +4532,13 @@ Replying to [@gaudol](https://twitter.com/gaudol/status/185085916757499905)
 
 > It's a bit sad but the conference is over now. Time to go to sleep. Good night all ! #eclipsecon
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 30 06:15:54 +0000 2012](https://twitter.com/bruncedric/status/185611287261224960)> This one is gonna be just fine with the lamb. #wineoverip http://twitpic.com/9781sy
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 30 06:15:54 +0000 2012](https://twitter.com/bruncedric/status/185611287261224960)> This one is gonna be just fine with the lamb. #wineoverip https://twitpic.com/9781sy
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Apr 08 09:58:32 +0000 2012](https://twitter.com/bruncedric/status/188928808966029313)
 
 ----
 
-> RT @dskolovos: Just one week left to let the world know about your cool Eclipse-based modelling and MDE tools http://www.acme-workshop.org @ecmf ...
+> RT @dskolovos: Just one week left to let the world know about your cool Eclipse-based modelling and MDE tools https://www.acme-workshop.org @ecmf ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 09 19:08:20 +0000 2012](https://twitter.com/bruncedric/status/189429559119200256)
 
@@ -4550,7 +4550,7 @@ Replying to [@gaudol](https://twitter.com/gaudol/status/185085916757499905)
 
 ----
 
-> http://googlesystem.blogspot.fr/2012/04/new-window-manager-for-chrome-os.html should make Orion more usable :)
+> https://googlesystem.blogspot.fr/2012/04/new-window-manager-for-chrome-os.html should make Orion more usable :)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 12 14:53:26 +0000 2012](https://twitter.com/bruncedric/status/190452572493062145)
 
@@ -4564,7 +4564,7 @@ Replying to [@green_david and @fsteeg](https://twitter.com/dgreen/status/1926385
 
 ----
 
-> RT @fmadiot: Marte Designer 0.7 released on ObeoNetwork : http://marketplace.obeonetwork.com/market/system-engineering #eclipse #modeling 
+> RT @fmadiot: Marte Designer 0.7 released on ObeoNetwork : https://marketplace.obeonetwork.com/market/system-engineering #eclipse #modeling 
 > 
 > ![]({{ site.url }}/media/192953449846030337-Aq1_zs3CEAAYvnX.png)
 
@@ -4578,13 +4578,13 @@ Replying to [@green_david and @fsteeg](https://twitter.com/dgreen/status/1926385
 
 ----
 
-> RT @jgfanjul: RT @beckynagel: Company has an employee with last name of Null, and the programming problems begin: http://ow.ly/1LjYFT / ...
+> RT @jgfanjul: RT @beckynagel: Company has an employee with last name of Null, and the programming problems begin: https://ow.ly/1LjYFT / ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Apr 28 12:19:54 +0000 2012](https://twitter.com/bruncedric/status/196212139336278016)
 
 ----
 
-> RT @jmwind: great fp read “@stevestreeting: One of the reasons I love John Carmack is that he's ruthlessly pragmatic about tech. http:// ...
+> RT @jmwind: great fp read “@stevestreeting: One of the reasons I love John Carmack is that he's ruthlessly pragmatic about tech. https:// ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 30 10:39:42 +0000 2012](https://twitter.com/bruncedric/status/196911699721330688)> Stuck in ClassCircularityError hell
 
@@ -4598,7 +4598,7 @@ Replying to [@green_david and @fsteeg](https://twitter.com/dgreen/status/1926385
 
 ----
 
-> RT @gblondelle: Déjà 100 inscrits à EDT2012. Plus qu'une semaine pour s'inscrire. N'attendez pas! http://www.eclipsedaytoulouse.com/
+> RT @gblondelle: Déjà 100 inscrits à EDT2012. Plus qu'une semaine pour s'inscrire. N'attendez pas! https://www.eclipsedaytoulouse.com/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 11 12:40:12 +0000 2012](https://twitter.com/bruncedric/status/200928292646297600)
 
@@ -4652,13 +4652,13 @@ Replying to [@green_david and @fsteeg](https://twitter.com/dgreen/status/1926385
 
 ----
 
-> Obeo Designer 6.0.0 release - #checked #obeodesigner http://twitpic.com/9jvd3g
+> Obeo Designer 6.0.0 release - #checked #obeodesigner https://twitpic.com/9jvd3g
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 11 17:41:22 +0000 2012](https://twitter.com/bruncedric/status/201004081597251584)
 
 ----
 
-> Planning meeting for #obeodesigner 6.1 http://twitpic.com/9jw0vi
+> Planning meeting for #obeodesigner 6.1 https://twitpic.com/9jw0vi
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 11 18:57:24 +0000 2012](https://twitter.com/bruncedric/status/201023217282985984)
 
@@ -4686,19 +4686,19 @@ Replying to [@cra](https://twitter.com/cra/status/201023414780178433)
 
 ----
 
-> You should probably come, the agenda is impressive : http://www.eclipsedaytoulouse.com/programme/ #EDT2012 (registration is 20€ !!)
+> You should probably come, the agenda is impressive : https://www.eclipsedaytoulouse.com/programme/ #EDT2012 (registration is 20€ !!)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 14 12:58:29 +0000 2012](https://twitter.com/bruncedric/status/202020058355077120)
 
 ----
 
-> FastTracker II ...  memories ! http://www.wildbunny.co.uk/blog/2012/05/15/composing-in-game-music/
+> FastTracker II ...  memories ! https://www.wildbunny.co.uk/blog/2012/05/15/composing-in-game-music/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 16 09:48:02 +0000 2012](https://twitter.com/bruncedric/status/202696904956592128)
 
 ----
 
-> RT @fmadiot: Software Reference Architecture for Space Applications (by University of Padova and ESA) http://www.obeonetwork.com/page/obeo-designer #obeodesigner ...
+> RT @fmadiot: Software Reference Architecture for Space Applications (by University of Padova and ESA) https://www.obeonetwork.com/page/obeo-designer #obeodesigner ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 16 10:36:49 +0000 2012](https://twitter.com/bruncedric/status/202709179998273536)
 
@@ -4720,7 +4720,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/20434390032280
 
 ----
 
-> RT @allilaire: last day to register to EclipseDay Toulouse #EDT2012 http://bit.ly/Mk1gsu
+> RT @allilaire: last day to register to EclipseDay Toulouse #EDT2012 https://bit.ly/Mk1gsu
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 21 07:47:42 +0000 2012](https://twitter.com/bruncedric/status/204478559232856064)
 
@@ -4758,37 +4758,37 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/204997651123552256)
 
 ----
 
-> At Florida Cafe - ordering refreshments http://twitpic.com/9oekz5
+> At Florida Cafe - ordering refreshments https://twitpic.com/9oekz5
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 23 16:24:12 +0000 2012](https://twitter.com/bruncedric/status/205333317401325568)
 
 ----
 
-> Setting up the venue. #edt2012 http://twitpic.com/9ol9w2
+> Setting up the venue. #edt2012 https://twitpic.com/9ol9w2
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 24 06:09:36 +0000 2012](https://twitter.com/bruncedric/status/205541035764494336)
 
 ----
 
-> Gael is lauching the event #edt2012 http://twitpic.com/9olrxb
+> Gael is lauching the event #edt2012 https://twitpic.com/9olrxb
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 24 07:26:26 +0000 2012](https://twitter.com/bruncedric/status/205560370826444800)
 
 ----
 
-> Even canadians ! #edt2012 (pic is bad, I need another phone!) http://twitpic.com/9olv6i
+> Even canadians ! #edt2012 (pic is bad, I need another phone!) https://twitpic.com/9olv6i
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 24 07:41:08 +0000 2012](https://twitter.com/bruncedric/status/205564071586697216)
 
 ----
 
-> Benjamin about Tycho,Egit, Gerrit and Mylyn. Pimp your dev process! #EDT2012 http://twitpic.com/9oolr9
+> Benjamin about Tycho,Egit, Gerrit and Mylyn. Pimp your dev process! #EDT2012 https://twitpic.com/9oolr9
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 24 13:03:32 +0000 2012](https://twitter.com/bruncedric/status/205645204206788609)
 
 ----
 
-> Melanie presenting timing constraints on a video filtering sys. #edt2012 http://twitpic.com/9ootnb
+> Melanie presenting timing constraints on a video filtering sys. #edt2012 https://twitpic.com/9ootnb
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 24 13:22:30 +0000 2012](https://twitter.com/bruncedric/status/205649977425408000)
 
@@ -4800,7 +4800,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/204997651123552256)
 
 ----
 
-> Viewpoints FTW #edt2012 http://twitpic.com/9oppq1
+> Viewpoints FTW #edt2012 https://twitpic.com/9oppq1
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 24 14:36:40 +0000 2012](https://twitter.com/bruncedric/status/205668644506705920)
 
@@ -4812,13 +4812,13 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/204997651123552256)
 
 ----
 
-> RT @obeo_corp: Moving to git is complete http://bit.ly/Kit9hg
+> RT @obeo_corp: Moving to git is complete https://bit.ly/Kit9hg
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 24 16:05:03 +0000 2012](https://twitter.com/bruncedric/status/205690887097954305)
 
 ----
 
-> RT @Actus_Nantes: Obeo Designer 6.0 pour la maîtrise des systèmes complexes http://tinyurl.com/7wepq59: Obeo est fier d’annoncer l... http://t ...
+> RT @Actus_Nantes: Obeo Designer 6.0 pour la maîtrise des systèmes complexes https://tinyurl.com/7wepq59: Obeo est fier d’annoncer l... https://t ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 24 16:05:33 +0000 2012](https://twitter.com/bruncedric/status/205691012486668288)
 
@@ -4830,13 +4830,13 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/204997651123552256)
 
 ----
 
-> Gaspard's (3 y 1/2) first try at drawing Darth Vader. #GeekEducation http://twitpic.com/9pbp0f
+> Gaspard's (3 y 1/2) first try at drawing Darth Vader. #GeekEducation https://twitpic.com/9pbp0f
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat May 26 06:19:05 +0000 2012](https://twitter.com/bruncedric/status/206268198759305216)
 
 ----
 
-> Impressive work by the Orion Team : http://planetorion.org/news/2012/05/orion-0-5-m2-new-and-noteworthy/
+> Impressive work by the Orion Team : https://planetorion.org/news/2012/05/orion-0-5-m2-new-and-noteworthy/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 29 08:13:15 +0000 2012](https://twitter.com/bruncedric/status/207384092965212160)
 
@@ -4848,13 +4848,13 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/204997651123552256)
 
 ----
 
-> RT @softmodeling: RT @jmvara: RT @grafandreas @JBezivin statistics on MDE progress in China http://5ise.quanxinquanyi.de/2010/04/25/mds…
+> RT @softmodeling: RT @jmvara: RT @grafandreas @JBezivin statistics on MDE progress in China https://5ise.quanxinquanyi.de/2010/04/25/mds…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 29 19:27:56 +0000 2012](https://twitter.com/bruncedric/status/207553880781897728)
 
 ----
 
-> Looks like Obeo/Nantes IP addr is blacklisted by http://Eclipse.org. It always happens on RC - days :'(
+> Looks like Obeo/Nantes IP addr is blacklisted by https://Eclipse.org. It always happens on RC - days :'(
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 31 08:09:05 +0000 2012](https://twitter.com/bruncedric/status/208107819243798529)
 
@@ -4894,7 +4894,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/2081078192437985
 
 ----
 
-> @IanSkerrett about Orion at FluentConf http://www.youtube.com/watch?v=V5wb86T6nmA
+> @IanSkerrett about Orion at FluentConf https://www.youtube.com/watch?v=V5wb86T6nmA
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 01 14:06:50 +0000 2012](https://twitter.com/bruncedric/status/208560240579452928)
 
@@ -4906,25 +4906,25 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/2081078192437985
 
 ----
 
-> Throw the Eclipse JDT, JavaFx  and the Orion editor in OSGi, mix, and tadaa ! http://tomsondev.bestsolution.at/2012/06/03/about-mixing-and-matching-jdt-and-javafx/ #HackOfTheYear
+> Throw the Eclipse JDT, JavaFx  and the Orion editor in OSGi, mix, and tadaa ! https://tomsondev.bestsolution.at/2012/06/03/about-mixing-and-matching-jdt-and-javafx/ #HackOfTheYear
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 04 12:12:28 +0000 2012](https://twitter.com/bruncedric/status/209618620379185152)
 
 ----
 
-> RT @HarvardBiz: Five Ways to Ruin Your Innovation Process http://s.hbr.org/MzlPT6
+> RT @HarvardBiz: Five Ways to Ruin Your Innovation Process https://s.hbr.org/MzlPT6
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 05 18:33:57 +0000 2012](https://twitter.com/bruncedric/status/210077013099286529)
 
 ----
 
-> RT @obeo_fr: Obeo recrute http://ow.ly/bn35T Si vous aimez #EMF, développement de plugins #Eclipse, Open Source, DSL/Modeling : rejoig ...
+> RT @obeo_fr: Obeo recrute https://ow.ly/bn35T Si vous aimez #EMF, développement de plugins #Eclipse, Open Source, DSL/Modeling : rejoig ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 05 18:43:46 +0000 2012](https://twitter.com/bruncedric/status/210079483988934658)
 
 ----
 
-> RT @obeo_corp: You're an #EMF, Eclipse plugins development, #opensource, #dsl, #modeling fan? Join us at Obeo! http://ow.ly/bn48M
+> RT @obeo_corp: You're an #EMF, Eclipse plugins development, #opensource, #dsl, #modeling fan? Join us at Obeo! https://ow.ly/bn48M
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 05 18:43:53 +0000 2012](https://twitter.com/bruncedric/status/210079510962515968)
 
@@ -4946,7 +4946,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/21107220508850
 
 ----
 
-> Please test the Juno RC3 packages http://www.eclipse.org/downloads/index-developer.php
+> Please test the Juno RC3 packages https://www.eclipse.org/downloads/index-developer.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 08 13:39:18 +0000 2012](https://twitter.com/bruncedric/status/211090025197215744)
 
@@ -4988,7 +4988,7 @@ Replying to [@IanSkerrett and @allilaire](https://twitter.com/IanSkerrett/status
 
 Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/212710672985890816)
 
->  By the way, we'd love to hear from the people using to make it even better. Give feedback here : http://www.obeonetwork.com/group/uml-designer
+>  By the way, we'd love to hear from the people using to make it even better. Give feedback here : https://www.obeonetwork.com/group/uml-designer
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 13 08:34:58 +0000 2012](https://twitter.com/bruncedric/status/212825374470569984)
 
@@ -5018,7 +5018,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/21271067298589
 
 ----
 
-> Martin from google about SVG and CSS3 animation. #breizhcamp http://twitpic.com/9wlp33
+> Martin from google about SVG and CSS3 animation. #breizhcamp https://twitpic.com/9wlp33
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 15 09:39:30 +0000 2012](https://twitter.com/bruncedric/status/213566390509113344)
 
@@ -5052,7 +5052,7 @@ Replying to [@droy_eclipse](https://twitter.com/droy_eclipse/status/213704807167
 
 ----
 
-> RT @irbull: Mylyn Intent (and general Mylyn Improvements), #8 on my Juno Top 10 List http://eclipsesource.com/blogs/2012/06/18/mylyn-intent-top-eclipse-juno-feature-8/
+> RT @irbull: Mylyn Intent (and general Mylyn Improvements), #8 on my Juno Top 10 List https://eclipsesource.com/blogs/2012/06/18/mylyn-intent-top-eclipse-juno-feature-8/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 18 06:14:52 +0000 2012](https://twitter.com/bruncedric/status/214602057825533952)
 
@@ -5082,7 +5082,7 @@ Replying to [@droy_eclipse](https://twitter.com/droy_eclipse/status/213704807167
 
 ----
 
-> Back to the nineties ! http://www.craypiondor.com/2012/06/18/craypion-dor-2012-les-gagnants/
+> Back to the nineties ! https://www.craypiondor.com/2012/06/18/craypion-dor-2012-les-gagnants/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Jun 23 11:52:56 +0000 2012](https://twitter.com/bruncedric/status/216499074847879169)
 
@@ -5182,7 +5182,7 @@ Replying to [@irbull and @milesparker](https://twitter.com/irbull/status/2205726
 
 ----
 
-> RT @gblondelle: Obeo is a sponsor of the Summer of Code in Space organized by ESA! http://sophia.estec.esa.int/socis2012
+> RT @gblondelle: Obeo is a sponsor of the Summer of Code in Space organized by ESA! https://sophia.estec.esa.int/socis2012
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jul 16 15:57:44 +0000 2012](https://twitter.com/bruncedric/status/224895603912613889)
 
@@ -5208,7 +5208,7 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/224944143623929857
 
 ----
 
-> RT @eclipsecon: ECE submissions close 31 July. Submit now! http://eclipsecon.org/europe2012/ecesubmissions
+> RT @eclipsecon: ECE submissions close 31 July. Submit now! https://eclipsecon.org/europe2012/ecesubmissions
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jul 25 19:14:52 +0000 2012](https://twitter.com/bruncedric/status/228206702191845376)
 
@@ -5222,13 +5222,13 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/224944143623929857
 
 ----
 
-> RT @lbroudoux: Launching #acceleo generation from Maven : http://lbroudoux.wordpress.com/2012/07/24/launching-acceleo-generation-from-maven/
+> RT @lbroudoux: Launching #acceleo generation from Maven : https://lbroudoux.wordpress.com/2012/07/24/launching-acceleo-generation-from-maven/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 02 07:18:22 +0000 2012](https://twitter.com/bruncedric/status/230925490926530560)
 
 ----
 
-> RT @mikbarbero: Very proud of what is being done for the 2.0 version of EMF Compare http://goo.gl/O6JmX
+> RT @mikbarbero: Very proud of what is being done for the 2.0 version of EMF Compare https://goo.gl/O6JmX
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 02 12:27:54 +0000 2012](https://twitter.com/bruncedric/status/231003389343961088)
 
@@ -5254,7 +5254,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/233636949947191296)
 
 ----
 
-> RT @Jennison: That says a lot coming from @davidbolter I'm impressed by the Orion editor community commitment to #accessibility. http:// ...
+> RT @Jennison: That says a lot coming from @davidbolter I'm impressed by the Orion editor community commitment to #accessibility. https:// ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Aug 10 07:01:17 +0000 2012](https://twitter.com/bruncedric/status/233820297457967104)
 
@@ -5278,7 +5278,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/233636949947191296)
 
 ----
 
-> That's what I call a bike ! http://twitpic.com/am6mr3
+> That's what I call a bike ! https://twitpic.com/am6mr3
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 21 17:46:05 +0000 2012](https://twitter.com/bruncedric/status/237968832390643712)
 
@@ -5292,7 +5292,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/2379695008746291
 
 ----
 
-> Content proximity matching is making its way in emf compare 2.0 http://git.eclipse.org/c/emfcompare/org.eclipse.emf.compare.git/commit/?id=5262000c99ea285a7ec00fa1ef6936fbe5fa697e
+> Content proximity matching is making its way in emf compare 2.0 https://git.eclipse.org/c/emfcompare/org.eclipse.emf.compare.git/commit/?id=5262000c99ea285a7ec00fa1ef6936fbe5fa697e
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 21 22:00:00 +0000 2012](https://twitter.com/bruncedric/status/238032730363924480)
 
@@ -5326,7 +5326,7 @@ Replying to [@alex_lagarde](https://twitter.com/alex_morel_/status/2407942767815
 
 ----
 
-> Oops, looks like I introduced a few dependencies we don't really want. I'll have to bring back chocolate... http://git.eclipse.org/c/emfcompare/org.eclipse.emf.compare.git/diff/plugins/org.eclipse.emf.compare.tests/META-INF/MANIFEST.MF?id=5262000c99ea285a7ec00fa1ef6936fbe5fa697e
+> Oops, looks like I introduced a few dependencies we don't really want. I'll have to bring back chocolate... https://git.eclipse.org/c/emfcompare/org.eclipse.emf.compare.git/diff/plugins/org.eclipse.emf.compare.tests/META-INF/MANIFEST.MF?id=5262000c99ea285a7ec00fa1ef6936fbe5fa697e
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Aug 29 14:05:34 +0000 2012](https://twitter.com/bruncedric/status/240812441754296322)
 
@@ -5360,7 +5360,7 @@ Replying to [@adietisheim](https://twitter.com/adietisheim/status/24108576063842
 
 > nice ! :)
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 30 08:53:54 +0000 2012](https://twitter.com/bruncedric/status/241096393043898369)> "The intel video driver was updated to version 2.20.0,"  4 days to go before update ! http://news.opensuse.org/2012/08/02/opensuse-12-2-rc2-ready-for-a-final-test/
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 30 08:53:54 +0000 2012](https://twitter.com/bruncedric/status/241096393043898369)> "The intel video driver was updated to version 2.20.0,"  4 days to go before update ! https://news.opensuse.org/2012/08/02/opensuse-12-2-rc2-ready-for-a-final-test/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Sep 01 10:37:11 +0000 2012](https://twitter.com/bruncedric/status/241847163754274816)
 
@@ -5374,7 +5374,7 @@ Replying to [@adietisheim](https://twitter.com/adietisheim/status/24108576063842
 
 > Suse Cloud as the "the most secure OpenStack-based Cloud solution"
 > 
-> http://thetoms-random-thoughts.blogspot.fr/2012/09/suse-cloud-how-we-secured-cloud.html
+> https://thetoms-random-thoughts.blogspot.fr/2012/09/suse-cloud-how-we-secured-cloud.html
 > 
 > Looks like we'll see competition on OpenStack :)
 
@@ -5394,7 +5394,7 @@ Replying to [@adietisheim](https://twitter.com/adietisheim/status/24108576063842
 
 ----
 
-> #opensuse 12.2 is out ! Downloading right now .. http://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/
+> #opensuse 12.2 is out ! Downloading right now .. https://news.opensuse.org/2012/09/05/opensuse-12-2-green-means-go/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 05 12:20:55 +0000 2012](https://twitter.com/bruncedric/status/243322818358558721)
 
@@ -5406,7 +5406,7 @@ Replying to [@adietisheim](https://twitter.com/adietisheim/status/24108576063842
 
 ----
 
-> RT @jpospychala: Google gives $20,000  to help speed-up Eclipse  http://dev.eclipse.org/mhonarc/lists/cross-project-issues-dev/msg08161.html nice!
+> RT @jpospychala: Google gives $20,000  to help speed-up Eclipse  https://dev.eclipse.org/mhonarc/lists/cross-project-issues-dev/msg08161.html nice!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Sep 09 06:05:35 +0000 2012](https://twitter.com/bruncedric/status/244677914329743360)
 
@@ -5420,7 +5420,7 @@ Replying to [@roxannejoncas](https://twitter.com/IanSkerrett/status/245254600674
 
 ----
 
-> RT @TheHorrorBug: First clips for ‘Globe’, a new two hour indie sci-fi thriller from French filmmaker Jonathan Musset @jomusset http://t ...
+> RT @TheHorrorBug: First clips for ‘Globe’, a new two hour indie sci-fi thriller from French filmmaker Jonathan Musset @jomusset https://t ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 12 21:30:02 +0000 2012](https://twitter.com/bruncedric/status/245997725550780416)
 
@@ -5440,7 +5440,7 @@ Replying to [@ejuliot](https://twitter.com/ejuliot/status/246259180267257856)
 
 ----
 
-> RT @alex_lagarde: The Intent team started to integrate the brand new EMFCompare 2 release, it just rocks ! Test it now http://bit.ly/QoKhUR
+> RT @alex_lagarde: The Intent team started to integrate the brand new EMFCompare 2 release, it just rocks ! Test it now https://bit.ly/QoKhUR
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 14 15:35:46 +0000 2012](https://twitter.com/bruncedric/status/246633346027884544)
 
@@ -5458,7 +5458,7 @@ Replying to [@ejuliot](https://twitter.com/ejuliot/status/246259180267257856)
 
 ----
 
-> Awesome : Click and Drag - http://xkcd.com/1110/
+> Awesome : Click and Drag - https://xkcd.com/1110/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 19 07:29:35 +0000 2012](https://twitter.com/bruncedric/status/248322934739972096)
 
@@ -5472,7 +5472,7 @@ Replying to [@adietisheim](https://twitter.com/adietisheim/status/24869291858657
 
 ----
 
-> RT @IanSkerrett: First EclipseCon submission is from NASA talking about using Eclipse RCP on the International Space Station http://t.co ...
+> RT @IanSkerrett: First EclipseCon submission is from NASA talking about using Eclipse RCP on the International Space Station https://t.co ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 20 22:00:36 +0000 2012](https://twitter.com/bruncedric/status/248904518836826113)
 
@@ -5500,7 +5500,7 @@ Replying to [@droy_eclipse](https://twitter.com/droy_eclipse/status/250680855180
 
 ----
 
-> A Tuleap connector for Mylyn Tasks is coming ! http://dev.eclipse.org/mhonarc/lists/mylyn-dev/msg01758.html  http://www.tuleap.com/
+> A Tuleap connector for Mylyn Tasks is coming ! https://dev.eclipse.org/mhonarc/lists/mylyn-dev/msg01758.html  https://www.tuleap.com/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 25 19:46:56 +0000 2012](https://twitter.com/bruncedric/status/250682819234390016)
 
@@ -5518,7 +5518,7 @@ Replying to [@droy_eclipse](https://twitter.com/droy_eclipse/status/250680855180
 
 ----
 
-> Nice performances improvements are on their way in Jgit : http://dev.eclipse.org/mhonarc/lists/jgit-dev/msg01834.html
+> Nice performances improvements are on their way in Jgit : https://dev.eclipse.org/mhonarc/lists/jgit-dev/msg01834.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 27 12:34:58 +0000 2012](https://twitter.com/bruncedric/status/251298886046584832)
 
@@ -5534,7 +5534,7 @@ Replying to [@allilaire](https://twitter.com/allilaire/status/251596241157373952
 
 > stop pretending you do code ;)
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 28 11:11:46 +0000 2012](https://twitter.com/bruncedric/status/251640337670496256)> RT @allilaire: #nantes , if you want to discover #obeodesigner roadshow (http://www.obeodesigner.com/roadshow/) the paperboy is coming! 
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 28 11:11:46 +0000 2012](https://twitter.com/bruncedric/status/251640337670496256)> RT @allilaire: #nantes , if you want to discover #obeodesigner roadshow (https://www.obeodesigner.com/roadshow/) the paperboy is coming! 
 > 
 > ![]({{ site.url }}/media/253437777700614144-A4RPIEKCcAAC3zg.jpg)
 
@@ -5542,7 +5542,7 @@ Replying to [@allilaire](https://twitter.com/allilaire/status/251596241157373952
 
 ----
 
-> RT @obeo_corp: On the road again! http://bit.ly/O78fq4
+> RT @obeo_corp: On the road again! https://bit.ly/O78fq4
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 04 12:21:35 +0000 2012](https://twitter.com/bruncedric/status/253832234853888001)
 
@@ -5638,13 +5638,13 @@ Replying to [@Jeeeyul](https://twitter.com/Jeeeyul/status/255554711728566272)
 
 ----
 
-> RT @eclipsecon: Countdown to ECE 2012: 2 weeks left! There's still time to register: http://www.eclipsecon.org/europe2012/registration
+> RT @eclipsecon: Countdown to ECE 2012: 2 weeks left! There's still time to register: https://www.eclipsecon.org/europe2012/registration
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 10 06:39:11 +0000 2012](https://twitter.com/bruncedric/status/255920396585562112)
 
 ----
 
-> Humble ebook Bundle ! http://www.humblebundle.com/
+> Humble ebook Bundle ! https://www.humblebundle.com/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 10 19:28:19 +0000 2012](https://twitter.com/bruncedric/status/256113955125219328)
 
@@ -5682,7 +5682,7 @@ Replying to [@kartben, @ralph_mueller and @gblondelle](https://twitter.com/kartb
 
 Replying to [@orionhub](https://twitter.com/orionhub/status/258567145171087360)
 
->  io-2012-slides from google : http://code.google.com/p/io-2012-slides/
+>  io-2012-slides from google : https://code.google.com/p/io-2012-slides/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 17 14:03:47 +0000 2012](https://twitter.com/bruncedric/status/258568995421184000)
 
@@ -5694,13 +5694,13 @@ Replying to [@orionhub](https://twitter.com/orionhub/status/258567145171087360)
 
 ----
 
-> By the way the complete changelog is here : http://www.funkyandroid.com/aosp-JRO03R-JZO54K.html
+> By the way the complete changelog is here : https://www.funkyandroid.com/aosp-JRO03R-JZO54K.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 18 08:15:06 +0000 2012](https://twitter.com/bruncedric/status/258843634022117376)
 
 ----
 
-> Enalean et Obeo s’associent pour développer un connecteur open source Mylyn pour Tuleap. http://linuxfr.org/news/connecteur-mylyn-tuleap-au-sein-de-la-fondation-eclipse--2
+> Enalean et Obeo s’associent pour développer un connecteur open source Mylyn pour Tuleap. https://linuxfr.org/news/connecteur-mylyn-tuleap-au-sein-de-la-fondation-eclipse--2
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 18 18:48:20 +0000 2012](https://twitter.com/bruncedric/status/259002993326833664)
 
@@ -5744,13 +5744,13 @@ Replying to [@orionhub](https://twitter.com/orionhub/status/258567145171087360)
 
 ----
 
-> RT @eclipsecon: ECE UPDATE: Please note that some talks have been added, cancelled or rescheduled. Find out which ones: http://www.eclipsecon.org/europe2012/schedule-changes
+> RT @eclipsecon: ECE UPDATE: Please note that some talks have been added, cancelled or rescheduled. Find out which ones: https://www.eclipsecon.org/europe2012/schedule-changes
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 23 07:15:59 +0000 2012](https://twitter.com/bruncedric/status/260640696015409152)
 
 ----
 
-> Google became a strategic member o the Eclipse Foundation. It makes sense ! : http://mmilinkov.wordpress.com/2012/10/23/google-is-eclipses-newest-strategic-member/
+> Google became a strategic member o the Eclipse Foundation. It makes sense ! : https://mmilinkov.wordpress.com/2012/10/23/google-is-eclipses-newest-strategic-member/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 23 09:48:44 +0000 2012](https://twitter.com/bruncedric/status/260679138808053760)
 
@@ -5792,7 +5792,7 @@ Replying to [@orionhub](https://twitter.com/orionhub/status/258567145171087360)
 
 ----
 
-> RT @eclipsecon: Remember to provide feedback on the sessions you've attended via the website or the app! http://www.eclipsecon.org/europe2012/program/session-schedule
+> RT @eclipsecon: Remember to provide feedback on the sessions you've attended via the website or the app! https://www.eclipsecon.org/europe2012/program/session-schedule
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 24 11:36:13 +0000 2012](https://twitter.com/bruncedric/status/261068574574133248)
 
@@ -5820,7 +5820,7 @@ Replying to [@orionhub](https://twitter.com/orionhub/status/258567145171087360)
 
 ----
 
-> RT @mikbarbero: @bruncedric Slides from my today's talk about EMFCompare 2 and its outstanding performance. http://goo.gl/7Un8W #eclips ...
+> RT @mikbarbero: @bruncedric Slides from my today's talk about EMFCompare 2 and its outstanding performance. https://goo.gl/7Un8W #eclips ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 24 15:19:44 +0000 2012](https://twitter.com/bruncedric/status/261124825811132417)
 
@@ -5840,7 +5840,7 @@ Replying to [@orionhub](https://twitter.com/orionhub/status/258567145171087360)
 
 Replying to [@newcodeotblock](https://twitter.com/@newcodeotblock/status/262856728943661057)
 
-> Right here : http://cbrun.github.com/eclipsecon-europe-2012-slides/
+> Right here : https://cbrun.github.com/eclipsecon-europe-2012-slides/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 29 16:06:15 +0000 2012](https://twitter.com/bruncedric/status/262948468987949056)
 
@@ -5854,9 +5854,9 @@ Replying to [@newcodeotblock](https://twitter.com/@newcodeotblock/status/2628567
 
 ----
 
-> Looks like the Fuzzy Testing framework from EclipseSource will help us track a few bugs in EMF Compare 2.x http://eclipsesource.com/blogs/2012/08/06/fuzzy-testing-of-datamodel-centric-applications/
+> Looks like the Fuzzy Testing framework from EclipseSource will help us track a few bugs in EMF Compare 2.x https://eclipsesource.com/blogs/2012/08/06/fuzzy-testing-of-datamodel-centric-applications/
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 29 19:18:12 +0000 2012](https://twitter.com/bruncedric/status/262996777110740992)> RT @droy_eclipse: http://Eclipse.org servers transmit 1.1 terabytes of traffic each day... and that doesn't count our mirrors.
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 29 19:18:12 +0000 2012](https://twitter.com/bruncedric/status/262996777110740992)> RT @droy_eclipse: https://Eclipse.org servers transmit 1.1 terabytes of traffic each day... and that doesn't count our mirrors.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Nov 03 07:37:16 +0000 2012](https://twitter.com/bruncedric/status/264632318512205824)
 
@@ -5878,7 +5878,7 @@ Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/2651880386096128
 
 Replying to [@peterfriese and @jankoehnlein](https://twitter.com/peterfriese/status/265449326627667968)
 
-> Depend on what you call "good looking" but  we are building UML Designer : http://marketplace.eclipse.org/content/uml-designer-indigo-version
+> Depend on what you call "good looking" but  we are building UML Designer : https://marketplace.eclipse.org/content/uml-designer-indigo-version
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 05 14:34:56 +0000 2012](https://twitter.com/bruncedric/status/265462204076285952)
 
@@ -5890,7 +5890,7 @@ Replying to [@peterfriese and @jankoehnlein](https://twitter.com/peterfriese/sta
 
 ----
 
-> RT @ejuliot: Pays de la Loire : Place forte des start-up. Obeo est cité en 1er http://www.usinenouvelle.com/article/pays-de-la-loire-place-forte-des-start-up.N185627 #Nantes
+> RT @ejuliot: Pays de la Loire : Place forte des start-up. Obeo est cité en 1er https://www.usinenouvelle.com/article/pays-de-la-loire-place-forte-des-start-up.N185627 #Nantes
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 08 09:44:38 +0000 2012](https://twitter.com/bruncedric/status/266476314062647296)
 
@@ -5946,7 +5946,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/2693655712
 
 ----
 
-> Go get the latest and hotest modeling modeling package : http://www.eclipse.org/downloads/index-developer.php faster platform, compare on steroids and many more goodness
+> Go get the latest and hotest modeling modeling package : https://www.eclipse.org/downloads/index-developer.php faster platform, compare on steroids and many more goodness
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 16 16:00:05 +0000 2012](https://twitter.com/bruncedric/status/269469902144958464)
 
@@ -5958,7 +5958,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/2693655712
 
 ----
 
-> RT @EclipseGre: Hello. @obeo_corp organise un Roadshow gratuit #MDD et #DSL a #Grenoble. C'est le 5 decembre a Xerox @xrce http://t.co/4 ...
+> RT @EclipseGre: Hello. @obeo_corp organise un Roadshow gratuit #MDD et #DSL a #Grenoble. C'est le 5 decembre a Xerox @xrce https://t.co/4 ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 19 16:03:41 +0000 2012](https://twitter.com/bruncedric/status/270557972076306432)
 
@@ -5976,7 +5976,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/2693655712
 
 ----
 
-> Eclipse 4.2 (Juno) feels slow ? The platform team worked on a patch you can install easily. Any progress for you ?  http://redd.it/13k4m8
+> Eclipse 4.2 (Juno) feels slow ? The platform team worked on a patch you can install easily. Any progress for you ?  https://redd.it/13k4m8
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 21 21:12:19 +0000 2012](https://twitter.com/bruncedric/status/271360418176442369)
 
@@ -6014,9 +6014,9 @@ Replying to [@werdnagreb](https://twitter.com/werdnagreb/status/2713663606453780
 
 ----
 
-> Oh my ! http://play-dune.com/ a javascript port of Dune2 compiled thanks to a LLVM  to javascript compiler https://github.com/kripken/emscripten
+> Oh my ! https://play-dune.com/ a javascript port of Dune2 compiled thanks to a LLVM  to javascript compiler https://github.com/kripken/emscripten
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 30 18:26:29 +0000 2012](https://twitter.com/bruncedric/status/274580171556798465)> RT @webmink: GitHub and Open Source Licenses: Are you ar risk if you use code from GitHub? There’s a lot of code shared on Gi... http:// ...
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 30 18:26:29 +0000 2012](https://twitter.com/bruncedric/status/274580171556798465)> RT @webmink: GitHub and Open Source Licenses: Are you ar risk if you use code from GitHub? There’s a lot of code shared on Gi... https:// ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Dec 01 08:39:24 +0000 2012](https://twitter.com/bruncedric/status/274794816842371072)
 
@@ -6091,13 +6091,13 @@ Replying to [@IanSkerrett and @ejuliot](https://twitter.com/IanSkerrett/status/2
 
 ----
 
-> RT @lbroudoux: Some thoughts on automating test for #Acceleo Java generators (using #Maven of course !). See http://lbroudoux.wordpress.com/2012/12/19/some-thoughts-on-testing-java-acceleo-generators/
+> RT @lbroudoux: Some thoughts on automating test for #Acceleo Java generators (using #Maven of course !). See https://lbroudoux.wordpress.com/2012/12/19/some-thoughts-on-testing-java-acceleo-generators/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 19 11:43:55 +0000 2012](https://twitter.com/bruncedric/status/281364232195420161)
 
 ----
 
-> Implemented http://www.infoq.com/articles/enhance-uml-proposal (but better) in a few hours on top of UML Designer. More in a blog post coming soon. http://marketplace.eclipse.org/content/uml-designer-indigo-version
+> Implemented https://www.infoq.com/articles/enhance-uml-proposal (but better) in a few hours on top of UML Designer. More in a blog post coming soon. https://marketplace.eclipse.org/content/uml-designer-indigo-version
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 19 16:23:15 +0000 2012](https://twitter.com/bruncedric/status/281434529388953600)
 
@@ -6111,7 +6111,7 @@ Replying to [@IanSkerrett and @ejuliot](https://twitter.com/IanSkerrett/status/2
 
 ----
 
-> Are you looking for an hotel for #eclipsecon too ?  http://www.tajhotels.com/Luxury/City-Hotels/Taj-Boston-Boston/Special-Offers.aspx
+> Are you looking for an hotel for #eclipsecon too ?  https://www.tajhotels.com/Luxury/City-Hotels/Taj-Boston-Boston/Special-Offers.aspx
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 21 14:24:54 +0000 2012](https://twitter.com/bruncedric/status/282129521455542272)
 
@@ -6143,7 +6143,7 @@ Replying to [@bruncedric and @droy_eclipse](https://twitter.com/bruncedric/statu
 
 ----
 
-> Interesting rant against FSF/RMS from the (now ex) sed maintainer : http://article.gmane.org/gmane.comp.lang.smalltalk.gnu.general/7873
+> Interesting rant against FSF/RMS from the (now ex) sed maintainer : https://article.gmane.org/gmane.comp.lang.smalltalk.gnu.general/7873
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Dec 23 10:22:06 +0000 2012](https://twitter.com/bruncedric/status/282793194649960448)> Got my #ingress invite :) 
 > 
@@ -6165,7 +6165,7 @@ Replying to [@bruncedric and @droy_eclipse](https://twitter.com/bruncedric/statu
 
 ----
 
-> @milesparker 's strategic use of colors and font styles convinced us to move to gerrit ! https://bugs.eclipse.org/bugs/show_bug.cgi?id=398082  http://milesparker.blogspot.fr/2013/01/adopting-gerrit.html
+> @milesparker 's strategic use of colors and font styles convinced us to move to gerrit ! https://bugs.eclipse.org/bugs/show_bug.cgi?id=398082  https://milesparker.blogspot.fr/2013/01/adopting-gerrit.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 15 16:48:56 +0000 2013](https://twitter.com/bruncedric/status/291225468135407616)
 
@@ -6177,19 +6177,19 @@ Replying to [@bruncedric and @droy_eclipse](https://twitter.com/bruncedric/statu
 
 ----
 
-> RT @timfox: We're starting the process of moving Vert.x to the Eclipse Foundation! http://ow.ly/h1Krt
+> RT @timfox: We're starting the process of moving Vert.x to the Eclipse Foundation! https://ow.ly/h1Krt
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 22 16:52:55 +0000 2013](https://twitter.com/bruncedric/status/293763184261742592)
 
 ----
 
-> 5 days after the introduction of UML Designer for Eclipse 3.8 =&gt; 580 installs http://marketplace.eclipse.org/node/622477
+> 5 days after the introduction of UML Designer for Eclipse 3.8 =&gt; 580 installs https://marketplace.eclipse.org/node/622477
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 22 19:26:04 +0000 2013](https://twitter.com/bruncedric/status/293801723481440256)
 
 ----
 
-> Interesting: most installation errors are coming from people trying to install in Indigo... which has its own version : http://marketplace.eclipse.org/content/uml-designer-indigo-version
+> Interesting: most installation errors are coming from people trying to install in Indigo... which has its own version : https://marketplace.eclipse.org/content/uml-designer-indigo-version
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 22 19:29:38 +0000 2013](https://twitter.com/bruncedric/status/293802621674860545)
 
@@ -6209,7 +6209,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/29380262867935
 
 ----
 
-> An example of HTML export from a model : http://obeonetwork.github.com/UML-Modeling/export/index.html
+> An example of HTML export from a model : https://obeonetwork.github.com/UML-Modeling/export/index.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 22 21:01:44 +0000 2013](https://twitter.com/bruncedric/status/293825801525280768)
 
@@ -6221,7 +6221,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/29380262867935
 
 ----
 
-> Obeo Designer 6.1.0 has been released, but not on the 4.x Eclipse platform yet. http://model-driven-blogging.blogspot.fr/2013/01/obeo-designer-610-no-4x-platform-yet.html #latestBlogPost
+> Obeo Designer 6.1.0 has been released, but not on the 4.x Eclipse platform yet. https://model-driven-blogging.blogspot.fr/2013/01/obeo-designer-610-no-4x-platform-yet.html #latestBlogPost
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 23 10:18:09 +0000 2013](https://twitter.com/bruncedric/status/294026226614542336)
 
@@ -6257,13 +6257,13 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/294509438881124353)
 
 ----
 
-> RT @sbegaudeau: Third milestone of the #Mylyn connector for #Tuleap http://tmblr.co/ZnKN_xcYU0QD cc @TuleapEnalean
+> RT @sbegaudeau: Third milestone of the #Mylyn connector for #Tuleap https://tmblr.co/ZnKN_xcYU0QD cc @TuleapEnalean
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 25 16:09:36 +0000 2013](https://twitter.com/bruncedric/status/294839445566406658)
 
 ----
 
-> http://blog.jot.fm/2013/01/25/lies-damned-lies-and-uml2java/ , sad we still need to advocate against these misconceptions.
+> https://blog.jot.fm/2013/01/25/lies-damned-lies-and-uml2java/ , sad we still need to advocate against these misconceptions.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 28 14:46:30 +0000 2013](https://twitter.com/bruncedric/status/295905697844039681)
 
@@ -6299,13 +6299,13 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/296231949310242818)
 
 > @gaudol Looks like we just passed Sonar on the Eclipse Marketplace ;)
 > 
-> http://marketplace.eclipse.org/metrics/successful_installs/last30days
+> https://marketplace.eclipse.org/metrics/successful_installs/last30days
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 31 09:22:27 +0000 2013](https://twitter.com/bruncedric/status/296911310141157377)
 
 ----
 
-> New blog post : on being open and transparent. http://model-driven-blogging.blogspot.com/2013/01/on-being-open-and-transparent.html
+> New blog post : on being open and transparent. https://model-driven-blogging.blogspot.com/2013/01/on-being-open-and-transparent.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 31 19:23:20 +0000 2013](https://twitter.com/bruncedric/status/297062529086140416)Replying to [@jpe_obeo](https://twitter.com/@jpe_obeo/status/297410119866646528)
 
@@ -6315,7 +6315,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/296231949310242818)
 
 ----
 
-> "We are the IBM WebSphere Application Server Liberty Profile development team - AMAA "http://www.reddit.com/r/IAmA/comments/18balu/we_are_the_ibm_websphere_application_server
+> "We are the IBM WebSphere Application Server Liberty Profile development team - AMAA "https://www.reddit.com/r/IAmA/comments/18balu/we_are_the_ibm_websphere_application_server
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Feb 12 22:42:29 +0000 2013](https://twitter.com/bruncedric/status/301461298221309953)
 
@@ -6327,7 +6327,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/296231949310242818)
 
 ----
 
-> A WSDL and XSD artifacts generator from an SOA DSL by @lbroudoux http://lbroudoux.wordpress.com/2013/02/12/generating-soa-contracts-with-obeo-soadesigner/
+> A WSDL and XSD artifacts generator from an SOA DSL by @lbroudoux https://lbroudoux.wordpress.com/2013/02/12/generating-soa-contracts-with-obeo-soadesigner/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 13 09:44:22 +0000 2013](https://twitter.com/bruncedric/status/301627869275246593)
 
@@ -6339,7 +6339,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/296231949310242818)
 
 ----
 
-> RT @eclipsecon: Last chance to save $200 on your registration fees for EclipseCon! http://www.eclipsecon.org/2013/registration
+> RT @eclipsecon: Last chance to save $200 on your registration fees for EclipseCon! https://www.eclipsecon.org/2013/registration
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 14 21:48:49 +0000 2013](https://twitter.com/bruncedric/status/302172569132494849)
 
@@ -6347,32 +6347,32 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/296231949310242818)
 
 Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/302506681508704256)
 
-> oui :-)  http://m.commentcamarche.net/forum/affich-2133077-mettre-une-video-dans-un-blog
+> oui :-)  https://m.commentcamarche.net/forum/affich-2133077-mettre-une-video-dans-un-blog
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Feb 16 05:58:42 +0000 2013](https://twitter.com/bruncedric/status/302658239194095616)
 
 ----
 
-> We will work into eGit to support inter-files consistency http://dev.eclipse.org/mhonarc/lists/egit-dev/msg03030.html
+> We will work into eGit to support inter-files consistency https://dev.eclipse.org/mhonarc/lists/egit-dev/msg03030.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Feb 19 06:45:06 +0000 2013](https://twitter.com/bruncedric/status/303757079989080064)
 
 ----
 
-> RT @masohn: don't use #jgit and #egit 2.3.0 because it may eat your sources, install 2.3.1 instead http://bit.ly/YeNIBg
+> RT @masohn: don't use #jgit and #egit 2.3.0 because it may eat your sources, install 2.3.1 instead https://bit.ly/YeNIBg
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 21 22:47:28 +0000 2013](https://twitter.com/bruncedric/status/304724045700661249)
 
 ----
 
 > RT @EclipseFdn: Last chance to submit your votes for the Eclipse Community Awards 2013 
-> http://www.eclipse.org/org/foundation/eclipseawards/
+> https://www.eclipse.org/org/foundation/eclipseawards/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 22 14:02:51 +0000 2013](https://twitter.com/bruncedric/status/304954409803214848)
 
 ----
 
-> RT @mehdiaitoufkir: Watch  on @livestream: http://new.livestream.com/accounts/2755571/events/1877290
+> RT @mehdiaitoufkir: Watch  on @livestream: https://new.livestream.com/accounts/2755571/events/1877290
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 22 17:18:51 +0000 2013](https://twitter.com/bruncedric/status/305003732519759872)
 
@@ -6384,11 +6384,11 @@ Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/3025066815087042
 
 ----
 
-> RT @apupier: graphical comparison @ eclipse , see what is in preparation and add your 2 cents http://wiki.eclipse.org/EMF_Compare/Specifications/GraphicalComparison
+> RT @apupier: graphical comparison @ eclipse , see what is in preparation and add your 2 cents https://wiki.eclipse.org/EMF_Compare/Specifications/GraphicalComparison
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 28 11:02:59 +0000 2013](https://twitter.com/bruncedric/status/307083471698944000)Replying to [@tarek_ziade](https://twitter.com/@tarek_ziade/status/307241602471034881)
 
-> Looks like VIM bindings could land http://wiki.eclipse.org/Orion/Meeting_minutes/20130228 in @orionhub  which already have a Shell : http://planetorion.org/news/2013/02/orion-2-0-whats-new-for-shell-page-plug-ins/
+> Looks like VIM bindings could land https://wiki.eclipse.org/Orion/Meeting_minutes/20130228 in @orionhub  which already have a Shell : https://planetorion.org/news/2013/02/orion-2-0-whats-new-for-shell-page-plug-ins/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 01 09:13:03 +0000 2013](https://twitter.com/bruncedric/status/307418192307961858)
 
@@ -6396,7 +6396,7 @@ Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/3025066815087042
 
 Replying to [@allilaire](https://twitter.com/allilaire/status/307505919363776512)
 
-> and 200 members ! http://www.obeonetwork.com/group/uml-designer
+> and 200 members ! https://www.obeonetwork.com/group/uml-designer
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 01 15:06:03 +0000 2013](https://twitter.com/bruncedric/status/307507027641511936)
 
@@ -6410,19 +6410,19 @@ Replying to [@toutpt](https://twitter.com/@toutpt/status/307516868212690944)
 
 ----
 
-> #obeodesigner is a finalist in the "Best Modeling Product" category ! http://www.eclipse.org/org/press-release/20130301_awardfinalists.php?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+eclipse%2Ffnews+%28Eclipse+Foundation+News%29
+> #obeodesigner is a finalist in the "Best Modeling Product" category ! https://www.eclipse.org/org/press-release/20130301_awardfinalists.php?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+eclipse%2Ffnews+%28Eclipse+Foundation+News%29
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 01 21:21:42 +0000 2013](https://twitter.com/bruncedric/status/307601563067748353)
 
 ----
 
-> Current status : implementing http://wiki.eclipse.org/Evolving_Java-based_APIs_2 with Guava predicates applied on EMF models.
+> Current status : implementing https://wiki.eclipse.org/Evolving_Java-based_APIs_2 with Guava predicates applied on EMF models.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Mar 02 15:23:27 +0000 2013](https://twitter.com/bruncedric/status/307873796302462976)
 
 ----
 
-> RT @slacrampe: Obeo is now a silver member of The Open Group - http://www.obeosmartea.com #entarch #Togaf
+> RT @slacrampe: Obeo is now a silver member of The Open Group - https://www.obeosmartea.com #entarch #Togaf
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 05 14:51:33 +0000 2013](https://twitter.com/bruncedric/status/308952930986369024)
 
@@ -6434,7 +6434,7 @@ Replying to [@toutpt](https://twitter.com/@toutpt/status/307516868212690944)
 
 ----
 
-> RT @eclipsecon: Top 5 Talks - Hand picked by PC Member @bruncedric http://www.eclipsecon.org/2013/top-5-talks-c%C3%A9dric-brun
+> RT @eclipsecon: Top 5 Talks - Hand picked by PC Member @bruncedric https://www.eclipsecon.org/2013/top-5-talks-c%C3%A9dric-brun
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 08 06:57:52 +0000 2013](https://twitter.com/bruncedric/status/309920888202072064)
 
@@ -6480,7 +6480,7 @@ Replying to [@ejuliot](https://twitter.com/ejuliot/status/311795771534110721)
 
 ----
 
-> Why 7 people from Obeo will go to Boston in a few days : http://model-driven-blogging.blogspot.fr/2013/03/learning-from-source.html
+> Why 7 people from Obeo will go to Boston in a few days : https://model-driven-blogging.blogspot.fr/2013/03/learning-from-source.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 14 13:25:29 +0000 2013](https://twitter.com/bruncedric/status/312192761690460160)
 
@@ -6492,7 +6492,7 @@ Replying to [@ejuliot](https://twitter.com/ejuliot/status/311795771534110721)
 
 ----
 
-> Python developers out there ? You might want to fund Fabio Zadrozny for PyDev : http://www.indiegogo.com/projects/pydev-and-liclipse-for-a-fast-sexy-and-dark-eclipse
+> Python developers out there ? You might want to fund Fabio Zadrozny for PyDev : https://www.indiegogo.com/projects/pydev-and-liclipse-for-a-fast-sexy-and-dark-eclipse
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 14 19:46:44 +0000 2013](https://twitter.com/bruncedric/status/312288705819852800)
 
@@ -6513,37 +6513,37 @@ Replying to [@ejuliot](https://twitter.com/ejuliot/status/311795771534110721)
 ----
 
 > RT @fmadiot: Obeo en visite officielle au Canada avec Jean-Marc Ayrault 
-> http://www.nantes-developpement.com/communiques/obeo-en-visite-officielle-au-canada-avec-le-premier-ministre-jean-marc-ayrault
+> https://www.nantes-developpement.com/communiques/obeo-en-visite-officielle-au-canada-avec-le-premier-ministre-jean-marc-ayrault
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 15 09:15:57 +0000 2013](https://twitter.com/bruncedric/status/312492352906358785)
 
 ----
 
-> RT @bfmbusiness: Canada: quelles retombées pour les PME de la délégation officielle? http://www.bfmtv.com/economie/canada-retombees-pme-delegation-officielle-471254.html
+> RT @bfmbusiness: Canada: quelles retombées pour les PME de la délégation officielle? https://www.bfmtv.com/economie/canada-retombees-pme-delegation-officielle-471254.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 15 16:58:04 +0000 2013](https://twitter.com/bruncedric/status/312608647433842688)
 
 ----
 
-> RT @IanSkerrett: Last week to register for EclipseCon.  Looking forward to a great week in Boston. http://www.eclipsecon.org/2013/
+> RT @IanSkerrett: Last week to register for EclipseCon.  Looking forward to a great week in Boston. https://www.eclipsecon.org/2013/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 18 15:46:42 +0000 2013](https://twitter.com/bruncedric/status/313677851960430592)
 
 ----
 
-> RT @punchtab: Founder @mehdiaitoufkir talks about loyalty on mobile http://www.digitalinnovationgazette.com/distribution/mobile_solutions_customer_loyalty/#axzz2NwCyzGW7
+> RT @punchtab: Founder @mehdiaitoufkir talks about loyalty on mobile https://www.digitalinnovationgazette.com/distribution/mobile_solutions_customer_loyalty/#axzz2NwCyzGW7
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 19 10:07:56 +0000 2013](https://twitter.com/bruncedric/status/313954987921264640)
 
 ----
 
-> Introducing Eclipse Sirius, a new project for Eclipse Modeling : http://model-driven-blogging.blogspot.fr/2013/03/introducing-eclipse-sirius.html
+> Introducing Eclipse Sirius, a new project for Eclipse Modeling : https://model-driven-blogging.blogspot.fr/2013/03/introducing-eclipse-sirius.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 19 17:20:37 +0000 2013](https://twitter.com/bruncedric/status/314063874590654464)
 
 ----
 
-> RT @alex_lagarde: I'm going to be a Sirius commiter http://model-driven-blogging.blogspot.fr/2013/03/introducing-eclipse-sirius.html (I've been waiting for so long to make this joke)
+> RT @alex_lagarde: I'm going to be a Sirius commiter https://model-driven-blogging.blogspot.fr/2013/03/introducing-eclipse-sirius.html (I've been waiting for so long to make this joke)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 19 17:27:57 +0000 2013](https://twitter.com/bruncedric/status/314065722462588928)
 
@@ -6581,7 +6581,7 @@ Replying to [@droy_eclipse, @eclipsecon, @obeo_corp, @roxannejoncas and @chrisgu
 
 Replying to [@michael_scharf](https://twitter.com/michael_scharf/status/314760607188529152)
 
-> http://www.eclipsecon.org/2013/node/add/bof-session might be useful.
+> https://www.eclipsecon.org/2013/node/add/bof-session might be useful.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 21 15:33:10 +0000 2013](https://twitter.com/bruncedric/status/314761611153915904)
 
@@ -6665,7 +6665,7 @@ Replying to [@waynebeaton, @droy_eclipse and @mysharona_lc](https://twitter.com/
 
 ----
 
-> RT @alex_lagarde: Boston, are you ready to rock ? http://www.youtube.com/watch?v=x-64CaD8GXw #eclipsecon
+> RT @alex_lagarde: Boston, are you ready to rock ? https://www.youtube.com/watch?v=x-64CaD8GXw #eclipsecon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 25 13:05:07 +0000 2013](https://twitter.com/bruncedric/status/316173903191998464)
 
@@ -6685,7 +6685,7 @@ Replying to [@waynebeaton, @droy_eclipse and @mysharona_lc](https://twitter.com/
 
 ----
 
-> Please take a moment to evaluate our session about Sirius http://www.eclipsecon.org/2013/sessions/your-custom-modeling-environment-definition-made-easy-last #eclipsecon
+> Please take a moment to evaluate our session about Sirius https://www.eclipsecon.org/2013/sessions/your-custom-modeling-environment-definition-made-easy-last #eclipsecon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 26 19:32:46 +0000 2013](https://twitter.com/bruncedric/status/316633845195743234)
 
@@ -6717,7 +6717,7 @@ Replying to [@istvanrath](https://twitter.com/istvanrath/status/3166422814971781
 
 ----
 
-> We posted the slides for the Sirius presentation http://www.eclipsecon.org/2013/sites/eclipsecon.org.2013/files/EclipseCon_2013_Sirius_Your_Custom_Environment_Made_Easy_At_Last_0.pdf #eclipsecon
+> We posted the slides for the Sirius presentation https://www.eclipsecon.org/2013/sites/eclipsecon.org.2013/files/EclipseCon_2013_Sirius_Your_Custom_Environment_Made_Easy_At_Last_0.pdf #eclipsecon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 27 20:42:32 +0000 2013](https://twitter.com/bruncedric/status/317013790677950464)
 
@@ -6743,13 +6743,13 @@ Replying to [@istvanrath](https://twitter.com/istvanrath/status/3166422814971781
 
 ----
 
-> RT @timfox: Here is the presentation I was going to give today. Hope it's some consolation #eclipsecon http://ow.ly/juWvN
+> RT @timfox: Here is the presentation I was going to give today. Hope it's some consolation #eclipsecon https://ow.ly/juWvN
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 28 15:43:33 +0000 2013](https://twitter.com/bruncedric/status/317300937242865664)
 
 ----
 
-> RT @ejuliot: Talk about a large deployment at Thales of CDO and Sirius. Instant collaboration is cool #eclipsecon #obeodesigner http://t ...
+> RT @ejuliot: Talk about a large deployment at Thales of CDO and Sirius. Instant collaboration is cool #eclipsecon #obeodesigner https://t ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 28 16:02:22 +0000 2013](https://twitter.com/bruncedric/status/317305674201706499)
 
@@ -6871,7 +6871,7 @@ Replying to [@mikbarbero and @roxannejoncas](https://twitter.com/mikbarbero/stat
 
 ----
 
-> RT @eclipsecon: EclipseCon Speakers: Remember to upload the slides for your individual session http://www.eclipsecon.org/2013/
+> RT @eclipsecon: EclipseCon Speakers: Remember to upload the slides for your individual session https://www.eclipsecon.org/2013/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 02 15:17:28 +0000 2013](https://twitter.com/bruncedric/status/319106314431262721)
 
@@ -6893,13 +6893,13 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/3191553578742784
 
 ----
 
-> @orionhub you not want learn french through Babel ? I can't find Orion there :/ http://babel.eclipse.org/babel/translate.php
+> @orionhub you not want learn french through Babel ? I can't find Orion there :/ https://babel.eclipse.org/babel/translate.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 03 08:11:16 +0000 2013](https://twitter.com/bruncedric/status/319361443952742401)
 
 ----
 
-> How to make a diagram "stable" on top of an Xtext DSL : http://www.obeonetwork.com/group/obeo-designer/forum/topics/not-synchronized-views-modified-inadvertently-with-the
+> How to make a diagram "stable" on top of an Xtext DSL : https://www.obeonetwork.com/group/obeo-designer/forum/topics/not-synchronized-views-modified-inadvertently-with-the
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 04 18:13:27 +0000 2013](https://twitter.com/bruncedric/status/319875375469568000)
 
@@ -6913,7 +6913,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/3191553578742784
 
 ----
 
-> CDO &amp; Xtext : Will it blend ? yet another usage of EMF Compare http://www.eclipsecon.org/france2013/sessions/cdo-xtext-will-it-blend
+> CDO &amp; Xtext : Will it blend ? yet another usage of EMF Compare https://www.eclipsecon.org/france2013/sessions/cdo-xtext-will-it-blend
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Apr 06 16:48:55 +0000 2013](https://twitter.com/bruncedric/status/320578880631095296)
 
@@ -6931,7 +6931,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/3191553578742784
 
 ----
 
-> \o/ http://www.eclipsecon.org/france2013/sessions/scala-eclipse-eclipse-scala  http://www.eclipsecon.org/france2013/sessions/building-scala-plugin-eclipse
+> \o/ https://www.eclipsecon.org/france2013/sessions/scala-eclipse-eclipse-scala  https://www.eclipsecon.org/france2013/sessions/building-scala-plugin-eclipse
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 08 17:14:05 +0000 2013](https://twitter.com/bruncedric/status/321309987106340866)
 
@@ -6945,7 +6945,7 @@ Replying to [@atanaka](https://twitter.com/atanaka/status/321424068228288512)
 
 ----
 
-> Orion, Brackets, Cloud9, Scripted proposed at @eclipsecon France ! http://www.eclipsecon.org/france2013/sessions/web-applications-development-grown-ups-angularjs http://www.eclipsecon.org/france2013/sessions/orion-deployed-orion-goes-prototype-production
+> Orion, Brackets, Cloud9, Scripted proposed at @eclipsecon France ! https://www.eclipsecon.org/france2013/sessions/web-applications-development-grown-ups-angularjs https://www.eclipsecon.org/france2013/sessions/orion-deployed-orion-goes-prototype-production
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 09 13:31:31 +0000 2013](https://twitter.com/bruncedric/status/321616363921764352)
 
@@ -6979,7 +6979,7 @@ Replying to [@smcela and @roxannejoncas](https://twitter.com/smcela/status/32202
 
 ----
 
-> RT @eclipsecon: EclipseCon France Early-Bird Talk Selections! http://eclipsecon.org/france2013/early-bird-selections
+> RT @eclipsecon: EclipseCon France Early-Bird Talk Selections! https://eclipsecon.org/france2013/early-bird-selections
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 10 16:53:40 +0000 2013](https://twitter.com/bruncedric/status/322029625217777664)
 
@@ -6993,7 +6993,7 @@ Replying to [@jarthorne](https://twitter.com/jarthorne/status/322062888414113792
 
 ----
 
-> The roadmap for UML Designer got updated http://marketplace.obeonetwork.com/module/uml#release-notes 2.2.0 is coming soon!
+> The roadmap for UML Designer got updated https://marketplace.obeonetwork.com/module/uml#release-notes 2.2.0 is coming soon!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 10 19:38:56 +0000 2013](https://twitter.com/bruncedric/status/322071216842231809)
 
@@ -7001,7 +7001,7 @@ Replying to [@jarthorne](https://twitter.com/jarthorne/status/322062888414113792
 
 Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/322023771244490752)
 
-> done ! http://www.youtube.com/watch?v=rph1hfZcQXg&feature=g-user-u
+> done ! https://www.youtube.com/watch?v=rph1hfZcQXg&feature=g-user-u
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 11 16:35:43 +0000 2013](https://twitter.com/bruncedric/status/322387497885777920)
 
@@ -7031,19 +7031,19 @@ Replying to [@mickaelistria and @alex_lagarde](https://twitter.com/bruncedric/st
 
 ----
 
-> And here we are, UML Designer 2.2 is available :  http://www.obeonetwork.com/group/uml-designer/forum/topics/uml-designer-2-2-0 http://marketplace.eclipse.org/node/622477#.UWgQqpBdVIo
+> And here we are, UML Designer 2.2 is available :  https://www.obeonetwork.com/group/uml-designer/forum/topics/uml-designer-2-2-0 https://marketplace.eclipse.org/node/622477#.UWgQqpBdVIo
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 12 13:49:26 +0000 2013](https://twitter.com/bruncedric/status/322708035833298944)
 
 ----
 
-> And a new release of the UML 2 Java generator : http://stephanebegaudeau.tumblr.com/post/47780479322/uml-to-java-generator-2-0
+> And a new release of the UML 2 Java generator : https://stephanebegaudeau.tumblr.com/post/47780479322/uml-to-java-generator-2-0
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 12 15:00:56 +0000 2013](https://twitter.com/bruncedric/status/322726032689991680)
 
 ----
 
-> RT @IanSkerrett: "We like to come for the beer" http://www.youtube.com/watch?v=eW_OwVAc5Ms&feature=youtu.be  Thx @DonaldOJDK
+> RT @IanSkerrett: "We like to come for the beer" https://www.youtube.com/watch?v=eW_OwVAc5Ms&feature=youtu.be  Thx @DonaldOJDK
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 12 19:26:59 +0000 2013](https://twitter.com/bruncedric/status/322792986410885120)
 
@@ -7065,7 +7065,7 @@ Replying to [@mikbarbero](https://twitter.com/mikbarbero/status/3238392594947194
 
 ----
 
-> http://www.semanticmerge.com/ That looks a lot like EMF compare with a model of C# code.
+> https://www.semanticmerge.com/ That looks a lot like EMF compare with a model of C# code.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 18 19:09:38 +0000 2013](https://twitter.com/bruncedric/status/324962946474184704)
 
@@ -7099,13 +7099,13 @@ Replying to [@waynebeaton](https://twitter.com/waynebeaton/status/32525854979615
 
 ----
 
-> http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with  "excellent post. probably the most simple introduction to Angular JS I've read"
+> https://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with  "excellent post. probably the most simple introduction to Angular JS I've read"
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 24 16:23:16 +0000 2013](https://twitter.com/bruncedric/status/327095404879544320)
 
 ----
 
-> http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with a comprehensive introduction to @angularjs
+> https://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with a comprehensive introduction to @angularjs
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 24 19:12:22 +0000 2013](https://twitter.com/bruncedric/status/327137962330558465)
 
@@ -7123,7 +7123,7 @@ Replying to [@waynebeaton](https://twitter.com/waynebeaton/status/32525854979615
 > 
 > ![]({{ site.url }}/media/329334310161240068-BJIHz2nCUAIZz0u.png)
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 30 20:39:53 +0000 2013](https://twitter.com/bruncedric/status/329334310161240068)> http://git.eclipse.org/c/emfcompare/org.eclipse.emf.compare.git/commit/?id=c9e03bd696f9006f4c75270995cf1c54fba47103 This is an achievement in itself, isn't it @mikbarbero  ?
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 30 20:39:53 +0000 2013](https://twitter.com/bruncedric/status/329334310161240068)> https://git.eclipse.org/c/emfcompare/org.eclipse.emf.compare.git/commit/?id=c9e03bd696f9006f4c75270995cf1c54fba47103 This is an achievement in itself, isn't it @mikbarbero  ?
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 02 17:10:53 +0000 2013](https://twitter.com/bruncedric/status/330006492931579904)
 
@@ -7153,7 +7153,7 @@ Replying to [@droy_eclipse](https://twitter.com/droy_eclipse/status/331801393889
 
 Replying to [@prapicault](https://twitter.com/prapicault/status/334014348299231232)
 
-> Ours Blanc with the french guys ;) http://www.hotel-oursblanc.com/
+> Ours Blanc with the french guys ;) https://www.hotel-oursblanc.com/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 13 19:10:36 +0000 2013](https://twitter.com/bruncedric/status/334022884185997314)
 
@@ -7211,7 +7211,7 @@ Replying to [@prapicault](https://twitter.com/bruncedric/status/3340228841859973
 
 ----
 
-> RT @mikbarbero: Just released EMF Loophole, a Generation Gap Pattern Tooling http://goo.gl/nyvGq
+> RT @mikbarbero: Just released EMF Loophole, a Generation Gap Pattern Tooling https://goo.gl/nyvGq
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 16 11:52:09 +0000 2013](https://twitter.com/bruncedric/status/334999710525964288)
 
@@ -7224,7 +7224,7 @@ Replying to [@prapicault](https://twitter.com/bruncedric/status/3340228841859973
 
 ----
 
-> Eclipse Modeling RC1 (Kepler) landed : http://www.eclipse.org/downloads/index-developer.php
+> Eclipse Modeling RC1 (Kepler) landed : https://www.eclipse.org/downloads/index-developer.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 24 17:01:15 +0000 2013](https://twitter.com/bruncedric/status/337976600610082816)
 
@@ -7352,7 +7352,7 @@ Replying to [@prapicault](https://twitter.com/prapicault/status/3415981689176104
 
 ----
 
-> RT @eclipsecon: We decided to keep online registration open until midnight (CET) tonight. Register Now! http://www.eclipsecon.org/france2013/registration
+> RT @eclipsecon: We decided to keep online registration open until midnight (CET) tonight. Register Now! https://www.eclipsecon.org/france2013/registration
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 04 15:11:05 +0000 2013](https://twitter.com/bruncedric/status/341935142203424771)
 
@@ -7390,7 +7390,7 @@ Replying to [@prapicault](https://twitter.com/prapicault/status/3415981689176104
 
 ----
 
-> RT @alex_lagarde: #eclipsecon Day 1 http://alagarde.tumblr.com/day/2013/06/05 a post about JavaFX, OSLC, Eclipse RCP, Orion, Lenine and how much wine is bette…
+> RT @alex_lagarde: #eclipsecon Day 1 https://alagarde.tumblr.com/day/2013/06/05 a post about JavaFX, OSLC, Eclipse RCP, Orion, Lenine and how much wine is bette…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 06 06:12:17 +0000 2013](https://twitter.com/bruncedric/status/342524325116641281)
 
@@ -7550,7 +7550,7 @@ Replying to [@IanSkerrett and @nbartlett](https://twitter.com/IanSkerrett/status
 
 ----
 
-> Here we are ! Sirius is live on http://Eclipse.org http://projects.eclipse.org/projects/modeling.sirius
+> Here we are ! Sirius is live on https://Eclipse.org https://projects.eclipse.org/projects/modeling.sirius
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 13 15:08:29 +0000 2013](https://twitter.com/bruncedric/status/345195980100083714)
 
@@ -7562,13 +7562,13 @@ Replying to [@IanSkerrett and @nbartlett](https://twitter.com/IanSkerrett/status
 
 ----
 
-> RT @waynebeaton: The new Eclipse Sirius is created, provisioned, and ready for code! http://www.eclipse.org/proposals/modeling.sirius/
+> RT @waynebeaton: The new Eclipse Sirius is created, provisioned, and ready for code! https://www.eclipse.org/proposals/modeling.sirius/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 13 18:57:55 +0000 2013](https://twitter.com/bruncedric/status/345253717047652352)
 
 ----
 
-> RT @ralph_mueller: looks like 1st flight of Airbus #a350 is going to take place in a couple of minutes http://www.dailymotion.com/video/xyv1n0_evenement-en-direct_tv#from=embediframe
+> RT @ralph_mueller: looks like 1st flight of Airbus #a350 is going to take place in a couple of minutes https://www.dailymotion.com/video/xyv1n0_evenement-en-direct_tv#from=embediframe
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 14 07:52:50 +0000 2013](https://twitter.com/bruncedric/status/345448730473922560)
 
@@ -7582,7 +7582,7 @@ Replying to [@waynebeaton and @phlix](https://twitter.com/waynebeaton/status/345
 
 ----
 
-> Pretty much every 2 months, we are releasing UML Designers. Among the latest improvements : an "all in one" package http://marketplace.obeonetwork.com/module/uml/download
+> Pretty much every 2 months, we are releasing UML Designers. Among the latest improvements : an "all in one" package https://marketplace.obeonetwork.com/module/uml/download
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 18 07:39:20 +0000 2013](https://twitter.com/bruncedric/status/346894884193574912)
 
@@ -7608,7 +7608,7 @@ Replying to [@waynebeaton and @phlix](https://twitter.com/waynebeaton/status/345
 
 ----
 
-> RT @cra: "JDK 8 is Feature Complete" http://mail.openjdk.java.net/pipermail/jdk8-dev/2013-June/002686.html
+> RT @cra: "JDK 8 is Feature Complete" https://mail.openjdk.java.net/pipermail/jdk8-dev/2013-June/002686.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 19 18:36:31 +0000 2013](https://twitter.com/bruncedric/status/347422659283398657)
 
@@ -7628,7 +7628,7 @@ Replying to [@waynebeaton](https://twitter.com/waynebeaton/status/34853189160495
 
 ----
 
-> RT @ejuliot: Last week, I was speaker at the French Senat. I promote the opportunity for French SME to invest in Canada. http://t.co/EaTywL…
+> RT @ejuliot: Last week, I was speaker at the French Senat. I promote the opportunity for French SME to invest in Canada. https://t.co/EaTywL…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 24 15:58:43 +0000 2013](https://twitter.com/bruncedric/status/349194887901626368)
 
@@ -7640,7 +7640,7 @@ Replying to [@waynebeaton](https://twitter.com/waynebeaton/status/34853189160495
 
 ----
 
-> RT @droy_eclipse: Friends of Eclipse can get Eclipse Kepler NOW!  http://friends.eclipse.org/kepler.html  http://eclipse.org/kepler/friends.php
+> RT @droy_eclipse: Friends of Eclipse can get Eclipse Kepler NOW!  https://friends.eclipse.org/kepler.html  https://eclipse.org/kepler/friends.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 25 14:39:34 +0000 2013](https://twitter.com/bruncedric/status/349537358015758337)
 
@@ -7652,13 +7652,13 @@ Replying to [@waynebeaton](https://twitter.com/waynebeaton/status/34853189160495
 
 ----
 
-> RT @obeo_fr: Eclipse Kepler est disponible au téléchargement ! Venez le découvrir sur notre page Eclipse http://ow.ly/moX85
+> RT @obeo_fr: Eclipse Kepler est disponible au téléchargement ! Venez le découvrir sur notre page Eclipse https://ow.ly/moX85
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 26 14:10:01 +0000 2013](https://twitter.com/bruncedric/status/349892307803312128)
 
 ----
 
-> #kepler is out ! Can't be in Ottawa, but having a beer anyway hanging out on reddit http://www.reddit.com/r/programming/comments/1h411l/eclipse_kepler_43_is_released/
+> #kepler is out ! Can't be in Ottawa, but having a beer anyway hanging out on reddit https://www.reddit.com/r/programming/comments/1h411l/eclipse_kepler_43_is_released/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 26 19:43:50 +0000 2013](https://twitter.com/bruncedric/status/349976315119669249)
 
@@ -7666,13 +7666,13 @@ Replying to [@waynebeaton](https://twitter.com/waynebeaton/status/34853189160495
 
 Replying to [@GregoryCochon](https://twitter.com/GregCoch5978/status/349956802240184320)
 
-> C'était hier et cela dure 24H, tout le monde y a accès désormais : http://eclipse.org/kepler/
+> C'était hier et cela dure 24H, tout le monde y a accès désormais : https://eclipse.org/kepler/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 26 19:44:58 +0000 2013](https://twitter.com/bruncedric/status/349976602618249216)
 
 ----
 
-> http://alain-bernard.developpez.com/conferences/eclipsecon-france-2013/#LIII-E  "Vous en rêviez, Sirius le fait. Voilà assurément une des conférences les plus impressionnantes de cette EclipseCon"
+> https://alain-bernard.developpez.com/conferences/eclipsecon-france-2013/#LIII-E  "Vous en rêviez, Sirius le fait. Voilà assurément une des conférences les plus impressionnantes de cette EclipseCon"
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 26 19:52:59 +0000 2013](https://twitter.com/bruncedric/status/349978618807582720)
 
@@ -7700,7 +7700,7 @@ Replying to [@GregoryCochon](https://twitter.com/GregCoch5978/status/34995680224
 
 ----
 
-> I have been interviewed during #eclipsecon France about Sirius. Here it is http://www.youtube.com/watch?v=hyDxSmbSi2g&feature=youtube_gdata
+> I have been interviewed during #eclipsecon France about Sirius. Here it is https://www.youtube.com/watch?v=hyDxSmbSi2g&feature=youtube_gdata
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 28 16:32:40 +0000 2013](https://twitter.com/bruncedric/status/350652982033006592)
 
@@ -7712,15 +7712,15 @@ Replying to [@GregoryCochon](https://twitter.com/GregCoch5978/status/34995680224
 
 ----
 
-> And we have a forum ! http://www.eclipse.org/forums/index.php/f/262/
+> And we have a forum ! https://www.eclipse.org/forums/index.php/f/262/
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 28 16:34:52 +0000 2013](https://twitter.com/bruncedric/status/350653535064563712)> I am looking for a diceCoefficient implementation which will not create tons of garbate objects, any hint ? http://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 28 16:34:52 +0000 2013](https://twitter.com/bruncedric/status/350653535064563712)> I am looking for a diceCoefficient implementation which will not create tons of garbate objects, any hint ? https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jul 02 08:52:42 +0000 2013](https://twitter.com/bruncedric/status/351986779605307392)
 
 ----
 
-> http://download.eclipse.org/orion/drops/R-3.0-201306251555/index.html Hey, there is war file now for Orion, setting up your own instance on Openshift just became trivial !
+> https://download.eclipse.org/orion/drops/R-3.0-201306251555/index.html Hey, there is war file now for Orion, setting up your own instance on Openshift just became trivial !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jul 02 14:09:52 +0000 2013](https://twitter.com/bruncedric/status/352066596140892162)
 
@@ -7806,7 +7806,7 @@ Replying to [@mmilinkov and @EclipseFdn](https://twitter.com/mmilinkov/status/35
 
 ----
 
-> RT @IanSkerrett: Big changes coming for Eclipse Equinox in the Luna 2014 release  http://wiki.eclipse.org/Equinox/Luna_Framework  #osgi
+> RT @IanSkerrett: Big changes coming for Eclipse Equinox in the Luna 2014 release  https://wiki.eclipse.org/Equinox/Luna_Framework  #osgi
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 18 20:51:41 +0000 2013](https://twitter.com/bruncedric/status/357965923065815040)
 
@@ -7854,13 +7854,13 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/3611830456
 
 > RT @droy_eclipse: Eclipse IDE mailing list.  Not just for committers!!  Join the list and participate in the future of your IDE  https://t.…
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jul 30 17:23:47 +0000 2013](https://twitter.com/bruncedric/status/362262256945344515)> RT @melaniebats: New UML Designer 2.3.1. Give it a try! http://bit.ly/UMLDesigner
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jul 30 17:23:47 +0000 2013](https://twitter.com/bruncedric/status/362262256945344515)> RT @melaniebats: New UML Designer 2.3.1. Give it a try! https://bit.ly/UMLDesigner
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 01 15:22:25 +0000 2013](https://twitter.com/bruncedric/status/362956492074254336)
 
 ----
 
-> OMG they did it, I knew it would end up like this http://youtu.be/MkQHF-FGiXE
+> OMG they did it, I knew it would end up like this https://youtu.be/MkQHF-FGiXE
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Aug 02 18:54:57 +0000 2013](https://twitter.com/bruncedric/status/363372366317240320)
 
@@ -7884,7 +7884,7 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/3611830456
 
 ----
 
-> #eclipsecon Europe 2013 : best occasion to present the cool thing you do in, or with Eclipse.The deadline is close ! http://www.eclipsecon.org/europe2013/cfp
+> #eclipsecon Europe 2013 : best occasion to present the cool thing you do in, or with Eclipse.The deadline is close ! https://www.eclipsecon.org/europe2013/cfp
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Aug 07 07:19:23 +0000 2013](https://twitter.com/bruncedric/status/365009257126576128)
 
@@ -7918,7 +7918,7 @@ Replying to [@louismrose](https://twitter.com/louismrose/status/3657554902501457
 
 ----
 
-> RT @eclipsecon: Now or never! Last day to propose a talk for #EclipseCon Europe http://www.eclipsecon.org/europe2013/cfp
+> RT @eclipsecon: Now or never! Last day to propose a talk for #EclipseCon Europe https://www.eclipsecon.org/europe2013/cfp
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Aug 18 18:01:21 +0000 2013](https://twitter.com/bruncedric/status/369157082844758016)
 
@@ -7940,7 +7940,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/36917699
 
 ----
 
-> If you're not far from Fitou, have a stop there. Friendly winemakers and great wines! http://lesfenals.fr/
+> If you're not far from Fitou, have a stop there. Friendly winemakers and great wines! https://lesfenals.fr/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 20 12:15:12 +0000 2013](https://twitter.com/bruncedric/status/369794744890568705)
 
@@ -7952,31 +7952,31 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/36917699
 
 ----
 
-> @EclipseFdn http://crowdfunding.eclipse.org anybody ?  http://www.crowdhoster.com
+> @EclipseFdn https://crowdfunding.eclipse.org anybody ?  https://www.crowdhoster.com
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Aug 21 11:41:40 +0000 2013](https://twitter.com/bruncedric/status/370148696715194368)
 
 ----
 
-> Modularity through normal JARs aka : Tell me about OSGi like I'm five. http://blog.osgi.org/2013/08/dear-prudence-cant-we-achieve.html?m=1
+> Modularity through normal JARs aka : Tell me about OSGi like I'm five. https://blog.osgi.org/2013/08/dear-prudence-cant-we-achieve.html?m=1
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 26 18:47:55 +0000 2013](https://twitter.com/bruncedric/status/372067901727338496)
 
 ----
 
-> @softmodeling It looks like http://emf-rest.com/ is not working as intended.
+> @softmodeling It looks like https://emf-rest.com/ is not working as intended.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 27 09:12:09 +0000 2013](https://twitter.com/bruncedric/status/372285392927473664)
 
 ----
 
-> RT @triskellteam: Open post-doc position, "A Language Workbench for Heterogeneous Modeling and Simulation", see http://gemoc.org/pub/INRIA-FichePostePostdocGeMoC.pdf #job…
+> RT @triskellteam: Open post-doc position, "A Language Workbench for Heterogeneous Modeling and Simulation", see https://gemoc.org/pub/INRIA-FichePostePostdocGeMoC.pdf #job…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Aug 28 09:10:27 +0000 2013](https://twitter.com/bruncedric/status/372647352797913088)
 
 ----
 
-> You are an Eclipse commiter ? You want new contributors ? subscribe to the Hackaton held during #eclipsecon http://wiki.eclipse.org/Hackathon_ECE_2013
+> You are an Eclipse commiter ? You want new contributors ? subscribe to the Hackaton held during #eclipsecon https://wiki.eclipse.org/Hackathon_ECE_2013
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Aug 28 14:51:19 +0000 2013](https://twitter.com/bruncedric/status/372733136360071169)
 
@@ -7984,7 +7984,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/36917699
 
 Replying to [@toutpt](https://twitter.com/@toutpt/status/373078687555784704)
 
-> that would be this one http://www.techempower.com/benchmarks/ though twisted is not part of it.
+> that would be this one https://www.techempower.com/benchmarks/ though twisted is not part of it.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 29 14:42:44 +0000 2013](https://twitter.com/bruncedric/status/373093362481389570)
 
@@ -8038,13 +8038,13 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/3752629735
 
 ----
 
-> Speaking of which, #eclipsecon attendees will discover EcoreTools 2.0 - and how to build it -  in exclusivity http://www.eclipsecon.org/europe2013/ecoretools-20-making
+> Speaking of which, #eclipsecon attendees will discover EcoreTools 2.0 - and how to build it -  in exclusivity https://www.eclipsecon.org/europe2013/ecoretools-20-making
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 12 13:09:32 +0000 2013](https://twitter.com/bruncedric/status/378143340098625536)
 
 ----
 
-> Teach, don't tell. Or how to write good documentation http://stevelosh.com/blog/2013/09/teach-dont-tell/ something to keep in mind...
+> Teach, don't tell. Or how to write good documentation https://stevelosh.com/blog/2013/09/teach-dont-tell/ something to keep in mind...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 12 14:48:21 +0000 2013](https://twitter.com/bruncedric/status/378168209863888896)
 
@@ -8056,13 +8056,13 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/3752629735
 
 ----
 
-> RT @melaniebats: UML Designer 2.4.1 is available! http://bit.ly/UMLDesigner
+> RT @melaniebats: UML Designer 2.4.1 is available! https://bit.ly/UMLDesigner
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 17 10:19:13 +0000 2013](https://twitter.com/bruncedric/status/379912417339514880)
 
 ----
 
-> Thanks to Goulwen and the EEF project, EcoreTools 2.x will have nicer property views. http://wiki.eclipse.org/EEF 
+> Thanks to Goulwen and the EEF project, EcoreTools 2.x will have nicer property views. https://wiki.eclipse.org/EEF 
 > 
 > ![]({{ site.url }}/media/381075361632485376-BUnaBbsCAAAKfqf.png)
 
@@ -8070,7 +8070,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/3752629735
 
 ----
 
-> RT @stephanepechard: Something I won't have to do: Cubr—solving Rubik's cube using webcam and python http://cbarker.net/blog/projects/applications/cubr
+> RT @stephanepechard: Something I won't have to do: Cubr—solving Rubik's cube using webcam and python https://cbarker.net/blog/projects/applications/cubr
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Sep 22 17:01:03 +0000 2013](https://twitter.com/bruncedric/status/381825480850432000)
 
@@ -8096,7 +8096,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/3752629735
 
 ----
 
-> RT @triskellteam: Do not forget to go to the GEMOC workshop dealing with the Globalization of Modeling Languages http://gemoc.org/gemoc2013/ @MO…
+> RT @triskellteam: Do not forget to go to the GEMOC workshop dealing with the Globalization of Modeling Languages https://gemoc.org/gemoc2013/ @MO…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Sep 29 19:31:23 +0000 2013](https://twitter.com/bruncedric/status/384400031161532416)
 
@@ -8106,13 +8106,13 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/3752629735
 > 
 > ![]({{ site.url }}/media/384552632540758016-BVWMnMyCAAASEMS.jpg)
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 30 05:37:46 +0000 2013](https://twitter.com/bruncedric/status/384552632540758016)> I want to hear from you. What do YOU expect from the Eclipse Modeling Package ? http://model-driven-blogging.blogspot.fr/2013/10/eclipse-modeling-package-road-to-luna.html
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 30 05:37:46 +0000 2013](https://twitter.com/bruncedric/status/384552632540758016)> I want to hear from you. What do YOU expect from the Eclipse Modeling Package ? https://model-driven-blogging.blogspot.fr/2013/10/eclipse-modeling-package-road-to-luna.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 02 13:39:37 +0000 2013](https://twitter.com/bruncedric/status/385398666564890624)
 
 ----
 
-> I bet some Eclipse Modeling package users are enjoying Miami. Fill in this survey in between 2 talks ;) #models2013 http://model-driven-blogging.blogspot.fr/2013/10/eclipse-modeling-package-road-to-luna.html
+> I bet some Eclipse Modeling package users are enjoying Miami. Fill in this survey in between 2 talks ;) #models2013 https://model-driven-blogging.blogspot.fr/2013/10/eclipse-modeling-package-road-to-luna.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 02 13:59:35 +0000 2013](https://twitter.com/bruncedric/status/385403693413064704)
 
@@ -8134,13 +8134,13 @@ Replying to [@alex_lagarde](https://twitter.com/alex_morel_/status/3856923775175
 
 ----
 
-> The survey is filling up. You can still state your expectations from the Modeling Package, but be quick !  http://model-driven-blogging.blogspot.fr/2013/10/eclipse-modeling-package-road-to-luna.html
+> The survey is filling up. You can still state your expectations from the Modeling Package, but be quick !  https://model-driven-blogging.blogspot.fr/2013/10/eclipse-modeling-package-road-to-luna.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 03 14:31:30 +0000 2013](https://twitter.com/bruncedric/status/385774110770356225)
 
 ----
 
-> Let's get Sirius - BOF session on wednesday during #eclipsecon . Come and leave with your own graphical modeler ! http://www.eclipsecon.org/europe2013/lets-get-sirius
+> Let's get Sirius - BOF session on wednesday during #eclipsecon . Come and leave with your own graphical modeler ! https://www.eclipsecon.org/europe2013/lets-get-sirius
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 03 16:16:31 +0000 2013](https://twitter.com/bruncedric/status/385800542020067328)
 
@@ -8194,7 +8194,7 @@ Replying to [@richpaige](https://twitter.com/richpaige/status/385870515438907392
 
 ----
 
-> Preparing my commit introducing Ecore Tools 2.0 in the code base - first Sirius based modeler in http://Eclipse.org
+> Preparing my commit introducing Ecore Tools 2.0 in the code base - first Sirius based modeler in https://Eclipse.org
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 04 09:38:54 +0000 2013](https://twitter.com/bruncedric/status/386062864038907904)
 
@@ -8208,7 +8208,7 @@ Replying to [@heeckhau](https://twitter.com/heeckhau/status/386373666252279808)
 
 ----
 
-> RT @jomusset: Le long métrage nantais #MidnightGlobe sortira en salle à #Nantes bientôt https://www.facebook.com/midnight.globe @nantesfr http://t.co/ophy2…
+> RT @jomusset: Le long métrage nantais #MidnightGlobe sortira en salle à #Nantes bientôt https://www.facebook.com/midnight.globe @nantesfr https://t.co/ophy2…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Oct 05 11:37:27 +0000 2013](https://twitter.com/bruncedric/status/386455089151766528)
 
@@ -8222,7 +8222,7 @@ Replying to [@heeckhau](https://twitter.com/heeckhau/status/386373666252279808)
 
 ----
 
-> RT @waynebeaton: I declare the Eclipse Concierge project creation review successful! http://projects.eclipse.org/projects/rt.concierge
+> RT @waynebeaton: I declare the Eclipse Concierge project creation review successful! https://projects.eclipse.org/projects/rt.concierge
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Oct 06 06:35:48 +0000 2013](https://twitter.com/bruncedric/status/386741560001695744)
 
@@ -8306,7 +8306,7 @@ Replying to [@phlix](https://twitter.com/phlix/status/388425565583466496)
 
 Replying to [@phlix](https://twitter.com/phlix/status/388590902484013056)
 
-> Indeed, source code is here http://git.eclipse.org/c/ecoretools/org.eclipse.ecoretools.git/tree/org.eclipse.emf.ecoretools.design
+> Indeed, source code is here https://git.eclipse.org/c/ecoretools/org.eclipse.ecoretools.git/tree/org.eclipse.emf.ecoretools.design
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 11 09:31:43 +0000 2013](https://twitter.com/bruncedric/status/388597771176927232)
 
@@ -8370,13 +8370,13 @@ Replying to [@lowcoupling, @fmadiot, @sbegaudeau and @obeo_corp](https://twitter
 
 Replying to [@mmilinkov and @maxandersen](https://twitter.com/mmilinkov/status/389857042556391424)
 
-> http://wiki.eclipse.org/Equinox/Luna_Framework . Multi platform compatibility is going to be a challenge.
+> https://wiki.eclipse.org/Equinox/Luna_Framework . Multi platform compatibility is going to be a challenge.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 15 05:36:28 +0000 2013](https://twitter.com/bruncedric/status/389988122504998912)
 
 ----
 
-> Awesome introduction on using Eclipse for Java development : http://zeroturnaround.com/rebellabs/using-eclipse-for-java-development/
+> Awesome introduction on using Eclipse for Java development : https://zeroturnaround.com/rebellabs/using-eclipse-for-java-development/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 15 16:28:50 +0000 2013](https://twitter.com/bruncedric/status/390152295553331200)
 
@@ -8426,13 +8426,13 @@ Replying to [@APierantonio](https://twitter.com/APierantonio/status/390484891215
 
 ----
 
-> Obeo on the SAP Community Network: generating ABAP code using #acceleo and #umldesigner in ABAP Dev Tools for Eclipse http://scn.sap.com/community/abap/eclipse/blog/2013/10/17/uml-to-abap-code-generation
+> Obeo on the SAP Community Network: generating ABAP code using #acceleo and #umldesigner in ABAP Dev Tools for Eclipse https://scn.sap.com/community/abap/eclipse/blog/2013/10/17/uml-to-abap-code-generation
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 18 07:53:51 +0000 2013](https://twitter.com/bruncedric/status/391109858822324224)
 
 ----
 
-> Starting Friday with a crazy idea. Eclipse Humble Bundle anybody ? http://dev.eclipse.org/mhonarc/lists/ide-dev/msg00169.html
+> Starting Friday with a crazy idea. Eclipse Humble Bundle anybody ? https://dev.eclipse.org/mhonarc/lists/ide-dev/msg00169.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 18 10:19:09 +0000 2013](https://twitter.com/bruncedric/status/391146422805864448)
 
@@ -8446,13 +8446,13 @@ Replying to [@arnoblouin and @atlanmod](https://twitter.com/arnoblouin/status/39
 
 ----
 
-> RT @allilaire: Sirius, new project, new logo and now ... new website! http://eclipse.org/sirius #eclipsesirius
+> RT @allilaire: Sirius, new project, new logo and now ... new website! https://eclipse.org/sirius #eclipsesirius
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 24 10:21:15 +0000 2013](https://twitter.com/bruncedric/status/393321278498930688)
 
 ----
 
-> RT @jbosstools: Blog: Oracle releases Java 7 update that fixes eclipse: Earlier this month we posted Update to JBoss Tools 4.1... http://t.…
+> RT @jbosstools: Blog: Oracle releases Java 7 update that fixes eclipse: Earlier this month we posted Update to JBoss Tools 4.1... https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 24 12:05:17 +0000 2013](https://twitter.com/bruncedric/status/393347461575892992)
 
@@ -8500,19 +8500,19 @@ Replying to [@toutpt and @kkteja](https://twitter.com/@toutpt/status/39376354359
 
 ----
 
-> Eclipse 4.4M3 will definitely be interesting. The platform just moved on gtk3 by default. http://akurtakov.blogspot.com/2013/10/gtk-3-backend-becomes-swt-default.html
+> Eclipse 4.4M3 will definitely be interesting. The platform just moved on gtk3 by default. https://akurtakov.blogspot.com/2013/10/gtk-3-backend-becomes-swt-default.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Oct 26 09:50:05 +0000 2013](https://twitter.com/bruncedric/status/394038212639068160)
 
 ----
 
-> RT @alblue: Win a copy of my Eclipse 4 plug-in book by attending @eclipsecon and re-tweeting this tweet from @alblue  #eclipsecon http://t.…
+> RT @alblue: Win a copy of my Eclipse 4 plug-in book by attending @eclipsecon and re-tweeting this tweet from @alblue  #eclipsecon https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Oct 27 09:14:53 +0000 2013](https://twitter.com/bruncedric/status/394391742503718912)
 
 ----
 
-> RT @eclipsecon: Last call for #EclipseCon Europe! Register today http://www.eclipsecon.org/europe2013/registration
+> RT @eclipsecon: Last call for #EclipseCon Europe! Register today https://www.eclipsecon.org/europe2013/registration
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Oct 27 10:07:09 +0000 2013](https://twitter.com/bruncedric/status/394404896239529984)
 
@@ -8663,7 +8663,7 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/395221562611097600
 
 ----
 
-> RT @InfoQFR: Nous sommes à l'#eclipsecon Europe en train de réaliser quelques interviews, à paraître bientôt ! #InfoQFR http://t.co/esOeoZt…
+> RT @InfoQFR: Nous sommes à l'#eclipsecon Europe en train de réaliser quelques interviews, à paraître bientôt ! #InfoQFR https://t.co/esOeoZt…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 31 13:27:23 +0000 2013](https://twitter.com/bruncedric/status/395904837571072000)
 
@@ -8741,7 +8741,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/3977822376654520
 
 ----
 
-> RT @alex_lagarde: Missed some #eclipsecon talks? Don't worry, @Tcharl and I have published sum ups https://blog.osgiliath.net/ http://t.co/fgYH…
+> RT @alex_lagarde: Missed some #eclipsecon talks? Don't worry, @Tcharl and I have published sum ups https://blog.osgiliath.net/ https://t.co/fgYH…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 07 12:39:32 +0000 2013](https://twitter.com/bruncedric/status/398429510552780800)
 
@@ -8907,7 +8907,7 @@ Replying to [@MarcelBruch](https://twitter.com/MarcelBruch/status/40087777035329
 
 ----
 
-> RT @EclipseFdn: Eclipse at #devoxx http://www.flickr.com/photos/108559379@N08/sets/72157637658691963/
+> RT @EclipseFdn: Eclipse at #devoxx https://www.flickr.com/photos/108559379@N08/sets/72157637658691963/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 14 16:13:24 +0000 2013](https://twitter.com/bruncedric/status/401020048204390400)
 
@@ -8921,7 +8921,7 @@ Replying to [@MarcelBruch](https://twitter.com/MarcelBruch/status/40087777035329
 
 ----
 
-> RT @sbegaudeau: Finishing my very basic #Sirius based designer for MEAN web applications for tomorrow's lesson at my old university http://…
+> RT @sbegaudeau: Finishing my very basic #Sirius based designer for MEAN web applications for tomorrow's lesson at my old university https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 14 17:12:55 +0000 2013](https://twitter.com/bruncedric/status/401035023174078464)
 
@@ -8995,7 +8995,7 @@ Replying to [@tomsontom, @olivierdemeijer and @jashaj](https://twitter.com/tomso
 
 ----
 
-> Set your own priority for the Synfig OSS project for one month. http://www.indiegogo.com/projects/set-your-priorities-for-synfig-development-in-october-2013#description Interesting use of crowd founding (and wording)
+> Set your own priority for the Synfig OSS project for one month. https://www.indiegogo.com/projects/set-your-priorities-for-synfig-development-in-october-2013#description Interesting use of crowd founding (and wording)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 18 20:23:26 +0000 2013](https://twitter.com/bruncedric/status/402532519507427328)
 
@@ -9009,7 +9009,7 @@ Replying to [@tomsontom, @olivierdemeijer and @jashaj](https://twitter.com/tomso
 
 Replying to [@waynebeaton and @dougschaefer](https://twitter.com/waynebeaton/status/401067026703458306)
 
-> Eclipse at Devoxx 2013, debrief report published here http://model-driven-blogging.blogspot.fr/2013/11/eclipse-devoxx.html
+> Eclipse at Devoxx 2013, debrief report published here https://model-driven-blogging.blogspot.fr/2013/11/eclipse-devoxx.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 19 16:46:25 +0000 2013](https://twitter.com/bruncedric/status/402840296758595584)
 
@@ -9022,7 +9022,7 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/waynebeaton/sta
 ----
 
 > RT @roxannejoncas: Visualize your ideas with Sirius #eclipsesirius #eclipsenewsletter 
-> http://www.eclipse.org/community/eclipse_newsletter/2013/november/
+> https://www.eclipse.org/community/eclipse_newsletter/2013/november/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 21 13:55:42 +0000 2013](https://twitter.com/bruncedric/status/403522107172483072)
 
@@ -9052,7 +9052,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/40603712130922
 
 ----
 
-> RT @gblondelle: .@melaniebats starts her talk about learning programming to kits with #eclipse #sirius and #arduino. Awesome! http://t.co/n…
+> RT @gblondelle: .@melaniebats starts her talk about learning programming to kits with #eclipse #sirius and #arduino. Awesome! https://t.co/n…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 28 18:22:12 +0000 2013](https://twitter.com/bruncedric/status/406125891560177664)
 
@@ -9116,7 +9116,7 @@ Replying to [@richpaige](https://twitter.com/richpaige/status/407970329756061696
 
 ----
 
-> RT @fmadiot: Obeo is at #CSDM2013 to present #EclipseSirius with Thales http://www.csdm2013.csdm.fr/ #opensource #modeling
+> RT @fmadiot: Obeo is at #CSDM2013 to present #EclipseSirius with Thales https://www.csdm2013.csdm.fr/ #opensource #modeling
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 04 09:35:26 +0000 2013](https://twitter.com/bruncedric/status/408167652293873664)
 
@@ -9158,7 +9158,7 @@ Replying to [@richpaige](https://twitter.com/richpaige/status/407970329756061696
 
 ----
 
-> Looks like Docker don't need a specific kernel anymore on #opensuse. It will get easier to play with ! http://flavio.castelli.name/2013/11/28/better-docker-experience-on-opensuse/
+> Looks like Docker don't need a specific kernel anymore on #opensuse. It will get easier to play with ! https://flavio.castelli.name/2013/11/28/better-docker-experience-on-opensuse/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 04 19:39:39 +0000 2013](https://twitter.com/bruncedric/status/408319707645616130)
 
@@ -9182,7 +9182,7 @@ Replying to [@richpaige](https://twitter.com/richpaige/status/407970329756061696
 
 ----
 
-> RT @MBocenno: Trophées Territoires Innovation 2013 : prix Services &amp; Numérique remis par #SFR à OBEO. Bravo @slacrampe ! http://t.co/PMNeqi…
+> RT @MBocenno: Trophées Territoires Innovation 2013 : prix Services &amp; Numérique remis par #SFR à OBEO. Bravo @slacrampe ! https://t.co/PMNeqi…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Dec 05 18:56:23 +0000 2013](https://twitter.com/bruncedric/status/408671207719178240)
 
@@ -9216,19 +9216,19 @@ Replying to [@droy_eclipse and @waynebeaton](https://twitter.com/droy_eclipse/st
 
 ----
 
-> Achievement #2: answering almost as fast as @EdMerks on the forum : http://eclipse.org/forums/index.php?t=thread&frm_id=262
+> Achievement #2: answering almost as fast as @EdMerks on the forum : https://eclipse.org/forums/index.php?t=thread&frm_id=262
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 10 20:10:33 +0000 2013](https://twitter.com/bruncedric/status/410501810420744192)
 
 ----
 
-> Achievement #3: renaming the code base, going through the IP review and adopting the http://Eclipse.org Infrastructure #CBIHIPPandCO
+> Achievement #3: renaming the code base, going through the IP review and adopting the https://Eclipse.org Infrastructure #CBIHIPPandCO
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 10 20:19:32 +0000 2013](https://twitter.com/bruncedric/status/410504074661203968)
 
 ----
 
-> Achievement #4: a visual identity, website, videos, stickers and goodies http://www.eclipse.org/sirius/ #JustInTimeForEclipseCon
+> Achievement #4: a visual identity, website, videos, stickers and goodies https://www.eclipse.org/sirius/ #JustInTimeForEclipseCon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 10 20:22:14 +0000 2013](https://twitter.com/bruncedric/status/410504751542202368)
 
@@ -9240,13 +9240,13 @@ Replying to [@droy_eclipse and @waynebeaton](https://twitter.com/droy_eclipse/st
 
 ----
 
-> Achievement #6: a cool modeler for kids who wants to program Arduino  http://www.eclipsecon.org/europe2013/sites/eclipsecon.org.europe2013/files/econ_eu_2013_sirius_arduino.pdf
+> Achievement #6: a cool modeler for kids who wants to program Arduino  https://www.eclipsecon.org/europe2013/sites/eclipsecon.org.europe2013/files/econ_eu_2013_sirius_arduino.pdf
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 10 20:38:40 +0000 2013](https://twitter.com/bruncedric/status/410508886295461889)
 
 ----
 
-> Achievement #7 : bringing an OSS implementation of semantic merge and diff at least to the level of commercial tools http://www.eclipse.org/emf/compare/
+> Achievement #7 : bringing an OSS implementation of semantic merge and diff at least to the level of commercial tools https://www.eclipse.org/emf/compare/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 10 20:44:45 +0000 2013](https://twitter.com/bruncedric/status/410510418336305152)
 
@@ -9264,7 +9264,7 @@ Replying to [@droy_eclipse and @waynebeaton](https://twitter.com/droy_eclipse/st
 
 ----
 
-> @obeo_corp is turning 8 and we are celebrating this Friday. Proudly running thanks to an "Unusual Propulsion System" http://model-driven-blogging.blogspot.fr/2010/03/unusual-propulsion-system.html?m=1
+> @obeo_corp is turning 8 and we are celebrating this Friday. Proudly running thanks to an "Unusual Propulsion System" https://model-driven-blogging.blogspot.fr/2010/03/unusual-propulsion-system.html?m=1
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 10 20:56:14 +0000 2013](https://twitter.com/bruncedric/status/410513309340041217)
 
@@ -9285,8 +9285,8 @@ Replying to [@arnoblouin](https://twitter.com/arnoblouin/status/4105152660080066
 ----
 
 > Get it while it's hot ! 
-> http://dev.eclipse.org/mhonarc/lists/sirius-dev/msg00010.html
-> http://eclipse.org/sirius/download.html 
+> https://dev.eclipse.org/mhonarc/lists/sirius-dev/msg00010.html
+> https://eclipse.org/sirius/download.html 
 > 
 > ![]({{ site.url }}/media/410715837557772288-BbMn4NGCEAEBmK_.jpg)
 
@@ -9424,7 +9424,7 @@ Replying to [@jpe_obeo](https://twitter.com/@jpe_obeo/status/411816250432831488)
 
 ----
 
-> RT @EclipseFdn: Real-Life Case Studies #Sirius by @fmadiot and Daniel Exertier http://www.eclipse.org/community/eclipse_newsletter/2013/november/article4.php #eclipsenewsletter
+> RT @EclipseFdn: Real-Life Case Studies #Sirius by @fmadiot and Daniel Exertier https://www.eclipse.org/community/eclipse_newsletter/2013/november/article4.php #eclipsenewsletter
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 17 14:09:26 +0000 2013](https://twitter.com/bruncedric/status/412947651219689472)
 
@@ -9436,7 +9436,7 @@ Replying to [@jpe_obeo](https://twitter.com/@jpe_obeo/status/411816250432831488)
 
 ----
 
-> RT @jomusset: #MidnightGLOBE toujours à l'affiche à #Nantes au @CinemaConcorde http://www.ulule.com/globe/news/midnight-globe-toujours-a-laffiche-du-cinema-le-co-26835/ via @UluleFilms @ululeFR
+> RT @jomusset: #MidnightGLOBE toujours à l'affiche à #Nantes au @CinemaConcorde https://www.ulule.com/globe/news/midnight-globe-toujours-a-laffiche-du-cinema-le-co-26835/ via @UluleFilms @ululeFR
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 17 17:27:26 +0000 2013](https://twitter.com/bruncedric/status/412997476661354496)
 
@@ -9466,7 +9466,7 @@ Replying to [@jpe_obeo](https://twitter.com/@jpe_obeo/status/411816250432831488)
 
 ----
 
-> RT @melaniebats: UML Designer 4.0.0 M1 is available : http://www.obeo.fr/download/release/uml/4.0.0_M1/
+> RT @melaniebats: UML Designer 4.0.0 M1 is available : https://www.obeo.fr/download/release/uml/4.0.0_M1/
 > It is the first version based on #Sirius!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 27 15:37:56 +0000 2013](https://twitter.com/bruncedric/status/416593801088864256)
@@ -9562,7 +9562,7 @@ Replying to [@laurentdelaigue](https://twitter.com/laurentdelaigue/status/420913
 ----
 
 > EcoreTools 2 is now automatically updating your GenModel as you update the Ecore. 
-> http://git.eclipse.org/c/ecoretools/org.eclipse.ecoretools.git/commit/?id=bbd8f33e8d38664b4f19a3be4f7be0aee0d59e3c
+> https://git.eclipse.org/c/ecoretools/org.eclipse.ecoretools.git/commit/?id=bbd8f33e8d38664b4f19a3be4f7be0aee0d59e3c
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 10 15:20:39 +0000 2014](https://twitter.com/bruncedric/status/421662881021558784)
 
@@ -9576,7 +9576,7 @@ Replying to [@maxandersen and @dougschaefer](https://twitter.com/maxandersen/sta
 
 ----
 
-> RT @MarcelBruch: How to sign your Eclipse project with Tycho http://ift.tt/1eFmOfX
+> RT @MarcelBruch: How to sign your Eclipse project with Tycho https://ift.tt/1eFmOfX
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 14 09:09:20 +0000 2014](https://twitter.com/bruncedric/status/423018988592173056)
 
@@ -9670,7 +9670,7 @@ Replying to [@tomsontom](https://twitter.com/tomsontom/status/424088138521137152
 
 ----
 
-> UML Designer 3.0 compatible with Eclipse Kepler now available ! http://marketplace.eclipse.org/content/uml-designer-eclipse-kepler-version
+> UML Designer 3.0 compatible with Eclipse Kepler now available ! https://marketplace.eclipse.org/content/uml-designer-eclipse-kepler-version
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 17 17:47:01 +0000 2014](https://twitter.com/bruncedric/status/424236429133099008)
 
@@ -9765,7 +9765,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/4263979552689520
 
 Replying to [@tomsontom](https://twitter.com/tomsontom/status/426398671803260928)
 
-> I have no clue how to know for sure, but http://docs.oracle.com/javafx/2/system_requirements_2-2-5/jfxpub-system_requirements_2-2-5.htm states that I won't have any HW acceleration without a NVidia :-/
+> I have no clue how to know for sure, but https://docs.oracle.com/javafx/2/system_requirements_2-2-5/jfxpub-system_requirements_2-2-5.htm states that I won't have any HW acceleration without a NVidia :-/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 23 17:15:03 +0000 2014](https://twitter.com/bruncedric/status/426402713337724928)
 
@@ -9837,7 +9837,7 @@ Replying to [@bruncedric](https://twitter.com/louismrose/status/4277640114098749
 
 ----
 
-> RT @takari_io: Miss out on last week's webinar w @jvanzyl? No worries, the recording is available here: http://goo.gl/RWl0B2 #apachemaven
+> RT @takari_io: Miss out on last week's webinar w @jvanzyl? No worries, the recording is available here: https://goo.gl/RWl0B2 #apachemaven
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 27 19:43:06 +0000 2014](https://twitter.com/bruncedric/status/427889519946649601)
 
@@ -10005,7 +10005,7 @@ Replying to [@adolfosbh](https://twitter.com/adolfosbh/status/429011489140125697
 
 ----
 
-> And... the EcoreTools website has now a nice intro image summarizing (almost) all the class diagram features. http://www.eclipse.org/ecoretools/
+> And... the EcoreTools website has now a nice intro image summarizing (almost) all the class diagram features. https://www.eclipse.org/ecoretools/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 13 16:56:35 +0000 2014](https://twitter.com/bruncedric/status/434008209909501953)
 
@@ -10073,7 +10073,7 @@ Replying to [@bruncedric](https://twitter.com/pgaufillet/status/4340719768489287
 
 ----
 
-> RT @Devoxx4Kids: The Devoxx4Kids "Your kid plays games, mine makes games" instructor t-shirts have arrived (4 sizes)  :) http://t.co/YmxLP4…
+> RT @Devoxx4Kids: The Devoxx4Kids "Your kid plays games, mine makes games" instructor t-shirts have arrived (4 sizes)  :) https://t.co/YmxLP4…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 19 11:06:14 +0000 2014](https://twitter.com/bruncedric/status/436094368089661441)
 
@@ -10095,7 +10095,7 @@ Replying to [@bruncedric](https://twitter.com/pgaufillet/status/4340719768489287
 
 ----
 
-> RT @roxannejoncas: Newsletter: #IoT and Eclipse, also featuring @bruncedric in the user spotlight http://www.eclipse.org/community/eclipse_newsletter/2014/february/ #eclipsenewsletter
+> RT @roxannejoncas: Newsletter: #IoT and Eclipse, also featuring @bruncedric in the user spotlight https://www.eclipse.org/community/eclipse_newsletter/2014/february/ #eclipsenewsletter
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 20 15:43:47 +0000 2014](https://twitter.com/bruncedric/status/436526603892699136)
 
@@ -10109,7 +10109,7 @@ Replying to [@bruncedric](https://twitter.com/pgaufillet/status/4340719768489287
 
 ----
 
-> RT @obeo_fr: Webinar Obeo SmartEA aujourd'hui à 14h http://ow.ly/u3lrp #entarch
+> RT @obeo_fr: Webinar Obeo SmartEA aujourd'hui à 14h https://ow.ly/u3lrp #entarch
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 27 11:49:30 +0000 2014](https://twitter.com/bruncedric/status/439004358362275841)
 
@@ -10147,25 +10147,25 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/4401240373609349
 
 ----
 
-> I'm happy to see .@prapicault kickstarting #EasyEclipse. He *is* able to make a difference!  http://kck.st/1g4uy8G
+> I'm happy to see .@prapicault kickstarting #EasyEclipse. He *is* able to make a difference!  https://kck.st/1g4uy8G
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 03 14:49:22 +0000 2014](https://twitter.com/bruncedric/status/440499176518848512)
 
 ----
 
-> RT @maxandersen: I just backed EasyEclipse for Java on @Kickstarter http://kck.st/1kiPArf
+> RT @maxandersen: I just backed EasyEclipse for Java on @Kickstarter https://kck.st/1kiPArf
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 03 16:42:51 +0000 2014](https://twitter.com/bruncedric/status/440527736302755840)
 
 ----
 
-> Discussions are taking place on reddit about #EasyEclipse http://www.reddit.com/r/programming/comments/1zfozp/an_eclipse_commiter_launch_a_kickstarter_to_fund/
+> Discussions are taking place on reddit about #EasyEclipse https://www.reddit.com/r/programming/comments/1zfozp/an_eclipse_commiter_launch_a_kickstarter_to_fund/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 03 20:22:03 +0000 2014](https://twitter.com/bruncedric/status/440582901420158976)
 
 ----
 
-> Interesting : coding challenges up to having your patch into the kernel. Something to dig for Eclipse... http://eudyptula-challenge.org
+> Interesting : coding challenges up to having your patch into the kernel. Something to dig for Eclipse... https://eudyptula-challenge.org
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 04 19:33:27 +0000 2014](https://twitter.com/bruncedric/status/440933055654793217)
 
@@ -10221,7 +10221,7 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/441630938905071616
 
 ----
 
-> RT @MarcelBruch: Support EasyEclipse and become a sponsor for Open-Source development http://ift.tt/1jYmE5a
+> RT @MarcelBruch: Support EasyEclipse and become a sponsor for Open-Source development https://ift.tt/1jYmE5a
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 07 09:30:19 +0000 2014](https://twitter.com/bruncedric/status/441868436755734528)
 
@@ -10241,7 +10241,7 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/441630938905071616
 
 ----
 
-> RT @GorkemErcan: Red Hatters doing #eclipsecon talks http://developerblog.redhat.com/2014/03/10/rh-eclipsecon-na/
+> RT @GorkemErcan: Red Hatters doing #eclipsecon talks https://developerblog.redhat.com/2014/03/10/rh-eclipsecon-na/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 12 07:32:33 +0000 2014](https://twitter.com/bruncedric/status/443650737948864512)
 
@@ -10277,7 +10277,7 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/441630938905071616
 
 ----
 
-> RT @mikbarbero: New EMF Compare website. Just in time for Eclipse con ;) http://www.eclipse.org/emf/compare/index.html #eclipsecon #eclipse #obeo #emfcompare
+> RT @mikbarbero: New EMF Compare website. Just in time for Eclipse con ;) https://www.eclipse.org/emf/compare/index.html #eclipsecon #eclipse #obeo #emfcompare
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 13 10:29:08 +0000 2014](https://twitter.com/bruncedric/status/444057566390542336)
 
@@ -10355,7 +10355,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/4449512353
 
 ----
 
-> Heading to the http://www.zeitgeistsf.com/ (again) to hang out tonight. Feel free to join !
+> Heading to the https://www.zeitgeistsf.com/ (again) to hang out tonight. Feel free to join !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Mar 16 01:49:30 +0000 2014](https://twitter.com/bruncedric/status/445013960232681473)
 
@@ -10495,7 +10495,7 @@ Replying to [@michael_scharf](https://twitter.com/michael_scharf/status/44611649
 
 ----
 
-> RT @torkildr: Like the #RaspberryPi ? Then you definitely check out PiPlug project! https://github.com/Genuitec/piplug #eclipsecon @Genuitec http://t.…
+> RT @torkildr: Like the #RaspberryPi ? Then you definitely check out PiPlug project! https://github.com/Genuitec/piplug #eclipsecon @Genuitec https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 19 18:49:07 +0000 2014](https://twitter.com/bruncedric/status/446357717804789761)
 
@@ -10533,7 +10533,7 @@ Replying to [@vorburger](https://twitter.com/vorburger/status/446358914842374145
 
 ----
 
-> RT @vorburger: blogged about experiences with @EclipseFdn #Sirius together with @xtext at #eclipsecon - tx @bruncedric http://t.co/LGvlISzH…
+> RT @vorburger: blogged about experiences with @EclipseFdn #Sirius together with @xtext at #eclipsecon - tx @bruncedric https://t.co/LGvlISzH…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 20 00:58:28 +0000 2014](https://twitter.com/bruncedric/status/446450666127761408)
 
@@ -10632,8 +10632,8 @@ Replying to [@glefur_ and @airfrance](https://twitter.com/glefur_/status/4465322
 ----
 
 > Published my #eclipsecon slides, you should too ! 
-> Sirius : http://fr.slideshare.net/cbrun/slides-33077710 
-> EcoreTools : http://fr.slideshare.net/cbrun/ecore-tools2
+> Sirius : https://fr.slideshare.net/cbrun/slides-33077710 
+> EcoreTools : https://fr.slideshare.net/cbrun/ecore-tools2
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 03 14:31:39 +0000 2014](https://twitter.com/bruncedric/status/451728740952068096)
 
@@ -10645,7 +10645,7 @@ Replying to [@glefur_ and @airfrance](https://twitter.com/glefur_/status/4465322
 
 ----
 
-> Excited by the @orionhub + @docker integration http://wiki.eclipse.org/Orion/Terminal_Administration_Guide/Docker_Server_Setup . Will OrionHub support it ?
+> Excited by the @orionhub + @docker integration https://wiki.eclipse.org/Orion/Terminal_Administration_Guide/Docker_Server_Setup . Will OrionHub support it ?
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 03 18:35:24 +0000 2014](https://twitter.com/bruncedric/status/451790084892000256)
 
@@ -10675,7 +10675,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/452197116723879936)
 
 ----
 
-> RT @eclipsecon: Session Proposal: EcoreTools 2.0: The Luna revival http://bit.ly/1e55dAF #eclipsecon
+> RT @eclipsecon: Session Proposal: EcoreTools 2.0: The Luna revival https://bit.ly/1e55dAF #eclipsecon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 07 15:37:23 +0000 2014](https://twitter.com/bruncedric/status/453194836431355904)
 
@@ -10695,7 +10695,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/452197116723879936)
 
 ----
 
-> Live session about #eclipsecon North America (in french) in 40 minutes ! http://www.obeo.fr/event/webinarEclipseCon2014.html
+> Live session about #eclipsecon North America (in french) in 40 minutes ! https://www.obeo.fr/event/webinarEclipseCon2014.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 11 12:22:14 +0000 2014](https://twitter.com/bruncedric/status/454595276444303360)
 
@@ -10730,7 +10730,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/452197116723879936)
 
 ----
 
-> I will be speaking about mixing textual and graphical editors with Xtext + Sirius at #XtextCon ! http://xtextcon.org/#speakers
+> I will be speaking about mixing textual and graphical editors with Xtext + Sirius at #XtextCon ! https://xtextcon.org/#speakers
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 18 15:29:14 +0000 2014](https://twitter.com/bruncedric/status/457179053477597184)
 
@@ -10754,7 +10754,7 @@ Replying to [@vorburger and @svenefftinge](https://twitter.com/vorburger/status/
 > 
 > ![]({{ site.url }}/media/460815884483706880-BmUlmv3CQAA_TMS.png)
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 28 16:20:43 +0000 2014](https://twitter.com/bruncedric/status/460815884483706880)> RT @mehdiaitoufkir: PunchTab Raises $6.25M To Turn Loyalty Programs Into An Enterprise Data Business http://techcrunch.com/2014/04/30/punchtab-raises-6-25/?ncid=twittersocialshare via @techcrunch
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 28 16:20:43 +0000 2014](https://twitter.com/bruncedric/status/460815884483706880)> RT @mehdiaitoufkir: PunchTab Raises $6.25M To Turn Loyalty Programs Into An Enterprise Data Business https://techcrunch.com/2014/04/30/punchtab-raises-6-25/?ncid=twittersocialshare via @techcrunch
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 01 07:32:20 +0000 2014](https://twitter.com/bruncedric/status/461770077516603392)
 
@@ -10782,7 +10782,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/4634102962754682
 
 ----
 
-> RT @AtomEditor: I am now open source http://blog.atom.io/2014/05/06/atom-is-now-open-source.html
+> RT @AtomEditor: I am now open source https://blog.atom.io/2014/05/06/atom-is-now-open-source.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 06 17:23:43 +0000 2014](https://twitter.com/bruncedric/status/463730841995472897)
 
@@ -10826,7 +10826,7 @@ Replying to [@fhuberts](https://twitter.com/fhuberts/status/463968599825461248)
 
 ----
 
-> RT @fgaudin44: @HelpMeQu_it is now #opensource, because when you #quitsmoking, you need to be 100% free ;) http://helpmequ.it/
+> RT @fgaudin44: @HelpMeQu_it is now #opensource, because when you #quitsmoking, you need to be 100% free ;) https://helpmequ.it/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 09 06:51:41 +0000 2014](https://twitter.com/bruncedric/status/464658952178122752)
 
@@ -10846,7 +10846,7 @@ Replying to [@fhuberts](https://twitter.com/fhuberts/status/463968599825461248)
 
 ----
 
-> Fellow modelers, start the week by giving a hand to the Eclipse community : give a shot at the Luna M6 build  : http://www.eclipse.org/downloads/packages/eclipse-modeling-tools/lunam7
+> Fellow modelers, start the week by giving a hand to the Eclipse community : give a shot at the Luna M6 build  : https://www.eclipse.org/downloads/packages/eclipse-modeling-tools/lunam7
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 12 08:00:22 +0000 2014](https://twitter.com/bruncedric/status/465763398412959745)
 
@@ -10860,7 +10860,7 @@ Replying to [@laurentdelaigue](https://twitter.com/laurentdelaigue/status/465770
 
 ----
 
-> RT @DiverSE_inria: 2nd #GEMOC workshop at #MODELS14 on the integration of multiple DSMLs http://gemoc.org/gemoc2014 cc @gemocinitiative @bcombe…
+> RT @DiverSE_inria: 2nd #GEMOC workshop at #MODELS14 on the integration of multiple DSMLs https://gemoc.org/gemoc2014 cc @gemocinitiative @bcombe…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 12 12:17:29 +0000 2014](https://twitter.com/bruncedric/status/465828105723330560)
 
@@ -10872,7 +10872,7 @@ Replying to [@laurentdelaigue](https://twitter.com/laurentdelaigue/status/465770
 
 ----
 
-> http://www.pcsoft-windev-webdev.com/WX19-Features.pdf The worst kind of communication you can have - in general - and even more in software engineering.
+> https://www.pcsoft-windev-webdev.com/WX19-Features.pdf The worst kind of communication you can have - in general - and even more in software engineering.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat May 17 10:05:56 +0000 2014](https://twitter.com/bruncedric/status/467606939917381633)
 
@@ -10952,7 +10952,7 @@ Replying to [@OPCoach_Eclipse and @TristanFAURE](https://twitter.com/OPCoach_Ecl
 
 ----
 
-> RT @McPaga: .@obeo_corp is now established in Montréal for new perspectives thanks to a partnership with @SFLinux  #modeling http://t.co/ub…
+> RT @McPaga: .@obeo_corp is now established in Montréal for new perspectives thanks to a partnership with @SFLinux  #modeling https://t.co/ub…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 05 18:13:41 +0000 2014](https://twitter.com/bruncedric/status/474615052453294081)
 
@@ -10964,7 +10964,7 @@ Replying to [@OPCoach_Eclipse and @TristanFAURE](https://twitter.com/OPCoach_Ecl
 
 ----
 
-> RT @ejuliot: The Arduino Designer: an Eclipse programming platform for kids http://jaxenter.com/the-arduino-designer-an-eclipse-programming-platform-for-kids-50451.html #arduino #eclipsesirius http://t.co/TYou…
+> RT @ejuliot: The Arduino Designer: an Eclipse programming platform for kids https://jaxenter.com/the-arduino-designer-an-eclipse-programming-platform-for-kids-50451.html #arduino #eclipsesirius https://t.co/TYou…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 10 08:17:25 +0000 2014](https://twitter.com/bruncedric/status/476276938680840192)
 
@@ -11078,7 +11078,7 @@ Replying to [@softmodeling](https://twitter.com/JordiCabot/status/47882246095176
 
 ----
 
-> RT @fmadiot: Hands-On Sirius : get the latest version of Sirius here  http://download.eclipse.org/sirius/updates/milestones/1.0.0rc3/kepler
+> RT @fmadiot: Hands-On Sirius : get the latest version of Sirius here  https://download.eclipse.org/sirius/updates/milestones/1.0.0rc3/kepler
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 18 09:32:26 +0000 2014](https://twitter.com/bruncedric/status/479194920297959424)
 
@@ -11138,7 +11138,7 @@ Replying to [@softmodeling](https://twitter.com/JordiCabot/status/47882246095176
 
 ----
 
-> Xtext + Sirius = &lt;3  - The slides :  http://www.slideshare.net/cbrun/xtext-sirius-lt3
+> Xtext + Sirius = &lt;3  - The slides :  https://www.slideshare.net/cbrun/xtext-sirius-lt3
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 20 10:04:03 +0000 2014](https://twitter.com/bruncedric/status/479927653794054144)
 
@@ -11202,7 +11202,7 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/4803631101
 
 ----
 
-> RT @JohanDenHaan: New blogpost: Lessons learned in managing engineering team growth http://www.theenterprisearchitect.eu/blog/2014/07/28/managing-engineering-team-growth/ #startup #growth #agile
+> RT @JohanDenHaan: New blogpost: Lessons learned in managing engineering team growth https://www.theenterprisearchitect.eu/blog/2014/07/28/managing-engineering-team-growth/ #startup #growth #agile
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jul 29 08:35:02 +0000 2014](https://twitter.com/bruncedric/status/494038375645859840)
 
@@ -11224,7 +11224,7 @@ Replying to [@irbull, @jarthorne and @mknauer23](https://twitter.com/irbull/stat
 
 ----
 
-> EclipseLive: Sirius + Xtext : ♥ http://bit.ly/XoCiAq - but you'll have to listen carefully, the projection is slightly too bright.
+> EclipseLive: Sirius + Xtext : ♥ https://bit.ly/XoCiAq - but you'll have to listen carefully, the projection is slightly too bright.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Aug 01 18:53:04 +0000 2014](https://twitter.com/bruncedric/status/495281072478121984)
 
@@ -11248,7 +11248,7 @@ Replying to [@MarcelBruch](https://twitter.com/MarcelBruch/status/49553652039760
 
 > RT @eclipsecon: Take a few minutes this weekend to submit your talk to #EclipseCon Europe! (deadline Aug. 11)
 > Have a good weekend! 
-> http://…
+> https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Aug 09 13:50:05 +0000 2014](https://twitter.com/bruncedric/status/498103926450053120)
 
@@ -11294,13 +11294,13 @@ Replying to [@larsschuetze](https://twitter.com/larsschuetze/status/502402973193
 
 ----
 
-> The #EclipseSirius tests sources are appearing in the git repository ! http://git.eclipse.org/c/sirius/org.eclipse.sirius.git/commit/?id=b64b2b4c0060329a68b77c0734c82b3eca24529b Now we''ll be able to go full speed w gerrit!
+> The #EclipseSirius tests sources are appearing in the git repository ! https://git.eclipse.org/c/sirius/org.eclipse.sirius.git/commit/?id=b64b2b4c0060329a68b77c0734c82b3eca24529b Now we''ll be able to go full speed w gerrit!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 28 20:17:28 +0000 2014](https://twitter.com/bruncedric/status/505086786264367104)
 
 ----
 
-> RT @IgnitionNantes: Don't forget: tonight we play at the Ete Cigale Festival with @BalkanBeatBox &amp; @LESOVIETSUPREM http://www.cholet.fr/dossiers/dossier_3364_festival+ete+cigale+2014+programmation.html h…
+> RT @IgnitionNantes: Don't forget: tonight we play at the Ete Cigale Festival with @BalkanBeatBox &amp; @LESOVIETSUPREM https://www.cholet.fr/dossiers/dossier_3364_festival+ete+cigale+2014+programmation.html h…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Aug 29 09:55:58 +0000 2014](https://twitter.com/bruncedric/status/505292769674665984)
 
@@ -11350,13 +11350,13 @@ Replying to [@kingargyle, @maxandersen, @mickaelistria and @dougschaefer](https:
 
 ----
 
-> RT @mehdiaitoufkir: PunchTab, the Leading Omni-Channel Engagement and Insights Leader Announces Mike Mansbach as CEO http://mwne.ws/1uvxx3J
+> RT @mehdiaitoufkir: PunchTab, the Leading Omni-Channel Engagement and Insights Leader Announces Mike Mansbach as CEO https://mwne.ws/1uvxx3J
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 10 20:16:24 +0000 2014](https://twitter.com/bruncedric/status/509797560413069312)
 
 ----
 
-> RT @gemocinitiative: The proceedings of GEMOC 2014 are now online at http://ceur-ws.org/Vol-1236 cc @modelsconf  Looking forward to seeing you i…
+> RT @gemocinitiative: The proceedings of GEMOC 2014 are now online at https://ceur-ws.org/Vol-1236 cc @modelsconf  Looking forward to seeing you i…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 11 09:16:51 +0000 2014](https://twitter.com/bruncedric/status/509993964448260098)
 
@@ -11423,7 +11423,7 @@ Replying to [@cboudjennah](https://twitter.com/cboudjennah/status/51540029386210
 
 ----
 
-> RT @droy_eclipse: Eclipse ISP: "Sorry, we still cannot monitor your bandwidth usage"  Me: "No worries, take your time"  #LunaSR1 http://t.c…
+> RT @droy_eclipse: Eclipse ISP: "Sorry, we still cannot monitor your bandwidth usage"  Me: "No worries, take your time"  #LunaSR1 https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 26 14:42:49 +0000 2014](https://twitter.com/bruncedric/status/515511818178265088)
 
@@ -11461,7 +11461,7 @@ Replying to [@cboudjennah](https://twitter.com/cboudjennah/status/51540029386210
 
 ----
 
-> RT @cra: tragedy of commons approach: "...the 5% rule is one that all open source projects and companies should follow..." http://t.co/XuLY…
+> RT @cra: tragedy of commons approach: "...the 5% rule is one that all open source projects and companies should follow..." https://t.co/XuLY…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 30 20:36:12 +0000 2014](https://twitter.com/bruncedric/status/517050298888912896)> .@alex_morel_  I'm making good use of it, thanks again ! 
 > 
@@ -11471,13 +11471,13 @@ Replying to [@cboudjennah](https://twitter.com/cboudjennah/status/51540029386210
 
 ----
 
-> Hey ! pleased to see that papers citing #EclipseSirius appeared in the last year : http://scholar.google.fr/scholar?start=0&q=emf+sirius+eclipse . That was fast !
+> Hey ! pleased to see that papers citing #EclipseSirius appeared in the last year : https://scholar.google.fr/scholar?start=0&q=emf+sirius+eclipse . That was fast !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 02 13:44:18 +0000 2014](https://twitter.com/bruncedric/status/517671417216000000)
 
 ----
 
-> Tribute to  Sharky : Jonas the Mechanical Shark http://vimeo.com/m/106296656
+> Tribute to  Sharky : Jonas the Mechanical Shark https://vimeo.com/m/106296656
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 02 18:17:51 +0000 2014](https://twitter.com/bruncedric/status/517740258923147267)
 
@@ -11491,7 +11491,7 @@ Replying to [@cboudjennah](https://twitter.com/cboudjennah/status/51540029386210
 
 Replying to [@allilaire and @bramvdsanden](https://twitter.com/allilaire/status/519827462239170561)
 
-> Those should be close enough : http://www.eclipsedayparis.com/2011/uploads/slides2011/CedricBrun_EclipseModeling.pdf Will look for the actual Eclipse Day toulouse slides.
+> Those should be close enough : https://www.eclipsedayparis.com/2011/uploads/slides2011/CedricBrun_EclipseModeling.pdf Will look for the actual Eclipse Day toulouse slides.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 08 12:42:48 +0000 2014](https://twitter.com/bruncedric/status/519830269847953408)
 
@@ -11550,13 +11550,13 @@ Replying to [@MarcelBruch](https://twitter.com/MarcelBruch/status/52211160475084
 ----
 
 > Sirius 2.0 : Under the Hood
-> http://model-driven-blogging.blogspot.fr/2014/10/sirius-20-under-hood.html #EclipseSirius
+> https://model-driven-blogging.blogspot.fr/2014/10/sirius-20-under-hood.html #EclipseSirius
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 16 14:19:57 +0000 2014](https://twitter.com/bruncedric/status/522753821416890368)
 
 ----
 
-> RT @kingargyle: You have 24hrs left to help choose the new name for the Android Tools platform at eclipse. http://strawpoll.me/2781013  It is ne…
+> RT @kingargyle: You have 24hrs left to help choose the new name for the Android Tools platform at eclipse. https://strawpoll.me/2781013  It is ne…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 20 14:15:33 +0000 2014](https://twitter.com/bruncedric/status/524202261527162880)
 
@@ -11576,13 +11576,13 @@ Replying to [@hendrikEbbers and @tomsontom](https://twitter.com/hendrikEbbers/st
 
 ----
 
-> RT @IS2T_News: Join IS2T for a day at the IoT playground in 2 weeks! @eclipsecon http://www.is2t.com/events/eclipsecon-europe-2014-ludwigsburg/
+> RT @IS2T_News: Join IS2T for a day at the IoT playground in 2 weeks! @eclipsecon https://www.is2t.com/events/eclipsecon-europe-2014-ludwigsburg/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 21 12:31:28 +0000 2014](https://twitter.com/bruncedric/status/524538457931407362)
 
 ----
 
-> A novel model for funding OSS where participating increase the value others put in. Might be relevant for Eclipse. http://www.linuxpromagazine.com/Online/Features/Snowdrift.coop
+> A novel model for funding OSS where participating increase the value others put in. Might be relevant for Eclipse. https://www.linuxpromagazine.com/Online/Features/Snowdrift.coop
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 22 21:56:26 +0000 2014](https://twitter.com/bruncedric/status/525043024049758208)
 
@@ -11621,7 +11621,7 @@ Replying to [@droy_eclipse and @eclipsecon](https://twitter.com/droy_eclipse/sta
 ----
 
 > RT @fmadiot: Sirius Gallery: 20 cool and noteworthy examples 
-> http://fmadiot.blogspot.fr/2014/10/sirius-gallery-20-cool-and-noteworthy.html
+> https://fmadiot.blogspot.fr/2014/10/sirius-gallery-20-cool-and-noteworthy.html
 > #eclipse #modeling
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 24 14:22:14 +0000 2014](https://twitter.com/bruncedric/status/525653495442329600)
@@ -11636,7 +11636,7 @@ Replying to [@droy_eclipse and @eclipsecon](https://twitter.com/droy_eclipse/sta
 
 ----
 
-> RT @dvorme: Need graphical viz tool? Eclipse Sirius is amazing.  Wrote data flow editor in about 2 days with it.  http://www.eclipse.org/sirius/
+> RT @dvorme: Need graphical viz tool? Eclipse Sirius is amazing.  Wrote data flow editor in about 2 days with it.  https://www.eclipse.org/sirius/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 27 09:45:53 +0000 2014](https://twitter.com/bruncedric/status/526671113020252160)
 
@@ -11675,7 +11675,7 @@ Replying to [@droy_eclipse and @eclipsecon](https://twitter.com/droy_eclipse/sta
 ----
 
 > RT @fmadiot: Let's Practice Sirius: BOF session tonight 19:00 at #eclipsecon
-> http://fmadiot.blogspot.fr/2014/10/lets-practice-sirius-bof-session-at.html #eclipsesirius
+> https://fmadiot.blogspot.fr/2014/10/lets-practice-sirius-bof-session-at.html #eclipsesirius
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 29 16:01:59 +0000 2014](https://twitter.com/bruncedric/status/527490539730771968)
 
@@ -11725,7 +11725,7 @@ Replying to [@droy_eclipse and @eclipsecon](https://twitter.com/droy_eclipse/sta
 
 ----
 
-> "Sirius + Xtext = ♥" slides are uploaded http://fr.slideshare.net/cbrun/xtext-sirius Please take a few minutes to fill the evaluation. #eclipsecon
+> "Sirius + Xtext = ♥" slides are uploaded https://fr.slideshare.net/cbrun/xtext-sirius Please take a few minutes to fill the evaluation. #eclipsecon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 30 11:15:41 +0000 2014](https://twitter.com/bruncedric/status/527780879222190080)
 
@@ -11785,7 +11785,7 @@ Replying to [@droy_eclipse and @eclipsecon](https://twitter.com/droy_eclipse/sta
 
 Replying to [@metapgmr](https://twitter.com/metapgmr/status/529332372118859777)
 
-> actually a fairly old paper on social translucence http://www.ics.uci.edu/~corps/phaseii/EricksonKellogg-SocialTranslucence-TOCHI.pdf&ved=0CCEQFjAA&usg=AFQjCNEi040KWUX7vq00I7AID8W-b6-q-g&sig2=_fdZvbseqS_rsykADaEmEA
+> actually a fairly old paper on social translucence https://www.ics.uci.edu/~corps/phaseii/EricksonKellogg-SocialTranslucence-TOCHI.pdf&ved=0CCEQFjAA&usg=AFQjCNEi040KWUX7vq00I7AID8W-b6-q-g&sig2=_fdZvbseqS_rsykADaEmEA
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 03 18:02:32 +0000 2014](https://twitter.com/bruncedric/status/529332814245027840)
 
@@ -11805,26 +11805,26 @@ Replying to [@metapgmr](https://twitter.com/metapgmr/status/529335477963206656)
 
 ----
 
-> ..lack of a graphical editor for Storm Topologies, so I built one using #EclipseSirius in literally a couple of days. http://www.coconut-palm-software.com/bliki/doku.php?id=blog:eclipse_sirius
+> ..lack of a graphical editor for Storm Topologies, so I built one using #EclipseSirius in literally a couple of days. https://www.coconut-palm-software.com/bliki/doku.php?id=blog:eclipse_sirius
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 04 19:15:31 +0000 2014](https://twitter.com/bruncedric/status/529713571916431360)
 
 ----
 
-> "[..] we’ve used Sirius to create the modeling environment for IFML and we’re very happy with the choice we did." http://modeling-languages.com/gallery-graphical-modeling-editors-created-sirius/
+> "[..] we’ve used Sirius to create the modeling environment for IFML and we’re very happy with the choice we did." https://modeling-languages.com/gallery-graphical-modeling-editors-created-sirius/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 04 19:24:53 +0000 2014](https://twitter.com/bruncedric/status/529715929181995009)
 
 ----
 
-> RT @fmadiot: New entry on Sirius Gallery: Telecom Reference Architecture by Orange http://eclipse.org/sirius/gallery.html
-> #eclipse #modeling http://t.co/Xh…
+> RT @fmadiot: New entry on Sirius Gallery: Telecom Reference Architecture by Orange https://eclipse.org/sirius/gallery.html
+> #eclipse #modeling https://t.co/Xh…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 05 10:24:22 +0000 2014](https://twitter.com/bruncedric/status/529942288823517184)
 
 ----
 
-> OpenSuse 13.2 got released ! http://software.opensuse.org/132/ #InCaseYouHaveTimeWaitingForLollipop
+> OpenSuse 13.2 got released ! https://software.opensuse.org/132/ #InCaseYouHaveTimeWaitingForLollipop
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 05 15:42:51 +0000 2014](https://twitter.com/bruncedric/status/530022441037594624)
 
@@ -11900,13 +11900,13 @@ Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/5326220654974320
 
 ----
 
-> RT @segphault: Woah, Microsoft open sourcing .NET is now the #1 top story of all time in /r/programming on reddit: http://www.reddit.com/r/programming/top/?sort=top&t=all
+> RT @segphault: Woah, Microsoft open sourcing .NET is now the #1 top story of all time in /r/programming on reddit: https://www.reddit.com/r/programming/top/?sort=top&t=all
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 14 06:42:02 +0000 2014](https://twitter.com/bruncedric/status/533147826923253761)
 
 ----
 
-> Modeling Mars M3 features Sirius 2.0, an updated ecoretools and the brand new error reporting. Help us help you ! http://www.eclipse.org/downloads/index-developer.php
+> Modeling Mars M3 features Sirius 2.0, an updated ecoretools and the brand new error reporting. Help us help you ! https://www.eclipse.org/downloads/index-developer.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 14 18:18:58 +0000 2014](https://twitter.com/bruncedric/status/533323219261202432)
 
@@ -11944,7 +11944,7 @@ Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/5337169955695124
 
 Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/533716995569512448)
 
-> http://www.senscritique.com/liste/Trouble_dissociatif_de_l_identite/81639 là y'a peut être de quoi faire..
+> https://www.senscritique.com/liste/Trouble_dissociatif_de_l_identite/81639 là y'a peut être de quoi faire..
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Nov 15 20:43:11 +0000 2014](https://twitter.com/bruncedric/status/533721899776638977)
 
@@ -11996,7 +11996,7 @@ Replying to [@mikbarbero](https://twitter.com/mikbarbero/status/5350932717654671
 
 ----
 
-> RT @Devoxx4Kids: So far #Devoxx4Kids organized 100+ #events #worldwide. End of 2014 is pretty busy for our teams. Check it out.  http://t.c…
+> RT @Devoxx4Kids: So far #Devoxx4Kids organized 100+ #events #worldwide. End of 2014 is pretty busy for our teams. Check it out.  https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 20 09:09:22 +0000 2014](https://twitter.com/bruncedric/status/535359233962020864)
 
@@ -12034,13 +12034,13 @@ Replying to [@MarcelBruch](https://twitter.com/MarcelBruch/status/53831276177288
 > 
 > ![]({{ site.url }}/media/538350552892334080-B3ia-YxCUAIi82f.png)
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 28 15:15:48 +0000 2014](https://twitter.com/bruncedric/status/538350552892334080)> RT @sjmaple: We're only 4 months away from the current planned removal of Java 7 public support from Oracle - Migrate to Java 8! http://t.c…
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 28 15:15:48 +0000 2014](https://twitter.com/bruncedric/status/538350552892334080)> RT @sjmaple: We're only 4 months away from the current planned removal of Java 7 public support from Oracle - Migrate to Java 8! https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Dec 01 12:59:42 +0000 2014](https://twitter.com/bruncedric/status/539403465907507200)
 
 ----
 
-> RT @gregkh: I'm doing an AMA on reddit now: http://www.reddit.com/r/linux/comments/2ny1lz/im_greg_kroahhartman_linux_kernel_developer_ama/
+> RT @gregkh: I'm doing an AMA on reddit now: https://www.reddit.com/r/linux/comments/2ny1lz/im_greg_kroahhartman_linux_kernel_developer_ama/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Dec 01 16:02:42 +0000 2014](https://twitter.com/bruncedric/status/539449517310238720)
 
@@ -12091,13 +12091,13 @@ Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/5442168949038243
 
 ----
 
-> And here we are, Antlr-Runtime 4.3 is in Orbit ! You can unleash the PB CQs now ;) http://build.eclipse.org/orbit/committers/orbit-I/20141216132048/I20141216132048/
+> And here we are, Antlr-Runtime 4.3 is in Orbit ! You can unleash the PB CQs now ;) https://build.eclipse.org/orbit/committers/orbit-I/20141216132048/I20141216132048/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 16 17:05:48 +0000 2014](https://twitter.com/bruncedric/status/544901216896299008)
 
 ----
 
-> RT @fmadiot: 1ère conférence @NantesTech : c'est demain ! Présentation du volet international par Etienne Juliot http://blog.obeo.fr/post/lancement-nantes-tech-jeudi-18-decembre
+> RT @fmadiot: 1ère conférence @NantesTech : c'est demain ! Présentation du volet international par Etienne Juliot https://blog.obeo.fr/post/lancement-nantes-tech-jeudi-18-decembre
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 17 20:44:50 +0000 2014](https://twitter.com/bruncedric/status/545318724757385216)
 
@@ -12134,7 +12134,7 @@ Replying to [@filemonschoffer and @docfx](https://twitter.com/filemonschoffer/st
 > RT @EdwardTufte: Jeff Bezos banned #powerpoint at amazon, 
 > replaced with ET method for #presentations,
 > described here:
-> http://t.co/DlX32otN…
+> https://t.co/DlX32otN…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 26 19:53:05 +0000 2014](https://twitter.com/bruncedric/status/548567192451960832)
 
@@ -12252,7 +12252,7 @@ Replying to [@AdDelafosse](https://twitter.com/AdDelafosse/status/56155400322261
 
 ----
 
-> RT @_AxelRICHARD_: ♪ Last Call ♪ → #Eclipse demo camp in #Nantes tomorrow ! With @EclipseFdn @obeo_corp @CodenvyHQ @IS2T_News http://t.co/h…
+> RT @_AxelRICHARD_: ♪ Last Call ♪ → #Eclipse demo camp in #Nantes tomorrow ! With @EclipseFdn @obeo_corp @CodenvyHQ @IS2T_News https://t.co/h…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 04 09:29:26 +0000 2015](https://twitter.com/bruncedric/status/562905759634432000)
 
@@ -12283,7 +12283,7 @@ Replying to [@AdDelafosse](https://twitter.com/AdDelafosse/status/56155400322261
 
 ----
 
-> RT @chrisguindon: The #Eclipse Installer (based on #Oomph) is now available http://www.eclipse.org/downloads/index-developer.php
+> RT @chrisguindon: The #Eclipse Installer (based on #Oomph) is now available https://www.eclipse.org/downloads/index-developer.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 06 21:17:52 +0000 2015](https://twitter.com/bruncedric/status/563808820133367808)
 
@@ -12297,7 +12297,7 @@ Replying to [@droy_eclipse and @mikbarbero](https://twitter.com/droy_eclipse/sta
 
 ----
 
-> Starting the day by messing up git repositories on http://Eclipse.org ... Gonna be a long week !
+> Starting the day by messing up git repositories on https://Eclipse.org ... Gonna be a long week !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 09 10:16:51 +0000 2015](https://twitter.com/bruncedric/status/564729634202607616)
 
@@ -12419,13 +12419,13 @@ Replying to [@waynebeaton and @cra](https://twitter.com/waynebeaton/status/57067
 
 ----
 
-> RT @obeo_corp: Eclipse Luna SR2 packages are online http://ow.ly/JJ64m
+> RT @obeo_corp: Eclipse Luna SR2 packages are online https://ow.ly/JJ64m
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 27 15:26:09 +0000 2015](https://twitter.com/bruncedric/status/571330453908668417)
 
 ----
 
-> RT @obeo_corp: Obeo SmartEA 1.5.4 is released http://www.obeosmartea.com/en/resources/changelog #entarch
+> RT @obeo_corp: Obeo SmartEA 1.5.4 is released https://www.obeosmartea.com/en/resources/changelog #entarch
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 27 15:30:36 +0000 2015](https://twitter.com/bruncedric/status/571331572512759808)
 
@@ -12443,7 +12443,7 @@ Replying to [@waynebeaton and @cra](https://twitter.com/waynebeaton/status/57067
 
 ----
 
-> Obeo is giving Package Drone a test-drive (thanks to the OpenShift cartridge !) Quite impressed so far! http://packagedrone.org/2015/03/05/package-drone-on-openshift/
+> Obeo is giving Package Drone a test-drive (thanks to the OpenShift cartridge !) Quite impressed so far! https://packagedrone.org/2015/03/05/package-drone-on-openshift/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 05 15:18:28 +0000 2015](https://twitter.com/bruncedric/status/573502846856994816)
 
@@ -12469,14 +12469,14 @@ Replying to [@melaniebats](https://twitter.com/melaniebats/status/57444604680748
 
 ----
 
-> Gave my blog a facelift and a new domain name. What do you think ? http://cedric.brun.io/
+> Gave my blog a facelift and a new domain name. What do you think ? https://cedric.brun.io/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Mar 08 10:42:10 +0000 2015](https://twitter.com/bruncedric/status/574520478204715009)
 
 ----
 
 > Sirius 3.0M6 - Anchors for Non-rectangular Images #EclipseSirius
-> http://cedric.brun.io/eclipse/sirius-3.0M6-anchors/
+> https://cedric.brun.io/eclipse/sirius-3.0M6-anchors/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 09 16:53:47 +0000 2015](https://twitter.com/bruncedric/status/574976385774653440)
 
@@ -12508,7 +12508,7 @@ Replying to [@melaniebats](https://twitter.com/melaniebats/status/57444604680748
 
 ----
 
-> RT @fmadiot: If you find this stray cat in SF Hyatt, please bring it back to @melaniebats before her talk! Thanks! #eclipsecon http://t.co/…
+> RT @fmadiot: If you find this stray cat in SF Hyatt, please bring it back to @melaniebats before her talk! Thanks! #eclipsecon https://t.co/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 10 18:01:46 +0000 2015](https://twitter.com/bruncedric/status/575355881380012034)
 
@@ -12560,14 +12560,14 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/5753664281
 
 ----
 
-> RT @fmadiot: How to combine textual and graphical notation for your EMF models? Sirius + Xtext = ♥ by @mporhel 13:30 #eclipsecon http://t.c…
+> RT @fmadiot: How to combine textual and graphical notation for your EMF models? Sirius + Xtext = ♥ by @mporhel 13:30 #eclipsecon https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 11 13:53:16 +0000 2015](https://twitter.com/bruncedric/status/575655731069906944)
 
 ----
 
 > Eclipse Sirius, Obeo Designer and how Obeo makes a living from software
-> http://cedric.brun.io/eclipse/sirius-and-obeodesigner/ #opensource #blogpost
+> https://cedric.brun.io/eclipse/sirius-and-obeodesigner/ #opensource #blogpost
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 11 14:14:57 +0000 2015](https://twitter.com/bruncedric/status/575661188270440449)
 
@@ -12601,7 +12601,7 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/5753664281
 
 ----
 
-> RT @tomsontom: Media updloaded https://www.eclipsecon.org/na2015/session/what-can-efxclipse-do-you-develop-javafx-applications-and-ide-plugins, http://www.slideshare.net/TomSchindl/efxclipse-eclipse-con , workflow video http://youtu.be/wKb-rV6YwgQ #javafx #efxclipse #…
+> RT @tomsontom: Media updloaded https://www.eclipsecon.org/na2015/session/what-can-efxclipse-do-you-develop-javafx-applications-and-ide-plugins, https://www.slideshare.net/TomSchindl/efxclipse-eclipse-con , workflow video https://youtu.be/wKb-rV6YwgQ #javafx #efxclipse #…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 12 21:26:04 +0000 2015](https://twitter.com/bruncedric/status/576132072949055489)
 
@@ -12615,7 +12615,7 @@ Replying to [@PhilChip23](https://twitter.com/PhilChip23/status/5774103052334161
 
 ----
 
-> RT @franckytrichet: #Nantes 1ère métropole pour la création d'emplois #numerique 2008/2014 https://youtu.be/rn3DmlVP_nQ #FranceLiveTv http://t.c…
+> RT @franckytrichet: #Nantes 1ère métropole pour la création d'emplois #numerique 2008/2014 https://youtu.be/rn3DmlVP_nQ #FranceLiveTv https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 17 13:04:49 +0000 2015](https://twitter.com/bruncedric/status/577817867338543104)
 
@@ -12651,7 +12651,7 @@ Replying to [@szarnekow](https://twitter.com/szarnekow/status/578275081236930560
 
 ----
 
-> A new blog post from @melaniebats  featuring "House of Cards" and "Eclipse Sirius" : http://melb.enix.org/sirius/customize-diagrams-with-images/
+> A new blog post from @melaniebats  featuring "House of Cards" and "Eclipse Sirius" : https://melb.enix.org/sirius/customize-diagrams-with-images/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 19 13:02:50 +0000 2015](https://twitter.com/bruncedric/status/578542145331687424)
 
@@ -12696,7 +12696,7 @@ Replying to [@szarnekow](https://twitter.com/szarnekow/status/578275081236930560
 ----
 
 > BPMN Designer as been updated with many UX improvements.
-> http://marketplace.eclipse.org/content/bpmn-designer-eclipse-38-version
+> https://marketplace.eclipse.org/content/bpmn-designer-eclipse-38-version
 > 
 > Source code: https://github.com/ObeoNetwork/BPMN-Designer 
 > 
@@ -12824,13 +12824,13 @@ Replying to [@szarnekow](https://twitter.com/szarnekow/status/581366680586174464
 
 ----
 
-> RT @ejuliot: My shoulder has been hurt by an inflatable ball!! And it is not an April fool. #loose I am now waiting at hospital ;( http://t…
+> RT @ejuliot: My shoulder has been hurt by an inflatable ball!! And it is not an April fool. #loose I am now waiting at hospital ;( https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Apr 04 13:13:46 +0000 2015](https://twitter.com/bruncedric/status/584343102284029952)
 
 ----
 
-> RT @MarcelBruch: EclipseCon France 2015 - Add Your Talk to a Great Mix http://www.codetrails.com/blog/eclipsecon-france-2015-add-your-talk-great-mix
+> RT @MarcelBruch: EclipseCon France 2015 - Add Your Talk to a Great Mix https://www.codetrails.com/blog/eclipsecon-france-2015-add-your-talk-great-mix
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 08 18:43:27 +0000 2015](https://twitter.com/bruncedric/status/585875621395488768)
 
@@ -12856,7 +12856,7 @@ Replying to [@szarnekow](https://twitter.com/szarnekow/status/581366680586174464
 
 ----
 
-> Interpolated Color in Sirius http://melb.enix.org/sirius/refine-diagrams-with-interpolated-colors/ by @SteveMonnier #blogpost 
+> Interpolated Color in Sirius https://melb.enix.org/sirius/refine-diagrams-with-interpolated-colors/ by @SteveMonnier #blogpost 
 > 
 > ![]({{ site.url }}/media/588374225041371137-CCpTPVrW0AAPbAJ.png)
 
@@ -12938,7 +12938,7 @@ Replying to [@szarnekow](https://twitter.com/szarnekow/status/581366680586174464
 
 ----
 
-> Queries in #EclipseSirius and how to introduce "virtual" containers #maytheforcebewithyou  http://melb.enix.org/sirius/artificial-container/
+> Queries in #EclipseSirius and how to introduce "virtual" containers #maytheforcebewithyou  https://melb.enix.org/sirius/artificial-container/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 30 19:36:41 +0000 2015](https://twitter.com/bruncedric/status/593861549833396224)> Benchmarking Query implementations with Sirius 3.0 while M7 is being freezed. 
 > 
@@ -12987,7 +12987,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/5963587096195932
 
 ----
 
-> Number of issues and pull requests closed in the the last 5 weeks in UML Designer http://www.umldesigner.org/ 
+> Number of issues and pull requests closed in the the last 5 weeks in UML Designer https://www.umldesigner.org/ 
 > 
 > ![]({{ site.url }}/media/598089211334524928-CEzW982WIAAiUmZ.png)
 
@@ -12995,7 +12995,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/5963587096195932
 
 ----
 
-> RT @melaniebats: Unravelling the container within the container within the container… New blog post about #EclipseSirius : http://t.co/VQCk…
+> RT @melaniebats: Unravelling the container within the container within the container… New blog post about #EclipseSirius : https://t.co/VQCk…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 13 11:27:38 +0000 2015](https://twitter.com/bruncedric/status/598449518217187328)
 
@@ -13025,7 +13025,7 @@ Replying to [@AnatolySp](https://twitter.com/AnatolySp/status/600386559595057152
 
 ----
 
-> Having fun with http://typetodesign.com/ 
+> Having fun with https://typetodesign.com/ 
 > 
 > ![]({{ site.url }}/media/603208088846499841-CF8Gj2SWoAA-xDI.png)
 
@@ -13059,7 +13059,7 @@ Replying to [@AnatolySp](https://twitter.com/AnatolySp/status/600386559595057152
 
 ----
 
-> RT @adriancolyer: Is our focus on scalability at all costs leading us down the wrong path? http://blog.acolyer.org/?p=941 
+> RT @adriancolyer: Is our focus on scalability at all costs leading us down the wrong path? https://blog.acolyer.org/?p=941 
 > 
 > ![]({{ site.url }}/media/606896081553780737-CGv4queXIAAQ3Kk.jpg)
 
@@ -13067,7 +13067,7 @@ Replying to [@AnatolySp](https://twitter.com/AnatolySp/status/600386559595057152
 
 ----
 
-> http://www.infoq.com/presentations/core-async Yet another awesome presentation by Stuart Halloway : "core.async: Concurrency Without Callbacks"
+> https://www.infoq.com/presentations/core-async Yet another awesome presentation by Stuart Halloway : "core.async: Concurrency Without Callbacks"
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Jun 06 16:05:06 +0000 2015](https://twitter.com/bruncedric/status/607216653307379712)
 
@@ -13095,7 +13095,7 @@ Replying to [@AnatolySp](https://twitter.com/AnatolySp/status/600386559595057152
 
 Replying to [@dougschaefer](https://twitter.com/dougschaefer/status/608103816442036225)
 
-> Which is in Eclipse Orbit now, no excuse ;) http://download.eclipse.org/tools/orbit/downloads/drops/R20150519210750/
+> Which is in Eclipse Orbit now, no excuse ;) https://download.eclipse.org/tools/orbit/downloads/drops/R20150519210750/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 09 15:37:59 +0000 2015](https://twitter.com/bruncedric/status/608296994738741248)
 
@@ -13133,7 +13133,7 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 ----
 
-> "Fix-It Sirius !" Another great blog post by .@melaniebats  http://melb.enix.org/sirius/validation/ #EclipseSirius
+> "Fix-It Sirius !" Another great blog post by .@melaniebats  https://melb.enix.org/sirius/validation/ #EclipseSirius
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 10 16:57:19 +0000 2015](https://twitter.com/bruncedric/status/608679346656694272)
 
@@ -13176,13 +13176,13 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 ----
 
-> RT @MERgE_Project: MERgE modelling framework prototype demo by @jpe_obeo from @obeo_corp #MERgEPlenary http://t.co/1smMp3yaqE
+> RT @MERgE_Project: MERgE modelling framework prototype demo by @jpe_obeo from @obeo_corp #MERgEPlenary https://t.co/1smMp3yaqE
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 18 11:51:05 +0000 2015](https://twitter.com/bruncedric/status/611501383880155136)
 
 ----
 
-> Fascinating !  http://googleresearch.blogspot.fr/2015/06/inceptionism-going-deeper-into-neural.html?m=1
+> Fascinating !  https://googleresearch.blogspot.fr/2015/06/inceptionism-going-deeper-into-neural.html?m=1
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 18 18:27:28 +0000 2015](https://twitter.com/bruncedric/status/611601134315274241)
 
@@ -13238,7 +13238,7 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 ----
 
-> RT @sdtimes: .@EclipseFdn announces Mars release train with Java 8 and 9 features, Docker &amp; Gradle support http://hubs.ly/y0WQw70 http://t.…
+> RT @sdtimes: .@EclipseFdn announces Mars release train with Java 8 and 9 features, Docker &amp; Gradle support https://hubs.ly/y0WQw70 https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 24 14:22:27 +0000 2015](https://twitter.com/bruncedric/status/613713804707409920)
 
@@ -13250,7 +13250,7 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 ----
 
-> Looks like my presentation about Sirius 3.0 (at 2pm) will be streamed in live ! Awesome !  http://youtu.be/4LzafNP5HNk #eclipsecon
+> Looks like my presentation about Sirius 3.0 (at 2pm) will be streamed in live ! Awesome !  https://youtu.be/4LzafNP5HNk #eclipsecon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 25 09:44:59 +0000 2015](https://twitter.com/bruncedric/status/614006363472162817)
 
@@ -13268,13 +13268,13 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 ----
 
-> You'll find the "Breathe life into your Designer!" and "Sirius 3.0 : Faster, Stronger and Smarter" slides on http://cedric.brun.io/talks/
+> You'll find the "Breathe life into your Designer!" and "Sirius 3.0 : Faster, Stronger and Smarter" slides on https://cedric.brun.io/talks/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 26 13:23:14 +0000 2015](https://twitter.com/bruncedric/status/614423678105862144)
 
 ----
 
-> The "Breathe life into your Designer!" and "Sirius 3.0 : Faster, Stronger and Smarter" slides on http://cedric.brun.io/talks/ #eclipsecon
+> The "Breathe life into your Designer!" and "Sirius 3.0 : Faster, Stronger and Smarter" slides on https://cedric.brun.io/talks/ #eclipsecon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 26 13:32:03 +0000 2015](https://twitter.com/bruncedric/status/614425894321586176)
 
@@ -13282,19 +13282,19 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 > Sirius 3.0.0 is out and (you should expect it by now), here is an awesome blog post by .@melaniebats 
 > 
->  http://melb.enix.org/sirius/sirius-3-0/
+>  https://melb.enix.org/sirius/sirius-3-0/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 26 14:05:36 +0000 2015](https://twitter.com/bruncedric/status/614434337254166528)
 
 ----
 
-> RT @EclipsePlanet: Melanie Bats: Sirius 3.0 “Harder, Better, Faster, Stronger” http://bit.ly/1eM4JkX
+> RT @EclipsePlanet: Melanie Bats: Sirius 3.0 “Harder, Better, Faster, Stronger” https://bit.ly/1eM4JkX
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 26 14:13:43 +0000 2015](https://twitter.com/bruncedric/status/614436382342291456)
 
 ----
 
-> RT @Slate: Supreme Court rules gay marriage bans are unconstitutional, bringing marriage equality to U.S. http://slate.me/1QTw2e5 http://t.c…
+> RT @Slate: Supreme Court rules gay marriage bans are unconstitutional, bringing marriage equality to U.S. https://slate.me/1QTw2e5 https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 26 14:30:24 +0000 2015](https://twitter.com/bruncedric/status/614440581071286272)
 
@@ -13308,14 +13308,14 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 ----
 
-> RT @avandeursen: Nice write-up of @fogkreek's decision to dismantle their proprietary Wasabi domain-specific language and tools. http://t.c…
+> RT @avandeursen: Nice write-up of @fogkreek's decision to dismantle their proprietary Wasabi domain-specific language and tools. https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Jun 27 13:10:00 +0000 2015](https://twitter.com/bruncedric/status/614782733903110145)
 
 ----
 
 > RT @EclipseFdn: Happy to announce that the Eclipse Foundation now has a community code of conduct.
-> https://eclipse.org/org/documents/Community_Code_of_Conduct.php http://t.co/reEg…
+> https://eclipse.org/org/documents/Community_Code_of_Conduct.php https://t.co/reEg…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 29 05:36:27 +0000 2015](https://twitter.com/bruncedric/status/615393371302051841)
 
@@ -13327,7 +13327,7 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 30 11:45:54 +0000 2015](https://twitter.com/bruncedric/status/615848734660915200)> RT @OPCoach_Eclipse: Espace candidats Eclipse RCP - Service emploi
 > 
-> Si vous cherchez un poste Eclipse, j’ai quelques offres sympas… http://…
+> Si vous cherchez un poste Eclipse, j’ai quelques offres sympas… https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jul 01 11:42:47 +0000 2015](https://twitter.com/bruncedric/status/616210337122099200)
 
@@ -13354,7 +13354,7 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 ----
 
-> RT @milessabin: "In 26 hours [we] autotransplanted the H.264 video encoding functionality from the x264 system to [VLC]": http://t.co/CNshJ…
+> RT @milessabin: "In 26 hours [we] autotransplanted the H.264 video encoding functionality from the x264 system to [VLC]": https://t.co/CNshJ…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 02 16:36:27 +0000 2015](https://twitter.com/bruncedric/status/616646628779393024)
 
@@ -13368,7 +13368,7 @@ Replying to [@sbegaudeau and @roxannejoncas](https://twitter.com/sbegaudeau/stat
 
 ----
 
-> Note to future self: dumping all the p2 metadata from http://download.eclipse.org/releases/mars into a single HTML file leads to a big file (158Mb) #NotWorking
+> Note to future self: dumping all the p2 metadata from https://download.eclipse.org/releases/mars into a single HTML file leads to a big file (158Mb) #NotWorking
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 09 15:56:05 +0000 2015](https://twitter.com/bruncedric/status/619173184278003713)
 
@@ -13380,7 +13380,7 @@ Replying to [@sbegaudeau and @roxannejoncas](https://twitter.com/sbegaudeau/stat
 
 ----
 
-> RT @EclipsePlanet: InfoQ Eclipse feed: Presentation: Sirius + Xtext = ♥ http://bit.ly/1HiEsBR
+> RT @EclipsePlanet: InfoQ Eclipse feed: Presentation: Sirius + Xtext = ♥ https://bit.ly/1HiEsBR
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 10 17:49:32 +0000 2015](https://twitter.com/bruncedric/status/619564124796780544)
 
@@ -13482,7 +13482,7 @@ Replying to [@istvanrath](https://twitter.com/istvanrath/status/6242037746351759
 
 > New blog post : AQL - a new interpreter for Sirius
 > 
-> http://cedric.brun.io/eclipse/introducing-aql/
+> https://cedric.brun.io/eclipse/introducing-aql/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 18 13:23:08 +0000 2015](https://twitter.com/bruncedric/status/633630207140851712)
 
@@ -13494,7 +13494,7 @@ Replying to [@istvanrath](https://twitter.com/istvanrath/status/6242037746351759
 
 ----
 
-> We’ve been working on a new interpreter for Sirius which is small, fast, extensible and bring richer validation : http://cedric.brun.io/eclipse/introducing-aql/
+> We’ve been working on a new interpreter for Sirius which is small, fast, extensible and bring richer validation : https://cedric.brun.io/eclipse/introducing-aql/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Aug 19 09:03:11 +0000 2015](https://twitter.com/bruncedric/status/633927176845459456)
 
@@ -13528,7 +13528,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/635885
 
 ----
 
-> RT @gemocinitiative: The program of the GEMOC workshop is online http://gemoc.org/gemoc2015/#program cc @modelsconf
+> RT @gemocinitiative: The program of the GEMOC workshop is online https://gemoc.org/gemoc2015/#program cc @modelsconf
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 25 19:08:33 +0000 2015](https://twitter.com/bruncedric/status/636253850043813889)
 
@@ -13542,7 +13542,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/635885
 
 ----
 
-> RT @slacrampe: @obeo_fr Obeo recherche 2 développeurs java / Eclipse sur Paris et Toulouse, à vos CV ! http://www.obeo.fr/fr/societe/carrieres
+> RT @slacrampe: @obeo_fr Obeo recherche 2 développeurs java / Eclipse sur Paris et Toulouse, à vos CV ! https://www.obeo.fr/fr/societe/carrieres
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 27 09:41:54 +0000 2015](https://twitter.com/bruncedric/status/636836025164296192)
 
@@ -13556,7 +13556,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/635885
 
 ----
 
-> "Top 10 Up and Coming Solutions" : UML Designer is #2 and Obeo Designer is #7 !   http://www.eclipse.org/community/eclipse_newsletter/2015/august/top10_2015.php
+> "Top 10 Up and Coming Solutions" : UML Designer is #2 and Obeo Designer is #7 !   https://www.eclipse.org/community/eclipse_newsletter/2015/august/top10_2015.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 27 18:29:50 +0000 2015](https://twitter.com/bruncedric/status/636968881819664384)
 
@@ -13578,7 +13578,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/635885
 > 
 > ![]({{ site.url }}/media/638316834807156736-CNvBxz4W8AAckBb.png)
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 31 11:46:07 +0000 2015](https://twitter.com/bruncedric/status/638316834807156736)> Today I figured a zip editor in Eclipse would make many of my workflows simpler. Here it is : http://marketplace.eclipse.org/content/eclipse-zip-editor !
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 31 11:46:07 +0000 2015](https://twitter.com/bruncedric/status/638316834807156736)> Today I figured a zip editor in Eclipse would make many of my workflows simpler. Here it is : https://marketplace.eclipse.org/content/eclipse-zip-editor !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 01 08:42:54 +0000 2015](https://twitter.com/bruncedric/status/638633113682341888)
 
@@ -13599,7 +13599,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6386331136823418
 
 ----
 
-> RT @xkcdComic: xkcd Survey http://xkcd.com/1572/ http://m.xkcd.com/1572/ 
+> RT @xkcdComic: xkcd Survey https://xkcd.com/1572/ https://m.xkcd.com/1572/ 
 > 
 > ![]({{ site.url }}/media/639033689813467136-CN5KozQUwAAFv2B.png)
 
@@ -13631,20 +13631,20 @@ Replying to [@vogella and @stampiehun](https://twitter.com/vogella/status/639097
 
 ----
 
-> The call for papers for SiriusCon 2015 is published : http://www.siriuscon.org/
+> The call for papers for SiriusCon 2015 is published : https://www.siriuscon.org/
 > Just drop us an email for submitting an abstract !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 04 09:23:19 +0000 2015](https://twitter.com/bruncedric/status/639730450664161280)
 
 ----
 
-> RT @fmadiot: I don´t read Japanese but it seems to be a complete presentation about #EclipseSirius ;-) http://www.slideshare.net/KazuhiroShibuya/20150901-eclipse-sirius-52384348
+> RT @fmadiot: I don´t read Japanese but it seems to be a complete presentation about #EclipseSirius ;-) https://www.slideshare.net/KazuhiroShibuya/20150901-eclipse-sirius-52384348
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 09 09:54:30 +0000 2015](https://twitter.com/bruncedric/status/641550237430087680)
 
 ----
 
-> RT @EclipsePlanet: Frederic Madiot: SiriusCon Paris 2015: Be Part of the Program! http://bit.ly/1J277e3
+> RT @EclipsePlanet: Frederic Madiot: SiriusCon Paris 2015: Be Part of the Program! https://bit.ly/1J277e3
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 11 12:16:35 +0000 2015](https://twitter.com/bruncedric/status/642310769145716736)
 
@@ -13656,7 +13656,7 @@ Replying to [@vogella and @stampiehun](https://twitter.com/vogella/status/639097
 
 ----
 
-> RT @obeo_fr: Il y avait un peu d'Obeo au triathlon de #LaBaule @TriatAudencia... Bravo à Laurent, Julien &amp; Maxime ! #TriALB http://t.co/3R9…
+> RT @obeo_fr: Il y avait un peu d'Obeo au triathlon de #LaBaule @TriatAudencia... Bravo à Laurent, Julien &amp; Maxime ! #TriALB https://t.co/3R9…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 21 12:48:04 +0000 2015](https://twitter.com/bruncedric/status/645942572498690048)
 
@@ -13686,7 +13686,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/6477142756125777
 
 ----
 
-> UML Designer's bits (update-sites and bundles) are now distributed using Amazon's CDN : fast DL all over the world ! http://www.umldesigner.org/download/
+> UML Designer's bits (update-sites and bundles) are now distributed using Amazon's CDN : fast DL all over the world ! https://www.umldesigner.org/download/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 28 14:12:01 +0000 2015](https://twitter.com/bruncedric/status/648500412715278336)> RT @mickaelistria: Tricky question: How many/what share of #Eclipse IDE users have adopted Project Explorer with Hierarchical project layou…
 
@@ -13694,7 +13694,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/6477142756125777
 
 ----
 
-> RT @obeo_fr: Technologies de modélisation, solutions #OpenSource... #Models15 c'était top ! http://blog.obeo.fr/post/obeo-a-ottawa-pour-models-2015 #EclipseSirius http://t.…
+> RT @obeo_fr: Technologies de modélisation, solutions #OpenSource... #Models15 c'était top ! https://blog.obeo.fr/post/obeo-a-ottawa-pour-models-2015 #EclipseSirius https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 05 08:31:48 +0000 2015](https://twitter.com/bruncedric/status/650951509845372928)
 
@@ -13714,7 +13714,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/6477142756125777
 
 ----
 
-> RT @EclipseSirius: Join the #EclipseSirius community: welcome on board! http://eclipse.org/sirius/ 
+> RT @EclipseSirius: Join the #EclipseSirius community: welcome on board! https://eclipse.org/sirius/ 
 > 
 > ![]({{ site.url }}/media/652507561434980352-CQ4mjBzWgAAgj53.png)
 
@@ -13762,7 +13762,7 @@ Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/6576616781008732
 
 ----
 
-> RT @EclipseSirius: Discover #SiriusCon great program http://www.siriuscon.org/#program One month left: register now! #OpenSource #EclipseSirius https…
+> RT @EclipseSirius: Discover #SiriusCon great program https://www.siriuscon.org/#program One month left: register now! #OpenSource #EclipseSirius https…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 03 16:27:37 +0000 2015](https://twitter.com/bruncedric/status/661580498439901184)
 
@@ -13790,7 +13790,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6615879844882759
 
 ----
 
-> RT @Obeo_Corp: Spotted @laurentdelaigue @bruncedric @ejuliot @EclipseCon EU! http://buff.ly/1OnRu9p http://buff.ly/1krBXIz #EclipseConSpi…
+> RT @Obeo_Corp: Spotted @laurentdelaigue @bruncedric @ejuliot @EclipseCon EU! https://buff.ly/1OnRu9p https://buff.ly/1krBXIz #EclipseConSpi…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 04 09:08:20 +0000 2015](https://twitter.com/bruncedric/status/661832337743810560)
 
@@ -13875,7 +13875,7 @@ Replying to [@bruncedric](https://twitter.com/roxannejoncas/status/6641844654056
 
 ----
 
-> #siriuscon is in 3 weeks ! The event is free, but places are limited! Register *now* http://www.siriuscon.org/ 
+> #siriuscon is in 3 weeks ! The event is free, but places are limited! Register *now* https://www.siriuscon.org/ 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/664794910713888768-CTnTcpNWwAAZmHy.mp4">Your browser does not support the video tag.</video>
 
@@ -13899,13 +13899,13 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6648526912235028
 
 ----
 
-> If you are not aware of the more advanced features of EcoreTools, you'll find information in this blog post http://cedric.brun.io/ecoretools-20-luna-revival/
+> If you are not aware of the more advanced features of EcoreTools, you'll find information in this blog post https://cedric.brun.io/ecoretools-20-luna-revival/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 13 09:43:18 +0000 2015](https://twitter.com/bruncedric/status/665102630830661632)
 
 ----
 
-> RT @gemocinitiative: Book "Globalizing Domain-Specific Languages" http://www.springer.com/us/book/9783319261713 Dagstuhl http://www.dagstuhl.de/14412 cc @dagstuhl htt…
+> RT @gemocinitiative: Book "Globalizing Domain-Specific Languages" https://www.springer.com/us/book/9783319261713 Dagstuhl https://www.dagstuhl.de/14412 cc @dagstuhl htt…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 13 10:48:24 +0000 2015](https://twitter.com/bruncedric/status/665119011739410432)
 
@@ -13969,7 +13969,7 @@ Replying to [@vcaselli and @EclipseFdn](https://twitter.com/vcaselli/status/6662
 
 ----
 
-> RT @eclipsecon: Session Proposal: Modeling Avengers : Open Source Technology Mix for Saving the World http://bit.ly/1SLm8Yq #EclipseCon
+> RT @eclipsecon: Session Proposal: Modeling Avengers : Open Source Technology Mix for Saving the World https://bit.ly/1SLm8Yq #EclipseCon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 20 13:38:55 +0000 2015](https://twitter.com/bruncedric/status/667698640702611456)
 
@@ -13983,7 +13983,7 @@ Replying to [@vcaselli and @EclipseFdn](https://twitter.com/vcaselli/status/6662
 
 ----
 
-> Just proposed a talk mixing Eclipse Modeling, @optaplanner, @EclipseSirius, @xtext &amp; @gemocinitiative among others http://buff.ly/1MYUuTj
+> Just proposed a talk mixing Eclipse Modeling, @optaplanner, @EclipseSirius, @xtext &amp; @gemocinitiative among others https://buff.ly/1MYUuTj
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 20 15:00:37 +0000 2015](https://twitter.com/bruncedric/status/667719197749862400)
 
@@ -13999,7 +13999,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/66782068
 
 > RT @atanaka: Eclipse Sirius hands-on (intro #1) in Tokyo scheduled:
 > 
-> http://mbsdcjapan.connpass.com/event/22995/
+> https://mbsdcjapan.connpass.com/event/22995/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Nov 21 06:25:50 +0000 2015](https://twitter.com/bruncedric/status/667952036890193920)
 
@@ -14061,7 +14061,7 @@ Replying to [@bruncedric](https://twitter.com/alex_morel_/status/668805826862272
 
 ----
 
-> RT @EclipsePlanet: Annamalai Chockalingam: CodeRASPIDe to go bright with Sirius http://bit.ly/1PmGYzG
+> RT @EclipsePlanet: Annamalai Chockalingam: CodeRASPIDe to go bright with Sirius https://bit.ly/1PmGYzG
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 30 07:43:06 +0000 2015](https://twitter.com/bruncedric/status/671232973564477440)
 
@@ -14073,7 +14073,7 @@ Replying to [@bruncedric](https://twitter.com/alex_morel_/status/668805826862272
 
 ----
 
-> "SIRIUS is AWESOME" nice start for this week: RASPIde might use #EclipseSirius to design  the Raspberry Pi hw wiring http://buff.ly/1TmIOPI
+> "SIRIUS is AWESOME" nice start for this week: RASPIde might use #EclipseSirius to design  the Raspberry Pi hw wiring https://buff.ly/1TmIOPI
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 30 12:00:11 +0000 2015](https://twitter.com/bruncedric/status/671297668967198720)
 
@@ -14213,7 +14213,7 @@ Replying to [@TristanFAURE, @Samuel_Rochet, @stalew, @EMFForms and @PapyrusUML](
 
 ----
 
-> The slides I just presented are there : http://cedric.brun.io/talks/SiriusOriginsPresentFuture/#/  #SiriusCon
+> The slides I just presented are there : https://cedric.brun.io/talks/SiriusOriginsPresentFuture/#/  #SiriusCon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Dec 03 14:54:14 +0000 2015](https://twitter.com/bruncedric/status/672428635865894912)
 
@@ -14301,7 +14301,7 @@ Replying to [@bcombemale and @DiverSE_inria](https://twitter.com/bcombemale/stat
 
 ----
 
-> RT @abt_programming: The Three Laws of Robotics http://xkcd.com/1613/ 
+> RT @abt_programming: The Three Laws of Robotics https://xkcd.com/1613/ 
 > 
 > ![]({{ site.url }}/media/673787273436090369-CVmy7iqXIAElhxe.png)
 
@@ -14309,13 +14309,13 @@ Replying to [@bcombemale and @DiverSE_inria](https://twitter.com/bcombemale/stat
 
 ----
 
-> RT @ctron: Just deployed, for the first time, a #packagrdrone build from the HIPP instance to http://packagedrone.eclipse.org ... Hooray!
+> RT @ctron: Just deployed, for the first time, a #packagrdrone build from the HIPP instance to https://packagedrone.eclipse.org ... Hooray!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Dec 07 22:18:34 +0000 2015](https://twitter.com/bruncedric/status/673990005715505152)
 
 ----
 
-> RT @EclipseSirius: #SiriusCon @bruncedric's slides on the #EclipseSirius roadmap: "origins, present, future" http://fr.slideshare.net/Obeo_corp/siriuscon-2015-sirius-roadmap https:…
+> RT @EclipseSirius: #SiriusCon @bruncedric's slides on the #EclipseSirius roadmap: "origins, present, future" https://fr.slideshare.net/Obeo_corp/siriuscon-2015-sirius-roadmap https:…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 08 09:29:08 +0000 2015](https://twitter.com/bruncedric/status/674158760043159552)
 
@@ -14584,7 +14584,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6877123167549235
 
 > My team finished on third position ! #WeAreObeo
 > 
-> http://obeo10years.herokuapp.com/#/leaderboard
+> https://obeo10years.herokuapp.com/#/leaderboard
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 21 10:04:08 +0000 2016](https://twitter.com/bruncedric/status/690112633186418690)
 
@@ -14592,7 +14592,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6877123167549235
 
 > Nice ! I got a special mention in the latest Mattermost blog post ! 
 > 
-> http://www.mattermost.org/mattermost-v1-4-docs-data-centers-developer-mode/ 
+> https://www.mattermost.org/mattermost-v1-4-docs-data-centers-developer-mode/ 
 > 
 > ![]({{ site.url }}/media/690115859902234624-CZPIt6aWEAQhGLl.jpg)
 
@@ -14630,13 +14630,13 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/690587723732762626)
 
 ----
 
-> Wrote a small piece about what is going on in AQL and Sirius http://cedric.brun.io/eclipse/news-on-the-aql-front/
+> Wrote a small piece about what is going on in AQL and Sirius https://cedric.brun.io/eclipse/news-on-the-aql-front/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 25 19:34:20 +0000 2016](https://twitter.com/bruncedric/status/691705681704009729)
 
 ----
 
-> Also added a bit more content for beginners in the doc : http://www.eclipse.org/acceleo/documentation/
+> Also added a bit more content for beginners in the doc : https://www.eclipse.org/acceleo/documentation/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 25 19:37:26 +0000 2016](https://twitter.com/bruncedric/status/691706461701935104)
 
@@ -14658,7 +14658,7 @@ Replying to [@_AxelRICHARD_](https://twitter.com/_AxelRICHARD_/status/6918929482
 
 ----
 
-> RT @Obeo_Corp: 10 years old, a new chapter, a new logo: Obeo forges ahead into 2016! http://blog.obeo.fr/en/post/obeo-10th-birthday 
+> RT @Obeo_Corp: 10 years old, a new chapter, a new logo: Obeo forges ahead into 2016! https://blog.obeo.fr/en/post/obeo-10th-birthday 
 > 
 > ![]({{ site.url }}/media/692301193704521728-CZuLpyhWAAAH5fa.jpg)
 
@@ -14686,7 +14686,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6923714282267852
 
 ----
 
-> RT @eclipsecon: Mixing #opensource technology to save the world w/ @bruncedric @bcombemale http://eclip.se/7d #EclipseCon #talks
+> RT @eclipsecon: Mixing #opensource technology to save the world w/ @bruncedric @bcombemale https://eclip.se/7d #EclipseCon #talks
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 27 19:01:30 +0000 2016](https://twitter.com/bruncedric/status/692422195327410176)
 
@@ -14698,7 +14698,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6923714282267852
 
 ----
 
-> Looking at old blog posts : this is the very first public appearance of the legendary "Chocolate Commit", circa 2007 http://cedric.brun.io/chocolate-commit/
+> Looking at old blog posts : this is the very first public appearance of the legendary "Chocolate Commit", circa 2007 https://cedric.brun.io/chocolate-commit/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 28 09:59:23 +0000 2016](https://twitter.com/bruncedric/status/692648152764174338)
 
@@ -14728,7 +14728,7 @@ Replying to [@_AxelRICHARD_ and @sbegaudeau](https://twitter.com/bruncedric/stat
 
 ----
 
-> Obeo Turns 10 : What was the most important thing in these 10 years ? http://buff.ly/1NEYloA 
+> Obeo Turns 10 : What was the most important thing in these 10 years ? https://buff.ly/1NEYloA 
 > 
 > ![]({{ site.url }}/media/692992408934596608-CZ4A610WAAAZ6xq.jpg)
 > 
@@ -14740,7 +14740,7 @@ Replying to [@_AxelRICHARD_ and @sbegaudeau](https://twitter.com/bruncedric/stat
 
 ----
 
-> I wrote a post about what has been going on in "Acceleo Query Language" recently : http://buff.ly/1ZY6Ulm 
+> I wrote a post about what has been going on in "Acceleo Query Language" recently : https://buff.ly/1ZY6Ulm 
 > 
 > ![]({{ site.url }}/media/693071670328889344-CZ5JAxMWYAA-lrG.png)
 
@@ -14748,7 +14748,7 @@ Replying to [@_AxelRICHARD_ and @sbegaudeau](https://twitter.com/bruncedric/stat
 
 ----
 
-> RT @Obeo_Fr: Quand nos amis &amp; partenaires nous souhaitent un bon anniversaire, on ne peut que partager ! http://blog.obeo.fr/post/10-ans-de-obeo-vous-avez-un-nouveau-message https://t.…
+> RT @Obeo_Fr: Quand nos amis &amp; partenaires nous souhaitent un bon anniversaire, on ne peut que partager ! https://blog.obeo.fr/post/10-ans-de-obeo-vous-avez-un-nouveau-message https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 29 15:12:22 +0000 2016](https://twitter.com/bruncedric/status/693089306727075840)
 
@@ -14808,13 +14808,13 @@ Replying to [@mickaelistria and @eclipsecon](https://twitter.com/mickaelistria/s
 
 Replying to [@bruncedric](https://twitter.com/bruncedric/status/694569193010810880)
 
-> More readable here : http://i.imgur.com/Wm1f42p.png
+> More readable here : https://i.imgur.com/Wm1f42p.png
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Feb 02 17:14:30 +0000 2016](https://twitter.com/bruncedric/status/694569595705933824)
 
 ----
 
-> Looks like the graph could be misleading as &lt;% expressions were aligned with the AQL bars. Here is a fixed version: http://i.imgur.com/W9QhBTT.png
+> Looks like the graph could be misleading as &lt;% expressions were aligned with the AQL bars. Here is a fixed version: https://i.imgur.com/W9QhBTT.png
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 03 11:28:44 +0000 2016](https://twitter.com/bruncedric/status/694844966632345601)
 
@@ -14882,7 +14882,7 @@ Replying to [@jankoehnlein](https://twitter.com/jankoehnlein/status/697369164177
 
 ----
 
-> RT @mariofusco: instanceof operator and Visitor pattern replacement in Java 8 http://www.nurkiewicz.com/2013/09/instanceof-operator-and-visitor-pattern.html?m=1 &lt;&lt; good example of small but useful J…
+> RT @mariofusco: instanceof operator and Visitor pattern replacement in Java 8 https://www.nurkiewicz.com/2013/09/instanceof-operator-and-visitor-pattern.html?m=1 &lt;&lt; good example of small but useful J…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 18 12:53:30 +0000 2016](https://twitter.com/bruncedric/status/700302118243196929)
 
@@ -14912,7 +14912,7 @@ Replying to [@bruncedric](https://twitter.com/mcartaud/status/700621521325133824
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon NA: This year again, Obeo will be highly visible in the program! http://blog.obeo.fr/en/post/avengers-sirius-a-robot-obeo-s-landing-at-eclipsecon-north-america #OpenSource https://t.c…
+> RT @Obeo_Corp: #EclipseCon NA: This year again, Obeo will be highly visible in the program! https://blog.obeo.fr/en/post/avengers-sirius-a-robot-obeo-s-landing-at-eclipsecon-north-america #OpenSource https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 26 09:34:36 +0000 2016](https://twitter.com/bruncedric/status/703151167883194368)
 
@@ -15062,13 +15062,13 @@ Replying to [@mporhel and @roxannejoncas](https://twitter.com/mporhel/status/706
 
 ----
 
-> RT @bcombemale: Model Simulation, Animation and Debugging with the GEMOC studio: http://gemoc.org/breathe-life-into-your-designer/ cc @gemocinitiative @Obeo_Fr  @bru…
+> RT @bcombemale: Model Simulation, Animation and Debugging with the GEMOC studio: https://gemoc.org/breathe-life-into-your-designer/ cc @gemocinitiative @Obeo_Fr  @bru…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 07 15:56:42 +0000 2016](https://twitter.com/bruncedric/status/706871204196519937)
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon NA: here we are! Do not miss these two talks: http://buff.ly/1UEyXqU poke @bruncedric @mporhel @ejuliot @bcombe…
+> RT @Obeo_Corp: #EclipseCon NA: here we are! Do not miss these two talks: https://buff.ly/1UEyXqU poke @bruncedric @mporhel @ejuliot @bcombe…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 07 16:24:15 +0000 2016](https://twitter.com/bruncedric/status/706878134780616704)
 
@@ -15124,7 +15124,7 @@ Replying to [@droy_eclipse and @guw](https://twitter.com/droy_eclipse/status/707
 
 ----
 
-> "Modeling Avengers : OSS Technology Mix For Saving the World", slides are here: http://buff.ly/1OYIqly #eclipsecon 
+> "Modeling Avengers : OSS Technology Mix For Saving the World", slides are here: https://buff.ly/1OYIqly #eclipsecon 
 > 
 > ![]({{ site.url }}/media/707295455353430017-CdDReAFWEAAX09d.jpg)
 > 
@@ -15134,7 +15134,7 @@ Replying to [@droy_eclipse and @guw](https://twitter.com/droy_eclipse/status/707
 
 ----
 
-> RT @Gerry_Nevarez: @bruncedric shows how EMF and @Inria help French farmers use water efficiently #EclipseCon http://cedric.brun.io/talks/ModelingAvengers/ https…
+> RT @Gerry_Nevarez: @bruncedric shows how EMF and @Inria help French farmers use water efficiently #EclipseCon https://cedric.brun.io/talks/ModelingAvengers/ https…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 08 20:02:52 +0000 2016](https://twitter.com/bruncedric/status/707295539445047298)
 
@@ -15178,7 +15178,7 @@ Replying to [@droy_eclipse and @guw](https://twitter.com/droy_eclipse/status/707
 
 ----
 
-> More information about the model debugging and animation capabilities http://gemoc.org/breathe-life-into-your-designer/ cc @atanaka
+> More information about the model debugging and animation capabilities https://gemoc.org/breathe-life-into-your-designer/ cc @atanaka
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 09 14:42:57 +0000 2016](https://twitter.com/bruncedric/status/707577417095712771)
 
@@ -15320,7 +15320,7 @@ Replying to [@EclipseScience and @42aross](https://twitter.com/EclipseScience/st
 
 ----
 
-> RT @Werner: 10 Lessons from 10 Years of Amazon Web Services - #AWS #AllThingsDistributed http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html 
+> RT @Werner: 10 Lessons from 10 Years of Amazon Web Services - #AWS #AllThingsDistributed https://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html 
 > 
 > ![]({{ site.url }}/media/708319404845604865-CdRq6OZUAAA1KAp.jpg)
 
@@ -15337,7 +15337,7 @@ Replying to [@EclipseScience and @42aross](https://twitter.com/EclipseScience/st
 ----
 
 > If you need a pdf, I also published the "Modeling Avengers" slides here
-> http://fr.slideshare.net/cbrun/modeling-avengers-open-source-technology-mix-for-saving-the-world?utm_source=slideshow&utm_medium=ssemail&utm_campaign=post_upload_view_cta
+> https://fr.slideshare.net/cbrun/modeling-avengers-open-source-technology-mix-for-saving-the-world?utm_source=slideshow&utm_medium=ssemail&utm_campaign=post_upload_view_cta
 > #EclipseCon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 15 09:10:50 +0000 2016](https://twitter.com/bruncedric/status/709668165739917313)
@@ -15345,7 +15345,7 @@ Replying to [@EclipseScience and @42aross](https://twitter.com/EclipseScience/st
 ----
 
 > "In the OSS avengers EMF is the captain: both the leader and the glue."
-> http://cedric.brun.io/talks/ModelingAvengers/#/5 
+> https://cedric.brun.io/talks/ModelingAvengers/#/5 
 > 
 > ![]({{ site.url }}/media/709676822057885696-CdlHTxcWoAAlEyN.jpg)
 
@@ -15369,7 +15369,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/7097824938687283
 
 ----
 
-> On my way to Paris for a @gemocinitiative  workshop: Heterogeneous DSL's, execution, animation...should be fun ! http://gemoc.org/
+> On my way to Paris for a @gemocinitiative  workshop: Heterogeneous DSL's, execution, animation...should be fun ! https://gemoc.org/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 16 05:44:00 +0000 2016](https://twitter.com/bruncedric/status/709978502607609856)
 
@@ -15417,13 +15417,13 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/7101057896172748
 
 ----
 
-> RT @hmori: [UML Designer] http://www.umldesigner.org 良さそうなツールだけど、難しい
+> RT @hmori: [UML Designer] https://www.umldesigner.org 良さそうなツールだけど、難しい
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 16 22:09:48 +0000 2016](https://twitter.com/bruncedric/status/710226588919578625)
 
 ----
 
-> RT @programmierung: UML Designer 5.0 für Eclipse Mars.1 installieren http://ift.tt/1IOs3we
+> RT @programmierung: UML Designer 5.0 für Eclipse Mars.1 installieren https://ift.tt/1IOs3we
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 16 22:12:28 +0000 2016](https://twitter.com/bruncedric/status/710227258020122625)
 
@@ -15457,7 +15457,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/7101057896172748
 
 Replying to [@ChrisOnJava](https://twitter.com/ChrisOnJava/status/710369812929769472)
 
-> Weird.. It's working from here. In case its the redirect which make it fail, here is the original URL : http://cedric.brun.io/talks/ModelingAvengers/
+> Weird.. It's working from here. In case its the redirect which make it fail, here is the original URL : https://cedric.brun.io/talks/ModelingAvengers/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 17 07:59:14 +0000 2016](https://twitter.com/bruncedric/status/710374921424080896)
 
@@ -15559,7 +15559,7 @@ Replying to [@bruncedric](https://twitter.com/bcombemale/status/7104156030356725
 
 ----
 
-> Pimp your presentation with quotes from "The Simpsons" thanks to http://buff.ly/1UKtIUy 
+> Pimp your presentation with quotes from "The Simpsons" thanks to https://buff.ly/1UKtIUy 
 > 
 > ![]({{ site.url }}/media/710738815586066432-Cd0NL99W4AIVr48.jpg)
 
@@ -15567,7 +15567,7 @@ Replying to [@bruncedric](https://twitter.com/bcombemale/status/7104156030356725
 
 ----
 
-> Let's be very humble and bring this as a new poster for the office !  (I'm kidding !) http://buff.ly/22mW4vP 
+> Let's be very humble and bring this as a new poster for the office !  (I'm kidding !) https://buff.ly/22mW4vP 
 > 
 > ![]({{ site.url }}/media/710847551424045057-Cd1wFOgWoAIaEVn.jpg)
 
@@ -15583,13 +15583,13 @@ Replying to [@bruncedric](https://twitter.com/bcombemale/status/7104156030356725
 
 ----
 
-> RT @gemocinitiative: The slides of the final workshop of the ANR GEMOC are available at http://gemoc.org/ins-workshop/ cc @AgenceRecherche https:/…
+> RT @gemocinitiative: The slides of the final workshop of the ANR GEMOC are available at https://gemoc.org/ins-workshop/ cc @AgenceRecherche https:/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 21 07:47:54 +0000 2016](https://twitter.com/bruncedric/status/711821623914078208)
 
 ----
 
-> GTK3 support for SWT is coming together, the Neon release will bring major improvements in this regard. http://buff.ly/1Ro6qQS
+> GTK3 support for SWT is coming together, the Neon release will bring major improvements in this regard. https://buff.ly/1Ro6qQS
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 21 08:00:49 +0000 2016](https://twitter.com/bruncedric/status/711824871723036672)
 
@@ -15617,7 +15617,7 @@ Replying to [@bruncedric](https://twitter.com/bcombemale/status/7104156030356725
 
 > Sweet Eclipse kinda made the buzz during @EclipseCon, let's make the desktop IDE better! 
 > 
-> http://buff.ly/1MoDfvM
+> https://buff.ly/1MoDfvM
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 22 08:05:08 +0000 2016](https://twitter.com/bruncedric/status/712188346668326913)
 
@@ -15702,13 +15702,13 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7129999793637294
 
 ----
 
-> Looking for datasets to build big yet meaningful models ? You might find this list useful: "Awesome Public Datasets" http://buff.ly/1HfQrEu
+> Looking for datasets to build big yet meaningful models ? You might find this list useful: "Awesome Public Datasets" https://buff.ly/1HfQrEu
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 25 13:20:05 +0000 2016](https://twitter.com/bruncedric/status/713354770354999296)
 
 ----
 
-> tcpdump, wireshark , tools which should be part of every developer toolbox. http://buff.ly/1Z4b6RH 
+> tcpdump, wireshark , tools which should be part of every developer toolbox. https://buff.ly/1Z4b6RH 
 > 
 > ![]({{ site.url }}/media/714347566809399296-CenfU8HWIAAHzI6.jpg)
 
@@ -15717,7 +15717,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7129999793637294
 ----
 
 > Those charts on Amazon's business should make everybody pause for a bit.
-> http://buff.ly/22JRqbp 
+> https://buff.ly/22JRqbp 
 > 
 > ![]({{ site.url }}/media/715071573342990336-CexxzqnWsAAOKHa.jpg)
 
@@ -15731,7 +15731,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7129999793637294
 
 ----
 
-> #Eclipse Neon M6 landed !  I compiled a list of recent changes for you  http://cedric.brun.io/eclipse/eclipse-4.6.0M6/ 
+> #Eclipse Neon M6 landed !  I compiled a list of recent changes for you  https://cedric.brun.io/eclipse/eclipse-4.6.0M6/ 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/715186583931117568-CezaDXyWIAEWQC2.mp4">Your browser does not support the video tag.</video>
 
@@ -15739,7 +15739,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7129999793637294
 
 ----
 
-> We got it, you really wanted the "Specify border nodes side" feature. Now give it a shot! http://buff.ly/1Ryv3ey 
+> We got it, you really wanted the "Specify border nodes side" feature. Now give it a shot! https://buff.ly/1Ryv3ey 
 > 
 > ![]({{ site.url }}/media/715436246655496192-Ce29echWIAA2c4v.jpg)
 
@@ -15747,7 +15747,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7129999793637294
 
 ----
 
-> 3 years ago,  "Introducing Eclipse Sirius" http://cedric.brun.io/introducing-eclipse-sirius/ 
+> 3 years ago,  "Introducing Eclipse Sirius" https://cedric.brun.io/introducing-eclipse-sirius/ 
 > 
 > ![]({{ site.url }}/media/715470345034018817-Ce3cfLMUkAA62XJ.jpg)
 
@@ -15761,7 +15761,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7129999793637294
 
 ----
 
-> At last I scratched this itch: high resolution diagram export for Sirius. Before: http://i.imgur.com/UWAdICI.jpg / After: http://i.imgur.com/bFEkQlX.jpg
+> At last I scratched this itch: high resolution diagram export for Sirius. Before: https://i.imgur.com/UWAdICI.jpg / After: https://i.imgur.com/bFEkQlX.jpg
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 31 19:35:22 +0000 2016](https://twitter.com/bruncedric/status/715623539777384448)
 
@@ -15805,7 +15805,7 @@ Replying to [@darkjabberwock and @sbegaudeau](https://twitter.com/darkjabberwock
 
 ----
 
-> RT @Obeo_Fr: #Québec : 10 choses à savoir ce lundi http://buff.ly/1Yb2OXi via @la_lesaffaires #numérique #FrenchTech #OpenSource https://t…
+> RT @Obeo_Fr: #Québec : 10 choses à savoir ce lundi https://buff.ly/1Yb2OXi via @la_lesaffaires #numérique #FrenchTech #OpenSource https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 04 15:47:17 +0000 2016](https://twitter.com/bruncedric/status/717015694710333440)
 
@@ -15823,7 +15823,7 @@ Replying to [@darkjabberwock and @sbegaudeau](https://twitter.com/darkjabberwock
 
 ----
 
-> A very good website for finding photos for your presentations : http://buff.ly/1UicHUD really useful to me lately! 
+> A very good website for finding photos for your presentations : https://buff.ly/1UicHUD really useful to me lately! 
 > 
 > ![]({{ site.url }}/media/717246668966592512-CfQsC4gW8AET_K4.jpg)
 
@@ -15831,13 +15831,13 @@ Replying to [@darkjabberwock and @sbegaudeau](https://twitter.com/darkjabberwock
 
 ----
 
-> RT @Obeo_Corp: #Quebec @csa_asc's rovers on Mars? Yes we can with @SFLinux! Watch on @CTVMontreal: http://montreal.ctvnews.ca/mobile/video?playlistId=1.2844645 https://t.co/qg9…
+> RT @Obeo_Corp: #Quebec @csa_asc's rovers on Mars? Yes we can with @SFLinux! Watch on @CTVMontreal: https://montreal.ctvnews.ca/mobile/video?playlistId=1.2844645 https://t.co/qg9…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 05 08:35:13 +0000 2016](https://twitter.com/bruncedric/status/717269350282092544)
 
 ----
 
-> "You, Me and Jigsaw"  a 40 min presentation about Jigsaw from the perpective of an OSGi/Eclipse dev. Check it out! http://www.infoq.com/presentations/jigsaw-java9
+> "You, Me and Jigsaw"  a 40 min presentation about Jigsaw from the perpective of an OSGi/Eclipse dev. Check it out! https://www.infoq.com/presentations/jigsaw-java9
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 05 12:23:39 +0000 2016](https://twitter.com/bruncedric/status/717326834573172736)
 
@@ -15857,25 +15857,25 @@ Replying to [@romainguider](https://twitter.com/romainguider/status/717347550072
 
 ----
 
-> EMF Compare now know how to compare Sirius diagrams, bringing this feature for free to many domain specific modelers http://buff.ly/1Ryuy41
+> EMF Compare now know how to compare Sirius diagrams, bringing this feature for free to many domain specific modelers https://buff.ly/1Ryuy41
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 06 07:04:01 +0000 2016](https://twitter.com/bruncedric/status/717608786761031680)
 
 ----
 
-> RT @EclipseFdn: Do you blog about Eclipse? Add your blog to @EclipsePlanet! http://www.planeteclipse.org/planet/
+> RT @EclipseFdn: Do you blog about Eclipse? Add your blog to @EclipsePlanet! https://www.planeteclipse.org/planet/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 06 21:16:41 +0000 2016](https://twitter.com/bruncedric/status/717823363675238401)
 
 ----
 
-> An awesome presentation given at #Eclipsecon NA, check it out! : "Practical workflows with Git LFS"  http://buff.ly/1PdOc32
+> An awesome presentation given at #Eclipsecon NA, check it out! : "Practical workflows with Git LFS"  https://buff.ly/1PdOc32
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 07 07:00:51 +0000 2016](https://twitter.com/bruncedric/status/717970374156279808)
 
 ----
 
-> RT @Obeo_Fr: La belle histoire entre Obeo &amp; @SFlinux #Québec : audace + collectif ! http://buff.ly/1UYiEXB v/ @InfoAeroQuebec https://t.co…
+> RT @Obeo_Fr: La belle histoire entre Obeo &amp; @SFlinux #Québec : audace + collectif ! https://buff.ly/1UYiEXB v/ @InfoAeroQuebec https://t.co…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 07 08:04:09 +0000 2016](https://twitter.com/bruncedric/status/717986304399699968)
 
@@ -15935,19 +15935,19 @@ Replying to [@roxannejoncas, @smcela and @kartben](https://twitter.com/roxannejo
 
 ----
 
-> I am so looking for an excuse to try gitgraph.js : "This library is the one to draw all the git branching models." http://buff.ly/22JSfB6
+> I am so looking for an excuse to try gitgraph.js : "This library is the one to draw all the git branching models." https://buff.ly/22JSfB6
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 12 07:02:12 +0000 2016](https://twitter.com/bruncedric/status/719782653738803200)
 
 ----
 
-> RT @Obeo_Fr: A nos amis présents @DevoxxFR: nous avons un cadeau pour vous :) http://blog.obeo.fr/post/devoxx-france-nous-avons-un-cadeau-pour-vous cc @CodenvyHQ @eclipse_che https://t.…
+> RT @Obeo_Fr: A nos amis présents @DevoxxFR: nous avons un cadeau pour vous :) https://blog.obeo.fr/post/devoxx-france-nous-avons-un-cadeau-pour-vous cc @CodenvyHQ @eclipse_che https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 12 14:57:35 +0000 2016](https://twitter.com/bruncedric/status/719902290476470272)
 
 ----
 
-> Want to innovate in clear leaps? Think using "first principles" instead of "analogies" http://buff.ly/22JRQ1v
+> Want to innovate in clear leaps? Think using "first principles" instead of "analogies" https://buff.ly/22JRQ1v
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 13 07:42:07 +0000 2016](https://twitter.com/bruncedric/status/720155090053701632)
 
@@ -15965,7 +15965,7 @@ Replying to [@roxannejoncas, @smcela and @kartben](https://twitter.com/roxannejo
 
 ----
 
-> I like the "Diagrams Tips&amp;Tricks" section of the Capella doc: http://buff.ly/1VxtHaF browse the doc, you'll see how advanced the tool is !
+> I like the "Diagrams Tips&amp;Tricks" section of the Capella doc: https://buff.ly/1VxtHaF browse the doc, you'll see how advanced the tool is !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 19 07:01:00 +0000 2016](https://twitter.com/bruncedric/status/722319068188000257)
 
@@ -15973,7 +15973,7 @@ Replying to [@roxannejoncas, @smcela and @kartben](https://twitter.com/roxannejo
 
 Replying to [@bruncedric](https://twitter.com/bruncedric/status/722319068188000257)
 
-> The Sirius User Manual is not too bad neither  http://help.eclipse.org/mars/topic/org.eclipse.sirius.doc/doc/user/diagrams/Diagrams.html?cp=69_1_1_2#reference
+> The Sirius User Manual is not too bad neither  https://help.eclipse.org/mars/topic/org.eclipse.sirius.doc/doc/user/diagrams/Diagrams.html?cp=69_1_1_2#reference
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 19 11:08:50 +0000 2016](https://twitter.com/bruncedric/status/722381439052943360)
 
@@ -16010,7 +16010,7 @@ Replying to [@mattermosthq](https://twitter.com/Mattermost/status/72244306417897
 ----
 
 > RT @eclipsecon: A round of applause for @Obeo_Corp as a Premium Sponsor for #EclipseCon France!
-> http://buff.ly/1NpWWne https://t.co/qEexQP…
+> https://buff.ly/1NpWWne https://t.co/qEexQP…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 19 15:37:56 +0000 2016](https://twitter.com/bruncedric/status/722449160499306501)
 
@@ -16024,13 +16024,13 @@ Replying to [@mattermosthq](https://twitter.com/Mattermost/status/72244306417897
 
 ----
 
-> Plan for the next conference: use those fancy CSS animations in my slide deck  done with reveal.js http://buff.ly/22HyXqJ
+> Plan for the next conference: use those fancy CSS animations in my slide deck  done with reveal.js https://buff.ly/22HyXqJ
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 20 07:00:48 +0000 2016](https://twitter.com/bruncedric/status/722681405600374784)
 
 ----
 
-> Inspired by Mélanie's awesome blog posts:"Unravelling the container within the container..." http://goo.gl/QtVHtv 
+> Inspired by Mélanie's awesome blog posts:"Unravelling the container within the container..." https://goo.gl/QtVHtv 
 > 
 > ![]({{ site.url }}/media/722697836513636352-CgeJ2j-XEAAp1FY.jpg)
 
@@ -16056,7 +16056,7 @@ Replying to [@mattermosthq](https://twitter.com/Mattermost/status/72244306417897
 
 ----
 
-> TIL that there is a web service turning an url into emojis: http://www.xn--vi8hiv.ws/ Example: http://xn--pbiv518m2jakv3eu1aj9ejxb.xn--vi8hiv.ws
+> TIL that there is a web service turning an url into emojis: https://www.xn--vi8hiv.ws/ Example: https://xn--pbiv518m2jakv3eu1aj9ejxb.xn--vi8hiv.ws
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 20 16:10:40 +0000 2016](https://twitter.com/bruncedric/status/722819782471344130)
 
@@ -16084,7 +16084,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/7228222954
 
 ----
 
-> SW generates a lot of mental distress, great post:"My personal burnout: Lessons learned" w/ insights on the recovery http://buff.ly/20QfO6x
+> SW generates a lot of mental distress, great post:"My personal burnout: Lessons learned" w/ insights on the recovery https://buff.ly/20QfO6x
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 21 07:00:18 +0000 2016](https://twitter.com/bruncedric/status/723043668131741696)
 
@@ -16098,7 +16098,7 @@ Replying to [@pavsaund](https://twitter.com/pavsaund/status/723045106090164224)
 
 ----
 
-> "Modeling Avengers: OSS Technology Mix for Saving the World" http://buff.ly/210DdCu  just got published on @InfoQ ! 
+> "Modeling Avengers: OSS Technology Mix for Saving the World" https://buff.ly/210DdCu  just got published on @InfoQ ! 
 > 
 > ![]({{ site.url }}/media/723162110717472768-CgkwG6dXEAABChe.jpg)
 
@@ -16106,7 +16106,7 @@ Replying to [@pavsaund](https://twitter.com/pavsaund/status/723045106090164224)
 
 ----
 
-> Remember "The SVenGers : Age of Sirius"? Version 4.0.0 improves on it perfect rendering http://buff.ly/1SiC4R5 
+> Remember "The SVenGers : Age of Sirius"? Version 4.0.0 improves on it perfect rendering https://buff.ly/1SiC4R5 
 > 
 > ![]({{ site.url }}/media/723407076936945664-CgoO50yUcAENm2N.jpg)
 
@@ -16122,13 +16122,13 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7234070769369456
 
 ----
 
-> The @InfoQ peoples did a great job to capture the talk! Modeling Avengers: OSS Technology Mix for Saving the World  http://buff.ly/1Vn05fP
+> The @InfoQ peoples did a great job to capture the talk! Modeling Avengers: OSS Technology Mix for Saving the World  https://buff.ly/1Vn05fP
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 22 09:56:15 +0000 2016](https://twitter.com/bruncedric/status/723450333754695680)
 
 ----
 
-> How to design your time instead of managing it. Something I am (ironically) planning to do http://buff.ly/1oiNdZf 
+> How to design your time instead of managing it. Something I am (ironically) planning to do https://buff.ly/1oiNdZf 
 > 
 > ![]({{ site.url }}/media/724493657965998080-Cg3rJKwWMAEYRFI.jpg)
 
@@ -16176,7 +16176,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7234070769369456
 
 ----
 
-> A 3 minutes video to learn about the Gemoc ANR project: model execution, animation and debug http://buff.ly/1MZqeib 
+> A 3 minutes video to learn about the Gemoc ANR project: model execution, animation and debug https://buff.ly/1MZqeib 
 > 
 > ![]({{ site.url }}/media/725581572787851264-ChHImIXWYAEa8td.jpg)
 
@@ -16200,7 +16200,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 ----
 
-> RT @Obeo_Corp: Talking about the collaborative project @OCCIware at @Obeo_Fr http://www.occiware.org/bin/view/Main/WebHome #Cloud #OpenSouce cc @ejuliot https://…
+> RT @Obeo_Corp: Talking about the collaborative project @OCCIware at @Obeo_Fr https://www.occiware.org/bin/view/Main/WebHome #Cloud #OpenSouce cc @ejuliot https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 28 09:16:15 +0000 2016](https://twitter.com/bruncedric/status/725614596661383169)
 
@@ -16234,14 +16234,14 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 29 12:46:23 +0000 2016](https://twitter.com/bruncedric/status/726029866177548289)> RT @eclipsecon: "Sirius 4.0 : Let Me #Sirius That For You! "
 > by @melaniebats , @sbegaudeau #Obeo_Corp
-> http://buff.ly/21iUgjg https://t.co/…
+> https://buff.ly/21iUgjg https://t.co/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun May 01 16:48:50 +0000 2016](https://twitter.com/bruncedric/status/726815654934921217)
 
 ----
 
 > “Metamodel (Ecore) Design Checklist - part 1” is now published !
-> http://cedric.brun.io/eclipse/ecore-design-checklist-part1/ 
+> https://cedric.brun.io/eclipse/ecore-design-checklist-part1/ 
 > 
 > ![]({{ site.url }}/media/727054047426019328-ChcDzaLW0AA8ePk.jpg)
 
@@ -16249,7 +16249,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 ----
 
-> Those old diagrams were making my eyes bleed. I recreated it using EcoreTools. http://buff.ly/21qp81t 
+> Those old diagrams were making my eyes bleed. I recreated it using EcoreTools. https://buff.ly/21qp81t 
 > 
 > ![]({{ site.url }}/media/727387220592709632-Chgy0i-W0AANaNY.jpg)
 > 
@@ -16270,7 +16270,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 ----
 
 > EcoreTools has many features assisting you with this checklist. "Ecore Design Checklist"
-> http://buff.ly/21qsbqd 
+> https://buff.ly/21qsbqd 
 > 
 > ![]({{ site.url }}/media/727494700941348864-ChiUk1mWIAA8_i-.jpg)
 > 
@@ -16288,7 +16288,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 ----
 
-> 15 extremely important things to check when defining your domain specific model http://cedric.brun.io/eclipse/ecore-design-checklist-part1/ #clickbait 
+> 15 extremely important things to check when defining your domain specific model https://cedric.brun.io/eclipse/ecore-design-checklist-part1/ #clickbait 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/727761485716463617-ChmG5iTW0AEvPAF.mp4">Your browser does not support the video tag.</video>
 
@@ -16296,7 +16296,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 ----
 
-> UML Designer reached 3799 installs in April,rank#21 next to popular plugins. Not too shabby! http://www.umldesigner.org/ 
+> UML Designer reached 3799 installs in April,rank#21 next to popular plugins. Not too shabby! https://www.umldesigner.org/ 
 > 
 > ![]({{ site.url }}/media/727803683212242944-Chmtl9MW0AIO7rS.jpg)
 > 
@@ -16306,7 +16306,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 ----
 
-> RT @capella_arcadia: Capella 1.0.2 and 0.8.6 have been released. Check the website for more information: _http://polarsys.org/capella/download.html #Polarsys…
+> RT @capella_arcadia: Capella 1.0.2 and 0.8.6 have been released. Check the website for more information: _https://polarsys.org/capella/download.html #Polarsys…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed May 04 13:46:04 +0000 2016](https://twitter.com/bruncedric/status/727856822258905088)
 
@@ -16320,13 +16320,13 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 ----
 
-> RT @_AxelRICHARD_: Very proud to announce that autosave of dirty editors will be part of the next #Eclipse release http://bit.ly/1WjLXVf…
+> RT @_AxelRICHARD_: Very proud to announce that autosave of dirty editors will be part of the next #Eclipse release https://bit.ly/1WjLXVf…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 09 08:00:15 +0000 2016](https://twitter.com/bruncedric/status/729581737735499776)
 
 ----
 
-> RT @EclipsePlanet: Cédric Brun: Metamodel (Ecore) Design Checklist - part 2 http://cedric.brun.io/eclipse/ecore-design-checklist-part2/
+> RT @EclipsePlanet: Cédric Brun: Metamodel (Ecore) Design Checklist - part 2 https://cedric.brun.io/eclipse/ecore-design-checklist-part2/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 09 16:18:39 +0000 2016](https://twitter.com/bruncedric/status/729707161610244100)
 
@@ -16334,7 +16334,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 > 9 more checks for your Ecore model, part2 is about scalability and Java API.
 > 
-> http://buff.ly/1T6NUU7 
+> https://buff.ly/1T6NUU7 
 > 
 > ![]({{ site.url }}/media/729929061049499649-CiE6nPiWsAA2M23.jpg)
 
@@ -16344,7 +16344,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 Replying to [@jankoehnlein](https://twitter.com/jankoehnlein/status/729930181289349120)
 
-> That was mentioned here http://cedric.brun.io/eclipse/ecore-design-checklist-part1/#a-user-cant-introduce-cyclic-references-in-between-model-fragments but it might deserves to be mentioned again for perfo
+> That was mentioned here https://cedric.brun.io/eclipse/ecore-design-checklist-part1/#a-user-cant-introduce-cyclic-references-in-between-model-fragments but it might deserves to be mentioned again for perfo
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 10 07:17:32 +0000 2016](https://twitter.com/bruncedric/status/729933375398678528)
 
@@ -16352,7 +16352,7 @@ Replying to [@jankoehnlein](https://twitter.com/jankoehnlein/status/729930181289
 
 Replying to [@jankoehnlein](https://twitter.com/jankoehnlein/status/729930181289349120)
 
-> and that's it ! http://cedric.brun.io/eclipse/ecore-design-checklist-part2/#it-is-possible-to-load-part-of-the-model-without-loading-everything I even had a pony ready for this thanks to @roxannejoncas !
+> and that's it ! https://cedric.brun.io/eclipse/ecore-design-checklist-part2/#it-is-possible-to-load-part-of-the-model-without-loading-everything I even had a pony ready for this thanks to @roxannejoncas !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 10 07:56:08 +0000 2016](https://twitter.com/bruncedric/status/729943086034522112)
 
@@ -16374,7 +16374,7 @@ Replying to [@adolfosbh](https://twitter.com/adolfosbh/status/729993901046673408
 
 ----
 
-> Looking forward to speak about OSS, Modeling,  and **the Avengers** at EclipseCon France! http://buff.ly/1XjqXNh 
+> Looking forward to speak about OSS, Modeling,  and **the Avengers** at EclipseCon France! https://buff.ly/1XjqXNh 
 > 
 > ![]({{ site.url }}/media/730290913424068608-CiKDt2EXIAApLJN.jpg)
 
@@ -16404,7 +16404,7 @@ Replying to [@EclipseFdn and @ttoine](https://twitter.com/EclipseFdn/status/7307
 
 ----
 
-> Used CoreNLP to do sentiment analysis on messages from users on the Eclipse Forum. Analysis error rate is quite high http://stanfordnlp.github.io/CoreNLP/sentiment.html
+> Used CoreNLP to do sentiment analysis on messages from users on the Eclipse Forum. Analysis error rate is quite high https://stanfordnlp.github.io/CoreNLP/sentiment.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 12 14:35:04 +0000 2016](https://twitter.com/bruncedric/status/730768258501115904)
 
@@ -16462,7 +16462,7 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/73077677
 
 ----
 
-> An IDE with a JavaScript parser instantiating EMF models (Xtext) being proposed to Eclipse. Sirius modeler anyone ? http://buff.ly/1UVWCDY
+> An IDE with a JavaScript parser instantiating EMF models (Xtext) being proposed to Eclipse. Sirius modeler anyone ? https://buff.ly/1UVWCDY
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 13 06:56:00 +0000 2016](https://twitter.com/bruncedric/status/731015118721560576)
 
@@ -16470,7 +16470,7 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/73077677
 
 Replying to [@jerometambo](https://twitter.com/jerometambo/status/731028681355874304)
 
-> Le plugin existe déjà des années avec d'excellents retours. De notre côté: 0 problème http://marketplace.eclipse.org/content/eclemma-java-code-coverage
+> Le plugin existe déjà des années avec d'excellents retours. De notre côté: 0 problème https://marketplace.eclipse.org/content/eclemma-java-code-coverage
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 13 08:36:31 +0000 2016](https://twitter.com/bruncedric/status/731040416393531392)
 
@@ -16478,7 +16478,7 @@ Replying to [@jerometambo](https://twitter.com/jerometambo/status/73102868135587
 
 Replying to [@bruncedric](https://twitter.com/mickaelistria/status/731071750037999616)
 
-> We prototyped that for Dart at some point http://dartdesigner.github.io/#features  @mickaelistria CC @sbegaudeau
+> We prototyped that for Dart at some point https://dartdesigner.github.io/#features  @mickaelistria CC @sbegaudeau
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 13 12:43:51 +0000 2016](https://twitter.com/bruncedric/status/731102656199069697)
 
@@ -16510,7 +16510,7 @@ Replying to [@bruncedric](https://twitter.com/mickaelistria/status/7310717500379
 
 > How to build Ecore.ecore diagrams using EcoreTools (and hints for your own diagrams)
 > 
-> http://buff.ly/1TmXfUF 
+> https://buff.ly/1TmXfUF 
 > 
 > ![]({{ site.url }}/media/732826850393739264-CiuGIv6WEAAAID7.jpg)
 > 
@@ -16558,7 +16558,7 @@ Replying to [@CaWal](https://twitter.com/CaWal/status/732986533653925890)
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon France: the modeling experts meet at Toulouse from June 7th to 9th http://blog.obeo.fr/en/post/eclipsecon-france-the-modeling-experts-meet-at-toulouse-from-june-7th-to-9th #OpenSource https://t…
+> RT @Obeo_Corp: #EclipseCon France: the modeling experts meet at Toulouse from June 7th to 9th https://blog.obeo.fr/en/post/eclipsecon-france-the-modeling-experts-meet-at-toulouse-from-june-7th-to-9th #OpenSource https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 19 14:04:26 +0000 2016](https://twitter.com/bruncedric/status/733297264379199488)
 
@@ -16592,7 +16592,7 @@ Replying to [@ejuliot and @waynebeaton](https://twitter.com/ejuliot/status/73355
 
 Replying to [@bruncedric](https://twitter.com/bruncedric/status/733687832888348673)
 
-> A readable version is hosted here: http://i.imgur.com/7y8tNOR.jpg
+> A readable version is hosted here: https://i.imgur.com/7y8tNOR.jpg
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 20 15:57:31 +0000 2016](https://twitter.com/bruncedric/status/733688112031862784)
 
@@ -16614,7 +16614,7 @@ Replying to [@torkildr, @ejuliot and @waynebeaton](https://twitter.com/torkildr/
 
 ----
 
-> A new blog post from @melaniebats introducing the upcoming dynamic property views in Sirius! http://buff.ly/1VjJtVw 
+> A new blog post from @melaniebats introducing the upcoming dynamic property views in Sirius! https://buff.ly/1VjJtVw 
 > 
 > ![]({{ site.url }}/media/735808990525960197-CjYeYM_WEAAopVk.jpg)
 
@@ -16643,7 +16643,7 @@ Replying to [@torkildr, @ejuliot and @waynebeaton](https://twitter.com/torkildr/
 ----
 
 > Sirius 4.0 extends the Viewpoint Specification Model (.odesign) to design property views !
-> http://melb.enix.org/sirius/let-me-sirius-that-for-you-properties-view/ 
+> https://melb.enix.org/sirius/let-me-sirius-that-for-you-properties-view/ 
 > 
 > ![]({{ site.url }}/media/736131481274322944-CjdDrmVXIAAtUB9.jpg)
 
@@ -16758,13 +16758,13 @@ Replying to [@zenobios](https://twitter.com/zenobios/status/739685419231674368)
 
 ----
 
-> RT @EclipsePlanet: Melanie Bats: Sirius 4.0 Gotta Catch ‘Em All : Be prepared for the future http://bit.ly/1Y2J9Lh
+> RT @EclipsePlanet: Melanie Bats: Sirius 4.0 Gotta Catch ‘Em All : Be prepared for the future https://bit.ly/1Y2J9Lh
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 06 09:36:25 +0000 2016](https://twitter.com/bruncedric/status/739752795872632832)
 
 ----
 
-> RT @melaniebats: To catch all the new features coming with #EclipseSirius 4.0, read my new blog posts serie: http://melb.enix.org/sirius/sirius-4-0-be-prepared-for-the-future/ https:…
+> RT @melaniebats: To catch all the new features coming with #EclipseSirius 4.0, read my new blog posts serie: https://melb.enix.org/sirius/sirius-4-0-be-prepared-for-the-future/ https:…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 06 11:23:33 +0000 2016](https://twitter.com/bruncedric/status/739779758729363456)
 
@@ -17040,7 +17040,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @EclipseSirius: #EclipseCon Go further on @EclipseSirius &amp; register for the next roadshow in Munich http://buff.ly/1ZxWk5O https://t.co…
+> RT @EclipseSirius: #EclipseCon Go further on @EclipseSirius &amp; register for the next roadshow in Munich https://buff.ly/1ZxWk5O https://t.co…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 08 15:32:26 +0000 2016](https://twitter.com/bruncedric/status/740567169545687040)
 
@@ -17074,7 +17074,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> Here are the slides of the "Modeling Avengers" talk I gave yesterday: http://cedric.brun.io/talks/ModelingAvengers/#/ #eclipsecon
+> Here are the slides of the "Modeling Avengers" talk I gave yesterday: https://cedric.brun.io/talks/ModelingAvengers/#/ #eclipsecon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 09 09:12:32 +0000 2016](https://twitter.com/bruncedric/status/740833949333749760)
 
@@ -17145,13 +17145,13 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @melaniebats: Do you remember Scalable Girl ?With #EclipseSirius 4.0 the SVenGers are coming back: http://melb.enix.org/sirius/sirius-4-0-svengers-infinity-war/ https://t.co/…
+> RT @melaniebats: Do you remember Scalable Girl ?With #EclipseSirius 4.0 the SVenGers are coming back: https://melb.enix.org/sirius/sirius-4-0-svengers-infinity-war/ https://t.co/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 10 09:55:54 +0000 2016](https://twitter.com/bruncedric/status/741207253152333824)
 
 ----
 
-> RT @EclipseSirius: Registration is open! http://www.siriuscon.org/ #SiriusCon #OpenSource https://twitter.com/bruncedric/status/741036165227249664
+> RT @EclipseSirius: Registration is open! https://www.siriuscon.org/ #SiriusCon #OpenSource https://twitter.com/bruncedric/status/741036165227249664
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 10 09:57:13 +0000 2016](https://twitter.com/bruncedric/status/741207582061301761)
 
@@ -17171,7 +17171,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @GluonHQ: Introducing Gluon VM http://gluonhq.com/introducing-gluon-vm/ 
+> RT @GluonHQ: Introducing Gluon VM https://gluonhq.com/introducing-gluon-vm/ 
 > 
 > ![]({{ site.url }}/media/741320334171869184-CkhZOmFVEAApko2.png)
 
@@ -17179,7 +17179,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @Obeo_Corp: Still time to register for the next @EclipseSirius roadshow in Munich! http://blog.obeo.fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://twitter.com/ejuliot/status/742297999158718464
+> RT @Obeo_Corp: Still time to register for the next @EclipseSirius roadshow in Munich! https://blog.obeo.fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://twitter.com/ejuliot/status/742297999158718464
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 13 15:23:10 +0000 2016](https://twitter.com/bruncedric/status/742376774936465408)
 
@@ -17191,7 +17191,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> New blog post in the " Gotta Catch ‘Em All" series:  Improve user experience http://buff.ly/28AVM5g #EclipseSirius 
+> New blog post in the " Gotta Catch ‘Em All" series:  Improve user experience https://buff.ly/28AVM5g #EclipseSirius 
 > 
 > ![]({{ site.url }}/media/742634481178292224-Ck5eH8CW0AA9DAp.jpg)
 > 
@@ -17207,7 +17207,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @ejuliot: #NantesTech : Les 12 conférences du #Web2Day à ne pas manquer lors de cette 8ème édition http://maddy.news/25Xc32b Je suis parmi…
+> RT @ejuliot: #NantesTech : Les 12 conférences du #Web2Day à ne pas manquer lors de cette 8ème édition https://maddy.news/25Xc32b Je suis parmi…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 14 11:41:24 +0000 2016](https://twitter.com/bruncedric/status/742683351820185604)
 
@@ -17219,7 +17219,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @DominikMohilo: Eclipse Weekly: Die Community gegen UUID, Sirius @ Neon &amp; EclipseCon-Impressions http://sta.cr/2oj9x #eclipse #Eclip…
+> RT @DominikMohilo: Eclipse Weekly: Die Community gegen UUID, Sirius @ Neon &amp; EclipseCon-Impressions https://sta.cr/2oj9x #eclipse #Eclip…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 14 15:33:34 +0000 2016](https://twitter.com/bruncedric/status/742741781444448256)
 
@@ -17280,7 +17280,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 ----
 
 > Auto-error Reporting for Eclipse Mars: "107,927 reporters (31%) got at least one of their reported problems fixed." 
-> http://dev.eclipse.org/mhonarc/lists/eclipse.org-committers/msg01138.html
+> https://dev.eclipse.org/mhonarc/lists/eclipse.org-committers/msg01138.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 15 13:47:08 +0000 2016](https://twitter.com/bruncedric/status/743077384161755136)
 
@@ -17322,7 +17322,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @IanSkerrett: Eclipse Sirius 4.0 release is coming soon.  http://melb.enix.org/sirius/sirius-4-0-stability-and-performance/
+> RT @IanSkerrett: Eclipse Sirius 4.0 release is coming soon.  https://melb.enix.org/sirius/sirius-4-0-stability-and-performance/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 16 18:21:02 +0000 2016](https://twitter.com/bruncedric/status/743508698186780672)
 
@@ -17350,13 +17350,13 @@ Replying to [@tracymiranda](https://twitter.com/tracymiranda/status/743810645360
 
 ----
 
-> RT @ericflo: Wow Google DeepMind's new A3C algorithm looks like another machine learning breakthrough http://arxiv.org/pdf/1602.01783 https://t.co/…
+> RT @ericflo: Wow Google DeepMind's new A3C algorithm looks like another machine learning breakthrough https://arxiv.org/pdf/1602.01783 https://t.co/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Jun 18 15:40:19 +0000 2016](https://twitter.com/bruncedric/status/744193029028843520)
 
 ----
 
-> a new blog post from @melaniebats customizing the "tabbar" and exposing EMF.Edit services http://melb.enix.org/sirius/sirius-4-0-super-powered-api 
+> a new blog post from @melaniebats customizing the "tabbar" and exposing EMF.Edit services https://melb.enix.org/sirius/sirius-4-0-super-powered-api 
 > 
 > ![]({{ site.url }}/media/744796106429632512-ClYMG8VUoAA1VC1.jpg)
 > 
@@ -17374,7 +17374,7 @@ Replying to [@tracymiranda](https://twitter.com/tracymiranda/status/743810645360
 
 Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747295232)
 
-> This page  http://www.eclipse.org/downloads/eclipse-packages/  ? http://Eclipse.org had some issues last week but it should be fine now
+> This page  https://www.eclipse.org/downloads/eclipse-packages/  ? https://Eclipse.org had some issues last week but it should be fine now
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 20 17:33:27 +0000 2016](https://twitter.com/bruncedric/status/744946276496719872)
 
@@ -17396,13 +17396,13 @@ Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747
 
 ----
 
-> RT @Obeo_Corp: .@EclipseSirius roadshow in #Munich June 27th: a few places remain. #HurryUp it's free! http://blog.obeo.fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://t.co…
+> RT @Obeo_Corp: .@EclipseSirius roadshow in #Munich June 27th: a few places remain. #HurryUp it's free! https://blog.obeo.fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://t.co…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 12:31:29 +0000 2016](https://twitter.com/bruncedric/status/745595058854989824)
 
 ----
 
-> RT @melaniebats: "Now witness the firepower of this fully operational battle station" #EclipseSirius 4.0 : http://bit.ly/28QDXIE https://…
+> RT @melaniebats: "Now witness the firepower of this fully operational battle station" #EclipseSirius 4.0 : https://bit.ly/28QDXIE https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 12:51:10 +0000 2016](https://twitter.com/bruncedric/status/745600015142387712)
 
@@ -17515,7 +17515,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7458855818388152
 
 ----
 
-> RT @roxannejoncas: Curious about the Top 10 for #EclipseNeon? Check out the latest #EclipseNewsletter  http://www.eclipse.org/community/eclipse_newsletter/2016/june/ https://t.co…
+> RT @roxannejoncas: Curious about the Top 10 for #EclipseNeon? Check out the latest #EclipseNewsletter  https://www.eclipse.org/community/eclipse_newsletter/2016/june/ https://t.co…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 23 15:12:33 +0000 2016](https://twitter.com/bruncedric/status/745997982357684224)
 
@@ -17591,7 +17591,7 @@ Replying to [@roxannejoncas and @waynebeaton](https://twitter.com/roxannejoncas/
 
 ----
 
-> RT @eclipse_che: Just announced at #DevNation: #EclipseChe is now a strategic development platform for Red Hat! http://red.ht/28YpJDG
+> RT @eclipse_che: Just announced at #DevNation: #EclipseChe is now a strategic development platform for Red Hat! https://red.ht/28YpJDG
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 27 18:22:58 +0000 2016](https://twitter.com/bruncedric/status/747495452610859008)
 
@@ -17617,7 +17617,7 @@ Replying to [@roxannejoncas and @waynebeaton](https://twitter.com/roxannejoncas/
 
 ----
 
-> Elon Musk shares "All the Stupid Things Tesla Has Done"  http://buff.ly/297FVD8 
+> Elon Musk shares "All the Stupid Things Tesla Has Done"  https://buff.ly/297FVD8 
 > 
 > ![]({{ site.url }}/media/748047898756120577-CmGZmS-XIAEdu7F.jpg)
 
@@ -17625,7 +17625,7 @@ Replying to [@roxannejoncas and @waynebeaton](https://twitter.com/roxannejoncas/
 
 ----
 
-> RT @Obeo_Fr: Ouvrez @LesEchos pour lire l'article de @EmmanuelGuimard sur #NantesTech avec Obeo en focus http://www.lesechos.fr/journal20160629/lec2_startup/0211073905113-nantes-la-ou-le-numerique-infuse-toute-leconomie-2010561.php https://t.…
+> RT @Obeo_Fr: Ouvrez @LesEchos pour lire l'article de @EmmanuelGuimard sur #NantesTech avec Obeo en focus https://www.lesechos.fr/journal20160629/lec2_startup/0211073905113-nantes-la-ou-le-numerique-infuse-toute-leconomie-2010561.php https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 29 08:42:42 +0000 2016](https://twitter.com/bruncedric/status/748074199642742784)
 
@@ -17756,13 +17756,13 @@ Replying to [@dunkfordyce](https://twitter.com/dunkfordyce/status/74889286541423
 
 ----
 
-> RT @EclipseSirius: Thanks! Already registered at #SiriusCon? http://www.siriuscon.org/ https://twitter.com/graphapps/status/748994201266884608
+> RT @EclipseSirius: Thanks! Already registered at #SiriusCon? https://www.siriuscon.org/ https://twitter.com/graphapps/status/748994201266884608
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jul 05 11:53:23 +0000 2016](https://twitter.com/bruncedric/status/750296516015906816)
 
 ----
 
-> RT @TheRegister: Oracle says it is 'committed' to Java EE 8 – amid claims it quietly axed future development http://reg.cx/2mHY
+> RT @TheRegister: Oracle says it is 'committed' to Java EE 8 – amid claims it quietly axed future development https://reg.cx/2mHY
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 07 08:16:03 +0000 2016](https://twitter.com/bruncedric/status/750966595657297920)
 
@@ -17808,7 +17808,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7522438061756497
 
 ----
 
-> If you use the CRON syntax from time to time (in Jenkins job for instance). Note this down: http://buff.ly/29wkZor 
+> If you use the CRON syntax from time to time (in Jenkins job for instance). Note this down: https://buff.ly/29wkZor 
 > 
 > ![]({{ site.url }}/media/752397353898958848-CnENZ5fWAAAO-_G.jpg)
 
@@ -17840,7 +17840,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/7523928611282862
 
 > Psst, psst, you might want to submit **right now** for @eclipsecon Europe!
 > 
-> http://buff.ly/29HiNNB 
+> https://buff.ly/29HiNNB 
 > 
 > ![]({{ site.url }}/media/752505908849156096-CnFwIqOWYAAAO06.jpg)
 
@@ -17934,7 +17934,7 @@ Replying to [@romainguider](https://twitter.com/romainguider/status/752933106923
 
 > 3 reasons to write your abstract *now* for #EclipseCon Europe: 
 > 
-> http://cedric.brun.io/eclipse/eclipsecon-europe-deadline/
+> https://cedric.brun.io/eclipse/eclipsecon-europe-deadline/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jul 13 12:46:57 +0000 2016](https://twitter.com/bruncedric/status/753209096082522112)
 
@@ -17967,7 +17967,7 @@ Replying to [@sbegaudeau, @mcartaud and @GCoutable](https://twitter.com/sbegaude
 ----
 
 > RT @eclipsecon: Submit a talk for #EclipseCon Europe- Last day July 18! 
-> http://gph.is/1o3o9Wz http://buff.ly/29H7HoB https://t.co/hJKSv…
+> https://gph.is/1o3o9Wz https://buff.ly/29H7HoB https://t.co/hJKSv…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 15 19:33:53 +0000 2016](https://twitter.com/bruncedric/status/754036283001929728)
 
@@ -18044,13 +18044,13 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/7551204414
 
 ----
 
-> RT @EclipseSirius: Not registered to #SiriusCon 2016? Take 2 minutes to do it, it's free &amp; unique! #OpenSource http://www.siriuscon.org/ http…
+> RT @EclipseSirius: Not registered to #SiriusCon 2016? Take 2 minutes to do it, it's free &amp; unique! #OpenSource https://www.siriuscon.org/ http…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jul 21 09:16:45 +0000 2016](https://twitter.com/bruncedric/status/756055301284098048)
 
 ----
 
-> RT @Obeo_Fr: Comment j'ai développé ma #StartUp sans lever de fonds. Témoignage de Obeo via @JEntreprises http://www.lejournaldesentreprises.com/editions/44/services/web-et-numerique/temoignage-d-entrepreneur-comment-j-ai-reussi-a-developper-ma-start-up-sans-lever-de-fonds-21-07-2016-297795.php https://t…
+> RT @Obeo_Fr: Comment j'ai développé ma #StartUp sans lever de fonds. Témoignage de Obeo via @JEntreprises https://www.lejournaldesentreprises.com/editions/44/services/web-et-numerique/temoignage-d-entrepreneur-comment-j-ai-reussi-a-developper-ma-start-up-sans-lever-de-fonds-21-07-2016-297795.php https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 22 09:41:35 +0000 2016](https://twitter.com/bruncedric/status/756423939119837184)
 
@@ -18084,7 +18084,7 @@ Replying to [@sbegaudeau, @EclipseSirius and @YouTube](https://twitter.com/sbega
 
 ----
 
-> Coming soon in UML Designer 7.0.0 a brand new dashboard built using the Activity Explorer http://buff.ly/2a9JrMx 
+> Coming soon in UML Designer 7.0.0 a brand new dashboard built using the Activity Explorer https://buff.ly/2a9JrMx 
 > 
 > ![]({{ site.url }}/media/758659061873246208-CodMZCJXYAEn-In.jpg)
 > 
@@ -18179,7 +18179,7 @@ Replying to [@adolfosbh](https://twitter.com/bruncedric/status/76048455414679961
 
 ----
 
-> RT @EclipseSirius: This is a good summary of #SiriusCon! Register for the next free edition at Paris, Nov. 15th http://www.siriuscon.org/ htt…
+> RT @EclipseSirius: This is a good summary of #SiriusCon! Register for the next free edition at Paris, Nov. 15th https://www.siriuscon.org/ htt…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 04 09:19:16 +0000 2016](https://twitter.com/bruncedric/status/761129365786812416)
 
@@ -18187,7 +18187,7 @@ Replying to [@adolfosbh](https://twitter.com/bruncedric/status/76048455414679961
 
 > UML Designer 7.0, based on Eclipse Neon and Sirius 4.0 is out! 
 > 
-> http://buff.ly/2aTEGeo 
+> https://buff.ly/2aTEGeo 
 > 
 > ![]({{ site.url }}/media/761232779678015490-CpBxLYWWEAAD01h.jpg)
 > 
@@ -18253,14 +18253,14 @@ Replying to [@GeoffreyDeSmet](https://twitter.com/GeoffreyDeSmet/status/76257362
 
 ----
 
-> RT @EclipseFdn: News: ECE 2016 Program Schedule Announced http://bit.ly/2b8IIjt #eclipse
+> RT @EclipseFdn: News: ECE 2016 Program Schedule Announced https://bit.ly/2b8IIjt #eclipse
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 08 19:14:30 +0000 2016](https://twitter.com/bruncedric/status/762728714270572544)
 
 ----
 
 > Stumbled upon a prototype of domain specific language for video games which uses Acceleo.
-> http://buff.ly/2aItpdt 
+> https://buff.ly/2aItpdt 
 > 
 > ![]({{ site.url }}/media/762922394373750785-CpZx33HXYAAF04x.jpg)
 > 
@@ -18272,7 +18272,7 @@ Replying to [@GeoffreyDeSmet](https://twitter.com/GeoffreyDeSmet/status/76257362
 
 ----
 
-> The Eclipse infocenter is missing so many plugins http://help.eclipse.org/neon/index.jsp Let's try to fix that https://bugs.eclipse.org/bugs/show_bug.cgi?id=499411
+> The Eclipse infocenter is missing so many plugins https://help.eclipse.org/neon/index.jsp Let's try to fix that https://bugs.eclipse.org/bugs/show_bug.cgi?id=499411
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 09 08:55:06 +0000 2016](https://twitter.com/bruncedric/status/762935225143918592)
 
@@ -18292,13 +18292,13 @@ Replying to [@laurentdelaigue and @Bouletcorp](https://twitter.com/laurentdelaig
 
 ----
 
-> RT @Obeo_Fr: Le blues du retour de congés ? Inscrivez-vous à #SiriusCon, journée dédiée à @EclipseSirius http://www.siriuscon.org/  https://t…
+> RT @Obeo_Fr: Le blues du retour de congés ? Inscrivez-vous à #SiriusCon, journée dédiée à @EclipseSirius https://www.siriuscon.org/  https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 23 05:26:58 +0000 2016](https://twitter.com/bruncedric/status/767956276156436480)
 
 ----
 
-> RT @melaniebats: #eclipsesirius 4.0 moves on step beyond  to create stable end performant designer: http://melb.enix.org/sirius/sirius-4-0-stability-and-performance https://t.co/tH…
+> RT @melaniebats: #eclipsesirius 4.0 moves on step beyond  to create stable end performant designer: https://melb.enix.org/sirius/sirius-4-0-stability-and-performance https://t.co/tH…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 23 08:26:34 +0000 2016](https://twitter.com/bruncedric/status/768001473745653760)
 
@@ -18318,7 +18318,7 @@ Replying to [@laurentdelaigue and @Bouletcorp](https://twitter.com/laurentdelaig
 
 ----
 
-> RT @noopur2507: Mastering your Eclipse IDE - Tips, Tricks, Java 8 tooling &amp; More! by @noopur2507 #EclipseSummit http://www.slideshare.net/NoopurGupta6/mastering-your-eclipse-ide-tips-tricks-java-8-tooling-more via…
+> RT @noopur2507: Mastering your Eclipse IDE - Tips, Tricks, Java 8 tooling &amp; More! by @noopur2507 #EclipseSummit https://www.slideshare.net/NoopurGupta6/mastering-your-eclipse-ide-tips-tricks-java-8-tooling-more via…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Aug 27 07:49:17 +0000 2016](https://twitter.com/bruncedric/status/769441641870622720)
 
@@ -18330,7 +18330,7 @@ Replying to [@laurentdelaigue and @Bouletcorp](https://twitter.com/laurentdelaig
 
 ----
 
-> back at the office to discover a neat tutorial covering the very first steps with Sirius http://accso.de/magazin/sirius_for_dummies/ ! 
+> back at the office to discover a neat tutorial covering the very first steps with Sirius https://accso.de/magazin/sirius_for_dummies/ ! 
 > 
 > ![]({{ site.url }}/media/770176790308524032-CrA3fUYWIAAfnfL.jpg)
 
@@ -18356,7 +18356,7 @@ Replying to [@droy_eclipse and @EclipseFdn](https://twitter.com/droy_eclipse/sta
 
 ----
 
-> That's rule #1!  "Models from this metamodel will enable X to answer the questions: Y, Z..." http://cedric.brun.io/eclipse/ecore-design-checklist-part1/ https://twitter.com/dret/status/770419760953692161
+> That's rule #1!  "Models from this metamodel will enable X to answer the questions: Y, Z..." https://cedric.brun.io/eclipse/ecore-design-checklist-part1/ https://twitter.com/dret/status/770419760953692161
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 30 14:59:59 +0000 2016](https://twitter.com/bruncedric/status/770637194369372160)
 
@@ -18416,7 +18416,7 @@ Replying to [@haltraet and @torkildr](https://twitter.com/haltraet/status/771266
 
 > ⦏Breaking News⦎ SiriusCon 2016 is coming! #Free #Paris #StrongContent #ClinicAndTutorials 
 > 
->  http://buff.ly/2bLsZls 
+>  https://buff.ly/2bLsZls 
 > 
 > ![]({{ site.url }}/media/771603079540027393-CrVI6KPUEAE4FRP.jpg)
 > 
@@ -18474,7 +18474,7 @@ Replying to [@haltraet and @torkildr](https://twitter.com/haltraet/status/771266
 
 ----
 
-> RT @EclipseSirius: #CallForPapers Hurry up if you want to be part of #SiriusCon 2016's program! http://www.siriuscon.org/#call4paper #EclipseSirius http…
+> RT @EclipseSirius: #CallForPapers Hurry up if you want to be part of #SiriusCon 2016's program! https://www.siriuscon.org/#call4paper #EclipseSirius http…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 12 09:13:13 +0000 2016](https://twitter.com/bruncedric/status/775260969836679168)
 
@@ -18508,7 +18508,7 @@ Replying to [@haltraet and @torkildr](https://twitter.com/haltraet/status/771266
 
 ----
 
-> RT @EclipseCon: The Java Eightification of Eclipse Collections by Alex Iliev, Goldman Sachs at #EclipseCon Europe http://buff.ly/2c3230N
+> RT @EclipseCon: The Java Eightification of Eclipse Collections by Alex Iliev, Goldman Sachs at #EclipseCon Europe https://buff.ly/2c3230N
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 13 17:38:43 +0000 2016](https://twitter.com/bruncedric/status/775750570208526336)
 
@@ -18534,7 +18534,7 @@ Replying to [@adolfosbh, @fmadiot, @gblondelle and @modelsconf](https://twitter.
 
 ----
 
-> Currently setting up a proxy-cache to help with the recent http://Eclipse.org disruptions.
+> Currently setting up a proxy-cache to help with the recent https://Eclipse.org disruptions.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 14 08:22:57 +0000 2016](https://twitter.com/bruncedric/status/775973093433044993)
 
@@ -18658,7 +18658,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7777945740015656
 
 ----
 
-> RT @jgbarah: When do @EclipseFdn devels stop writing code? Short answer: never http://eclipse.biterg.io They slow down once a year https://t…
+> RT @jgbarah: When do @EclipseFdn devels stop writing code? Short answer: never https://eclipse.biterg.io They slow down once a year https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 19 18:49:41 +0000 2016](https://twitter.com/bruncedric/status/777942757319045121)
 
@@ -18733,7 +18733,7 @@ Replying to [@waynebeaton](https://twitter.com/waynebeaton/status/77934693672577
 ----
 
 > RT @IncQueryLabs: Sirius meets Xtext - @IncQueryLabs' presentation at #SiriusCon 2016 @EclipseSirius 
-> http://bit.ly/2d5VvSL
+> https://bit.ly/2d5VvSL
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 27 11:59:46 +0000 2016](https://twitter.com/bruncedric/status/780738701563420672)
 
@@ -18927,7 +18927,7 @@ Replying to [@dougschaefer and @droy_eclipse](https://twitter.com/dougschaefer/s
 
 Replying to [@dougschaefer and @droy_eclipse](https://twitter.com/bruncedric/status/782978592846311424)
 
-> you can easily high speed download. We use that for the bundles here http://www.umldesigner.org/download/ if you want to try.
+> you can easily high speed download. We use that for the bundles here https://www.umldesigner.org/download/ if you want to try.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 03 16:22:22 +0000 2016](https://twitter.com/bruncedric/status/782979112570851328)
 
@@ -19221,7 +19221,7 @@ Replying to [@abstratt](https://twitter.com/modelprogrammer/status/7840284976186
 
 ----
 
-> RT @softmodeling: SiriusCon 2016 (Int. Conf. on Graphical Modeling) is our new sponsor. Check it out! http://www.siriuscon.org/ #free #Paris…
+> RT @softmodeling: SiriusCon 2016 (Int. Conf. on Graphical Modeling) is our new sponsor. Check it out! https://www.siriuscon.org/ #free #Paris…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 10 11:10:42 +0000 2016](https://twitter.com/bruncedric/status/785437397374959616)
 
@@ -19267,7 +19267,7 @@ Replying to [@ivanchikj](https://twitter.com/ivanchikj/status/783611172197175296
 
 Replying to [@softmodeling](https://twitter.com/JordiCabot/status/785907318131130368)
 
-> I used to have decent success with a "Textual Adventure Games" DSL http://cedric.brun.io/textual-adventures-in-ecore-graphical/
+> I used to have decent success with a "Textual Adventure Games" DSL https://cedric.brun.io/textual-adventures-in-ecore-graphical/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 11 18:30:21 +0000 2016](https://twitter.com/bruncedric/status/785910425804218369)
 
@@ -19293,7 +19293,7 @@ Replying to [@softmodeling](https://twitter.com/JordiCabot/status/78590731813113
 
 ----
 
-> RT @EclipseFdn: Favorite Modeling plugins? Here are @bruncedric on #EclipseMarketplace. Share yours on twitter! http://buff.ly/2dChZb9 @Ac…
+> RT @EclipseFdn: Favorite Modeling plugins? Here are @bruncedric on #EclipseMarketplace. Share yours on twitter! https://buff.ly/2dChZb9 @Ac…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 13 13:02:36 +0000 2016](https://twitter.com/bruncedric/status/786552720056393728)
 
@@ -19332,7 +19332,7 @@ Replying to [@softmodeling](https://twitter.com/JordiCabot/status/78590731813113
 ----
 
 > Let's meet and discuss Modeling, EMF, Sirius, Acceleo and many more subjects at EclipseCon Europe next week !
-> http://buff.ly/2e1QDyr 
+> https://buff.ly/2e1QDyr 
 > 
 > ![]({{ site.url }}/media/788319389829435392-CvCsTgqXgAAcKoU.jpg)
 > 
@@ -19619,7 +19619,7 @@ Replying to [@MaudiMm and @sbegaudeau](https://twitter.com/CamilleAmiaud/status/
 
 ----
 
-> RT @IncQueryLabs: #MoDeS3 live video stream: http://bit.ly/2eQJeiC
+> RT @IncQueryLabs: #MoDeS3 live video stream: https://bit.ly/2eQJeiC
 > Come and test #MoDeS3 at #IoTPlayground @EclipseCon https://t.co/C6062…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 26 13:01:01 +0000 2016](https://twitter.com/bruncedric/status/791263364303450112)
@@ -19686,7 +19686,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/791307610209255424)
 
 ----
 
-> Fellow #eclipsecon 'ers, I've been interviewed at #models16 about #EclipseSirius and Obeo and it just got published http://modeling-languages.com/sirius-eclipse-obeo-graphical-modeling-tool/
+> Fellow #eclipsecon 'ers, I've been interviewed at #models16 about #EclipseSirius and Obeo and it just got published https://modeling-languages.com/sirius-eclipse-obeo-graphical-modeling-tool/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 27 07:20:00 +0000 2016](https://twitter.com/bruncedric/status/791539931009077248)
 
@@ -19850,7 +19850,7 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/79231245
 
 ----
 
-> RT @DominikMohilo: Here is our first round of post- #eclipsecon impressions. More to come http://bit.ly/2ee2g5g @tracymiranda @torkildr @…
+> RT @DominikMohilo: Here is our first round of post- #eclipsecon impressions. More to come https://bit.ly/2ee2g5g @tracymiranda @torkildr @…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 31 11:25:54 +0000 2016](https://twitter.com/bruncedric/status/793051363995451393)
 
@@ -19863,11 +19863,11 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/79231245
 
 ----
 
-> RT @JAXenterCOM: #eclipsecon at a glance @tracymiranda @torkildr @bruncedric http://sta.cr/2BJW1 
+> RT @JAXenterCOM: #eclipsecon at a glance @tracymiranda @torkildr @bruncedric https://sta.cr/2BJW1 
 > 
 > ![]({{ site.url }}/media/793120530182332417-CwG6xSIXgAAyPtR.jpg)
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 31 16:00:44 +0000 2016](https://twitter.com/bruncedric/status/793120530182332417)> RT @JAXenterCOM: “Eclipse is way more than just the Eclipse IDE” @bruncedric http://sta.cr/2BK11 
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 31 16:00:44 +0000 2016](https://twitter.com/bruncedric/status/793120530182332417)> RT @JAXenterCOM: “Eclipse is way more than just the Eclipse IDE” @bruncedric https://sta.cr/2BK11 
 > 
 > ![]({{ site.url }}/media/793377107665625089-CwI2XjCWYAA2YHf.jpg)
 
@@ -19875,7 +19875,7 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/79231245
 
 ----
 
-> RT @j2r2b: EclEmma will be participating in the #Oxygen Simultaneous Release http://dev.eclipse.org/mhonarc/lists/cross-project-issues-dev/msg13795.html. This is great news for all #Eclipse #…
+> RT @j2r2b: EclEmma will be participating in the #Oxygen Simultaneous Release https://dev.eclipse.org/mhonarc/lists/cross-project-issues-dev/msg13795.html. This is great news for all #Eclipse #…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 02 09:27:02 +0000 2016](https://twitter.com/bruncedric/status/793746227766657025)
 
@@ -19921,7 +19921,7 @@ Replying to [@cra and @EclipseFdn](https://twitter.com/cra/status/79382313956207
 
 ----
 
-> Excitement building up, #SiriusCon is only 12 days away! Register and join us at Paris on the 15th of November! http://www.siriuscon.org/
+> Excitement building up, #SiriusCon is only 12 days away! Register and join us at Paris on the 15th of November! https://www.siriuscon.org/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 03 12:46:13 +0000 2016](https://twitter.com/bruncedric/status/794158741209890817)
 
@@ -19951,7 +19951,7 @@ Replying to [@cra and @EclipseFdn](https://twitter.com/cra/status/79382313956207
 
 ----
 
-> RT @softmodeling: Our latest software modeling news: UMLtoNoSQL,   Sirius and more! - http://eepurl.com/cnIuiH
+> RT @softmodeling: Our latest software modeling news: UMLtoNoSQL,   Sirius and more! - https://eepurl.com/cnIuiH
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 08 06:26:22 +0000 2016](https://twitter.com/bruncedric/status/795875089795477504)
 
@@ -19973,7 +19973,7 @@ Replying to [@cra and @EclipseFdn](https://twitter.com/cra/status/79382313956207
 
 ----
 
-> RT @EclipseSirius: One week before #SiriusCon Paris. Are you ready? Register now! http://www.siriuscon.org/register.php 
+> RT @EclipseSirius: One week before #SiriusCon Paris. Are you ready? Register now! https://www.siriuscon.org/register.php 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/795929766272659456-CwuvFPgWEAAZeQC.mp4">Your browser does not support the video tag.</video>
 
@@ -19981,7 +19981,7 @@ Replying to [@cra and @EclipseFdn](https://twitter.com/cra/status/79382313956207
 
 ----
 
-> We love textual editors too! Three of the morning sessions will discuss integrating with @xtext  at #SiriusCon http://www.siriuscon.org/ 
+> We love textual editors too! Three of the morning sessions will discuss integrating with @xtext  at #SiriusCon https://www.siriuscon.org/ 
 > 
 > ![]({{ site.url }}/media/795942647370289152-CwvBAo6XcAAgio4.png)
 
@@ -20053,7 +20053,7 @@ Replying to [@bruncedric](https://twitter.com/diegosevilla/status/79595018596902
 
 ----
 
-> RT @rlarcheveque: http://www.asc-csa.gc.ca/eng/blog/2016/11/08/apogy-the-one-stop-shop-solution-for-operating-robots-satellites-and-beyond.asp
+> RT @rlarcheveque: https://www.asc-csa.gc.ca/eng/blog/2016/11/08/apogy-the-one-stop-shop-solution-for-operating-robots-satellites-and-beyond.asp
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 10 04:52:26 +0000 2016](https://twitter.com/bruncedric/status/796576224307007488)
 
@@ -20345,7 +20345,7 @@ Replying to [@milesparker](https://twitter.com/milesparker/status/79822396550417
 
 ----
 
-> RT @andwor: Neat, @gemocinitiative has published the proceedings of the 2016 workshop online: http://ceur-ws.org/Vol-1731/
+> RT @andwor: Neat, @gemocinitiative has published the proceedings of the 2016 workshop online: https://ceur-ws.org/Vol-1731/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 17 15:11:23 +0000 2016](https://twitter.com/bruncedric/status/799268704563277829)
 
@@ -20399,7 +20399,7 @@ Replying to [@jperiodlangley](https://twitter.com/jperiodlangley/status/79962741
 
 ----
 
-> RT @Obeo_Corp: UML Designer 7.1.0 (based on @EclipseSirius 4.1) has been released. Download &amp; enjoy! http://www.umldesigner.org/download/ https://t.co/K…
+> RT @Obeo_Corp: UML Designer 7.1.0 (based on @EclipseSirius 4.1) has been released. Download &amp; enjoy! https://www.umldesigner.org/download/ https://t.co/K…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 23 21:52:51 +0000 2016](https://twitter.com/bruncedric/status/801544065678528513)
 
@@ -20427,7 +20427,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/801830
 
 ----
 
-> RT @Obeo_Fr: Si vous l'avez raté, on parle #numérique #NantesTech &amp; Obeo dans @usinenouvelle ! http://www.usinenouvelle.com/article/le-numerique-au-service-de-l-industrie.N460372 https://t.co/fD3AIPG…
+> RT @Obeo_Fr: Si vous l'avez raté, on parle #numérique #NantesTech &amp; Obeo dans @usinenouvelle ! https://www.usinenouvelle.com/article/le-numerique-au-service-de-l-industrie.N460372 https://t.co/fD3AIPG…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 25 08:15:11 +0000 2016](https://twitter.com/bruncedric/status/802063068779970560)
 
@@ -20441,7 +20441,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/801830
 
 ----
 
-> RT @TuleapOpenALM: Mattermost integrated to Tuleap : Git notifications and Scrum stand-up report http://bit.ly/2gNRW6i @mattermosthq http…
+> RT @TuleapOpenALM: Mattermost integrated to Tuleap : Git notifications and Scrum stand-up report https://bit.ly/2gNRW6i @mattermosthq http…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 29 05:40:43 +0000 2016](https://twitter.com/bruncedric/status/803473747671916544)
 
@@ -20453,7 +20453,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/801830
 
 ----
 
-> RT @EclipseSirius: Slides of the talks at #SiriusCon Paris 2016 are online! http://bit.ly/2gDDgCA 
+> RT @EclipseSirius: Slides of the talks at #SiriusCon Paris 2016 are online! https://bit.ly/2gDDgCA 
 > 
 > ![]({{ site.url }}/media/803537789686083584-Cya8RfcW8AEte7t.jpg)
 
@@ -20507,7 +20507,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8038928631593861
 
 ----
 
-> That's a second very strong incentive (with Red Dead 2) to get clearance at home for a PS4 http://youtu.be/W2Wnvvj33Wo
+> That's a second very strong incentive (with Red Dead 2) to get clearance at home for a PS4 https://youtu.be/W2Wnvvj33Wo
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Dec 05 20:16:15 +0000 2016](https://twitter.com/bruncedric/status/805868408927637505)
 
@@ -20772,7 +20772,7 @@ Replying to [@psuzzi](https://twitter.com/psuzzi/status/810633275219857410)
 
 ----
 
-> With 11 posts, 2016 will be one of the most productive year from a blog point of view. http://cedric.brun.io/posts/ 
+> With 11 posts, 2016 will be one of the most productive year from a blog point of view. https://cedric.brun.io/posts/ 
 > 
 > ![]({{ site.url }}/media/811247696526868480-C0IhWkLXEAAE9oN.jpg)
 
@@ -20786,7 +20786,7 @@ Replying to [@psuzzi](https://twitter.com/psuzzi/status/810633275219857410)
 
 ----
 
-> RT @EclipseSirius: 2017 &amp; #GraphicalModeling: better, faster, stronger? http://blog.obeo.fr/en/post/graphical-modeling-from-2016-to-2017-better-faster-stronger #OpenSource 
+> RT @EclipseSirius: 2017 &amp; #GraphicalModeling: better, faster, stronger? https://blog.obeo.fr/en/post/graphical-modeling-from-2016-to-2017-better-faster-stronger #OpenSource 
 > 
 > ![]({{ site.url }}/media/811507071313186816-C0MMe2GXEAA9s7R.jpg)
 
@@ -20802,7 +20802,7 @@ Replying to [@psuzzi](https://twitter.com/psuzzi/status/810633275219857410)
 
 ----
 
-> RT @EclipseFdn: Better, faster, stronger. That’s the future of graphical modeling! Learn more: http://buff.ly/2h5zCkT #EclipseNewsletter @…
+> RT @EclipseFdn: Better, faster, stronger. That’s the future of graphical modeling! Learn more: https://buff.ly/2h5zCkT #EclipseNewsletter @…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Dec 31 16:10:09 +0000 2016](https://twitter.com/bruncedric/status/815228558931087360)> Awesome! https://twitter.com/EclipseSirius/status/816273762412806144
 
@@ -20824,7 +20824,7 @@ Replying to [@psuzzi](https://twitter.com/psuzzi/status/810633275219857410)
 
 ----
 
-> Start 2017 with #NewYearsResolution and apply rule #1 of Ecore design: state the purpose and audience of the models http://cedric.brun.io/eclipse/ecore-design-checklist-part1/ 
+> Start 2017 with #NewYearsResolution and apply rule #1 of Ecore design: state the purpose and audience of the models https://cedric.brun.io/eclipse/ecore-design-checklist-part1/ 
 > 
 > ![]({{ site.url }}/media/816932435988545536-C1ZTZKnW8AARS2E.jpg)
 
@@ -20866,7 +20866,7 @@ Replying to [@ShigatsuToApril, @ctron and @EclipseFdn](https://twitter.com/remys
 
 ----
 
-> ~30k databases compromised and ransomed, think twice before opening ports toward the internet !  http://www.csoonline.com/article/3154190/security/exposed-mongodb-installs-being-erased-held-for-ransom.html
+> ~30k databases compromised and ransomed, think twice before opening ports toward the internet !  https://www.csoonline.com/article/3154190/security/exposed-mongodb-installs-being-erased-held-for-ransom.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 10 06:20:00 +0000 2017](https://twitter.com/bruncedric/status/818703920969187328)
 
@@ -21099,7 +21099,7 @@ Replying to [@bruncedric](https://twitter.com/tracymiranda/status/82095340514122
 
 ----
 
-> RT @Obeo_Corp: [One day, One 2016 fact] 16 000 #UMLDesigner users (at least) in 2016 http://www.umldesigner.org/ #ModelingRocks cc @EclipseSiri…
+> RT @Obeo_Corp: [One day, One 2016 fact] 16 000 #UMLDesigner users (at least) in 2016 https://www.umldesigner.org/ #ModelingRocks cc @EclipseSiri…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 16 12:50:37 +0000 2017](https://twitter.com/bruncedric/status/820976550929661955)
 
@@ -21231,7 +21231,7 @@ Replying to [@ctron](https://twitter.com/ctron/status/821705989883883520)
 
 ----
 
-> RT @bbcpress: BBC Studios to produce adaptation of Neil Gaiman and Terry Pratchett's #GoodOmens for BBC and Amazon: http://bbc.in/2jCbv21…
+> RT @bbcpress: BBC Studios to produce adaptation of Neil Gaiman and Terry Pratchett's #GoodOmens for BBC and Amazon: https://bbc.in/2jCbv21…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 19 14:18:48 +0000 2017](https://twitter.com/bruncedric/status/822085907545198592)
 
@@ -21357,7 +21357,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8224902718249697
 
 ----
 
-> RT @jankoehnlein: CfP: XtextSummit at EclipseCon France 2017 http://typefox.io/xtext-summit-eclipsecon-france-call-for-papers
+> RT @jankoehnlein: CfP: XtextSummit at EclipseCon France 2017 https://typefox.io/xtext-summit-eclipsecon-france-call-for-papers
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 24 17:39:39 +0000 2017](https://twitter.com/bruncedric/status/823948392502087680)
 
@@ -21577,7 +21577,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8292576279390453
 
 ----
 
-> RT @EclipseSirius: Have you met... our gallery with #GraphicalModeling tools made with #EclipseSirius? http://buff.ly/2m2KwdY cc @EclipseF…
+> RT @EclipseSirius: Have you met... our gallery with #GraphicalModeling tools made with #EclipseSirius? https://buff.ly/2m2KwdY cc @EclipseF…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 20 13:45:53 +0000 2017](https://twitter.com/bruncedric/status/833674034781048833)
 
@@ -21631,7 +21631,7 @@ Replying to [@ftomasse](https://twitter.com/ftomasse/status/834451772500541441)
 
 ----
 
-> RT @softmodeling: Modeling is important to Eclipse but Eclipse is also important to modeling http://sumo.ly/w9Th via @softmodeling
+> RT @softmodeling: Modeling is important to Eclipse but Eclipse is also important to modeling https://sumo.ly/w9Th via @softmodeling
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 23 11:14:08 +0000 2017](https://twitter.com/bruncedric/status/834723010758189056)
 
@@ -21880,7 +21880,7 @@ Replying to [@jpe_obeo](https://twitter.com/@jpe_obeo/status/838743910952337411)
 
 ----
 
-> Looking  forward to "the get down" part2 and more especially the soundtrack! http://www.okayplayer.com/news/the-get-down-original-soundtrack-part-two-out-april-14.html
+> Looking  forward to "the get down" part2 and more especially the soundtrack! https://www.okayplayer.com/news/the-get-down-original-soundtrack-part-two-out-april-14.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 09 20:02:34 +0000 2017](https://twitter.com/bruncedric/status/839929422786461698)
 
@@ -21975,13 +21975,13 @@ Replying to [@stevekmcc](https://twitter.com/stevekmcc/status/841543721233571840
 
 ----
 
-> "Design in OSS projects: food for though" (FR)  http://mariejulien.com/post/2017/02/08/Le-design-dans-le-libre-%3A-pistes-de-r%C3%A9flexion A telling tale, I'd love to work with UX designers from the start!
+> "Design in OSS projects: food for though" (FR)  https://mariejulien.com/post/2017/02/08/Le-design-dans-le-libre-%3A-pistes-de-r%C3%A9flexion A telling tale, I'd love to work with UX designers from the start!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 14 10:20:42 +0000 2017](https://twitter.com/bruncedric/status/841594931927998464)
 
 ----
 
-> RT @fipro78: What's new in #Eclipse #Oxygen for #OSGi Declarative Services? http://blog.vogella.com/?p=7561 /cc @pnehrer @tomsontom
+> RT @fipro78: What's new in #Eclipse #Oxygen for #OSGi Declarative Services? https://blog.vogella.com/?p=7561 /cc @pnehrer @tomsontom
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 15 09:10:42 +0000 2017](https://twitter.com/bruncedric/status/841939701820973056)
 
@@ -22095,7 +22095,7 @@ Replying to [@mickaelbaron](https://twitter.com/mickaelbaron/status/842716607419
 
 ----
 
-> RT @mamund: “You should never let people work on more than one thing at once.” -- @spolsky http://b.mamund.com/2k98R5j 
+> RT @mamund: “You should never let people work on more than one thing at once.” -- @spolsky https://b.mamund.com/2k98R5j 
 > 
 > ![]({{ site.url }}/media/843032297431621633-C7FS8zhXQAQFz81.jpg)
 
@@ -22194,7 +22194,7 @@ Replying to [@abernard_dvp and @EclipseDVP](https://twitter.com/abernard_dvp/sta
 
 ----
 
-> Colors again ! "You get this color on the Commodore 64 by swapping pale green and cyan 50 times a sec!" http://www.aaronbell.com/secret-colours-of-the-commodore-64/ 
+> Colors again ! "You get this color on the Commodore 64 by swapping pale green and cyan 50 times a sec!" https://www.aaronbell.com/secret-colours-of-the-commodore-64/ 
 > 
 > ![]({{ site.url }}/media/844921831501025281-C7nD52lXQAE_d1a.jpg)
 
@@ -22336,7 +22336,7 @@ Replying to [@mchv and @Obeo_Fr](https://twitter.com/mchv/status/847075756127797
 
 ----
 
-> RT @MaudiMm: Il y a les startups qui lèvent des fonds et il y a les autres dont @obeo_fr http://www.widoobiz.com/entrepreneurs-startups/il-y-a-les-startups-qui-levent-des-fonds-et-il-y-a-les-autres/79110 article par @JulieGaleski…
+> RT @MaudiMm: Il y a les startups qui lèvent des fonds et il y a les autres dont @obeo_fr https://www.widoobiz.com/entrepreneurs-startups/il-y-a-les-startups-qui-levent-des-fonds-et-il-y-a-les-autres/79110 article par @JulieGaleski…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 30 14:10:02 +0000 2017](https://twitter.com/bruncedric/status/847450850901528576)
 
@@ -22344,13 +22344,13 @@ Replying to [@mchv and @Obeo_Fr](https://twitter.com/mchv/status/847075756127797
 
 > RT @melaniebats: You missed #EclipseCon &amp; #DevoxxUS last week? Wonder what to attend at #devoxxFR next week? Have a look to my recap https:…
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 31 18:12:36 +0000 2017](https://twitter.com/bruncedric/status/847874283569283072)> RT @EclipsePlanet: Melanie Bats: Back to the Future: Eclipse Converge &amp; Devoxx US http://dlvr.it/NmXCy1 #PlanetEclipse https://t.co/6o7ns…
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 31 18:12:36 +0000 2017](https://twitter.com/bruncedric/status/847874283569283072)> RT @EclipsePlanet: Melanie Bats: Back to the Future: Eclipse Converge &amp; Devoxx US https://dlvr.it/NmXCy1 #PlanetEclipse https://t.co/6o7ns…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 03 11:17:36 +0000 2017](https://twitter.com/bruncedric/status/848857009579593728)
 
 ----
 
-> "Reddit did a cool social experiment for April Fool's Day that involved an open canvas to create pixel art on" http://imgur.com/gallery/ARNb2 
+> "Reddit did a cool social experiment for April Fool's Day that involved an open canvas to create pixel art on" https://imgur.com/gallery/ARNb2 
 > 
 > ![]({{ site.url }}/media/849166034980544512-C8jX4VwXoAA3OOF.jpg)
 
@@ -22374,7 +22374,7 @@ Replying to [@mchv and @Obeo_Fr](https://twitter.com/mchv/status/847075756127797
 
 ----
 
-> RT @Obeo_Fr: Psssst tu peux aussi candidater ici http://bit.ly/ObeoRecrute #devoxxfr #weareobeo
+> RT @Obeo_Fr: Psssst tu peux aussi candidater ici https://bit.ly/ObeoRecrute #devoxxfr #weareobeo
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 05 15:09:08 +0000 2017](https://twitter.com/bruncedric/status/849640052141510657)
 
@@ -22540,7 +22540,7 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/85004975
 
 ----
 
-> RT @Obeo_Fr: Tu es à #DevoxxFR (ou pas) et tu cherches un job ? Passe nous voir ! http://bit.ly/ObeoRecrute #java #Eclipse #WeAreObeo
+> RT @Obeo_Fr: Tu es à #DevoxxFR (ou pas) et tu cherches un job ? Passe nous voir ! https://bit.ly/ObeoRecrute #java #Eclipse #WeAreObeo
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 07 09:14:51 +0000 2017](https://twitter.com/bruncedric/status/850275670320005120)
 
@@ -22570,7 +22570,7 @@ Replying to [@mikbarbero and @EclipseJavaIDE](https://twitter.com/mikbarbero/sta
 
 ----
 
-> RT @Rio_Alx: Trying to find to some docs about meta modeling tips in #Eclipse. I found ponies… Thanks @bruncedric http://cedric.brun.io/eclipse/ecore-design-checklist-part1/
+> RT @Rio_Alx: Trying to find to some docs about meta modeling tips in #Eclipse. I found ponies… Thanks @bruncedric https://cedric.brun.io/eclipse/ecore-design-checklist-part1/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 07 13:16:05 +0000 2017](https://twitter.com/bruncedric/status/850336377627652096)
 
@@ -22715,7 +22715,7 @@ Replying to [@StefanOehme](https://twitter.com/@StefanOehme/status/8515248885024
 > RT @IncQueryLabs: #Eclipse #Toolmakers' Day 
 > Final countdown. 
 > Have you already registered?
-> http://bit.ly/2oOuPLR
+> https://bit.ly/2oOuPLR
 > #SoftwareEngineer #Auto…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 24 15:02:51 +0000 2017](https://twitter.com/bruncedric/status/856523841337786369)
@@ -22948,14 +22948,14 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8647560086269214
 
 ----
 
-> RT @EclipsePlanet: Cedric Brun: EcoreTools: user experience revamped thanks to Sirius 5.0 http://dlvr.it/PBGX0v #PlanetEclipse https://t.…
+> RT @EclipsePlanet: Cedric Brun: EcoreTools: user experience revamped thanks to Sirius 5.0 https://dlvr.it/PBGX0v #PlanetEclipse https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 19 11:32:57 +0000 2017](https://twitter.com/bruncedric/status/865530713369493509)
 
 ----
 
 > I wrote a blog post to make you wait for Oxygen M7:  "EcoreTools: user experience revamped thanks to Sirius 5.0" 
-> http://buff.ly/2ryWQ9E 
+> https://buff.ly/2ryWQ9E 
 > 
 > ![]({{ site.url }}/media/865537215576760325-DAMBgX7U0AE0tZR.png)
 > 
@@ -23021,7 +23021,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/8672895454
 ----
 
 > RT @EclipseCon: Xtext and Sirius @ #EclipseCon France. Reserve your space at the Xtext Workshop and Summit!
-> http://buff.ly/2rXsjSQ https:/…
+> https://buff.ly/2rXsjSQ https:/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 29 08:32:51 +0000 2017](https://twitter.com/bruncedric/status/869109267692998657)
 
@@ -23158,7 +23158,7 @@ Replying to [@tracymiranda](https://twitter.com/tracymiranda/status/876443076834
 
 ----
 
-> RT @Obeo_Corp: One day before #CapellaDay, two before #EclipseCon France. (Almost) on our way to Toulouse! http://bit.ly/CapellaDayToulouse https://…
+> RT @Obeo_Corp: One day before #CapellaDay, two before #EclipseCon France. (Almost) on our way to Toulouse! https://bit.ly/CapellaDayToulouse https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 19 08:03:27 +0000 2017](https://twitter.com/bruncedric/status/876712013422088192)
 
@@ -23420,7 +23420,7 @@ Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeF
 
 ----
 
-> RT @sponemann: Don't miss our #Xtext webinar today at 5PM CEST http://meetu.ps/e/CRlmz/8pZt2/a
+> RT @sponemann: Don't miss our #Xtext webinar today at 5PM CEST https://meetu.ps/e/CRlmz/8pZt2/a
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 26 11:34:37 +0000 2017](https://twitter.com/bruncedric/status/879301870191353856)
 
@@ -23438,7 +23438,7 @@ Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeF
 
 ----
 
-> RT @EclipsePlanet: Eclipse Announcements: Early Submission Deadline for EclipseCon Europe 2017 http://dlvr.it/PQL31Q #PlanetEclipse https…
+> RT @EclipsePlanet: Eclipse Announcements: Early Submission Deadline for EclipseCon Europe 2017 https://dlvr.it/PQL31Q #PlanetEclipse https…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 27 03:50:05 +0000 2017](https://twitter.com/bruncedric/status/879547357662150656)
 
@@ -23465,7 +23465,7 @@ Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeF
 ----
 
 > RT @EclipseFdn: ⚠ The #EclipseOxygen release day is upon us and will be available in a few short hours. Weeeeeee!
-> 🔜 http://www.eclipse.org/oxygen…
+> 🔜 https://www.eclipse.org/oxygen…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 28 12:12:01 +0000 2017](https://twitter.com/bruncedric/status/880036058238418944)
 
@@ -23504,7 +23504,7 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/8800546727
 ----
 
 > RT @EclipseFdn: ⭐ The #EclipseOxygen Simultaneous Release is here‼ 
-> 🎉 Download it now: http://buff.ly/2tXSOIU
+> 🎉 Download it now: https://buff.ly/2tXSOIU
 > 😀 Happy coding! https://t.co…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 28 14:03:21 +0000 2017](https://twitter.com/bruncedric/status/880064077376233473)
@@ -23525,7 +23525,7 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/8800546727
 
 > RT @EclipseFdn: #EclipseOxygen: A Breath of Fresh Air
 > 📰  Read all about it in the latest #EclipseNewsletter
-> http://buff.ly/2tk7CDY https:/…
+> https://buff.ly/2tk7CDY https:/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 28 17:23:30 +0000 2017](https://twitter.com/bruncedric/status/880114447641190405)
 
@@ -23606,7 +23606,7 @@ Replying to [@EclipseSirius](https://twitter.com/EclipseSirius/status/8806726954
 
 ----
 
-> RT @EclipsePlanet: Eclipse Announcements: EclipseCon Europe 2017 | Submissions Close in One Week http://dlvr.it/PTXqqf #PlanetEclipse htt…
+> RT @EclipsePlanet: Eclipse Announcements: EclipseCon Europe 2017 | Submissions Close in One Week https://dlvr.it/PTXqqf #PlanetEclipse htt…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jul 10 19:17:56 +0000 2017](https://twitter.com/bruncedric/status/884491898190270464)
 
@@ -23692,14 +23692,14 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8854323311038504
 
 ----
 
-> RT @EclipsePlanet: Christian Pontesegger: EclipseCon Europe - Wouldn't it be cool to be on stage there? http://dlvr.it/PVVchz #PlanetEcli…
+> RT @EclipsePlanet: Christian Pontesegger: EclipseCon Europe - Wouldn't it be cool to be on stage there? https://dlvr.it/PVVchz #PlanetEcli…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 14 11:09:57 +0000 2017](https://twitter.com/bruncedric/status/885818643766022148)
 
 ----
 
 > "An iStar 2.0 Editor Based on the Eclipse Modelling Framework"
->  http://ceur-ws.org/Vol-1829/iStar17_paper_18.pdf 
+>  https://ceur-ws.org/Vol-1829/iStar17_paper_18.pdf 
 > 
 > ![]({{ site.url }}/media/886875283349020672-DE7QW0PXsAAxJ9r.jpg)
 
@@ -23715,7 +23715,7 @@ Replying to [@glefur_](https://twitter.com/glefur_/status/886874648524324866)
 
 ----
 
-> RT @Obeo_Fr: Dans @LaTribune, retour sur la #collaboration publique-privée entre la @Cnav_actu &amp; Obeo avec la #DSN http://bit.ly/CollaborationCnavObeo…
+> RT @Obeo_Fr: Dans @LaTribune, retour sur la #collaboration publique-privée entre la @Cnav_actu &amp; Obeo avec la #DSN https://bit.ly/CollaborationCnavObeo…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jul 17 09:09:42 +0000 2017](https://twitter.com/bruncedric/status/886875545862107136)
 
@@ -23827,7 +23827,7 @@ Replying to [@emmaperaldi and @orange](https://twitter.com/bruncedric/status/887
 
 ----
 
-> The world we are shaping is fascinating (and maybe a bit scary :-] ) http://haseebq.com/a-hacker-stole-31m-of-ether/
+> The world we are shaping is fascinating (and maybe a bit scary :-] ) https://haseebq.com/a-hacker-stole-31m-of-ether/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 21 20:41:44 +0000 2017](https://twitter.com/bruncedric/status/888499256524509189)
 
@@ -23843,7 +23843,7 @@ Replying to [@kolovos](https://twitter.com/kolovos/status/888295456106852352)
 
 Replying to [@kolovos](https://twitter.com/bruncedric/status/888692034961379328)
 
-> "Clearing the memory" is indeed a different matter. @EclipseSirius has a dedicated strategy to deal with that. http://cedric.brun.io/eclipse/eclipse-4.6.0M6/ 
+> "Clearing the memory" is indeed a different matter. @EclipseSirius has a dedicated strategy to deal with that. https://cedric.brun.io/eclipse/eclipse-4.6.0M6/ 
 > 
 > ![]({{ site.url }}/media/888692866469462016-DFVFZweXUAA8ooE.jpg)
 
@@ -23992,7 +23992,7 @@ Replying to [@acceleo](https://twitter.com/bruncedric/status/895675143631929344)
 
 ----
 
-> RT @MIT: Happy birthday, Margaret Hamilton! Comic by @LukeKingma profiles the computer science pioneer: http://mitsha.re/MJnW303k1YC https://t.c…
+> RT @MIT: Happy birthday, Margaret Hamilton! Comic by @LukeKingma profiles the computer science pioneer: https://mitsha.re/MJnW303k1YC https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Aug 18 20:27:30 +0000 2017](https://twitter.com/bruncedric/status/898642533806362624)
 
@@ -24042,7 +24042,7 @@ Replying to [@dougschaefer](https://twitter.com/dougschaefer/status/899311126097
 
 ----
 
-> RT @JAXenterCOM: UX power in @EclipseSirius 5.0 — @bruncedric explains all the new features http://sta.cr/2RFy1 
+> RT @JAXenterCOM: UX power in @EclipseSirius 5.0 — @bruncedric explains all the new features https://sta.cr/2RFy1 
 > 
 > ![]({{ site.url }}/media/901085780197748736-DIECkjEVoAASpGK.jpg)
 
@@ -24062,7 +24062,7 @@ Replying to [@dougschaefer](https://twitter.com/dougschaefer/status/899311126097
 
 ----
 
-> RT @DDiRuscio: Glad to have @bcombemale as keynote speaker at #flexmde17 workshop @modelsconf http://www.di.univaq.it/flexmde/
+> RT @DDiRuscio: Glad to have @bcombemale as keynote speaker at #flexmde17 workshop @modelsconf https://www.di.univaq.it/flexmde/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 28 18:59:27 +0000 2017](https://twitter.com/bruncedric/status/902244251102261249)
 
@@ -24112,13 +24112,13 @@ Replying to [@lorenzo_bettini and @EclipseCon](https://twitter.com/lorenzo_betti
 
 ----
 
-> Currently cleaning up my blog and removing half the posts to make room for the best ones ;-) http://cedric.brun.io/posts/
+> Currently cleaning up my blog and removing half the posts to make room for the best ones ;-) https://cedric.brun.io/posts/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 31 14:15:00 +0000 2017](https://twitter.com/bruncedric/status/903259833306157057)
 
 ----
 
-> Wanna see how Sirius was looking in 2009?  Here are short flash videos (yes, flash, I said 2009!).Tool definition: http://literate.modeling.free.fr/modeling/designer/ViewpointsDefinition.htm
+> Wanna see how Sirius was looking in 2009?  Here are short flash videos (yes, flash, I said 2009!).Tool definition: https://literate.modeling.free.fr/modeling/designer/ViewpointsDefinition.htm
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 31 15:54:49 +0000 2017](https://twitter.com/bruncedric/status/903284951935799297)
 
@@ -24126,7 +24126,7 @@ Replying to [@lorenzo_bettini and @EclipseCon](https://twitter.com/lorenzo_betti
 
 Replying to [@bruncedric](https://twitter.com/bruncedric/status/903284951935799297)
 
-> And using those newly defined viewpoints: http://literate.modeling.free.fr/modeling/designer/UsingViewpoints.htm 
+> And using those newly defined viewpoints: https://literate.modeling.free.fr/modeling/designer/UsingViewpoints.htm 
 > 
 > ![]({{ site.url }}/media/903285338403196928-DIkdMWGXYAE4YTp.jpg)
 
@@ -24481,7 +24481,7 @@ Replying to [@melaniebats](https://twitter.com/bruncedric/status/910137856470986
 
 Replying to [@melaniebats, @slacrampe and @CityofVancouver](https://twitter.com/bruncedric/status/910137980676960256)
 
-> That’s a lot of exciting news so here is a blog post to cover everything: http://cedric.brun.io/obeo/north-america-here-we-come/
+> That’s a lot of exciting news so here is a blog post to cover everything: https://cedric.brun.io/obeo/north-america-here-we-come/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 19 13:47:11 +0000 2017](https://twitter.com/bruncedric/status/910138201074958337)
 
@@ -24489,7 +24489,7 @@ Replying to [@melaniebats, @slacrampe and @CityofVancouver](https://twitter.com/
 
 Replying to [@melaniebats, @slacrampe and @CityofVancouver](https://twitter.com/bruncedric/status/910138201074958337)
 
-> Mélanie also blogged, Disney style! http://melb.enix.org/2017/09/19/zero-to-cto/
+> Mélanie also blogged, Disney style! https://melb.enix.org/2017/09/19/zero-to-cto/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 19 13:51:18 +0000 2017](https://twitter.com/bruncedric/status/910139238175395840)
 
@@ -24543,7 +24543,7 @@ Replying to [@gblondelle, @melaniebats, @slacrampe, @CityofVancouver and @Obeo_C
 
 ----
 
-> RT @melaniebats: Really happy to announce that I am the new Obeo's CTO: http://melb.enix.org/2017/09/19/zero-to-cto/
+> RT @melaniebats: Really happy to announce that I am the new Obeo's CTO: https://melb.enix.org/2017/09/19/zero-to-cto/
 > Lots of fun ahead!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 19 14:15:42 +0000 2017](https://twitter.com/bruncedric/status/910145379869618176)
@@ -24788,7 +24788,7 @@ Replying to [@kumaravelp, @melaniebats, @slacrampe and @CityofVancouver](https:/
 
 ----
 
-> RT @lecairn: The latest The atlantic2 Daily! http://paper.li/atlantic2/membres?edition_id=68eb8b00-9eac-11e7-8d59-0cc47a0d15fd Thanks to @MaudiMm #nantestech #datacenters
+> RT @lecairn: The latest The atlantic2 Daily! https://paper.li/atlantic2/membres?edition_id=68eb8b00-9eac-11e7-8d59-0cc47a0d15fd Thanks to @MaudiMm #nantestech #datacenters
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 21 09:13:57 +0000 2017](https://twitter.com/bruncedric/status/910794214874722305)
 
@@ -24910,7 +24910,7 @@ Replying to [@doublev_i_ll](https://twitter.com/doublev_i_ll/status/910855194359
 
 ----
 
-> @EclipseCon Hi!, it seems the website is down http://downforeveryoneorjustme.com/www.eclipsecon.org
+> @EclipseCon Hi!, it seems the website is down https://downforeveryoneorjustme.com/www.eclipsecon.org
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 28 16:44:01 +0000 2017](https://twitter.com/bruncedric/status/913444195045605376)
 
@@ -25063,7 +25063,7 @@ Replying to [@mmilinkov and @EclipseCon](https://twitter.com/mmilinkov/status/91
 
 ----
 
-> OpenJ9 has a significantly smaller memory footprint than Hotspot. Gotta try that ! http://www.eclipse.org/openj9/# 
+> OpenJ9 has a significantly smaller memory footprint than Hotspot. Gotta try that ! https://www.eclipse.org/openj9/# 
 > 
 > ![]({{ site.url }}/media/915993452201918464-DLZDDn7XkAANU9H.jpg)
 
@@ -25674,7 +25674,7 @@ Replying to [@Samuel_Rochet](https://twitter.com/Samuel_Rochet/status/9228382913
 
 ----
 
-> RT @Obeo_Corp: Go further with the white paper  #Xtext &amp; @EclipseSirius, in cooperation with @TypeFox_io: http://bit.ly/Xtext-Sirius-WhitePaper
+> RT @Obeo_Corp: Go further with the white paper  #Xtext &amp; @EclipseSirius, in cooperation with @TypeFox_io: https://bit.ly/Xtext-Sirius-WhitePaper
 > https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 26 11:18:48 +0000 2017](https://twitter.com/bruncedric/status/923509212298334210)
@@ -25731,7 +25731,7 @@ Replying to [@Samuel_Rochet](https://twitter.com/Samuel_Rochet/status/9228382913
 
 Replying to [@dougschaefer and @jmwind](https://twitter.com/dougschaefer/status/925046903175303168)
 
-> Or OkHTTP ! Pretty nice and concise http://square.github.io/okhttp/
+> Or OkHTTP ! Pretty nice and concise https://square.github.io/okhttp/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 30 19:12:39 +0000 2017](https://twitter.com/bruncedric/status/925078010621022208)
 
@@ -25782,7 +25782,7 @@ Replying to [@glefur_](https://twitter.com/glefur_/status/925354678803673088)
 ----
 
 > RT @laurentdelaigue: Don't know if you're aware, but M2Doc has its own website now!
-> http://www.m2doc.org/
+> https://www.m2doc.org/
 > I love it.
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 03 15:10:56 +0000 2017](https://twitter.com/bruncedric/status/926466731895394306)
@@ -25987,7 +25987,7 @@ Replying to [@alex_schl and @esconfs](https://twitter.com/alex_schl/status/92827
 
 ----
 
-> RT @Samuel_Rochet: @melaniebats And, if you're using @capella_arcadia, have a look at http://www.m2doc.org/capella/
+> RT @Samuel_Rochet: @melaniebats And, if you're using @capella_arcadia, have a look at https://www.m2doc.org/capella/
 > Enjoy! 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/928656896332062720-DONAEv_WsAE-e-C.mp4">Your browser does not support the video tag.</video>
@@ -26022,7 +26022,7 @@ Replying to [@alex_schl and @esconfs](https://twitter.com/alex_schl/status/92827
 
 ----
 
-> RT @cponsard: See also http://simqri.cetic.be/ and https://github.com/cetic/SimQRI Thanks to @Obeo_Corp for organising this great day ! Going back…
+> RT @cponsard: See also https://simqri.cetic.be/ and https://github.com/cetic/SimQRI Thanks to @Obeo_Corp for organising this great day ! Going back…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 09 19:09:53 +0000 2017](https://twitter.com/bruncedric/status/928701194150842369)
 
@@ -26797,7 +26797,7 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/95573919
 
 ----
 
-> RT @Obeo_Corp: For the German-speaking: Here is an article about @Capella_Arcadia published in German ➡️ http://se-trends.de/capella-und-arcadia
+> RT @Obeo_Corp: For the German-speaking: Here is an article about @Capella_Arcadia published in German ➡️ https://se-trends.de/capella-und-arcadia
 > ICYMI: Reg…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 23 18:43:16 +0000 2018](https://twitter.com/bruncedric/status/955873584219656194)
@@ -27282,7 +27282,7 @@ Replying to [@Tcharl, @EclipseSirius and @melaniebats](https://twitter.com/Tchar
 
 ----
 
-> RT @Obeo_Corp: Discover how to unleash the power of @capella_arcadia with #TeamForCapella: http://www.polarsys.org/capella/addons.html #MBSE #SysEng #Collabora…
+> RT @Obeo_Corp: Discover how to unleash the power of @capella_arcadia with #TeamForCapella: https://www.polarsys.org/capella/addons.html #MBSE #SysEng #Collabora…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 13 13:58:42 +0000 2018](https://twitter.com/bruncedric/status/973558976347598848)
 
@@ -27334,7 +27334,7 @@ Replying to [@Tcharl, @EclipseSirius and @melaniebats](https://twitter.com/Tchar
 
 ----
 
-> RT @EclipseCon: Session Proposal:  The future of development tooling: The example of Eclipse Che, Theia and Sirius. http://dlvr.it/QLbNQG…
+> RT @EclipseCon: Session Proposal:  The future of development tooling: The example of Eclipse Che, Theia and Sirius. https://dlvr.it/QLbNQG…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 20 05:56:44 +0000 2018](https://twitter.com/bruncedric/status/975974401509416960)
 
@@ -27481,7 +27481,7 @@ Replying to [@Samuel_Rochet and @mickaelistria](https://twitter.com/Samuel_Roche
 
 ----
 
-> RT @Obeo_Corp: Less than one month before #SiriusDay Eindhoven. Sign up to secure one of the last places available! http://bit.ly/SiriusDayEindhoven…
+> RT @Obeo_Corp: Less than one month before #SiriusDay Eindhoven. Sign up to secure one of the last places available! https://bit.ly/SiriusDayEindhoven…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 28 14:17:48 +0000 2018](https://twitter.com/bruncedric/status/978999599242403841)
 
@@ -27496,7 +27496,7 @@ Replying to [@Samuel_Rochet and @mickaelistria](https://twitter.com/Samuel_Roche
 ----
 
 > RT @Obeo_Corp: Here is a sample of what the Obeo team will do at #EclipseCon France 2018. See you there!
-> http://bit.ly/ObeoTalksEConFR https://t.…
+> https://bit.ly/ObeoTalksEConFR https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 03 13:40:59 +0000 2018](https://twitter.com/bruncedric/status/981164663537745920)
 
@@ -27589,7 +27589,7 @@ Replying to [@MaudiMm](https://twitter.com/CamilleAmiaud/status/9821736795964006
 
 Replying to [@alex_morel_](https://twitter.com/alex_morel_/status/982258076773330948)
 
-> http://www.alcatrazvirtualgame.com
+> https://www.alcatrazvirtualgame.com
 > 
 > Enjoy!
 
@@ -28030,7 +28030,7 @@ Replying to [@ralph_mueller](https://twitter.com/ralph_mueller/status/1003001737
 ----
 
 > Siemens partnering with Obeo on Model Based Systems Engineering solution - a major recognition for OSS Modeling Techs
-> http://cedric.brun.io/eclipse/siemens-obeo-partnership/
+> https://cedric.brun.io/eclipse/siemens-obeo-partnership/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 08 13:10:35 +0000 2018](https://twitter.com/bruncedric/status/1005074611955003399)
 
@@ -28263,7 +28263,7 @@ Replying to [@waynebeaton and @EclipseCon](https://twitter.com/waynebeaton/statu
 
 ----
 
-> RT @Obeo_Corp: Do not miss it: today is the day! http://bit.ly/EclipsePhotonSeriesModelingtoolsGoUpToTheCloud https://twitter.com/Obeo_Corp/status/1007533173847322626
+> RT @Obeo_Corp: Do not miss it: today is the day! https://bit.ly/EclipsePhotonSeriesModelingtoolsGoUpToTheCloud https://twitter.com/Obeo_Corp/status/1007533173847322626
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 18 07:53:30 +0000 2018](https://twitter.com/bruncedric/status/1008618692966584320)
 
@@ -28581,7 +28581,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/1023641318772416512)
 
 ----
 
-> Indeed! And beside the community, it also has very concrete and technical implications: "On being open and transparent" circa 2013  http://cedric.brun.io/on-being-open-and-transparent/ https://twitter.com/Obeo_Corp/status/1025027387803795456
+> Indeed! And beside the community, it also has very concrete and technical implications: "On being open and transparent" circa 2013  https://cedric.brun.io/on-being-open-and-transparent/ https://twitter.com/Obeo_Corp/status/1025027387803795456
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Aug 03 21:13:12 +0000 2018](https://twitter.com/bruncedric/status/1025489786553991168)
 
@@ -28673,7 +28673,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/1023641318772416512)
 ----
 
 > RT @EclipseFdn: Is @capella_arcadia a SysML Tool?
-> Find out: http://eclip.se/ew
+> Find out: https://eclip.se/ew
 > cc/@samuel_rochet 
 > 
 > ![]({{ site.url }}/media/1033091754503925760-Dj6IqE7WsAIq0E7.png)
@@ -28790,7 +28790,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1037067341698347
 ----
 
 > Tu as envie de relever des défis différents et de découvrir des nouvelles techno, le tout dans une boite sympa et avec des équipes bienveillantes ? Viens, on recrute au sein de notre agence de Carquefou !
-> http://bit.ly/ComeInWeHireAtObeo 
+> https://bit.ly/ComeInWeHireAtObeo 
 > 
 > ![]({{ site.url }}/media/1039884464514580481-Dm5pP2sW0AE56c9.jpg)
 
@@ -28905,7 +28905,7 @@ Replying to [@Windows](https://twitter.com/Windows/status/1040296941916180480)
 ----
 
 > RT @EclipseSirius: Register for #EclipseCon EU and learn more about @eclipsesirius moving to the web!
-> http://bit.ly/ObeoAtEconEU18 https://t.co/…
+> https://bit.ly/ObeoAtEconEU18 https://t.co/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 20 12:00:03 +0000 2018](https://twitter.com/bruncedric/status/1042745198160355334)
 
@@ -29052,7 +29052,7 @@ Replying to [@slacrampe](https://twitter.com/slacrampe/status/105093347898711244
 
 ----
 
-> It's going to be my 10th @EclipseCon Europe, here is a blog I wrote 10 years ago after my first one: http://cedric.brun.io/back-from-ese-2008-wow/
+> It's going to be my 10th @EclipseCon Europe, here is a blog I wrote 10 years ago after my first one: https://cedric.brun.io/back-from-ese-2008-wow/
 > 
 > Do I get some 🍰 reaching such a high score @EclipseFdn ?
 
@@ -29200,7 +29200,7 @@ Replying to [@xstefank](https://twitter.com/xstefank/status/1054430528680681473)
 
 ----
 
-> Feel free to stop by our @obeo_corp booth (#4… yes the one at the end of the corridor) or join us at one of our talks. It will be dealing with @eclipsesirius and other interesting stuff about #GraphicalModeling. Details: http://bit.ly/ObeoAtEConEU18 
+> Feel free to stop by our @obeo_corp booth (#4… yes the one at the end of the corridor) or join us at one of our talks. It will be dealing with @eclipsesirius and other interesting stuff about #GraphicalModeling. Details: https://bit.ly/ObeoAtEConEU18 
 > 
 > ![]({{ site.url }}/media/1054732225563029504-DqMpXGJX0AAxdX2.jpg)
 
@@ -29208,7 +29208,7 @@ Replying to [@xstefank](https://twitter.com/xstefank/status/1054430528680681473)
 
 ----
 
-> RT @meysholdt: @bruncedric thanks for pointing it out! The npm dependency view is also available here: http://www.npm-dependencies.com/ #EclipseCon
+> RT @meysholdt: @bruncedric thanks for pointing it out! The npm dependency view is also available here: https://www.npm-dependencies.com/ #EclipseCon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 23 14:31:12 +0000 2018](https://twitter.com/bruncedric/status/1054742038397313024)
 
@@ -29266,7 +29266,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/1054982840687964
 
 > Today: two talks to get more details about the future of #graphicalmodeling and about @eclipsesirius moving to the web and cloud. First one just finished, come to us to discuss! Second  one about GraphQL is coming up after the afternoon break.
 > 
-> http://bit.ly/ObeoAtEConEU18 
+> https://bit.ly/ObeoAtEConEU18 
 > 
 > ![]({{ site.url }}/media/1055036642602442752-DqQ-MFkXcAACFAW.jpg)
 > 
@@ -29771,7 +29771,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1064886164476313
 
 ----
 
-> RT @capella_arcadia: And if you want to have a look at the slides -&gt; http://bit.ly/SlidesWebinarCapella18_6
+> RT @capella_arcadia: And if you want to have a look at the slides -&gt; https://bit.ly/SlidesWebinarCapella18_6
 > 
 > #CapellaWebinar #GraphicalModeling https://t.…
 
@@ -29905,7 +29905,7 @@ Replying to [@Samuel_Rochet](https://twitter.com/Samuel_Rochet/status/1070297282
 ----
 
 > RT @capella_arcadia: Today @ejuliot will talk about #CapellaArcadia at #CSDMParis. Join him at 4.45 pm.
-> Details: http://www.2018.csdm.fr/wp-content/uploads/2018/12/Program-CSDM-PARIS-2018-1.pdf ht…
+> Details: https://www.2018.csdm.fr/wp-content/uploads/2018/12/Program-CSDM-PARIS-2018-1.pdf ht…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 19 09:35:15 +0000 2018](https://twitter.com/bruncedric/status/1075323668765532160)
 
@@ -29958,7 +29958,7 @@ Replying to [@naomod_team, @sunye and @HugoBruneliere](https://twitter.com/naomo
 ----
 
 > RT @EclipseSirius: The #EclipseSirius community survey is back! Take 5 minutes to give us your feedback ✌️
-> http://bit.ly/SiriusCommunitySurvey2019 https://…
+> https://bit.ly/SiriusCommunitySurvey2019 https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 10 19:37:38 +0000 2019](https://twitter.com/bruncedric/status/1083447797066711040)
 
@@ -30846,7 +30846,7 @@ Replying to [@jfbrazeau, @Obeo_Fr, @theseacleaners, @RefitNGIN and @tradediscoun
 > 
 > Do not miss it!
 > 
-> http://bit.ly/Registration_CapellaWebinar19_6 http…
+> https://bit.ly/Registration_CapellaWebinar19_6 http…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 14 16:59:01 +0000 2019](https://twitter.com/bruncedric/status/1183789314972495878)
 
@@ -31155,7 +31155,7 @@ Replying to [@AounRazaNaqvi, @BoschSI and @EclipseSirius](https://twitter.com/Ao
 
 ----
 
-> RT @melaniebats: Obeo Cloud Platform: A 9-Month Journey : http://melb.enix.org/2019/12/02/ocp-9-month-journey/ 
+> RT @melaniebats: Obeo Cloud Platform: A 9-Month Journey : https://melb.enix.org/2019/12/02/ocp-9-month-journey/ 
 > TLDR; This is almost the story of my first CTO pregnancy…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 03 19:17:02 +0000 2019](https://twitter.com/bruncedric/status/1201943441476902920)
@@ -31373,7 +31373,7 @@ Replying to [@KitzuPaws](https://twitter.com/KitzuPaws/status/121195886296797593
 > RT @capella_arcadia: It's today, do not miss it!
 > 
 > Register:
-> http://bit.ly/Capella_Webinar_20_1
+> https://bit.ly/Capella_Webinar_20_1
 > 
 > #SystemsEngineering #SysEng #MBSE #OpenSource https://…
 
@@ -31750,7 +31750,7 @@ Replying to [@alex_morel_, @mchv, @CodeLutin, @aprilorg, @AllianceLibre, @Codeur
 
 ----
 
-> RT @mmilinkov: 2020 Annual Report: Our Momentum Reflects Major Industry Trends http://eclipse-foundation.blog/2020/06/09/2020-annual-report-our-momentum-reflects-major-industry-trends/
+> RT @mmilinkov: 2020 Annual Report: Our Momentum Reflects Major Industry Trends https://eclipse-foundation.blog/2020/06/09/2020-annual-report-our-momentum-reflects-major-industry-trends/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 10 11:31:05 +0000 2020](https://twitter.com/bruncedric/status/1270679876501213186)
 
@@ -32189,7 +32189,7 @@ Replying to [@svenefftinge](https://twitter.com/svenefftinge/status/129826088452
 
 ----
 
-> RT @melaniebats: T-20:00 Sirius-II Mission Launch Director gives her go for code load  to the @EclipseFdn. http://melb.enix.org/2020/08/18/siriusiimission/  #OpenSo…
+> RT @melaniebats: T-20:00 Sirius-II Mission Launch Director gives her go for code load  to the @EclipseFdn. https://melb.enix.org/2020/08/18/siriusiimission/  #OpenSo…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 01 17:52:13 +0000 2020](https://twitter.com/bruncedric/status/1311725619655438338)
 
@@ -32206,7 +32206,7 @@ Replying to [@svenefftinge](https://twitter.com/svenefftinge/status/129826088452
 
 > RT @melaniebats: T-16:00 Obeo approves “load-and-go” fueling: EMF-JSON onboard!
 > 
-> http://melb.enix.org/2020/10/05/emf-json/
+> https://melb.enix.org/2020/10/05/emf-json/
 > 
 > #OpenSource #SiriusWeb #EclipseSi…
 
@@ -32250,7 +32250,7 @@ Replying to [@ftomasse and @Obeo_Corp](https://twitter.com/ftomasse/status/13159
 
 > RT @melaniebats: T-8:00 SIRIUS-II Mission: 1st stage Sirius Web loading begins
 > 
-> http://melb.enix.org/2020/10/13/sirius-web/
+> https://melb.enix.org/2020/10/13/sirius-web/
 > 
 > #OpenSource #SiriusWeb #EclipseSir…
 
@@ -32693,7 +32693,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @mmilinkov: Meet Adoptium: Open Source Java Runtimes for Enterprises http://eclipse-foundation.blog/2021/03/23/meet-adoptium/
+> RT @mmilinkov: Meet Adoptium: Open Source Java Runtimes for Enterprises https://eclipse-foundation.blog/2021/03/23/meet-adoptium/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 23 12:02:50 +0000 2021](https://twitter.com/bruncedric/status/1374330796736192513)
 
@@ -32830,7 +32830,7 @@ Replying to [@gblondelle, @EclipseFdn, @OPCoach_Eclipse, @tracymiranda, @alex_sc
 > Nice and steady progress: container shapes can now behave like a list in @EclipseSirius Web!
 > 
 > Learn more in BehindTheScene#4 by @melaniebats 
-> http://melb.enix.org/2021/04/29/behind-the-scene-list-container/ 
+> https://melb.enix.org/2021/04/29/behind-the-scene-list-container/ 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/1390593880459030528-E0xgs3NWQAIudH-.mp4">Your browser does not support the video tag.</video>
 

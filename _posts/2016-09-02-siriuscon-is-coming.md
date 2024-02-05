@@ -6,7 +6,7 @@ tags: [eclipse, sirius, siriuscon]
 
 ---
 
-The team is not only polishing Sirius 4.1.0 which is planned for the end of September, but also preparing for the ultimate event for the Sirius community aka [SiriusCon](http://www.siriuscon.org/)! 
+The team is not only polishing Sirius 4.1.0 which is planned for the end of September, but also preparing for the ultimate event for the Sirius community aka [SiriusCon](https://www.siriuscon.org/)! 
 
 We organized the first edition last year with the help of the Eclipse Fundation: a one-day free event with two tracks filled with highly specialized talks and sessions dedicated to discovery. It looks like we stroke a right balance and feedback was excellent for the first edition.  It is with excitement and anticipation that we are preparing SiriusCon 2016 based on the same fundamentals:
 
@@ -55,7 +55,7 @@ And of course as the value of such event is also all the discussions you will ha
 
 ### A free event
 
-At last but not least the event is once again free, but although it’s free, **book early as the number of places is limited to 130 seats!** Also note that it is scheduled slightly sooner than last year; on the November 15th, save the date and [register using this web form](http://www.siriuscon.org/register.php)!
+At last but not least the event is once again free, but although it’s free, **book early as the number of places is limited to 130 seats!** Also note that it is scheduled slightly sooner than last year; on the November 15th, save the date and [register using this web form](https://www.siriuscon.org/register.php)!
 
 I’m looking forward to see you there!
 

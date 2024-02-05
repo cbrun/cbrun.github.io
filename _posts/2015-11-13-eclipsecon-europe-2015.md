@@ -26,7 +26,7 @@ Looking at the overall conference :
 * we had a lot of fun as a [Program Committee](https://www.eclipsecon.org/europe2015/about-pc){:target="_blank"}, we worked as a team and I'm quite proud of the result
 * the Eclipse community *is a family*, just look at how people react when you step in the bar, not even having unpacked your luggage yet, now compare with what happens when you meet family which you barely see each year. That's right. Same spirit.
 <figure>
-    <a href="http://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"><img src="http://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"></a>    
+    <a href="https://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"><img src="https://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"></a>    
     <figcaption>ECE 2015 had an awesome program!</figcaption>
 </figure>
 
@@ -52,9 +52,9 @@ Now let's get back to EclipseCon Europe.
 
 Right before the conference Pierre-Charles [announced](https://dev.eclipse.org/mhonarc/lists/sirius-dev/msg00132.html){:target="_blank"} the general availability of Sirius 3.1 ([new noteworthy](https://www.eclipse.org/sirius/whatsnew3-1.html){:target="_blank"}, [release notes](https://www.eclipse.org/sirius/doc/Release_Notes.html){:target="_blank"} ). 
 
-This version brings pleasants improvements to empower you in building **state of the art** modeling tools, among other things :  vertical and horizontal compartments, new graphic capabilities for ports... This version also mark the graduation of [AQL](http://cedric.brun.io/eclipse/introducing-aql/){:target="_blank"} as the recommended query langage for your `.odesign` files. 
+This version brings pleasants improvements to empower you in building **state of the art** modeling tools, among other things :  vertical and horizontal compartments, new graphic capabilities for ports... This version also mark the graduation of [AQL](https://cedric.brun.io/eclipse/introducing-aql/){:target="_blank"} as the recommended query langage for your `.odesign` files. 
 
-Because of all those changes we landed in this beautiful part of Germany with many topics to discuss and were ready for the wave of questions. Most of them should be anwered by [Maxime's presentation: Sirius 3.1 - Stronger, Faster and Smarter Diagram Editors](http://mporhel.github.io/slides/2015_EclipseConEU_Sirius31_StrongerFasterSmarter/#/){:target="_blank"} if you could not make it to the conference.
+Because of all those changes we landed in this beautiful part of Germany with many topics to discuss and were ready for the wave of questions. Most of them should be anwered by [Maxime's presentation: Sirius 3.1 - Stronger, Faster and Smarter Diagram Editors](https://mporhel.github.io/slides/2015_EclipseConEU_Sirius31_StrongerFasterSmarter/#/){:target="_blank"} if you could not make it to the conference.
 
 <figure>
     <a href="https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg"><img src="https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg"></a>    
@@ -73,7 +73,7 @@ Etienne presented a talk giving a pretty good overview of what Sirius can do and
     <figcaption>Breathe life into your Designer!</figcaption>
 </figure>
 
-And because we all love blinking LED's, Melanie presented a session describing how to animate your models with Sirius and the [Gemoc technologies!](http://gemoc.org/){:target="_blank"}. See the [slides here](http://fr.slideshare.net/melbats/eclipsecon-eu-2015-breathe-life-into-your-designer){:target="_blank"} for more information.
+And because we all love blinking LED's, Melanie presented a session describing how to animate your models with Sirius and the [Gemoc technologies!](https://gemoc.org/){:target="_blank"}. See the [slides here](https://fr.slideshare.net/melbats/eclipsecon-eu-2015-breathe-life-into-your-designer){:target="_blank"} for more information.
 
 Of course *Tiger* the cat was also there and enjoyed the IOT Playground.
 
@@ -110,5 +110,5 @@ In a nutshell : **if you are willing to spare some heap memory,  IncQuery can bo
 
 All in all a great conference, thanks to the Eclipse Foundation staff and to the community at large for making it happen. I'm looking forward to the next one.
 
-Next stop : **SiriusCon** in Paris where I hope we'll meet. Did I mention it's  **free** ? Well, it is, but it doesn't mean we have infinite rooms so [register now](http://www.siriuscon.org/register.php){:target="_blank"}, **places are limited**!
+Next stop : **SiriusCon** in Paris where I hope we'll meet. Did I mention it's  **free** ? Well, it is, but it doesn't mean we have infinite rooms so [register now](https://www.siriuscon.org/register.php){:target="_blank"}, **places are limited**!
 

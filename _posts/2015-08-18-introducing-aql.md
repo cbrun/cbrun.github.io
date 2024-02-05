@@ -25,7 +25,7 @@ Some interpreters are available by default notably `feature:`, `var:`, or `servi
 For everything else, `[/]` is the reference implementation : an OCL variant used in Acceleo 3.x and based on the MOFM2T OMG Standard.
 
 A specific plugin bring the `<%%>` syntax which was the first interpreter supported by Sirius (long before Sirius was even named 'Sirius') and is using Acceleo 2 behind the scene. 
-The Acceleo2 syntax is a mix in between XPath and OCL syntax, it has been deprecated long ago (and as such has to be installed through a [specific update site](http://download.eclipse.org/sirius/updates/legacy)) but you might still find it in .odesign models which originated before Sirius was contributed to Eclipse.
+The Acceleo2 syntax is a mix in between XPath and OCL syntax, it has been deprecated long ago (and as such has to be installed through a [specific update site](https://download.eclipse.org/sirius/updates/legacy)) but you might still find it in .odesign models which originated before Sirius was contributed to Eclipse.
 
 Being `<%%>`, `[/]` or even the "forever experimental" `ocl:`, every interpreter was implemented by integrating a pre-existing language and trying to make him happy about the dynamic nature of Sirius :
 during a diagram refresh, a given query might be evaluated thousands of times, each time on different `EObjects` which would not even necessarly share a common type, each time  with different variables values.
@@ -100,7 +100,7 @@ AQL is a pure Java library  : `org.eclipse.acceleo.query.jar` and is part of the
 
 ## Try it !
 
-It is meant to be reused and has already seen several adoptions at [Obeo](http://www.obeo.fr/). 
+It is meant to be reused and has already seen several adoptions at [Obeo](https://www.obeo.fr/). 
 
 If the Sirius use-case matches yours, give it a try and tell us what you think !
 
@@ -111,7 +111,7 @@ With Sirius 3.0 a first version of the AQL interpreter has been released as **Ex
     <figcaption>Install AQL experimental support in Sirius 3.0</figcaption>
 </figure>
 
-[EcoreTools](https://www.eclipse.org/ecoretools/) has been the early-early adopter and has migrated with the Mars release. [UML Designer](http://www.umldesigner.org/) is also using AQL on the master branch since July and more migrations will follow in the upcoming months.
+[EcoreTools](https://www.eclipse.org/ecoretools/) has been the early-early adopter and has migrated with the Mars release. [UML Designer](https://www.umldesigner.org/) is also using AQL on the master branch since July and more migrations will follow in the upcoming months.
 
 ## First benchmarks
 

@@ -10,11 +10,11 @@ excerpt: "Now that one of the major Obeo Designer Technologies is Open-Source yo
    <figcaption> Image credits <a href="https://www.flickr.com/photos/opensourceway/">opensourceway</a></figcaption>
 </figure>
 
-Now that one of the [majors Obeo Designer Technologies](http://www.eclipse.org/sirius/) is Open-Source you might wonder how we get to employ close to 60 people. It's actually quite straightforward:
+Now that one of the [majors Obeo Designer Technologies](https://www.eclipse.org/sirius/) is Open-Source you might wonder how we get to employ close to 60 people. It's actually quite straightforward:
 
-* We sell domain-dedicated products notably SmartEA, [focused on Enterprise Architecture](http://www.obeosmartea.com/)
-* We sell [support subscriptions](http://www.obeodesigner.com/support) offering you simplicity and safety when leveraging Sirius.
-* We sell software bringing [repository based collaboration](http://www.obeodesigner.com/collaborative-features) on top of EMF and Sirius.
+* We sell domain-dedicated products notably SmartEA, [focused on Enterprise Architecture](https://www.obeosmartea.com/)
+* We sell [support subscriptions](https://www.obeodesigner.com/support) offering you simplicity and safety when leveraging Sirius.
+* We sell software bringing [repository based collaboration](https://www.obeodesigner.com/collaborative-features) on top of EMF and Sirius.
 * We offer open-innovation services to develop features or adapt open-source technologies within the Eclipse eco-system.
 * We offer training, expertise and development services when you want to build your own tooling.
 
@@ -28,7 +28,7 @@ Starting with this package you get to build graphical modelers, table or tree ed
 We provide regular updates and maintenance on this package even if its main focus is the latest releases.
 
 This product is now **100% free**, as in **completely under the Eclipse Public License**. You have the rights to adapt or redistribute it if you wish to, but you don't have to 
-do it alone; we've [got you covered](http://www.obeodesigner.com/buy) with a subscription matching the level of other tool vendors (and **per organization pricing**.)
+do it alone; we've [got you covered](https://www.obeodesigner.com/buy) with a subscription matching the level of other tool vendors (and **per organization pricing**.)
 
 I'm often asked how is that making us different from service companies. It makes us *completely different*. 
 
@@ -42,7 +42,7 @@ Of course every organization out there want to ship products which a high level 
 
 ## Obeo Designer Team Edition
 
-Once you defined your tooling it's time to deploy it. [Obeo Designer Team Edition](http://www.obeodesigner.com/collaborative-features) brings collaborative features to your tooling in a straightforward way for end users. 
+Once you defined your tooling it's time to deploy it. [Obeo Designer Team Edition](https://www.obeodesigner.com/collaborative-features) brings collaborative features to your tooling in a straightforward way for end users. 
 No need for *checkout*, *commit*, *compare* or *merge* actions: the technology automatically takes fine grained short-lived locks and publish the changes. In essence, **Google doc for models** within your firewall.
 
 Obeo Designer **Team Edition** targets the deployment phase of your tooling, and as such has a different life cycle. One major release a year is more than enough, pricing depends on the number of seats you need.
@@ -57,4 +57,4 @@ For example, [Locating anchors on the border of images instead of the bounding b
 
 In the end everybody wins, users have access to an evolving technology with vendor's guarantees and reach out to Obeo to sponsor features, get access to expertise, training or to the collaborative feature, and that in itself funds further open-source developments.
 
-That being said you don't have to take my word, give it a try and **[download Obeo Designer Community](http://www.obeodesigner.com/download), it's 100% EPL.**
+That being said you don't have to take my word, give it a try and **[download Obeo Designer Community](https://www.obeodesigner.com/download), it's 100% EPL.**

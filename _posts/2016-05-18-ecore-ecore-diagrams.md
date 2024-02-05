@@ -6,7 +6,7 @@ tags: [ecore, eclipse, ecoretools]
 ---
 
 A few weeks ago I ended up on the following thread on the [EMF Forum](https://www.eclipse.org/forums/index.php/f/108/) asking for [Ecore meta-model formal documentation?](https://www.eclipse.org/forums/index.php/t/1076719/).
-Ed pointed at [some documentation](http://download.eclipse.org/modeling/emf/emf/javadoc/2.11/org/eclipse/emf/ecore/package-summary.html) which includes diagrams done with great care but done with tools from another era.
+Ed pointed at [some documentation](https://download.eclipse.org/modeling/emf/emf/javadoc/2.11/org/eclipse/emf/ecore/package-summary.html) which includes diagrams done with great care but done with tools from another era.
 
 <figure>
     <a href="{{ site.url }}/images/blog/EObjectOperations-old.gif"><img src="{{ site.url }}/images/blog/EObjectOperations-old.gif"></a>    
@@ -75,7 +75,7 @@ for this kind of diagrams you really want to know a few keyboard shortcuts, amon
 |Remove Bendpoints | ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Ctrl_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Shift_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Minus_T.png?raw=true)  | [->doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Manageedges) |
 | ... | ... | ... |
 
-You'll find all the keyboard shortcuts in [Mélanie's excellent blog post](http://melb.enix.org/sirius/keyboard-shortcuts/).
+You'll find all the keyboard shortcuts in [Mélanie's excellent blog post](https://melb.enix.org/sirius/keyboard-shortcuts/).
 
 
 ## Generics

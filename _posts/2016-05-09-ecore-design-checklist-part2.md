@@ -53,7 +53,7 @@ If it's not the case it is better to expose it either as an EOperation (it will 
 
 ### ☑ There is no EClass which could be replaced by an EDatatype
 
-Any EClass used for an important number of instances should be inspected and a conscious decision should be made about whether it is best modeled as an EClass or as an EDatatype. Even with the [EMF Ultra Slim Diet](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html) an EObject comes with an overhead, both in term of memory usage but even more importantly in the overhead framework code might induce (cross-referencers, change recorders..).
+Any EClass used for an important number of instances should be inspected and a conscious decision should be made about whether it is best modeled as an EClass or as an EDatatype. Even with the [EMF Ultra Slim Diet](https://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html) an EObject comes with an overhead, both in term of memory usage but even more importantly in the overhead framework code might induce (cross-referencers, change recorders..).
 
 Rule of thumb: if you have many instances which will be never referenced by other instance beside the containing one and you don't really need the individual change notifications of each attribute of the EObject, then it's probably best to model it as an EDatatype. 
 When an EClass only have EAttributes, no EReference and is not referenced by other objects besides its container it is also a clear indication that this might be a good candidate for being an EDatatype.
@@ -87,7 +87,7 @@ If what you aim for is scalability and performance the capability to focus on a 
 
 ### ☑ The implementation classes are using MinimalEObjectImpl
 
-Make sure your *.genmodel* is configured to leverage `MinimalEObjectImpl`. This is the default if you created your genmodel with a recent version of EMF, more information about this is available on [Ed's blog](http://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html)
+Make sure your *.genmodel* is configured to leverage `MinimalEObjectImpl`. This is the default if you created your genmodel with a recent version of EMF, more information about this is available on [Ed's blog](https://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html)
 
 ___
 
@@ -179,7 +179,7 @@ Give it a shot, it's all Open-Source and part of Eclipse!
 <br>
 <br>
 
-*Credits: thanks to Pierre-Charles and [Mélanie](http://melb.enix.org/) for the proof-reading, [Jan](https://twitter.com/jankoehnlein/status/729930181289349120) for bringing a new item and Roxanne for some of the ponies.*
+*Credits: thanks to Pierre-Charles and [Mélanie](https://melb.enix.org/) for the proof-reading, [Jan](https://twitter.com/jankoehnlein/status/729930181289349120) for bringing a new item and Roxanne for some of the ponies.*
 
 
 
