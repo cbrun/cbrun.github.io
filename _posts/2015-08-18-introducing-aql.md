@@ -100,7 +100,7 @@ AQL is a pure Java library  : `org.eclipse.acceleo.query.jar` and is part of the
 
 ## Try it !
 
-It is meant to be reused and has already seen several adoptions at [Obeo](https://www.obeo.fr/). 
+It is meant to be reused and has already seen several adoptions at [Obeo](https://www.obeosoft.com/fr/). 
 
 If the Sirius use-case matches yours, give it a try and tell us what you think !
 

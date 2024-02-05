@@ -263,7 +263,7 @@ tags: [social, tweets]
 
 ----
 
-> @jeromebenois awesome :) , @svenefftinge Obeo Designer is available here https://www.obeo.fr/pages/obeo-designer/download/
+> @jeromebenois awesome :) , @svenefftinge Obeo Designer is available here https://www.obeosoft.com/fr/pages/obeo-designer/download/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 04 07:14:23 +0000 2010](https://twitter.com/bruncedric/status/15399312740)
 
@@ -816,7 +816,7 @@ Replying to [@jeromebenois](https://twitter.com/jeromebenois/status/24653764112)
 
 ----
 
-> Acceleo is acknowledged as one of the most innovative open-source project at the Open World Forum : https://www.obeo.fr/pages/news/en#041010
+> Acceleo is acknowledged as one of the most innovative open-source project at the Open World Forum : https://www.obeosoft.com/fr/pages/news/en#041010
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 06 09:30:49 +0000 2010](https://twitter.com/bruncedric/status/26536469202)
 
@@ -1962,7 +1962,7 @@ Replying to [@JohanDenHaan](https://twitter.com/JohanDenHaan/status/523550553361
 
 ----
 
-> Migrating Forte code to Java : https://www.obeo.fr/pages/agility/demonstration/fr (in french so far)
+> Migrating Forte code to Java : https://www.obeosoft.com/fr/pages/agility/demonstration/fr (in french so far)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 31 12:27:37 +0000 2011](https://twitter.com/bruncedric/status/53433262990835712)
 
@@ -4122,7 +4122,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/15503737515896
 
 > at Paris going to the Obeo office
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 31 11:41:46 +0000 2012](https://twitter.com/bruncedric/status/164312412663726082)> Sorry, we do provide EMF training sessions but it has nothing to do with high frequency electro magnetic fields. https://www.obeo.fr/pages/training/
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 31 11:41:46 +0000 2012](https://twitter.com/bruncedric/status/164312412663726082)> Sorry, we do provide EMF training sessions but it has nothing to do with high frequency electro magnetic fields. https://www.obeosoft.com/fr/pages/training/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 01 09:15:58 +0000 2012](https://twitter.com/bruncedric/status/164638106878885888)
 
@@ -9466,7 +9466,7 @@ Replying to [@jpe_obeo](https://twitter.com/@jpe_obeo/status/411816250432831488)
 
 ----
 
-> RT @melaniebats: UML Designer 4.0.0 M1 is available : https://www.obeo.fr/download/release/uml/4.0.0_M1/
+> RT @melaniebats: UML Designer 4.0.0 M1 is available : https://www.obeosoft.com/fr/download/release/uml/4.0.0_M1/
 > It is the first version based on #Sirius!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 27 15:37:56 +0000 2013](https://twitter.com/bruncedric/status/416593801088864256)
@@ -10695,7 +10695,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/452197116723879936)
 
 ----
 
-> Live session about #eclipsecon North America (in french) in 40 minutes ! https://www.obeo.fr/event/webinarEclipseCon2014.html
+> Live session about #eclipsecon North America (in french) in 40 minutes ! https://www.obeosoft.com/fr/event/webinarEclipseCon2014.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 11 12:22:14 +0000 2014](https://twitter.com/bruncedric/status/454595276444303360)
 
@@ -13542,7 +13542,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/635885
 
 ----
 
-> RT @slacrampe: @obeo_fr Obeo recherche 2 développeurs java / Eclipse sur Paris et Toulouse, à vos CV ! https://www.obeo.fr/fr/societe/carrieres
+> RT @slacrampe: @obeo_fr Obeo recherche 2 développeurs java / Eclipse sur Paris et Toulouse, à vos CV ! https://www.obeosoft.com/fr/fr/societe/carrieres
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 27 09:41:54 +0000 2015](https://twitter.com/bruncedric/status/636836025164296192)
 
@@ -21501,7 +21501,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8271507154832793
 
 Replying to [@bruncedric](https://twitter.com/bruncedric/status/827150796676538368)
 
-> If you are a user of those projects, feel free to get involved and help either directly or by sponsoring development https://www.obeo.fr/en/services/support-maintenance
+> If you are a user of those projects, feel free to get involved and help either directly or by sponsoring development https://www.obeosoft.com/fr/en/services/support-maintenance
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 02 13:45:14 +0000 2017](https://twitter.com/bruncedric/status/827150888083005440)
 
@@ -22103,7 +22103,7 @@ Replying to [@mickaelbaron](https://twitter.com/mickaelbaron/status/842716607419
 
 ----
 
-> RT @Obeo_Fr: Hey toi, #Développeur #Java de plug-ins #Eclipse : we want you! https://www.obeo.fr/fr/societe/carrieres/annonces#obeo-091-off-17-001 #Job #CDI #Paris #Velizy #OpenSource h…
+> RT @Obeo_Fr: Hey toi, #Développeur #Java de plug-ins #Eclipse : we want you! https://www.obeosoft.com/fr/fr/societe/carrieres/annonces#obeo-091-off-17-001 #Job #CDI #Paris #Velizy #OpenSource h…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 20 12:34:47 +0000 2017](https://twitter.com/bruncedric/status/843803001852739584)
 
@@ -23102,7 +23102,7 @@ Replying to [@MaudiMm and @Samuel_Rochet](https://twitter.com/CamilleAmiaud/stat
 
 ----
 
-> RT @Obeo_Fr: #Stage (possibilité #CDD ensuite) Rejoins la team Obeo https://www.obeo.fr/ressources/stage/Stage%20Obeo%20-%20Charge%20de%20communication%20et%20marketing.pdf #Nantes #Communication #Marketing https://t.co/…
+> RT @Obeo_Fr: #Stage (possibilité #CDD ensuite) Rejoins la team Obeo https://www.obeosoft.com/fr/ressources/stage/Stage%20Obeo%20-%20Charge%20de%20communication%20et%20marketing.pdf #Nantes #Communication #Marketing https://t.co/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 06 16:01:12 +0000 2017](https://twitter.com/bruncedric/status/872121202470510592)
 
@@ -28327,7 +28327,7 @@ Replying to [@AndrzejWasowski, @cedricbrun, @melaniebats and @EclipseFdn](https:
 
 Replying to [@bruncedric](https://twitter.com/bruncedric/status/1011992082209234945)
 
-> You can get the all-in-one ready to use packages for Java, JEE or Modeling on @Obeo_Corp 's website: https://www.obeo.fr/en/eclipse-download 
+> You can get the all-in-one ready to use packages for Java, JEE or Modeling on @Obeo_Corp 's website: https://www.obeosoft.com/fr/en/eclipse-download 
 > 
 > ![]({{ site.url }}/media/1011993470200840192-DgtSmFGWkAEDUZx.jpg)
 
