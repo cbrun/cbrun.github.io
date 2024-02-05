@@ -12097,7 +12097,7 @@ Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/5442168949038243
 
 ----
 
-> RT @fmadiot: 1ère conférence @NantesTech : c'est demain ! Présentation du volet international par Etienne Juliot https://blog.obeo.fr/post/lancement-nantes-tech-jeudi-18-decembre
+> RT @fmadiot: 1ère conférence @NantesTech : c'est demain ! Présentation du volet international par Etienne Juliot https://blog.obeosoft.com/fr/post/lancement-nantes-tech-jeudi-18-decembre
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 17 20:44:50 +0000 2014](https://twitter.com/bruncedric/status/545318724757385216)
 
@@ -13694,7 +13694,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/6477142756125777
 
 ----
 
-> RT @obeo_fr: Technologies de modélisation, solutions #OpenSource... #Models15 c'était top ! https://blog.obeo.fr/post/obeo-a-ottawa-pour-models-2015 #EclipseSirius https://t.…
+> RT @obeo_fr: Technologies de modélisation, solutions #OpenSource... #Models15 c'était top ! https://blog.obeosoft.com/fr/post/obeo-a-ottawa-pour-models-2015 #EclipseSirius https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 05 08:31:48 +0000 2015](https://twitter.com/bruncedric/status/650951509845372928)
 
@@ -14658,7 +14658,7 @@ Replying to [@_AxelRICHARD_](https://twitter.com/_AxelRICHARD_/status/6918929482
 
 ----
 
-> RT @Obeo_Corp: 10 years old, a new chapter, a new logo: Obeo forges ahead into 2016! https://blog.obeo.fr/en/post/obeo-10th-birthday 
+> RT @Obeo_Corp: 10 years old, a new chapter, a new logo: Obeo forges ahead into 2016! https://blog.obeosoft.com/fr/en/post/obeo-10th-birthday 
 > 
 > ![]({{ site.url }}/media/692301193704521728-CZuLpyhWAAAH5fa.jpg)
 
@@ -14748,7 +14748,7 @@ Replying to [@_AxelRICHARD_ and @sbegaudeau](https://twitter.com/bruncedric/stat
 
 ----
 
-> RT @Obeo_Fr: Quand nos amis &amp; partenaires nous souhaitent un bon anniversaire, on ne peut que partager ! https://blog.obeo.fr/post/10-ans-de-obeo-vous-avez-un-nouveau-message https://t.…
+> RT @Obeo_Fr: Quand nos amis &amp; partenaires nous souhaitent un bon anniversaire, on ne peut que partager ! https://blog.obeosoft.com/fr/post/10-ans-de-obeo-vous-avez-un-nouveau-message https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jan 29 15:12:22 +0000 2016](https://twitter.com/bruncedric/status/693089306727075840)
 
@@ -14912,7 +14912,7 @@ Replying to [@bruncedric](https://twitter.com/mcartaud/status/700621521325133824
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon NA: This year again, Obeo will be highly visible in the program! https://blog.obeo.fr/en/post/avengers-sirius-a-robot-obeo-s-landing-at-eclipsecon-north-america #OpenSource https://t.c…
+> RT @Obeo_Corp: #EclipseCon NA: This year again, Obeo will be highly visible in the program! https://blog.obeosoft.com/fr/en/post/avengers-sirius-a-robot-obeo-s-landing-at-eclipsecon-north-america #OpenSource https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 26 09:34:36 +0000 2016](https://twitter.com/bruncedric/status/703151167883194368)
 
@@ -15941,7 +15941,7 @@ Replying to [@roxannejoncas, @smcela and @kartben](https://twitter.com/roxannejo
 
 ----
 
-> RT @Obeo_Fr: A nos amis présents @DevoxxFR: nous avons un cadeau pour vous :) https://blog.obeo.fr/post/devoxx-france-nous-avons-un-cadeau-pour-vous cc @CodenvyHQ @eclipse_che https://t.…
+> RT @Obeo_Fr: A nos amis présents @DevoxxFR: nous avons un cadeau pour vous :) https://blog.obeosoft.com/fr/post/devoxx-france-nous-avons-un-cadeau-pour-vous cc @CodenvyHQ @eclipse_che https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 12 14:57:35 +0000 2016](https://twitter.com/bruncedric/status/719902290476470272)
 
@@ -16558,7 +16558,7 @@ Replying to [@CaWal](https://twitter.com/CaWal/status/732986533653925890)
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon France: the modeling experts meet at Toulouse from June 7th to 9th https://blog.obeo.fr/en/post/eclipsecon-france-the-modeling-experts-meet-at-toulouse-from-june-7th-to-9th #OpenSource https://t…
+> RT @Obeo_Corp: #EclipseCon France: the modeling experts meet at Toulouse from June 7th to 9th https://blog.obeosoft.com/fr/en/post/eclipsecon-france-the-modeling-experts-meet-at-toulouse-from-june-7th-to-9th #OpenSource https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 19 14:04:26 +0000 2016](https://twitter.com/bruncedric/status/733297264379199488)
 
@@ -17179,7 +17179,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @Obeo_Corp: Still time to register for the next @EclipseSirius roadshow in Munich! https://blog.obeo.fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://twitter.com/ejuliot/status/742297999158718464
+> RT @Obeo_Corp: Still time to register for the next @EclipseSirius roadshow in Munich! https://blog.obeosoft.com/fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://twitter.com/ejuliot/status/742297999158718464
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 13 15:23:10 +0000 2016](https://twitter.com/bruncedric/status/742376774936465408)
 
@@ -17396,7 +17396,7 @@ Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747
 
 ----
 
-> RT @Obeo_Corp: .@EclipseSirius roadshow in #Munich June 27th: a few places remain. #HurryUp it's free! https://blog.obeo.fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://t.co…
+> RT @Obeo_Corp: .@EclipseSirius roadshow in #Munich June 27th: a few places remain. #HurryUp it's free! https://blog.obeosoft.com/fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://t.co…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 12:31:29 +0000 2016](https://twitter.com/bruncedric/status/745595058854989824)
 
@@ -20786,7 +20786,7 @@ Replying to [@psuzzi](https://twitter.com/psuzzi/status/810633275219857410)
 
 ----
 
-> RT @EclipseSirius: 2017 &amp; #GraphicalModeling: better, faster, stronger? https://blog.obeo.fr/en/post/graphical-modeling-from-2016-to-2017-better-faster-stronger #OpenSource 
+> RT @EclipseSirius: 2017 &amp; #GraphicalModeling: better, faster, stronger? https://blog.obeosoft.com/fr/en/post/graphical-modeling-from-2016-to-2017-better-faster-stronger #OpenSource 
 > 
 > ![]({{ site.url }}/media/811507071313186816-C0MMe2GXEAA9s7R.jpg)
 
@@ -24610,7 +24610,7 @@ Replying to [@jfbrazeau, @gblondelle, @melaniebats, @slacrampe, @CityofVancouver
 
 ----
 
-> "a new chapter opens in a story narrating Obeo's independance and growth with a new subsidiary in Vancouver" https://blog.obeo.fr/en/post/obeo-goes-west
+> "a new chapter opens in a story narrating Obeo's independance and growth with a new subsidiary in Vancouver" https://blog.obeosoft.com/fr/en/post/obeo-goes-west
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 19 15:31:42 +0000 2017](https://twitter.com/bruncedric/status/910164504482402304)
 
@@ -27190,14 +27190,14 @@ Replying to [@jfbrazeau](https://twitter.com/jfbrazeau/status/967499527480635393
 
 ----
 
-> RT @melaniebats: Interested by modeling tools in the web? Have a look to my last blog post for details: https://blog.obeo.fr/modeling-tools-go-up-to-the-cloud
+> RT @melaniebats: Interested by modeling tools in the web? Have a look to my last blog post for details: https://blog.obeosoft.com/fr/modeling-tools-go-up-to-the-cloud
 > We need you…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 26 11:47:04 +0000 2018](https://twitter.com/bruncedric/status/968090032937619456)
 
 ----
 
-> Fancy a web-based tool for your modeling activities? Here is a prototype: based on the @EclipseSirius spec, 100% auto-layout, SVG powered. It could be your tool! learn more with @melaniebats 's blog https://blog.obeo.fr/modeling-tools-go-up-to-the-cloud 
+> Fancy a web-based tool for your modeling activities? Here is a prototype: based on the @EclipseSirius spec, 100% auto-layout, SVG powered. It could be your tool! learn more with @melaniebats 's blog https://blog.obeosoft.com/fr/modeling-tools-go-up-to-the-cloud 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/968121590289399809-DW90rD3X4AA9TD1.mp4">Your browser does not support the video tag.</video>
 
@@ -27664,7 +27664,7 @@ Replying to [@gaudol and @SonarSource](https://twitter.com/gaudol/status/9869248
 ----
 
 > What's coming in Sirius 6.0?  @_pcdavid wrote a blog post aggregating some of the new features. #ReadyForTesting
-> https://blog.obeo.fr/what-is-coming-in-sirius-6-0
+> https://blog.obeosoft.com/fr/what-is-coming-in-sirius-6-0
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 20 14:40:04 +0000 2018](https://twitter.com/bruncedric/status/987340125494497280)
 
@@ -28072,7 +28072,7 @@ Replying to [@jankoehnlein](https://twitter.com/jankoehnlein/status/100620564980
 
 ----
 
-> RT @fmadiot: Comment maintenir vos registres de traitements à jour ? https://blog.obeo.fr/rgpd-apres-le-25-mai-2018-comment-gerer-vos-registres-de-traitements #rgpd #entarch 
+> RT @fmadiot: Comment maintenir vos registres de traitements à jour ? https://blog.obeosoft.com/fr/rgpd-apres-le-25-mai-2018-comment-gerer-vos-registres-de-traitements #rgpd #entarch 
 > 
 > ![]({{ site.url }}/media/1006435278058393600-DfeOKdaX0AIn-xi.jpg)
 > 
@@ -28919,7 +28919,7 @@ Replying to [@Windows](https://twitter.com/Windows/status/1040296941916180480)
 
 > Another day another tutorial: @sbegaudeau published a comprehensive introduction to GraphQL, featuring Christian Bale ;-) !
 > 
-> https://blog.obeo.fr/getting-started-with-graphql 
+> https://blog.obeosoft.com/fr/getting-started-with-graphql 
 > 
 > ![]({{ site.url }}/media/1044587601552859136-Dn8dHnWVAAQMx4D.jpg)
 

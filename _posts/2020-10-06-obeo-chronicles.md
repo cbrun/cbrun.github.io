@@ -11,7 +11,7 @@ I can’t believe we are already looking at Q4. I have so much news to share wit
 
 This last summer we had the pleasure to organize SiriusCon. This one-day event is each year the opportunity for the modeling community to share their experience, and for the development team to provide visibility on what is currently being worked on and how we see the future of the technology. SiriusCon reached **450 attendees** from **53 different countries** thanks to **13 fabulous speakers** !
 
-The latest edition was special to us, it used to be organized at the end of each year but we decided to postpone it for a few months to be ready for an announcement very close to our heart. We’ve been working on bringing on the Web what we love about Sirius for quite a few years already and reached a point where we have a promising product. Now is the time to accelerate, Mélanie Bats announced it during the conference: **we are releasing “Sirius Web” as Open-Source and officially** [started the countdown](https://blog.obeo.fr/sirius-ii-mission){:target="_blank"} !
+The latest edition was special to us, it used to be organized at the end of each year but we decided to postpone it for a few months to be ready for an announcement very close to our heart. We’ve been working on bringing on the Web what we love about Sirius for quite a few years already and reached a point where we have a promising product. Now is the time to accelerate, Mélanie Bats announced it during the conference: **we are releasing “Sirius Web” as Open-Source and officially** [started the countdown](https://blog.obeosoft.com/fr/sirius-ii-mission){:target="_blank"} !
 
 
 <figure>
