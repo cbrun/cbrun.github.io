@@ -20,6 +20,7 @@ permalink: /talks/
 
 
 ## 2017
+[![](https://cedric.brun.io/talks/cover_whitepaper_xtext_sirius.png)](https://www.obeodesigner.com/en/white-paper-xtext-sirius)
 * [Xtext/Sirius White Paper](https://www.obeodesigner.com/en/white-paper-xtext-sirius)
 
 [![](https://cedric.brun.io/talks/EclipseConEU2017/ecoretools_thumbnail.png)](https://cedric.brun.io/talks/EclipseConEU2017/EclipseModelingGuidedTour-ecoretools.pdf)
