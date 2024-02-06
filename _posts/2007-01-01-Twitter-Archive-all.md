@@ -1012,7 +1012,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/27374198
 
 ----
 
-> You can now install Graphiti in the modeling package in a single click ! https://www.eclipse.org/graphiti/
+> You can now install Graphiti in the modeling package in a single click ! https://www.eclipse.dev/graphiti/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 24 17:22:59 +0000 2010](https://twitter.com/bruncedric/status/7484335103938561)
 
@@ -1566,7 +1566,7 @@ Replying to [@dskolovos, @ICMT11 and @ToolsConference](https://twitter.com/kolov
 
 ----
 
-> Helios SR2-RC3 packages are available : https://www.eclipse.org/downloads/packages/release/helios/sr2-rc3
+> Helios SR2-RC3 packages are available : https://www.eclipse.dev/downloads/packages/release/helios/sr2-rc3
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 16 13:18:54 +0000 2011](https://twitter.com/bruncedric/status/37863489477414912)
 
@@ -1744,7 +1744,7 @@ Replying to [@mehdiaitoufkir](https://twitter.com/mehdiaitoufkir/status/43467855
 
 ----
 
-> Compare 1.2.0 is published  for the Indigo M6 milestone : https://www.eclipse.org/modeling/emf/downloads/?project=compare
+> Compare 1.2.0 is published  for the Indigo M6 milestone : https://www.eclipse.dev/modeling/emf/downloads/?project=compare
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 15 14:03:49 +0000 2011](https://twitter.com/bruncedric/status/47659268429717504)
 
@@ -2534,7 +2534,7 @@ Replying to [@seidewitz, @The0retico and @abstratt](https://twitter.com/seidewit
 
 ----
 
-> RT @IanSkerrett: We have published the result of the Eclipse Community Survey  https://www.eclipse.org/org/press-release/20110610_survey.php
+> RT @IanSkerrett: We have published the result of the Eclipse Community Survey  https://www.eclipse.dev/org/press-release/20110610_survey.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 10 13:17:39 +0000 2011](https://twitter.com/bruncedric/status/79175394695188480)
 
@@ -2658,7 +2658,7 @@ Replying to [@KennHussey](https://twitter.com/KennHussey/status/8314467476792934
 
 ----
 
-> #eclipse Indigo is now officialy out \o/ Congrats to all the contributors and commiters involved !  https://www.eclipse.org/downloads/
+> #eclipse Indigo is now officialy out \o/ Congrats to all the contributors and commiters involved !  https://www.eclipse.dev/downloads/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 13:31:05 +0000 2011](https://twitter.com/bruncedric/status/83527427795591169)
 
@@ -2964,7 +2964,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/8853992916819558
 
 Replying to [@davymeers](https://twitter.com/davymeers/status/100476050127065088)
 
-> it works ! Thanks !  For anybody interested in OrionHub, just scroll  down the Orion website : https://www.eclipse.org/orion/index.php
+> it works ! Thanks !  For anybody interested in OrionHub, just scroll  down the Orion website : https://www.eclipse.dev/orion/index.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 08 08:22:07 +0000 2011](https://twitter.com/bruncedric/status/100481903685144576)
 
@@ -3271,7 +3271,7 @@ Replying to [@irbull](https://twitter.com/irbull/status/117068166336741376)
 
 ----
 
-> RT @ngervais: Indigo SR1 Downloads are now live! &gt; https://www.eclipse.org/downloads/ get em while their hot!  #eclipse #OnTimeEveryTime RT?
+> RT @ngervais: Indigo SR1 Downloads are now live! &gt; https://www.eclipse.dev/downloads/ get em while their hot!  #eclipse #OnTimeEveryTime RT?
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 23 13:24:59 +0000 2011](https://twitter.com/bruncedric/status/117227964999024640)
 
@@ -3409,7 +3409,7 @@ Replying to [@dunkfordyce](https://twitter.com/dunkfordyce/status/12341933978013
 
 ----
 
-> RT @steffen_pingel: Model Focusing Tools (aka Mylyn Context Modeling) project proposal has been posted! https://www.eclipse.org/proposals/mylyn.context.mft/
+> RT @steffen_pingel: Model Focusing Tools (aka Mylyn Context Modeling) project proposal has been posted! https://www.eclipse.dev/proposals/mylyn.context.mft/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 20 08:59:59 +0000 2011](https://twitter.com/bruncedric/status/126945749127802880)
 
@@ -3686,13 +3686,13 @@ Replying to [@leamassiot and @ejuliot](https://twitter.com/@leamassiot/status/13
 
 ----
 
-> Uploaded a bunch of videos demonstrating the new features of EMF Compare : https://www.eclipse.org/emf/compare/doc/features/videos/
+> Uploaded a bunch of videos demonstrating the new features of EMF Compare : https://www.eclipse.dev/emf/compare/doc/features/videos/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 21 19:43:07 +0000 2011](https://twitter.com/bruncedric/status/138704010654920704)
 
 ----
 
-> Just started to use my "let's automate boring things" low cost tool : https://www.eclipse.org/emf/compare/doc/features/1.2_new_and_noteworthy.html at the end It might help other Eclipse Projects
+> Just started to use my "let's automate boring things" low cost tool : https://www.eclipse.dev/emf/compare/doc/features/1.2_new_and_noteworthy.html at the end It might help other Eclipse Projects
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 21 19:50:38 +0000 2011](https://twitter.com/bruncedric/status/138705900193062912)
 
@@ -4328,7 +4328,7 @@ Replying to [@BryanHunt](https://twitter.com/@BryanHunt/status/18099612547246899
 
 ----
 
-> What do we do in Eclipse? 1 - building the technology to generate code or text from models : #acceleo https://www.eclipse.org/acceleo
+> What do we do in Eclipse? 1 - building the technology to generate code or text from models : #acceleo https://www.eclipse.dev/acceleo
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:33:35 +0000 2012](https://twitter.com/bruncedric/status/182852530361991168)
 
@@ -4340,25 +4340,25 @@ Replying to [@BryanHunt](https://twitter.com/@BryanHunt/status/18099612547246899
 
 ----
 
-> 3) providing a cool UI generation technology to pimp your editors https://www.eclipse.org/modeling/emft/?project=eef
+> 3) providing a cool UI generation technology to pimp your editors https://www.eclipse.dev/modeling/emft/?project=eef
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:35:01 +0000 2012](https://twitter.com/bruncedric/status/182852891692892160)
 
 ----
 
-> 4) enabling model to model transformations https://www.eclipse.org/atl/
+> 4) enabling model to model transformations https://www.eclipse.dev/atl/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:35:31 +0000 2012](https://twitter.com/bruncedric/status/182853017807224832)
 
 ----
 
-> 5) building the Modeling package https://www.eclipse.org/modeling/amalgam/
+> 5) building the Modeling package https://www.eclipse.dev/modeling/amalgam/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:36:07 +0000 2012](https://twitter.com/bruncedric/status/182853168437264384)
 
 ----
 
-> 6) enabling team work on models using your favorite SCM https://www.eclipse.org/emf/compare/
+> 6) enabling team work on models using your favorite SCM https://www.eclipse.dev/emf/compare/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 22 15:36:33 +0000 2012](https://twitter.com/bruncedric/status/182853277891837953)
 
@@ -4946,7 +4946,7 @@ Replying to [@IanSkerrett](https://twitter.com/IanSkerrett/status/21107220508850
 
 ----
 
-> Please test the Juno RC3 packages https://www.eclipse.org/downloads/index-developer.php
+> Please test the Juno RC3 packages https://www.eclipse.dev/downloads/index-developer.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 08 13:39:18 +0000 2012](https://twitter.com/bruncedric/status/211090025197215744)
 
@@ -5946,7 +5946,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/2693655712
 
 ----
 
-> Go get the latest and hotest modeling modeling package : https://www.eclipse.org/downloads/index-developer.php faster platform, compare on steroids and many more goodness
+> Go get the latest and hotest modeling modeling package : https://www.eclipse.dev/downloads/index-developer.php faster platform, compare on steroids and many more goodness
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 16 16:00:05 +0000 2012](https://twitter.com/bruncedric/status/269469902144958464)
 
@@ -6366,7 +6366,7 @@ Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/3025066815087042
 ----
 
 > RT @EclipseFdn: Last chance to submit your votes for the Eclipse Community Awards 2013 
-> https://www.eclipse.org/org/foundation/eclipseawards/
+> https://www.eclipse.dev/org/foundation/eclipseawards/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 22 14:02:51 +0000 2013](https://twitter.com/bruncedric/status/304954409803214848)
 
@@ -6410,7 +6410,7 @@ Replying to [@toutpt](https://twitter.com/@toutpt/status/307516868212690944)
 
 ----
 
-> #obeodesigner is a finalist in the "Best Modeling Product" category ! https://www.eclipse.org/org/press-release/20130301_awardfinalists.php?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+eclipse%2Ffnews+%28Eclipse+Foundation+News%29
+> #obeodesigner is a finalist in the "Best Modeling Product" category ! https://www.eclipse.dev/org/press-release/20130301_awardfinalists.php?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+eclipse%2Ffnews+%28Eclipse+Foundation+News%29
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 01 21:21:42 +0000 2013](https://twitter.com/bruncedric/status/307601563067748353)
 
@@ -7224,7 +7224,7 @@ Replying to [@prapicault](https://twitter.com/bruncedric/status/3340228841859973
 
 ----
 
-> Eclipse Modeling RC1 (Kepler) landed : https://www.eclipse.org/downloads/index-developer.php
+> Eclipse Modeling RC1 (Kepler) landed : https://www.eclipse.dev/downloads/index-developer.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri May 24 17:01:15 +0000 2013](https://twitter.com/bruncedric/status/337976600610082816)
 
@@ -7562,7 +7562,7 @@ Replying to [@IanSkerrett and @nbartlett](https://twitter.com/IanSkerrett/status
 
 ----
 
-> RT @waynebeaton: The new Eclipse Sirius is created, provisioned, and ready for code! https://www.eclipse.org/proposals/modeling.sirius/
+> RT @waynebeaton: The new Eclipse Sirius is created, provisioned, and ready for code! https://www.eclipse.dev/proposals/modeling.sirius/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 13 18:57:55 +0000 2013](https://twitter.com/bruncedric/status/345253717047652352)
 
@@ -7712,7 +7712,7 @@ Replying to [@GregoryCochon](https://twitter.com/GregCoch5978/status/34995680224
 
 ----
 
-> And we have a forum ! https://www.eclipse.org/forums/index.php/f/262/
+> And we have a forum ! https://www.eclipse.dev/forums/index.php/f/262/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 28 16:34:52 +0000 2013](https://twitter.com/bruncedric/status/350653535064563712)> I am looking for a diceCoefficient implementation which will not create tons of garbate objects, any hint ? https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient
 
@@ -9022,7 +9022,7 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/waynebeaton/sta
 ----
 
 > RT @roxannejoncas: Visualize your ideas with Sirius #eclipsesirius #eclipsenewsletter 
-> https://www.eclipse.org/community/eclipse_newsletter/2013/november/
+> https://www.eclipse.dev/community/eclipse_newsletter/2013/november/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 21 13:55:42 +0000 2013](https://twitter.com/bruncedric/status/403522107172483072)
 
@@ -9228,7 +9228,7 @@ Replying to [@droy_eclipse and @waynebeaton](https://twitter.com/droy_eclipse/st
 
 ----
 
-> Achievement #4: a visual identity, website, videos, stickers and goodies https://www.eclipse.org/sirius/ #JustInTimeForEclipseCon
+> Achievement #4: a visual identity, website, videos, stickers and goodies https://www.eclipse.dev/sirius/ #JustInTimeForEclipseCon
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 10 20:22:14 +0000 2013](https://twitter.com/bruncedric/status/410504751542202368)
 
@@ -9246,7 +9246,7 @@ Replying to [@droy_eclipse and @waynebeaton](https://twitter.com/droy_eclipse/st
 
 ----
 
-> Achievement #7 : bringing an OSS implementation of semantic merge and diff at least to the level of commercial tools https://www.eclipse.org/emf/compare/
+> Achievement #7 : bringing an OSS implementation of semantic merge and diff at least to the level of commercial tools https://www.eclipse.dev/emf/compare/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 10 20:44:45 +0000 2013](https://twitter.com/bruncedric/status/410510418336305152)
 
@@ -9424,7 +9424,7 @@ Replying to [@jpe_obeo](https://twitter.com/@jpe_obeo/status/411816250432831488)
 
 ----
 
-> RT @EclipseFdn: Real-Life Case Studies #Sirius by @fmadiot and Daniel Exertier https://www.eclipse.org/community/eclipse_newsletter/2013/november/article4.php #eclipsenewsletter
+> RT @EclipseFdn: Real-Life Case Studies #Sirius by @fmadiot and Daniel Exertier https://www.eclipse.dev/community/eclipse_newsletter/2013/november/article4.php #eclipsenewsletter
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 17 14:09:26 +0000 2013](https://twitter.com/bruncedric/status/412947651219689472)
 
@@ -10005,7 +10005,7 @@ Replying to [@adolfosbh](https://twitter.com/adolfosbh/status/429011489140125697
 
 ----
 
-> And... the EcoreTools website has now a nice intro image summarizing (almost) all the class diagram features. https://www.eclipse.org/ecoretools/
+> And... the EcoreTools website has now a nice intro image summarizing (almost) all the class diagram features. https://www.eclipse.dev/ecoretools/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 13 16:56:35 +0000 2014](https://twitter.com/bruncedric/status/434008209909501953)
 
@@ -10095,7 +10095,7 @@ Replying to [@bruncedric](https://twitter.com/pgaufillet/status/4340719768489287
 
 ----
 
-> RT @roxannejoncas: Newsletter: #IoT and Eclipse, also featuring @bruncedric in the user spotlight https://www.eclipse.org/community/eclipse_newsletter/2014/february/ #eclipsenewsletter
+> RT @roxannejoncas: Newsletter: #IoT and Eclipse, also featuring @bruncedric in the user spotlight https://www.eclipse.dev/community/eclipse_newsletter/2014/february/ #eclipsenewsletter
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 20 15:43:47 +0000 2014](https://twitter.com/bruncedric/status/436526603892699136)
 
@@ -10277,7 +10277,7 @@ Replying to [@fgaudin44](https://twitter.com/fgaudin44/status/441630938905071616
 
 ----
 
-> RT @mikbarbero: New EMF Compare website. Just in time for Eclipse con ;) https://www.eclipse.org/emf/compare/index.html #eclipsecon #eclipse #obeo #emfcompare
+> RT @mikbarbero: New EMF Compare website. Just in time for Eclipse con ;) https://www.eclipse.dev/emf/compare/index.html #eclipsecon #eclipse #obeo #emfcompare
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 13 10:29:08 +0000 2014](https://twitter.com/bruncedric/status/444057566390542336)
 
@@ -10846,7 +10846,7 @@ Replying to [@fhuberts](https://twitter.com/fhuberts/status/463968599825461248)
 
 ----
 
-> Fellow modelers, start the week by giving a hand to the Eclipse community : give a shot at the Luna M6 build  : https://www.eclipse.org/downloads/packages/eclipse-modeling-tools/lunam7
+> Fellow modelers, start the week by giving a hand to the Eclipse community : give a shot at the Luna M6 build  : https://www.eclipse.dev/downloads/packages/eclipse-modeling-tools/lunam7
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon May 12 08:00:22 +0000 2014](https://twitter.com/bruncedric/status/465763398412959745)
 
@@ -10946,7 +10946,7 @@ Replying to [@OPCoach_Eclipse and @TristanFAURE](https://twitter.com/OPCoach_Ecl
 
 ----
 
-> A start of documentation for EcoreTools while traveling by train : https://www.eclipse.org/ecoretools/doc/
+> A start of documentation for EcoreTools while traveling by train : https://www.eclipse.dev/ecoretools/doc/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 04 16:43:40 +0000 2014](https://twitter.com/bruncedric/status/474230011642540032)
 
@@ -10958,7 +10958,7 @@ Replying to [@OPCoach_Eclipse and @TristanFAURE](https://twitter.com/OPCoach_Ecl
 
 ----
 
-> Is that because of  #XtextCon or the Luna release being imminent ? No ideas but we had many questions this week ! https://www.eclipse.org/forums/index.php/f/262/
+> Is that because of  #XtextCon or the Luna release being imminent ? No ideas but we had many questions this week ! https://www.eclipse.dev/forums/index.php/f/262/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 06 15:39:42 +0000 2014](https://twitter.com/bruncedric/status/474938691853754368)
 
@@ -11000,7 +11000,7 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/47669834
 
 ----
 
-> @ejuliot spotted on https://www.eclipse.org/ !
+> @ejuliot spotted on https://www.eclipse.dev/ !
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 11 14:36:52 +0000 2014](https://twitter.com/bruncedric/status/476734815962935296)
 
@@ -11164,7 +11164,7 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/4803631101
 
 ----
 
-> It's release o'clock !  Get the bits here : https://www.eclipse.org/downloads/ #EclipseLuna
+> It's release o'clock !  Get the bits here : https://www.eclipse.dev/downloads/ #EclipseLuna
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 25 13:54:08 +0000 2014](https://twitter.com/bruncedric/status/481797493781716992)
 
@@ -11395,7 +11395,7 @@ Replying to [@lbroudoux](https://twitter.com/lbroudoux/status/512716754405978113
 
 ----
 
-> RT @droy_eclipse: We're hiring!  IP analyst in Ottawa: https://www.eclipse.org/forums/index.php/m/1428954/#msg_1428954
+> RT @droy_eclipse: We're hiring!  IP analyst in Ottawa: https://www.eclipse.dev/forums/index.php/m/1428954/#msg_1428954
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 22 18:44:51 +0000 2014](https://twitter.com/bruncedric/status/514123172804059136)
 
@@ -11614,7 +11614,7 @@ Replying to [@droy_eclipse and @eclipsecon](https://twitter.com/droy_eclipse/sta
 
 ----
 
-> Dart, Plastic Manufacturing, Satellite Software, Home Automation all in a single place? The #EclipseSirius gallery ! https://www.eclipse.org/sirius/gallery.html
+> Dart, Plastic Manufacturing, Satellite Software, Home Automation all in a single place? The #EclipseSirius gallery ! https://www.eclipse.dev/sirius/gallery.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 24 13:31:12 +0000 2014](https://twitter.com/bruncedric/status/525640653599170560)
 
@@ -11636,7 +11636,7 @@ Replying to [@droy_eclipse and @eclipsecon](https://twitter.com/droy_eclipse/sta
 
 ----
 
-> RT @dvorme: Need graphical viz tool? Eclipse Sirius is amazing.  Wrote data flow editor in about 2 days with it.  https://www.eclipse.org/sirius/
+> RT @dvorme: Need graphical viz tool? Eclipse Sirius is amazing.  Wrote data flow editor in about 2 days with it.  https://www.eclipse.dev/sirius/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 27 09:45:53 +0000 2014](https://twitter.com/bruncedric/status/526671113020252160)
 
@@ -11906,7 +11906,7 @@ Replying to [@CoMarchand](https://twitter.com/CoMarchand/status/5326220654974320
 
 ----
 
-> Modeling Mars M3 features Sirius 2.0, an updated ecoretools and the brand new error reporting. Help us help you ! https://www.eclipse.org/downloads/index-developer.php
+> Modeling Mars M3 features Sirius 2.0, an updated ecoretools and the brand new error reporting. Help us help you ! https://www.eclipse.dev/downloads/index-developer.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 14 18:18:58 +0000 2014](https://twitter.com/bruncedric/status/533323219261202432)
 
@@ -12069,7 +12069,7 @@ Replying to [@AdDelafosse](https://twitter.com/AdDelafosse/status/54158205622526
 ----
 
 > RT @fmadiot: New entry on Sirius Gallery: Farming DSLs, a tool to describe an agro exploitation
-> https://www.eclipse.org/sirius/gallery.html #eclipse #modeling …
+> https://www.eclipse.dev/sirius/gallery.html #eclipse #modeling …
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 12 10:05:08 +0000 2014](https://twitter.com/bruncedric/status/543345801536487424)
 
@@ -12277,13 +12277,13 @@ Replying to [@AdDelafosse](https://twitter.com/AdDelafosse/status/56155400322261
 
 ----
 
-> "I don't know whether I've mentioned it before but Sirius is indeed a great tool as is the support in the forum!" https://www.eclipse.org/forums/index.php/t/976310/
+> "I don't know whether I've mentioned it before but Sirius is indeed a great tool as is the support in the forum!" https://www.eclipse.dev/forums/index.php/t/976310/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 06 09:57:53 +0000 2015](https://twitter.com/bruncedric/status/563637695139037184)
 
 ----
 
-> RT @chrisguindon: The #Eclipse Installer (based on #Oomph) is now available https://www.eclipse.org/downloads/index-developer.php
+> RT @chrisguindon: The #Eclipse Installer (based on #Oomph) is now available https://www.eclipse.dev/downloads/index-developer.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 06 21:17:52 +0000 2015](https://twitter.com/bruncedric/status/563808820133367808)
 
@@ -12347,7 +12347,7 @@ Replying to [@stevekmcc and @TTilus](https://twitter.com/stevekmcc/status/566188
 
 ----
 
-> Speaking about metrics, the Forum was pretty active lately with more than 30 newcomers since the begining of 2015 https://www.eclipse.org/forums/index.php/f/262/
+> Speaking about metrics, the Forum was pretty active lately with more than 30 newcomers since the begining of 2015 https://www.eclipse.dev/forums/index.php/f/262/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 13 17:24:33 +0000 2015](https://twitter.com/bruncedric/status/566286817461551106)
 
@@ -12502,7 +12502,7 @@ Replying to [@melaniebats](https://twitter.com/melaniebats/status/57444604680748
 
 ----
 
-> Another round of voting until the end of the week for the post-mars eclipse release : https://www.eclipse.org/mars/planning/poll2.php
+> Another round of voting until the end of the week for the post-mars eclipse release : https://www.eclipse.dev/mars/planning/poll2.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 10 17:29:40 +0000 2015](https://twitter.com/bruncedric/status/575347802097762304)
 
@@ -12784,7 +12784,7 @@ Replying to [@szarnekow](https://twitter.com/szarnekow/status/581366680586174464
 
 ----
 
-> And here it is, enjoy  ! https://www.eclipse.org/downloads/index-developer.php #EclipseMarsIsComing
+> And here it is, enjoy  ! https://www.eclipse.dev/downloads/index-developer.php #EclipseMarsIsComing
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 27 15:21:22 +0000 2015](https://twitter.com/bruncedric/status/581476110493491201)> Obeo is celebrating its ninth birthday. Don't expect any answer from us today.
 
@@ -12871,13 +12871,13 @@ Replying to [@szarnekow](https://twitter.com/szarnekow/status/581366680586174464
 ----
 
 > RCPTT runner is now open-source, and that's a very good news ! 
-> https://www.eclipse.org/rcptt/documentation/userguide/runner/
+> https://www.eclipse.dev/rcptt/documentation/userguide/runner/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 17 11:23:51 +0000 2015](https://twitter.com/bruncedric/status/589026480379846656)
 
 ----
 
-> More articles and videos on this brand new page : https://www.eclipse.org/sirius/articles-videos.html
+> More articles and videos on this brand new page : https://www.eclipse.dev/sirius/articles-videos.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 17 14:29:07 +0000 2015](https://twitter.com/bruncedric/status/589073106293129217)
 
@@ -13051,7 +13051,7 @@ Replying to [@AnatolySp](https://twitter.com/AnatolySp/status/600386559595057152
 
 ----
 
-> Eclipse Mars RC3 is available : https://www.eclipse.org/downloads/index-developer-default.php Test and report back ! 
+> Eclipse Mars RC3 is available : https://www.eclipse.dev/downloads/index-developer-default.php Test and report back ! 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/606848900163633152-CGv128aXIAEIkSz.mp4">Your browser does not support the video tag.</video>
 
@@ -13556,7 +13556,7 @@ Replying to [@lorenzo_bettini](https://twitter.com/lorenzo_bettini/status/635885
 
 ----
 
-> "Top 10 Up and Coming Solutions" : UML Designer is #2 and Obeo Designer is #7 !   https://www.eclipse.org/community/eclipse_newsletter/2015/august/top10_2015.php
+> "Top 10 Up and Coming Solutions" : UML Designer is #2 and Obeo Designer is #7 !   https://www.eclipse.dev/community/eclipse_newsletter/2015/august/top10_2015.php
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Aug 27 18:29:50 +0000 2015](https://twitter.com/bruncedric/status/636968881819664384)
 
@@ -13650,7 +13650,7 @@ Replying to [@vogella and @stampiehun](https://twitter.com/vogella/status/639097
 
 ----
 
-> Eclipse Mars.1RC3 : last chance to get a fix in before the release ! https://www.eclipse.org/downloads/index-developer.php?release=mars
+> Eclipse Mars.1RC3 : last chance to get a fix in before the release ! https://www.eclipse.dev/downloads/index-developer.php?release=mars
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 11 17:15:02 +0000 2015](https://twitter.com/bruncedric/status/642385875444367360)
 
@@ -14099,7 +14099,7 @@ Replying to [@bruncedric](https://twitter.com/alex_morel_/status/668805826862272
 
 ----
 
-> A tutorial about @EclipseSirius's support of compartments is featured in the latest Eclipse Newsletter ! https://www.eclipse.org/community/eclipse_newsletter/2015/november/
+> A tutorial about @EclipseSirius's support of compartments is featured in the latest Eclipse Newsletter ! https://www.eclipse.dev/community/eclipse_newsletter/2015/november/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 02 16:47:35 +0000 2015](https://twitter.com/bruncedric/status/672094771842805760)
 
@@ -14636,7 +14636,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/690587723732762626)
 
 ----
 
-> Also added a bit more content for beginners in the doc : https://www.eclipse.org/acceleo/documentation/
+> Also added a bit more content for beginners in the doc : https://www.eclipse.dev/acceleo/documentation/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 25 19:37:26 +0000 2016](https://twitter.com/bruncedric/status/691706461701935104)
 
@@ -14920,7 +14920,7 @@ Replying to [@bruncedric](https://twitter.com/mcartaud/status/700621521325133824
 
 > What just appeared on Eclipse website ?  The Eclipse Mars.2 Update !
 > 
-> https://www.eclipse.org/downloads/ 
+> https://www.eclipse.dev/downloads/ 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/703235941788487680-CcJlGdqWoAAwwG4.mp4">Your browser does not support the video tag.</video>
 
@@ -16574,7 +16574,7 @@ Replying to [@ejuliot and @waynebeaton](https://twitter.com/ejuliot/status/73355
 
 ----
 
-> And thaaaaaaaats a wrap, Eclipse Neon (4.6.0) RC1 is published!  Go test it! https://www.eclipse.org/downloads/index-developer.php 
+> And thaaaaaaaats a wrap, Eclipse Neon (4.6.0) RC1 is published!  Go test it! https://www.eclipse.dev/downloads/index-developer.php 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/733671457776128001-Ci6GMx3WUAAsd33.mp4">Your browser does not support the video tag.</video>
 
@@ -16974,7 +16974,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @EclipseFdn: ICYMI: #DevoxxUS announced for March 21-23, 2017 in San Jose, CA https://www.eclipse.org/org/press-release/20160606_devoxx.php 
+> RT @EclipseFdn: ICYMI: #DevoxxUS announced for March 21-23, 2017 in San Jose, CA https://www.eclipse.dev/org/press-release/20160606_devoxx.php 
 > 
 > ![]({{ site.url }}/media/740523508590104576-Cka8ylBXAAA1MeU.jpg)
 
@@ -17374,7 +17374,7 @@ Replying to [@tracymiranda](https://twitter.com/tracymiranda/status/743810645360
 
 Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747295232)
 
-> This page  https://www.eclipse.org/downloads/eclipse-packages/  ? https://Eclipse.org had some issues last week but it should be fine now
+> This page  https://www.eclipse.dev/downloads/eclipse-packages/  ? https://Eclipse.org had some issues last week but it should be fine now
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 20 17:33:27 +0000 2016](https://twitter.com/bruncedric/status/744946276496719872)
 
@@ -17424,7 +17424,7 @@ Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747
 
 ----
 
-> This is it, worldwide availability of #EclipseNeon NOW! https://www.eclipse.org/downloads/eclipse-packages/ Let's make these servers burn ! 
+> This is it, worldwide availability of #EclipseNeon NOW! https://www.eclipse.dev/downloads/eclipse-packages/ Let's make these servers burn ! 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/745617551296761856-Clj224vWIAAKKIr.mp4">Your browser does not support the video tag.</video>
 
@@ -17432,7 +17432,7 @@ Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747
 
 ----
 
-> You like N&amp;N ? here is the UBER New&amp;Noteworthy page for #EclipseNeon https://www.eclipse.org/neon/noteworthy/ 
+> You like N&amp;N ? here is the UBER New&amp;Noteworthy page for #EclipseNeon https://www.eclipse.dev/neon/noteworthy/ 
 > 
 > ![]({{ site.url }}/media/745618930694250496-Clj4Ym7WIAQ3dW3.jpg)
 > 
@@ -17515,7 +17515,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7458855818388152
 
 ----
 
-> RT @roxannejoncas: Curious about the Top 10 for #EclipseNeon? Check out the latest #EclipseNewsletter  https://www.eclipse.org/community/eclipse_newsletter/2016/june/ https://t.co…
+> RT @roxannejoncas: Curious about the Top 10 for #EclipseNeon? Check out the latest #EclipseNewsletter  https://www.eclipse.dev/community/eclipse_newsletter/2016/june/ https://t.co…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 23 15:12:33 +0000 2016](https://twitter.com/bruncedric/status/745997982357684224)
 
@@ -17699,7 +17699,7 @@ Replying to [@abernard_dvp and @torkildr](https://twitter.com/abernard_dvp/statu
 
 ----
 
-> RT @EclipseSirius: Even more customization options: Sirius 4.0 is made for you! https://www.eclipse.org/sirius/whatsnew/whatsnew4.html #OpenSource cc @EclipseFdn https://…
+> RT @EclipseSirius: Even more customization options: Sirius 4.0 is made for you! https://www.eclipse.dev/sirius/whatsnew/whatsnew4.html #OpenSource cc @EclipseFdn https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 30 10:18:33 +0000 2016](https://twitter.com/bruncedric/status/748460708396949504)> vDSL deployement is going further. My whole village is like "Faster Internet !" 
 > 
@@ -18390,7 +18390,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/771265260284182528)
 
 Replying to [@haltraet and @torkildr](https://twitter.com/haltraet/status/771266560153509888)
 
-> sounds interesting! would you say the modeler is polished enough to deserve an entry here ? https://www.eclipse.org/sirius/gallery.html
+> sounds interesting! would you say the modeler is polished enough to deserve an entry here ? https://www.eclipse.dev/sirius/gallery.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 01 08:45:11 +0000 2016](https://twitter.com/bruncedric/status/771267649225437184)
 
@@ -18494,7 +18494,7 @@ Replying to [@haltraet and @torkildr](https://twitter.com/haltraet/status/771266
 
 ----
 
-> RT @EclipseSirius: Just a quick reminder from @_pcdavid :) #SiriusCon #CallForPapers https://www.eclipse.org/forums/index.php/m/1743126/#msg_1743126 cc @EclipseFdn https://t.co/AU…
+> RT @EclipseSirius: Just a quick reminder from @_pcdavid :) #SiriusCon #CallForPapers https://www.eclipse.dev/forums/index.php/m/1743126/#msg_1743126 cc @EclipseFdn https://t.co/AU…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 12 13:32:47 +0000 2016](https://twitter.com/bruncedric/status/775326293478998016)
 
@@ -18646,13 +18646,13 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7777944217064243
 
 Replying to [@bruncedric](https://twitter.com/bruncedric/status/777794574001565697)
 
-> And the updated doc, now also integrating the standard services with examples and migration from MTL or Acceleo2 https://www.eclipse.org/acceleo/documentation/aql.html
+> And the updated doc, now also integrating the standard services with examples and migration from MTL or Acceleo2 https://www.eclipse.dev/acceleo/documentation/aql.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 19 17:27:36 +0000 2016](https://twitter.com/bruncedric/status/777922099461648384)
 
 ----
 
-> RT @mickaelbaron: #Eclipse Oxygen 4.7M2 is out. Checkout the #Eclipse 4.7M2 News and Noteworthy for the details =&gt; https://www.eclipse.org/eclipse/news/4.7/M2/
+> RT @mickaelbaron: #Eclipse Oxygen 4.7M2 is out. Checkout the #Eclipse 4.7M2 News and Noteworthy for the details =&gt; https://www.eclipse.dev/eclipse/news/4.7/M2/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 19 18:48:41 +0000 2016](https://twitter.com/bruncedric/status/777942507472683008)
 
@@ -18712,7 +18712,7 @@ Replying to [@waynebeaton](https://twitter.com/waynebeaton/status/77934693672577
 
 ----
 
-> Any question ? hurdle discovering @EclipseSirius ? Ask the team on the forum: https://www.eclipse.org/forums/index.php/f/262/
+> Any question ? hurdle discovering @EclipseSirius ? Ask the team on the forum: https://www.eclipse.dev/forums/index.php/f/262/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Sep 26 08:28:17 +0000 2016](https://twitter.com/bruncedric/status/780323093386592256)
 
@@ -19255,7 +19255,7 @@ Replying to [@ivanchikj](https://twitter.com/ivanchikj/status/783611172197175296
 
 ----
 
-> The Eclipse Layout Kernel project works quite nicely with @EclipseSirius, here EcoreTools with or without ELK https://www.eclipse.org/elk/ 
+> The Eclipse Layout Kernel project works quite nicely with @EclipseSirius, here EcoreTools with or without ELK https://www.eclipse.dev/elk/ 
 > 
 > ![]({{ site.url }}/media/785853711126069248-CufplPZXEAERToz.jpg)
 > 
@@ -20996,7 +20996,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8195663233489633
 
 Replying to [@bruncedric](https://twitter.com/bruncedric/status/819566687301279744)
 
-> It's there to be used and embedded, so far by @EclipseSirius, M2doc or through the Ecore delegates. Doc is here:  https://www.eclipse.org/acceleo/documentation/aql.html
+> It's there to be used and embedded, so far by @EclipseSirius, M2doc or through the Ecore delegates. Doc is here:  https://www.eclipse.dev/acceleo/documentation/aql.html
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 12 15:31:12 +0000 2017](https://twitter.com/bruncedric/status/819567411481427970)
 
@@ -21369,7 +21369,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8224902718249697
 
 ----
 
-> RT @chrisguindon: .@EclipseFdn is looking for an Intermediate Linux SysAdmin in Germany or France https://www.eclipse.org/forums/index.php/m/1752650/
+> RT @chrisguindon: .@EclipseFdn is looking for an Intermediate Linux SysAdmin in Germany or France https://www.eclipse.dev/forums/index.php/m/1752650/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 26 06:09:51 +0000 2017](https://twitter.com/bruncedric/status/824499573943066625)
 
@@ -21391,7 +21391,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8224902718249697
 
 ----
 
-> RT @droy_eclipse: Looking for an experienced Linux SysAdmin in Germany or France.  Please share!! https://www.eclipse.org/forums/index.php/t/1083964/  @EclipseFdn
+> RT @droy_eclipse: Looking for an experienced Linux SysAdmin in Germany or France.  Please share!! https://www.eclipse.dev/forums/index.php/t/1083964/  @EclipseFdn
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 30 16:25:56 +0000 2017](https://twitter.com/bruncedric/status/826104169501179908)
 
@@ -23465,7 +23465,7 @@ Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeF
 ----
 
 > RT @EclipseFdn: ⚠ The #EclipseOxygen release day is upon us and will be available in a few short hours. Weeeeeee!
-> 🔜 https://www.eclipse.org/oxygen…
+> 🔜 https://www.eclipse.dev/oxygen…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 28 12:12:01 +0000 2017](https://twitter.com/bruncedric/status/880036058238418944)
 
@@ -23495,7 +23495,7 @@ Replying to [@roxannejoncas](https://twitter.com/roxannejoncas/status/8800546727
 
 ----
 
-> Just a few more minutes! #EclipseOxygen https://www.eclipse.org/oxygen/ 
+> Just a few more minutes! #EclipseOxygen https://www.eclipse.dev/oxygen/ 
 > 
 > ![]({{ site.url }}/media/880060491258884099-DDaaGA3XgAIbZIz.jpg)
 
@@ -23578,7 +23578,7 @@ Replying to [@EclipseSirius](https://twitter.com/EclipseSirius/status/8806726954
 
 ----
 
-> You can try the new Ecore diagram editor shipped with "Oxygen" through the Modeling Package #EclipseOxygen  https://www.eclipse.org/downloads/eclipse-packages/ 
+> You can try the new Ecore diagram editor shipped with "Oxygen" through the Modeling Package #EclipseOxygen  https://www.eclipse.dev/downloads/eclipse-packages/ 
 > 
 > ![]({{ site.url }}/media/880696472211247104-DDjcPB6XUAAl9Qg.jpg)
 
@@ -24088,7 +24088,7 @@ Replying to [@lorenzo_bettini and @EclipseCon](https://twitter.com/lorenzo_betti
 
 ----
 
-> the EPL v2.0 license is approved after years of work, congrats @EclipseFdn ! https://www.eclipse.org/org/press-release/20170829eplv2.php 
+> the EPL v2.0 license is approved after years of work, congrats @EclipseFdn ! https://www.eclipse.dev/org/press-release/20170829eplv2.php 
 > 
 > ![]({{ site.url }}/media/902882078580236289-DIeucPKUEAEDV3L.jpg)
 
@@ -24343,7 +24343,7 @@ Replying to [@mickaelistria](https://twitter.com/bruncedric/status/9072779949216
 
 ----
 
-> A FAQ regarding EPL-v2  is being aggregated by the @EclipseFdn staff https://www.eclipse.org/org/documents/epl-2.0/faq.php Seems like project can adopt it very easily! 
+> A FAQ regarding EPL-v2  is being aggregated by the @EclipseFdn staff https://www.eclipse.dev/org/documents/epl-2.0/faq.php Seems like project can adopt it very easily! 
 > 
 > ![]({{ site.url }}/media/908634996545658881-DJwejXOW0AE5gY_.jpg)
 
@@ -24365,7 +24365,7 @@ Replying to [@mickaelistria](https://twitter.com/bruncedric/status/9072779949216
 
 ----
 
-> Woa! a big thank you from a user of @EclipseSirius on the forum, really appreciated! https://www.eclipse.org/forums/index.php/mv/msg/1088883/1772795/#msg_1772795 
+> Woa! a big thank you from a user of @EclipseSirius on the forum, really appreciated! https://www.eclipse.dev/forums/index.php/mv/msg/1088883/1772795/#msg_1772795 
 > 
 > ![]({{ site.url }}/media/908700590146015234-DJxaNdLXcAA1xI0.jpg)
 
@@ -25063,7 +25063,7 @@ Replying to [@mmilinkov and @EclipseCon](https://twitter.com/mmilinkov/status/91
 
 ----
 
-> OpenJ9 has a significantly smaller memory footprint than Hotspot. Gotta try that ! https://www.eclipse.org/openj9/# 
+> OpenJ9 has a significantly smaller memory footprint than Hotspot. Gotta try that ! https://www.eclipse.dev/openj9/# 
 > 
 > ![]({{ site.url }}/media/915993452201918464-DLZDDn7XkAANU9H.jpg)
 
@@ -25107,7 +25107,7 @@ Replying to [@fipro78, @EclipseFdn and @deeplearning4j](https://twitter.com/fipr
 
 ----
 
-> RT @noopur2507: Eclipse Oxygen.1a (4.7.1a) is now available with #Java9 and #JUnit5 support in @EclipseJavaIDE https://www.eclipse.org/downloads/eclipse-packages/ http…
+> RT @noopur2507: Eclipse Oxygen.1a (4.7.1a) is now available with #Java9 and #JUnit5 support in @EclipseJavaIDE https://www.eclipse.dev/downloads/eclipse-packages/ http…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 11 17:33:53 +0000 2017](https://twitter.com/bruncedric/status/918167784982446088)
 
@@ -27364,7 +27364,7 @@ Replying to [@Tcharl, @EclipseSirius and @melaniebats](https://twitter.com/Tchar
 
 Replying to [@BGencarelle, @EclipseSirius and @Obeo_Corp](https://twitter.com/@BGencarelle/status/976144852655239169)
 
-> Hi Ben, Sirius already have some support for "forms" either through the property view or through dialogs and wizards https://www.eclipse.org/community/eclipse_newsletter/2017/june/article4.php or do you have something else in mind?
+> Hi Ben, Sirius already have some support for "forms" either through the property view or through dialogs and wizards https://www.eclipse.dev/community/eclipse_newsletter/2017/june/article4.php or do you have something else in mind?
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 21 09:48:21 +0000 2018](https://twitter.com/bruncedric/status/976395078653677568)
 
@@ -28317,7 +28317,7 @@ Replying to [@AndrzejWasowski, @cedricbrun, @melaniebats and @EclipseFdn](https:
 
 ----
 
-> And... this is it! Eclipse Photon is ready for prime time and generally available! Congrats to the commiters for this great work! Go get the bits while its hot! https://www.eclipse.org/photon/ 
+> And... this is it! Eclipse Photon is ready for prime time and generally available! Congrats to the commiters for this great work! Go get the bits while its hot! https://www.eclipse.dev/photon/ 
 > 
 > ![]({{ site.url }}/media/1011992082209234945-DgtRTECWkAAyluY.jpg)
 
@@ -31309,7 +31309,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/1206871619358134278)
 ----
 
 > The Eclipse IDE, the most versatile tooling platform truly open just got released with a ton of improvements:  performance, Java 13, Maven, Git and much more. 
-> Congrats to the 123 commiters who worked on this milestone! We hope you'll enjoy this release! https://www.eclipse.org/eclipseide/ 
+> Congrats to the 123 commiters who worked on this milestone! We hope you'll enjoy this release! https://www.eclipse.dev/eclipseide/ 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/1207985392533811201-EMOgQ5YW4AAmfFD.mp4">Your browser does not support the video tag.</video>
 
@@ -31805,8 +31805,8 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/12728854
 
 > RT @EclipseJavaIDE: Say 👋 to the freshly released Eclipse IDE 2020-06 !
 > 
-> 🏠 https://www.eclipse.org/eclipseide/2020-06
-> 🆕 https://www.eclipse.org/eclipseide/2020-06/noteworthy/
+> 🏠 https://www.eclipse.dev/eclipseide/2020-06
+> 🆕 https://www.eclipse.dev/eclipseide/2020-06/noteworthy/
 > 📽️ https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 17 20:38:37 +0000 2020](https://twitter.com/bruncedric/status/1273354382701101057)
@@ -32061,7 +32061,7 @@ Replying to [@EclipseSirius, @melaniebats and @sbegaudeau](https://twitter.com/E
 ----
 
 > RT @mickaelistria: Eclipse Tycho 2.0 is released and available from Maven Central!
-> 📢 https://www.eclipse.org/lists/tycho-user/msg08613.html
+> 📢 https://www.eclipse.dev/lists/tycho-user/msg08613.html
 > 📰 https://wiki.eclipse.org/Tycho/Release_Notes/2.0#New_and_Noteworthy
 > 🙏 11…
 

@@ -5,7 +5,7 @@ categories: [eclipse]
 ---
 
 
-The [Acceleo Query Language](https://www.eclipse.org/sirius/doc/specifier/general/Writing_Queries.html#aql) implementation has been [announced in August](https://cedric.brun.io/eclipse/introducing-aql/) and is the recommended interpreter starting 
+The [Acceleo Query Language](https://www.eclipse.dev/sirius/doc/specifier/general/Writing_Queries.html#aql) implementation has been [announced in August](https://cedric.brun.io/eclipse/introducing-aql/) and is the recommended interpreter starting 
 with Sirius 3.1. As we prepare the Eclipse Mars.2 release I'd like to take a few minutes to share a few of the niceties AQL brings beside the raw performance. This is not an exhaustive list.
 
 

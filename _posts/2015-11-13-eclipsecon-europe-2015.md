@@ -50,7 +50,7 @@ Another remarkable thing for us was the variety of tools we got to see: differen
 
 Now let's get back to EclipseCon Europe.
 
-Right before the conference Pierre-Charles [announced](https://dev.eclipse.org/mhonarc/lists/sirius-dev/msg00132.html){:target="_blank"} the general availability of Sirius 3.1 ([new noteworthy](https://www.eclipse.org/sirius/whatsnew3-1.html){:target="_blank"}, [release notes](https://www.eclipse.org/sirius/doc/Release_Notes.html){:target="_blank"} ). 
+Right before the conference Pierre-Charles [announced](https://dev.eclipse.org/mhonarc/lists/sirius-dev/msg00132.html){:target="_blank"} the general availability of Sirius 3.1 ([new noteworthy](https://www.eclipse.dev/sirius/whatsnew3-1.html){:target="_blank"}, [release notes](https://www.eclipse.dev/sirius/doc/Release_Notes.html){:target="_blank"} ). 
 
 This version brings pleasants improvements to empower you in building **state of the art** modeling tools, among other things :  vertical and horizontal compartments, new graphic capabilities for ports... This version also mark the graduation of [AQL](https://cedric.brun.io/eclipse/introducing-aql/){:target="_blank"} as the recommended query langage for your `.odesign` files. 
 

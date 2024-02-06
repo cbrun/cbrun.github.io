@@ -111,7 +111,7 @@ With Sirius 3.0 a first version of the AQL interpreter has been released as **Ex
     <figcaption>Install AQL experimental support in Sirius 3.0</figcaption>
 </figure>
 
-[EcoreTools](https://www.eclipse.org/ecoretools/) has been the early-early adopter and has migrated with the Mars release. [UML Designer](https://www.umldesigner.org/) is also using AQL on the master branch since July and more migrations will follow in the upcoming months.
+[EcoreTools](https://www.eclipse.dev/ecoretools/) has been the early-early adopter and has migrated with the Mars release. [UML Designer](https://www.umldesigner.org/) is also using AQL on the master branch since July and more migrations will follow in the upcoming months.
 
 ## First benchmarks
 

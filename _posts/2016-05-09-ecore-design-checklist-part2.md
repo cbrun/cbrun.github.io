@@ -172,7 +172,7 @@ A condensed version listing all the rules of the articles is available on [this 
 -->
 
 My goal with EcoreTools is to assist you in taking care of those aspects, that's why many of those rules are illustrated by specific features of this diagram editor. 
-You will find this tool in the [Eclipse Modeling Package](https://www.eclipse.org/downloads/packages/) and the [EcoreTools website](https://www.eclipse.org/ecoretools/doc/) covers how to get started with it. 
+You will find this tool in the [Eclipse Modeling Package](https://www.eclipse.dev/downloads/packages/) and the [EcoreTools website](https://www.eclipse.dev/ecoretools/doc/) covers how to get started with it. 
 
 Give it a shot, it's all Open-Source and part of Eclipse! 
 

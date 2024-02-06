@@ -10,7 +10,7 @@ Every year the Eclipse M7 milestone act as a very strong deadline for the projec
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">Time&#39;s up ! Pencils down, it&#39;s M7 !</p>&mdash; Cédric Brun (@bruncedric) <a href="https://twitter.com/bruncedric/status/13356256886">4 mai 2010</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-When your company is responsible for a number of inter-dependent projects some of them core technologies like [EMF Services](https://projects.eclipse.org/projects/modeling.emfservices){:target="_blank"} , the GMF Runtime, others user facing tools like  [Acceleo](https://www.eclipse.org/acceleo/){:target="_blank"},  [Sirius](https://www.eclipse.org/sirius/){:target="_blank"} or [EcoreTools](https://www.eclipse.org/ecoretools/){:target="_blank"}, packaging and integration oriented projects like Amalgam or the Eclipse Packaging project and all of these releases needs to be coordinated, then may is a busy month.
+When your company is responsible for a number of inter-dependent projects some of them core technologies like [EMF Services](https://projects.eclipse.org/projects/modeling.emfservices){:target="_blank"} , the GMF Runtime, others user facing tools like  [Acceleo](https://www.eclipse.dev/acceleo/){:target="_blank"},  [Sirius](https://www.eclipse.dev/sirius/){:target="_blank"} or [EcoreTools](https://www.eclipse.dev/ecoretools/){:target="_blank"}, packaging and integration oriented projects like Amalgam or the Eclipse Packaging project and all of these releases needs to be coordinated, then may is a busy month.
 
 <blockquote class="twitter-tweet" data-lang="fr"><p lang="en" dir="ltr">This week: M7 milestones for EcoreTools, Amalgam, Sirius, testing the Modeling package. Plot twist: 3 work days ! <a href="https://t.co/msqQkImRu4">pic.twitter.com/msqQkImRu4</a></p>&mdash; Cédric Brun (@bruncedric) <a href="https://twitter.com/bruncedric/status/727412029292711936">3 mai 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -19,7 +19,7 @@ I'm personally involved in EcoreTools which makes me in the position to step in 
 
 Before Oxygen EcoreTools already had property editors. Some of them were coded by hand and were developed more than 8 years ago. When I replaced the legacy modeler by using Sirius I made sure at that time to reuse those highly tuned property editors. Others I generated using the first generation of the [EEF Framework](https://eclipse.org/eef/#/){:target="_blank"} so that I could cover every type of Ecore and benefit from the dialogs to edit properties using double click. The [intent at that time](https://cedric.brun.io/ecoretools-20-luna-revival/) was to make the modeler usable in **fullscreen** when no other view is visible.
 
-Because of this requirement I had to wait for the Sirius team to make its magic: the properties views support was ready for production with [Sirius 4.1](https://www.eclipse.org/sirius/whatsnew/whatsnew4-1.html), but this was not including any support for dialogs and wizards yet. 
+Because of this requirement I had to wait for the Sirius team to make its magic: the properties views support was ready for production with [Sirius 4.1](https://www.eclipse.dev/sirius/whatsnew/whatsnew4-1.html), but this was not including any support for dialogs and wizards yet. 
 
 Then magic happened: the support for dialogs and wizards is now completely merged in Sirius, starting with M7. In EcoreTools the code responsible for those properties editors represents more than 70% of the total code which peaks at 28K.
 
@@ -73,5 +73,5 @@ As a tool provider I could focus on streamlining the experience, providing tabs 
 
 It is just one of the many changes which we've been working on since last year to improve the user experience of modeling tools, Mélanie and Stéphane will present a talk on this very subject during EclipseCon France at Toulouse: ["All about UX in Sirius."](https://www.eclipsecon.org/france2017/session/all-about-ux-sirius).
 
-All of these changes are landing in [Eclipse Oxygen](https://www.eclipse.org/downloads/index-developer.php){:target="_blank"} starting with M7, those are newly introduced and I have no doubt I'll have some polishing and refining to do, I'm counting on you to [report anything suspicious](https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Ecoretools){:target="_blank"}
+All of these changes are landing in [Eclipse Oxygen](https://www.eclipse.dev/downloads/index-developer.php){:target="_blank"} starting with M7, those are newly introduced and I have no doubt I'll have some polishing and refining to do, I'm counting on you to [report anything suspicious](https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Ecoretools){:target="_blank"}
 

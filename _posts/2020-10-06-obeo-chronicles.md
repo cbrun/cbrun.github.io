@@ -25,7 +25,7 @@ The reactions to this announcement were fantastic with a lot of excitement withi
 I am myself very excited for several reasons:
 
 
-Firstly, I expect this decision will, just like Sirius Desktop was released in Open-Source in 2013, **a key factor leading to the creation of hundreds of graphical modelers**, in the same way currently demonstrated by the [Sirius Gallery](https://www.eclipse.org/sirius/gallery.html){:target="_blank"} but now easily accessible through the Web and leveraging all the capabilities this platform brings. 
+Firstly, I expect this decision will, just like Sirius Desktop was released in Open-Source in 2013, **a key factor leading to the creation of hundreds of graphical modelers**, in the same way currently demonstrated by the [Sirius Gallery](https://www.eclipse.dev/sirius/gallery.html){:target="_blank"} but now easily accessible through the Web and leveraging all the capabilities this platform brings. 
 
 
 
@@ -69,7 +69,7 @@ That’s not it! Each day we see Eclipse Capella get more and more adoption acro
 A unique occasion to get many experience reports from multiple domains: Space systems (CNES and GMV), Rail and transportation (Virgin Hyperloop, Nextrail and Vitesco technologies), healthcare (Siemens and Still AB), waste collecting with The SeaCleaners and all of that in addition to aerospace, defence and security with Thales Group. The program is packed with high-quality content: 12 sessions over 4 days from October 12th to 15th, more than 500 attendees already registered, join us and register!
 
 <figure>
-    <a href="https://www.eclipse.org/capella/capella_days_2020.html"><img src="{{ site.url }}/images/blog/chronicles/cadays.png"></a>  
+    <a href="https://www.eclipse.dev/capella/capella_days_2020.html"><img src="{{ site.url }}/images/blog/chronicles/cadays.png"></a>  
     <figcaption>Capella Days</figcaption>
 </figure>
 

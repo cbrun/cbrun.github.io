@@ -49,7 +49,7 @@ These are pretty exciting prospects ahead, no doubt this will be a central subje
 See you next week!
 
 <figure>
-    <a href="https://www.eclipsecon.org/france2018/"><img src="https://www.eclipsecon.org/france2018/sites/all/themes/solstice/_themes/solstice_eclipsecon_france2018/logo.png"></a>    
+    <a href="https://www.eclipsecon.org/france2018/"><img src="{{ site.url }}/images/blog/2018/eclipsecon.png"></a>    
     <figcaption></figcaption>
 </figure>
 

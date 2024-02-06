@@ -7,7 +7,7 @@ tags: [modeling, emf, eclipse, sirius, opensource, jupyter]
 ---
 
 
-At the [Eclipse Foundation](https://www.eclipse.org/) conference last October, we had the opportunity to demonstrate an integration of [Eclipse Sirius Web](https://www.eclipse.org/sirius/sirius-web.html) and [Project Jupyter](https://jupyter.org/) Notebook for seamless design, simulation, and analysis.
+At the [Eclipse Foundation](https://www.eclipse.dev/) conference last October, we had the opportunity to demonstrate an integration of [Eclipse Sirius Web](https://www.eclipse.dev/sirius/sirius-web.html) and [Project Jupyter](https://jupyter.org/) Notebook for seamless design, simulation, and analysis.
 
 
 

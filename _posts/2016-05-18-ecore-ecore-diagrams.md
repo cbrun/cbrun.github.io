@@ -5,7 +5,7 @@ categories: [eclipse]
 tags: [ecore, eclipse, ecoretools]
 ---
 
-A few weeks ago I ended up on the following thread on the [EMF Forum](https://www.eclipse.org/forums/index.php/f/108/) asking for [Ecore meta-model formal documentation?](https://www.eclipse.org/forums/index.php/t/1076719/).
+A few weeks ago I ended up on the following thread on the [EMF Forum](https://www.eclipse.dev/forums/index.php/f/108/) asking for [Ecore meta-model formal documentation?](https://www.eclipse.dev/forums/index.php/t/1076719/).
 Ed pointed at [some documentation](https://download.eclipse.org/modeling/emf/emf/javadoc/2.11/org/eclipse/emf/ecore/package-summary.html) which includes diagrams done with great care but done with tools from another era.
 
 <figure>
@@ -22,7 +22,7 @@ As the maintainer of EcoreTools I had to do something about it, and so I did:
 
 Tadaa!
 
-The following diagrams have been created thanks to [EcoreTools](https://www.eclipse.org/ecoretools) which is part of the [Eclipse Modeling Package](https://www.eclipse.org/downloads/packages/).
+The following diagrams have been created thanks to [EcoreTools](https://www.eclipse.dev/ecoretools) which is part of the [Eclipse Modeling Package](https://www.eclipse.dev/downloads/packages/).
 All the hard work has been done earlier by Ed when he had to decide what to display and how, all I did is reproduce those using EcoreTools and exporting those at a fairly high resolution (click on the images to get the full resolution). 
 
 *The corresponding patchset for EMF is [here](https://git.eclipse.org/r/#/c/71892/).*
@@ -70,9 +70,9 @@ Here is a general diagram highlighting the references and attributes. It might l
 for this kind of diagrams you really want to know a few keyboard shortcuts, among others:
 
 | ... | ... | ... |
-|Hide element| ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) + ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_H_T.png) | [->doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Hidingelements) |
-|Hide label | ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) +  ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_L_T.png)| [->doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Hidinglabels) |
-|Remove Bendpoints | ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Ctrl_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Shift_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Minus_T.png?raw=true)  | [->doc](https://www.eclipse.org/sirius/doc/user/diagrams/Diagrams.html#Manageedges) |
+|Hide element| ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) + ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_H_T.png) | [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Hidingelements) |
+|Hide label | ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) +  ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_L_T.png)| [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Hidinglabels) |
+|Remove Bendpoints | ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Ctrl_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Shift_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Minus_T.png?raw=true)  | [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Manageedges) |
 | ... | ... | ... |
 
 You'll find all the keyboard shortcuts in [Mélanie's excellent blog post](https://melb.enix.org/sirius/keyboard-shortcuts/).

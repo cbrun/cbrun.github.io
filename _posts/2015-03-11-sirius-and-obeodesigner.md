@@ -10,7 +10,7 @@ excerpt: "Now that one of the major Obeo Designer Technologies is Open-Source yo
    <figcaption> Image credits <a href="https://www.flickr.com/photos/opensourceway/">opensourceway</a></figcaption>
 </figure>
 
-Now that one of the [majors Obeo Designer Technologies](https://www.eclipse.org/sirius/) is Open-Source you might wonder how we get to employ close to 60 people. It's actually quite straightforward:
+Now that one of the [majors Obeo Designer Technologies](https://www.eclipse.dev/sirius/) is Open-Source you might wonder how we get to employ close to 60 people. It's actually quite straightforward:
 
 * We sell domain-dedicated products notably SmartEA, [focused on Enterprise Architecture](https://www.obeosmartea.com/)
 * We sell [support subscriptions](https://www.obeodesigner.com/support) offering you simplicity and safety when leveraging Sirius.

@@ -8,7 +8,7 @@ tags: [eclipse, sirius, modeling, emf, acceleo]
 
 At Obeo, we believe that modeling is the right way to help IT and industry engineers collaborate efficiently on the design of their smart products. Our innovative approach consists of building specific modeling tools that completely suit users' business domains. Modeling is a means to an end: by using modeling technologies we make sure that such a tool can be defined faster, as well as deployed and maintained better.
 
-To achieve this goal, we develop highly customizable open source software, such as [Eclipse Sirius](https://www.eclipse.org/sirius/){:target="_blank"}. We consider that a modeling tool must be adaptable, flexible, and user-friendly. This year again, we worked hard to focus on that!
+To achieve this goal, we develop highly customizable open source software, such as [Eclipse Sirius](https://www.eclipse.dev/sirius/){:target="_blank"}. We consider that a modeling tool must be adaptable, flexible, and user-friendly. This year again, we worked hard to focus on that!
 
 ![]({{ site.url }}/images/blog/2016-2017/1capture.png)
 
@@ -20,10 +20,10 @@ It’s been three years since Sirius was made open source and the community is g
 
 ![]({{ site.url }}/images/blog/2016-2017/3capture.jpg)
 
-At SiriusCon, we had the opportunity to present one of the latest key features of Sirius: [the properties view](https://www.eclipse.org/sirius/whatsnew/whatsnew4-1.html). It turned out that with all the improvements Sirius brings to the specification of the modeling view, the bottleneck was in the definition of the properties view to be linked to each graphical element. The Obeo team addressed that problem.
+At SiriusCon, we had the opportunity to present one of the latest key features of Sirius: [the properties view](https://www.eclipse.dev/sirius/whatsnew/whatsnew4-1.html). It turned out that with all the improvements Sirius brings to the specification of the modeling view, the bottleneck was in the definition of the properties view to be linked to each graphical element. The Obeo team addressed that problem.
 
 
-Now, Sirius provides an integrated way to define properties views in the same way the user is used to defining them in other parts of the designer: no need for coding - it is dynamic and query based. In addition, with [Sirius 4.1](https://www.eclipse.org/sirius/download.html){:target="_blank"}, the user is now able to specify exactly how the properties view should be represented.
+Now, Sirius provides an integrated way to define properties views in the same way the user is used to defining them in other parts of the designer: no need for coding - it is dynamic and query based. In addition, with [Sirius 4.1](https://www.eclipse.dev/sirius/download.html){:target="_blank"}, the user is now able to specify exactly how the properties view should be represented.
 
 <figure>
     <a href="{{ site.url }}/images/blog/2016-2017/4capture.png"><img src="{{ site.url }}/images/blog/2016-2017/4capture.png"></a>    
