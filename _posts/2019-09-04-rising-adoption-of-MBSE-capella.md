@@ -3,7 +3,6 @@ layout: post
 title: The Rising Adoption of Capella
 categories: [eclipse]
 tags: [eclipse, capella, smw]
-amphtml: https://cedric.brun.io/amp/2019-09-04-rising-adoption-of-MBSE-capella-amp.html
 ---
 
 
