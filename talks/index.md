@@ -61,7 +61,7 @@ permalink: /talks/
 
 ## 2012
 
-* [15 EMF projects in 25 minutes](https://cedric.brun.io/eclipsecon-europe-2012-slides/) at EclipseCon Europe, ([slides](https://cedric.brun.io/eclipsecon-europe-2012-slides/))
+* [15 EMF projects in 25 minutes](https://cedric.brun.io/talks/EclipseConEU2012/15EMFprojectsin25minutes2012.pdf) at EclipseCon Europe, ([slides](https://cedric.brun.io/talks/EclipseConEU2012/15EMFprojectsin25minutes2012.pdf))
 * [Tutorial: building webapp (backbone.js, ..) generator with Eclipse Modeling ](https://plus.google.com/+C%C3%A9dricBrun/posts/EKgDZ1grtEv) Breizhcamp, Rennes.
 * *Understanding Eclipse Modeling*  at Eclipse Day Toulouse [video](https://www.youtube.com/watch?v=sFf34a5u92U)
 * [Interview: Opees and Polarsys at the core of Obeo's strategy](https://www.youtube.com/watch?v=DD-miRQlnQc) at Eclipse Day Toulouse
