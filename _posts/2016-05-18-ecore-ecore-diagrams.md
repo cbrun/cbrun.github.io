@@ -72,7 +72,7 @@ for this kind of diagrams you really want to know a few keyboard shortcuts, amon
 | ... | ... | ... |
 |Hide element| ![]({{ site.url }}/images/blog/2016/computer_key_Ctrl_T.png) + ![]({{ site.url }}/images/blog/2016/computer_key_H_T.png) | [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Hidingelements) |
 |Hide label | ![]({{ site.url }}/images/blog/2016/computer_key_Ctrl_T.png) +  ![]({{ site.url }}/images/blog/2016/computer_key_L_T.png)| [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Hidinglabels) |
-|Remove Bendpoints | ![]({{ site.url }}/images/blog/2016/computer_key_Ctrl_T.png?raw=true) + ![]({{ site.url }}/images/blog/2016/computer_key_Shift_T.png?raw=true) + ![]({{ site.url }}/images/blog/2016/computer_key_Minus_T.png?raw=true)  | [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Manageedges) |
+|Remove Bendpoints | ![]({{ site.url }}/images/blog/2016/computer_key_Ctrl_T.png) + ![]({{ site.url }}/images/blog/2016/computer_key_Shift_T.png) + ![]({{ site.url }}/images/blog/2016/computer_key_Minus_T.png)  | [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Manageedges) |
 | ... | ... | ... |
 
 You'll find all the keyboard shortcuts in [Mélanie's excellent blog post](https://melb.enix.org/sirius/keyboard-shortcuts/).
