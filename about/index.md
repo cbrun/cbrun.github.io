@@ -5,8 +5,6 @@ tags: [about, Jekyll, theme, responsive]
 comments: true
 image:
   feature: banner4.webp
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 
