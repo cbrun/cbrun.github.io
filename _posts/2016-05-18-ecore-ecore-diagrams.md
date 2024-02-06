@@ -70,9 +70,9 @@ Here is a general diagram highlighting the references and attributes. It might l
 for this kind of diagrams you really want to know a few keyboard shortcuts, among others:
 
 | ... | ... | ... |
-|Hide element| ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) + ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_H_T.png) | [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Hidingelements) |
-|Hide label | ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_Ctrl_T.png) +  ![](https://raw.githubusercontent.com/mbats/sirius-blog/master/keyboard/blog/images/computer_key_L_T.png)| [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Hidinglabels) |
-|Remove Bendpoints | ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Ctrl_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Shift_T.png?raw=true) + ![](https://github.com/mbats/sirius-blog/blob/master/keyboard/blog/images/computer_key_Minus_T.png?raw=true)  | [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Manageedges) |
+|Hide element| ![]({{ site.url }}/images/blog/2016/computer_key_Ctrl_T.png) + ![]({{ site.url }}/images/blog/2016/computer_key_H_T.png) | [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Hidingelements) |
+|Hide label | ![]({{ site.url }}/images/blog/2016/computer_key_Ctrl_T.png) +  ![]({{ site.url }}/images/blog/2016/computer_key_L_T.png)| [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Hidinglabels) |
+|Remove Bendpoints | ![]({{ site.url }}/images/blog/2016/computer_key_Ctrl_T.png?raw=true) + ![]({{ site.url }}/images/blog/2016/computer_key_Shift_T.png?raw=true) + ![]({{ site.url }}/images/blog/2016/computer_key_Minus_T.png?raw=true)  | [->doc](https://www.eclipse.dev/sirius/doc/user/diagrams/Diagrams.html#Manageedges) |
 | ... | ... | ... |
 
 You'll find all the keyboard shortcuts in [Mélanie's excellent blog post](https://melb.enix.org/sirius/keyboard-shortcuts/).
