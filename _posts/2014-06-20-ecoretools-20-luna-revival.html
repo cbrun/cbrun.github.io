@@ -2,11 +2,166 @@
 layout: post
 title: EcoreTools 2.0 - The Luna Revival
 date: '2014-06-20T01:49:00.000-07:00'
-tags: 
+tags:
 modified_time: '2014-06-20T01:49:13.830-07:00'
-thumbnail: https://4.bp.blogspot.com/-wiOCx1aYAOQ/U5rktYDI3pI/AAAAAAAAT6U/5wUJULzGSNU/s72-c/ecoretools-doc-note.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-4092639446544312147
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2014/06/ecoretools-20-luna-revival.html
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://www.eclipse.dev/ecoretools/images/intro.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="228" src="https://www.eclipse.dev/ecoretools/images/intro.png" width="320" /></a></div><br /><br /><br />With Eclipse Luna comes a complete re-implementation of <a href="https://www.eclipse.dev/ecoretools">EcoreTools</a>, the diagram editor for Ecore. This is an important piece of news because EcoreTools is often the first step our adopters have to go through. Users are expecting to have a diagram editor to design a domain model. They are expecting this because they are used to this notation, they learnt it at school or university and even just this ubiquity makes it powerful in itself.<br /><br /><br /><br /><br />And that's why EcoreTools matter. And that's why EcoreTools matter even more for an organization like <a href="https://www.obeosoft.com/fr/">Obeo</a>.<br /><br />But then what happened ? Why did this project have been stale for years ?<br /><br /><h4>How it all started</h4><br />Let's come back to the creation of this project. The proposal has been submited in 2007, and in 2008 EcoreTools 0.8 was shipped with Ganymede.<br />At that time building such a graphical modeler was quite costly, even with the GMF runtime and Tools which were leveraged by the original team, going from a very basic diagram editor to a complete tool with a consistent user experience was a lot of work. And they tackled this work and had progress from version to version up to the end of 2009 when the company behind this effort got acquired and changed its focus. The project entered hibernation then.<br />Because it was a key component of the whole modeling eco-system, Ed Merks and I stepped up to take care of the project, leading it through the bare minimum so that it can be part of the release train and still exist. The plan at that time was to find other people interested in investing in it, unfortunately it did not happen and I can't blame them, as I said that was costly, an investment you could not do without clear gains to expect.<br /><br />Then Thales and Obeo open-sourced <a href="https://www.eclipse.dev/sirius">Sirius</a> within Eclipse : a complete tooling and framework designed to build rich modeling environment efficiently, also designed on our experience with the shortcomings of the GMF Tool project. <b>Creating an Ecore modeling environment then became barely more work than maintaining its build</b>. I already had a starting point as we built an Ecore modeler with Sirius before, but many things in this tool were not quite exactly as I wanted it. That lead me to rethink all the interactions to provide a tool which actually assist you in design a <b>good</b>&nbsp;Ecore model easily.<br /><br />I started by inspecting the usages of <i>"EcoreTools 1"</i> or our own commercial modeler internally. At Obeo we are designing Ecore models all the time. We have customers which do need to design Ecore models often, we do consultancy projects in which the Ecore model is the backbone of all the tooling we are building, yet EcoreTools 1 was not used at all and our commercial modeler was almost exclusively used to produce diagrams for the documentation and deliverables. And when I digged deeper, I realized the tool was just barely helping compared to the tree editor provided by the EMF Project itself, and sometime was even "getting into the way".<br /><br />I also wrote down scenarios of usage for the tool using <a href="https://en.wikipedia.org/wiki/Persona_(user_experience)">personnas</a>. Both these efforts have been enlightening : I could clearly identify usability problems and expectations regarding the tool. I came up with a few key points to focus on :<br /><br />1 - making sure EcoreTools was providing more value to users knowing Ecore than the Ecore Tree Editor.<br />2 - making sure that EcoreTools will not make you "look bad" when using it with a customer<br /><br /><h4>Ecore Support</h4>EcoreTools 2 obviously allows you to design Classes, Datatypes, References and all the classical Ecore constructions, but Ecore is way more than that. There are different concerns involved in expressing your domain model: documenting, reviewing the referencing mechanism of elements, identifying business constraints, exploring the model... Specific tools have been implemented for these concerns and most of them are "opt-in" in a given diagram through the activation of a dedicated layer.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://www.eclipse.dev/ecoretools/doc/pasted-images/9496bdbf6570c41c40fdc84c34520726.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://www.eclipse.dev/ecoretools/doc/pasted-images/9496bdbf6570c41c40fdc84c34520726.png" /></a></div><h3>Documentation</h3><div>Your Ecore model represents your domain. It's all about picking good names, but names are not nearly enough. Documenting your Ecore model is important and EcoreTools assists you with a dedicated layer named "Documentation" and a table editor to quickly go through all of your elements and document them.</div><div class="separator" style="clear: both; text-align: center;"></div><div class="separator" style="clear: both; text-align: center;"><a href="https://4.bp.blogspot.com/-wiOCx1aYAOQ/U5rktYDI3pI/AAAAAAAAT6U/5wUJULzGSNU/s1600/ecoretools-doc-note.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-wiOCx1aYAOQ/U5rktYDI3pI/AAAAAAAAT6U/5wUJULzGSNU/s1600/ecoretools-doc-note.png" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://4.bp.blogspot.com/-xeCKv39esCA/U5rlAJ-o_EI/AAAAAAAAT6c/7tRB4GMs5TM/s1600/ecoretools-doc-table.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-xeCKv39esCA/U5rlAJ-o_EI/AAAAAAAAT6c/7tRB4GMs5TM/s1600/ecoretools-doc-table.png" height="38" width="320" /></a></div><br /><h3>Bi-directional references</h3><div><br /></div><div>With 2.0 the bidirectional references (also known as EOpposites) are displayed using the well known notation which comes from UML Class Diagram.</div><div><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://4.bp.blogspot.com/-sUKr1Wmi0PU/U5rltkNt-II/AAAAAAAAT6k/_C7MjwVitxI/s1600/ecoretools-eopposite.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-sUKr1Wmi0PU/U5rltkNt-II/AAAAAAAAT6k/_C7MjwVitxI/s1600/ecoretools-eopposite.png" /></a></div><br /><h3>Constraints</h3>Domain constraints can be listed directly from the diagram once you activate the "Constraints" layer. EMF will then use this information to generate all the required plumbing so that you just have to fill a java method to implement the actual check.<br /><br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://www.eclipse.dev/ecoretools/images/features/ecoretools-constraints.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="314" src="https://www.eclipse.dev/ecoretools/images/features/ecoretools-constraints.png" width="640" /></a></div><br /><br /><h3>Generics</h3><br />Ecore has been supporting Generics for quite a few years already, EcoreTools allows you now to express Parameter types and use them in references or operations.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://www.eclipse.dev/ecoretools/doc/pasted-images/2634caf68113d7bd3b1e85e1df5c4aff.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://www.eclipse.dev/ecoretools/doc/pasted-images/2634caf68113d7bd3b1e85e1df5c4aff.png" /></a></div><br /><h3>Packages Dependency Analysis</h3>Often domains have relationships to other domains, and this is reflected in Ecore models through direct referencing. But keeping track of those dependencies between domain packages proves to be hard in practice, you have to digg through every Class to see if it refers to something which is external. EcoreTools provides a diagram which is dedicated to see and analyze those dependencies.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://www.eclipse.dev/ecoretools/doc/pasted-images/ae061e611b11578818a2e2a2c4c847d8.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://www.eclipse.dev/ecoretools/doc/pasted-images/ae061e611b11578818a2e2a2c4c847d8.png" /></a></div><br />And also a dedicated decorator for classes which are from another package.<br /><div class="separator" style="clear: both; text-align: center;"><a href="https://4.bp.blogspot.com/-Q7_8NZTQAtA/U5r8ttqnKYI/AAAAAAAAT7A/lNiktGhRRmM/s1600/ecoretools2-external.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-Q7_8NZTQAtA/U5r8ttqnKYI/AAAAAAAAT7A/lNiktGhRRmM/s1600/ecoretools2-external.png" /></a></div><br /><h4>Productivity</h4>To be productive the tool needs to be at your fingertips. EcoreTools provides many shorctuts to make your life easier, especially regarding references and attributes. Typing "1" will make the reference or the attribute mandatory. Typing "*" will make it a "many". Just typing a name will only change the name, but typing ": someTypeName" will set the type.<br /><br />You can't really discover those shortcuts on your own, so feel free to have a look on the documentation, but once you'll know them you'll be quicker in designing your Ecore using the diagram editor compared to the classical tree editor.<br /><br />Many more things have been done to make sure the tool doesn't get into the way. All the references can be reconnected graphically, the modeler can be used in "full screen" with no other Eclipse views around while keeping a good usability, EcoreTools will take care of your GenModel too by reloading it when necessary.<br /><br /><br /><h4>Design and Feedback</h4>From a graphical point of view I tried to keep the original visuals, only make them slightly more appealing. Colors have been aligned to the Eclipse Standard palette. Classifiers now have rounded borders, icons and text style are used to convey the difference between Classes, Abstract Classes and Interfaces.<br />Boldness is used for anything which is mandatory, blue for anything which is derived.<br />These are the kind of things you can think of if you can quickly turn-around and try in your graphical modeler, and Eclipse Sirius enables that.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://www.eclipse.dev/ecoretools/doc/pasted-images/35ed765cb8af3fb4ab1a95cd3803fe94.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://www.eclipse.dev/ecoretools/doc/pasted-images/35ed765cb8af3fb4ab1a95cd3803fe94.png" /></a></div><br /><br />A tool is helpful when it is giving you the right information at the right time. This is all about feedback.<br />EcoreTools 2 is highlighting in red any construction which is not valid. You want to know that as soon as possible.<br /><br />But feedback is not always immediate, only if you enable the "documentation" layer to annotate your model, then the red borders will be used so that you can quickly identify elements which have no documentation.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-xtwqNYk2QAk/U5rJ6Ebz6HI/AAAAAAAAT6I/BUWWz2w09CQ/s1600/1000000000000224000001DC6EB0E8B4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-xtwqNYk2QAk/U5rJ6Ebz6HI/AAAAAAAAT6I/BUWWz2w09CQ/s1600/1000000000000224000001DC6EB0E8B4.png" /></a></div><br /><br /><h4>How much work was that ?</h4>Of course it is slightly biased because I know Sirius really well. I was actually part of the team building it for years now so anything I want to do in EcoreTools I can quickly see how I'm going to do it leveraging Sirius.<br /><br />Nevertheless here is a typical change introducing the constraints support in EcoreTools, this is mostly about expressing, in the Viewpoint Specification Model of Sirius, what you want to achieve.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-8zJt1QbM-PI/U5rIcuRNDdI/AAAAAAAAT6A/3b-q_Xt2iW0/s1600/10000000000003A800000245D6DB46FF.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-8zJt1QbM-PI/U5rIcuRNDdI/AAAAAAAAT6A/3b-q_Xt2iW0/s1600/10000000000003A800000245D6DB46FF.png" height="395" width="640" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />No code generation is involved, my plugin defining the modeler is just a standard Eclipse plugin, I can use JUnit, SWTbot, Tycho, nothing fancy here is imposed to me by Sirius. Here are a few stats :<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://3.bp.blogspot.com/-3CReEIHXojo/U5rvaSjXBtI/AAAAAAAAT60/bedFuaWpE7M/s1600/ecoretools2-codestat.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-3CReEIHXojo/U5rvaSjXBtI/AAAAAAAAT60/bedFuaWpE7M/s1600/ecoretools2-codestat.png" height="152" width="640" /></a></div>The diagram and table editors of EcoreTools 2 are representing less than 2700 lines of code.<br /><br /><h4>Now what ?</h4>This is the 2.0 version, freshly built for you. I think the net gain compared to the 1.x stream is already huge but of course the paint is slightly fresh, you might find issues and if you do<a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Ecoretools"> please report a bug</a>. If you like it, please tell me through <a href="https://twitter.com/bruncedric">twitter</a>,<a href="https://plus.google.com/+C%C3%A9dricBrun"> google plus</a> or the <a href="https://www.eclipse.dev/forums/index.php/f/165/">Eclipse Forums</a>, this will be appreciated.<br /><br />You can install EcoreTools using the <a href="https://marketplace.eclipse.org/content/ecoretools-ecore-diagram-editor#.U5sZznVJXyQ">Eclipse Marketplace</a>, you will also find it in the <a href="https://www.eclipse.dev/downloads/">Modeling Package </a>which is shipped with Luna.<br /><br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/intro.png" imageanchor="1"
+		style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="228"
+			src="https://cedric.brun.io/images/blog/2014/intro.png" width="320" /></a></div><br /><br /><br />With
+Eclipse Luna comes a complete re-implementation of <a href="https://www.eclipse.dev/ecoretools">EcoreTools</a>, the
+diagram editor for Ecore. This is an important piece of news because EcoreTools is often the first step our adopters
+have to go through. Users are expecting to have a diagram editor to design a domain model. They are expecting this
+because they are used to this notation, they learnt it at school or university and even just this ubiquity makes it
+powerful in itself.<br /><br /><br /><br /><br />And that's why EcoreTools matter. And that's why EcoreTools matter even
+more for an organization like <a href="https://www.obeosoft.com/fr/">Obeo</a>.<br /><br />But then what happened ? Why
+did this project have been stale for years ?<br /><br />
+<h4>How it all started</h4><br />Let's come back to the creation of this project. The proposal has been submited in
+2007, and in 2008 EcoreTools 0.8 was shipped with Ganymede.<br />At that time building such a graphical modeler was
+quite costly, even with the GMF runtime and Tools which were leveraged by the original team, going from a very basic
+diagram editor to a complete tool with a consistent user experience was a lot of work. And they tackled this work and
+had progress from version to version up to the end of 2009 when the company behind this effort got acquired and changed
+its focus. The project entered hibernation then.<br />Because it was a key component of the whole modeling eco-system,
+Ed Merks and I stepped up to take care of the project, leading it through the bare minimum so that it can be part of the
+release train and still exist. The plan at that time was to find other people interested in investing in it,
+unfortunately it did not happen and I can't blame them, as I said that was costly, an investment you could not do
+without clear gains to expect.<br /><br />Then Thales and Obeo open-sourced <a
+	href="https://www.eclipse.dev/sirius">Sirius</a> within Eclipse : a complete tooling and framework designed to build
+rich modeling environment efficiently, also designed on our experience with the shortcomings of the GMF Tool project.
+<b>Creating an Ecore modeling environment then became barely more work than maintaining its build</b>. I already had a
+starting point as we built an Ecore modeler with Sirius before, but many things in this tool were not quite exactly as I
+wanted it. That lead me to rethink all the interactions to provide a tool which actually assist you in design a
+<b>good</b>&nbsp;Ecore model easily.<br /><br />I started by inspecting the usages of <i>"EcoreTools 1"</i> or our own
+commercial modeler internally. At Obeo we are designing Ecore models all the time. We have customers which do need to
+design Ecore models often, we do consultancy projects in which the Ecore model is the backbone of all the tooling we are
+building, yet EcoreTools 1 was not used at all and our commercial modeler was almost exclusively used to produce
+diagrams for the documentation and deliverables. And when I digged deeper, I realized the tool was just barely helping
+compared to the tree editor provided by the EMF Project itself, and sometime was even "getting into the
+way".<br /><br />I also wrote down scenarios of usage for the tool using <a
+	href="https://en.wikipedia.org/wiki/Persona_(user_experience)">personnas</a>. Both these efforts have been
+enlightening : I could clearly identify usability problems and expectations regarding the tool. I came up with a few key
+points to focus on :<br /><br />1 - making sure EcoreTools was providing more value to users knowing Ecore than the
+Ecore Tree Editor.<br />2 - making sure that EcoreTools will not make you "look bad" when using it with a
+customer<br /><br />
+<h4>Ecore Support</h4>EcoreTools 2 obviously allows you to design Classes, Datatypes, References and all the classical
+Ecore constructions, but Ecore is way more than that. There are different concerns involved in expressing your domain
+model: documenting, reviewing the referencing mechanism of elements, identifying business constraints, exploring the
+model... Specific tools have been implemented for these concerns and most of them are "opt-in" in a given diagram
+through the activation of a dedicated layer.<br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/9496bdbf6570c41c40fdc84c34520726.png" imageanchor="1"
+		style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/9496bdbf6570c41c40fdc84c34520726.png" /></a></div>
+<h3>Documentation</h3>
+<div>Your Ecore model represents your domain. It's all about picking good names, but names are not nearly enough.
+	Documenting your Ecore model is important and EcoreTools assists you with a dedicated layer named "Documentation"
+	and a table editor to quickly go through all of your elements and document them.</div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/ecoretools-doc-note.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/ecoretools-doc-note.png" /></a>
+</div><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/ecoretools-doc-table.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/ecoretools-doc-table.png"
+			height="38" width="320" /></a></div><br />
+<h3>Bi-directional references</h3>
+<div><br /></div>
+<div>With 2.0 the bidirectional references (also known as EOpposites) are displayed using the well known notation which
+	comes from UML Class Diagram.</div>
+<div><br /></div>
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/ecoretools-eopposite.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/ecoretools-eopposite.png" /></a>
+</div><br />
+<h3>Constraints</h3>Domain constraints can be listed directly from the diagram once you activate the "Constraints"
+layer. EMF will then use this information to generate all the required plumbing so that you just have to fill a java
+method to implement the actual check.<br /><br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/ecoretools-constraints.png" imageanchor="1"
+		style="margin-left: 1em; margin-right: 1em;"><img border="0" height="314"
+			src="https://cedric.brun.io/images/blog/2014/ecoretools-constraints.png" width="640" /></a></div>
+<br /><br />
+<h3>Generics</h3><br />Ecore has been supporting Generics for quite a few years already, EcoreTools allows you now to
+express Parameter types and use them in references or operations.<br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/2634caf68113d7bd3b1e85e1df5c4aff.png" imageanchor="1"
+		style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/2634caf68113d7bd3b1e85e1df5c4aff.png" /></a></div>
+<br />
+<h3>Packages Dependency Analysis</h3>Often domains have relationships to other domains, and this is reflected in Ecore
+models through direct referencing. But keeping track of those dependencies between domain packages proves to be hard in
+practice, you have to digg through every Class to see if it refers to something which is external. EcoreTools provides a
+diagram which is dedicated to see and analyze those dependencies.<br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/ae061e611b11578818a2e2a2c4c847d8.png" imageanchor="1"
+		style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/ae061e611b11578818a2e2a2c4c847d8.png" /></a></div>
+<br />And also a dedicated decorator for classes which are from another package.<br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/ecoretools2-external.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/ecoretools2-external.png" /></a>
+</div><br />
+<h4>Productivity</h4>To be productive the tool needs to be at your fingertips. EcoreTools provides many shorctuts to
+make your life easier, especially regarding references and attributes. Typing "1" will make the reference or the
+attribute mandatory. Typing "*" will make it a "many". Just typing a name will only change the name, but typing ":
+someTypeName" will set the type.<br /><br />You can't really discover those shortcuts on your own, so feel free to have
+a look on the documentation, but once you'll know them you'll be quicker in designing your Ecore using the diagram
+editor compared to the classical tree editor.<br /><br />Many more things have been done to make sure the tool doesn't
+get into the way. All the references can be reconnected graphically, the modeler can be used in "full screen" with no
+other Eclipse views around while keeping a good usability, EcoreTools will take care of your GenModel too by reloading
+it when necessary.<br /><br /><br />
+<h4>Design and Feedback</h4>From a graphical point of view I tried to keep the original visuals, only make them slightly
+more appealing. Colors have been aligned to the Eclipse Standard palette. Classifiers now have rounded borders, icons
+and text style are used to convey the difference between Classes, Abstract Classes and Interfaces.<br />Boldness is used
+for anything which is mandatory, blue for anything which is derived.<br />These are the kind of things you can think of
+if you can quickly turn-around and try in your graphical modeler, and Eclipse Sirius enables that.<br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/35ed765cb8af3fb4ab1a95cd3803fe94.png" imageanchor="1"
+		style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/35ed765cb8af3fb4ab1a95cd3803fe94.png" /></a></div>
+<br /><br />A tool is helpful when it is giving you the right information at the right time. This is all about
+feedback.<br />EcoreTools 2 is highlighting in red any construction which is not valid. You want to know that as soon as
+possible.<br /><br />But feedback is not always immediate, only if you enable the "documentation" layer to annotate your
+model, then the red borders will be used so that you can quickly identify elements which have no
+documentation.<br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/1000000000000224000001DC6EB0E8B4.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/1000000000000224000001DC6EB0E8B4.png" /></a>
+</div><br /><br />
+<h4>How much work was that ?</h4>Of course it is slightly biased because I know Sirius really well. I was actually part
+of the team building it for years now so anything I want to do in EcoreTools I can quickly see how I'm going to do it
+leveraging Sirius.<br /><br />Nevertheless here is a typical change introducing the constraints support in EcoreTools,
+this is mostly about expressing, in the Viewpoint Specification Model of Sirius, what you want to achieve.<br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/10000000000003A800000245D6DB46FF.png"
+		imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/10000000000003A800000245D6DB46FF.png"
+			height="395" width="640" /></a></div>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />No code generation is
+involved, my plugin defining the modeler is just a standard Eclipse plugin, I can use JUnit, SWTbot, Tycho, nothing
+fancy here is imposed to me by Sirius. Here are a few stats :<br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://cedric.brun.io/images/blog/2014/ecoretools2-codestat.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://cedric.brun.io/images/blog/2014/ecoretools2-codestat.png"
+			height="152" width="640" /></a></div>The diagram and table editors of EcoreTools 2 are representing less
+than 2700 lines of code.<br /><br />
+<h4>Now what ?</h4>This is the 2.0 version, freshly built for you. I think the net gain compared to the 1.x stream is
+already huge but of course the paint is slightly fresh, you might find issues and if you do<a
+	href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Ecoretools"> please report a bug</a>. If you like it,
+please tell me through <a href="https://twitter.com/bruncedric">twitter</a>,<a
+	href="https://plus.google.com/+C%C3%A9dricBrun"> google plus</a> or the <a
+	href="https://www.eclipse.dev/forums/index.php/f/165/">Eclipse Forums</a>, this will be appreciated.<br /><br />You
+can install EcoreTools using the <a
+	href="https://marketplace.eclipse.org/content/ecoretools-ecore-diagram-editor#.U5sZznVJXyQ">Eclipse Marketplace</a>,
+you will also find it in the <a href="https://www.eclipse.dev/downloads/">Modeling Package </a>which is shipped with
+Luna.<br /><br /><br />
