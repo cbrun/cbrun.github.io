@@ -11,9 +11,11 @@ permalink: /talks/
 ## 2021
 * [The State Of Sirius : Where we are, and Where we are Going](https://www.youtube.com/watch?v=MBc6O_pxinA),[slides](https://cedric.brun.io/talks/SiriusCon2021/SiriusCon_2021-The_State_of_Sirius_Where_We_Are_and_Where_We_Are_Going.pdf) SiriusCon, June 2021
 * [Interview by the Eclipse Foundation](https://www.youtube.com/watch?v=zh6uTWMIqzs), Why Participate in Open-Source, April 2021
+[![](https://cedric.brun.io/talks/2021-book.webp)](https://outreach.eclipse.foundation/participate-open-source-ebook) 
 * [Open Source Community Participation Drives Business Success](https://outreach.eclipse.foundation/participate-open-source-ebook), Contributed to an eBook published by the Eclipse Foundation.
 
 ## 2020
+[![](https://cedric.brun.io/talks/2020-interview.jpg)](https://tomassetti.me/interview-with-cedric-brun/)
 * [Interview by Federico Tomassetti - Strumenta](https://tomassetti.me/interview-with-cedric-brun/) "If you look in the future, you’ll get tools which have awesome user experience, which are getting data from all the other systems in order to support engineering activities. You are going to be able to use statistics and AI and so on in order to help you make decisions while designing your architecture or your system or whatever [...]"
 
 
