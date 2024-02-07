@@ -8,7 +8,7 @@ image:
 ---
 
 
-I am CEO at [Obeo](http://www.obeo.fr/fr/), a French tool vendor helping organizations face complex systems to reach their goal through design tool. I started as a software engineer with a hint of academia through a master degree. I got involved in open-source projects quite early through contributions to KDE or the Linux Kernel, I then joined the Eclipse community and I am leading couples of projects there (EcoreTools, Amalgamation) and I am a member of the Architecture Council.  
+I am CEO at [Obeo](https://www.obeosoft.com/fr/), a French tool vendor helping organizations face complex systems to reach their goal through design tool. I started as a software engineer with a hint of academia through a master degree. I got involved in open-source projects quite early through contributions to KDE or the Linux Kernel, I then joined the Eclipse community and I am leading couples of projects there (EcoreTools, Amalgamation) and I am a member of the Architecture Council.  
 
 The itch I keep scratching is "How can we make better and open tools, faster?" and that led me to **domain specific modeling** practices and technologies. 
 I like to share my findings through conferences and happened to co-author a number of articles and research papers (see the [Talks and Papers](../talks) page).
