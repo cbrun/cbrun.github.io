@@ -23,7 +23,7 @@ At Obeo we leverage the power of **modeling** so that building a tool becomes a 
 
 <br>
 
-We started in 2006 with technologies focused **reverse engineering** and **code generation** through the creation of the [Acceleo project](http://www.eclipse.org/acceleo/). Then started to get involved in Eclipse through [EMF Compare](https://www.eclipse.org/emf/compare/) and a couple of other projects. 
+We started in 2006 with technologies focused **reverse engineering** and **code generation** through the creation of the [Acceleo project](https://www.eclipse.dev/acceleo/). Then started to get involved in Eclipse through [EMF Compare](https://www.eclipse.org/emf/compare/) and a couple of other projects. 
 
 Obeo is now one of the 10 Strategic Members of the Eclipse Foundation next to **Red-hat**, **IBM** or **Oracle** and is one of the most active organizations, yet we are nowhere near these companies are we are close to 50 peoples spread out over France and just starting to take over the world by [opening an office in Vancouver](../obeo/north-america-here-we-come/)!
 
