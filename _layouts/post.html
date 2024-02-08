@@ -43,6 +43,11 @@
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
     </div><!--/ .headline-wrap -->
+{% if page.translated %}
+  Translations: {% for t in page.translations %}
+    <a href="{{ t.url }}">{{ t.lang | language_name }}</a>
+  {% endfor %}
+{% endif %}
     <div class="article-wrap">
       {{ content }}
       <hr />
