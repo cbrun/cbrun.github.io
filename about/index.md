@@ -8,8 +8,8 @@ image:
   feature: banner4.webp
 translation_id: aboutpage  
 ---
-{% link about/index_fr.md %}
 
+[🇫🇷]({% post_url about_fr %}) 
 
 I am CEO at [Obeo](https://www.obeosoft.com/), a French tool vendor helping organizations face complex systems to reach their goal through design tool. I started as a software engineer with a hint of academia through a master degree. I got involved in open-source projects quite early through contributions to KDE or the Linux Kernel, I then joined the Eclipse community and I am leading couples of projects there (EcoreTools, Amalgamation) and I am a member of the Architecture Council.  
 
