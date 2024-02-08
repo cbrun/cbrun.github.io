@@ -4812,7 +4812,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/204997651123552256)
 
 ----
 
-> RT @obeo_corp: Moving to git is complete https://bit.ly/Kit9hg
+> RT [Obeo](https://www.obeosoft.com/): Moving to git is complete https://bit.ly/Kit9hg
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 24 16:05:03 +0000 2012](https://twitter.com/bruncedric/status/205690887097954305)
 
@@ -4924,7 +4924,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/2081078192437985
 
 ----
 
-> RT @obeo_corp: You're an #EMF, Eclipse plugins development, #opensource, #dsl, #modeling fan? Join us at Obeo! https://ow.ly/bn48M
+> RT [Obeo](https://www.obeosoft.com/): You're an #EMF, Eclipse plugins development, #opensource, #dsl, #modeling fan? Join us at Obeo! https://ow.ly/bn48M
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 05 18:43:53 +0000 2012](https://twitter.com/bruncedric/status/210079510962515968)
 
@@ -5542,7 +5542,7 @@ Replying to [@allilaire](https://twitter.com/allilaire/status/251596241157373952
 
 ----
 
-> RT @obeo_corp: On the road again! https://bit.ly/O78fq4
+> RT [Obeo](https://www.obeosoft.com/): On the road again! https://bit.ly/O78fq4
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 04 12:21:35 +0000 2012](https://twitter.com/bruncedric/status/253832234853888001)
 
@@ -5958,7 +5958,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/2693655712
 
 ----
 
-> RT @EclipseGre: Hello. @obeo_corp organise un Roadshow gratuit #MDD et #DSL a #Grenoble. C'est le 5 decembre a Xerox @xrce https://t.co/4 ...
+> RT @EclipseGre: Hello. [Obeo](https://www.obeosoft.com/) organise un Roadshow gratuit #MDD et #DSL a #Grenoble. C'est le 5 decembre a Xerox @xrce https://t.co/4 ...
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Nov 19 16:03:41 +0000 2012](https://twitter.com/bruncedric/status/270557972076306432)
 
@@ -6555,7 +6555,7 @@ Replying to [@ejuliot](https://twitter.com/ejuliot/status/311795771534110721)
 
 ----
 
-Replying to [@droy_eclipse, @eclipsecon, @obeo_corp, @roxannejoncas and @chrisguindon](https://twitter.com/droy_eclipse/status/314362719035863040)
+Replying to [@droy_eclipse, @eclipsecon, [Obeo](https://www.obeosoft.com/), @roxannejoncas and @chrisguindon](https://twitter.com/droy_eclipse/status/314362719035863040)
 
 > Looking forward to it !
 
@@ -7093,7 +7093,7 @@ Replying to [@waynebeaton](https://twitter.com/waynebeaton/status/32525854979615
 
 ----
 
-> RT @eclipsecon: Make some noise for @obeo_corp - Gold Sponsor for #EclipseCon France!
+> RT @eclipsecon: Make some noise for [Obeo](https://www.obeosoft.com/) - Gold Sponsor for #EclipseCon France!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 24 12:37:49 +0000 2013](https://twitter.com/bruncedric/status/327038671054323712)
 
@@ -8360,7 +8360,7 @@ Replying to [@maxandersen](https://twitter.com/maxandersen/status/38982223552946
 
 ----
 
-Replying to [@lowcoupling, @fmadiot, @sbegaudeau and @obeo_corp](https://twitter.com/lowcoupling/status/389832707460456448)
+Replying to [@lowcoupling, @fmadiot, @sbegaudeau and [Obeo](https://www.obeosoft.com/)](https://twitter.com/lowcoupling/status/389832707460456448)
 
 > Nice !
 
@@ -9176,7 +9176,7 @@ Replying to [@richpaige](https://twitter.com/richpaige/status/407970329756061696
 
 ----
 
-> RT @Atlanpole_Simon: Bravo à @obeo_corp pour son prix Service et Numérique à la #JRI2013 pour son projet SmartEA projet labellisé par @imag…
+> RT @Atlanpole_Simon: Bravo à [Obeo](https://www.obeosoft.com/) pour son prix Service et Numérique à la #JRI2013 pour son projet SmartEA projet labellisé par @imag…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Dec 05 18:10:42 +0000 2013](https://twitter.com/bruncedric/status/408659713644326912)
 
@@ -9264,7 +9264,7 @@ Replying to [@droy_eclipse and @waynebeaton](https://twitter.com/droy_eclipse/st
 
 ----
 
-> @obeo_corp is turning 8 and we are celebrating this Friday. Proudly running thanks to an "Unusual Propulsion System" https://model-driven-blogging.blogspot.fr/2010/03/unusual-propulsion-system.html?m=1
+> [Obeo](https://www.obeosoft.com/) is turning 8 and we are celebrating this Friday. Proudly running thanks to an "Unusual Propulsion System" https://model-driven-blogging.blogspot.fr/2010/03/unusual-propulsion-system.html?m=1
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 10 20:56:14 +0000 2013](https://twitter.com/bruncedric/status/410513309340041217)
 
@@ -9360,7 +9360,7 @@ Replying to [@arnoblouin](https://twitter.com/arnoblouin/status/4105152660080066
 
 ----
 
-> RT @droy_eclipse: Not outdone by the @obeo_corp crew, here is Rox-in-a-Box in 1 min 40 sec. @waynebeaton wouldn't fit /cc @bruncedric http:…
+> RT @droy_eclipse: Not outdone by the [Obeo](https://www.obeosoft.com/) crew, here is Rox-in-a-Box in 1 min 40 sec. @waynebeaton wouldn't fit /cc @bruncedric http:…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 13 16:43:13 +0000 2013](https://twitter.com/bruncedric/status/411536798381137921)
 
@@ -9723,7 +9723,7 @@ Replying to [@jvanzyl and @tomsontom](https://twitter.com/jvanzyl/status/4242062
 
 ----
 
-> RT @VincentMarcatte: #forumATLP @obeo_corp on stage développement exemplaire @atlanpole @imagesreseaux 
+> RT @VincentMarcatte: #forumATLP [Obeo](https://www.obeosoft.com/) on stage développement exemplaire @atlanpole @imagesreseaux 
 > 
 > ![]({{ site.url }}/media/425653503357624320-BegqjXFIYAE0pD-.jpg)
 
@@ -10952,7 +10952,7 @@ Replying to [@OPCoach_Eclipse and @TristanFAURE](https://twitter.com/OPCoach_Ecl
 
 ----
 
-> RT @McPaga: .@obeo_corp is now established in Montréal for new perspectives thanks to a partnership with @SFLinux  #modeling https://t.co/ub…
+> RT @McPaga: .[Obeo](https://www.obeosoft.com/) is now established in Montréal for new perspectives thanks to a partnership with @SFLinux  #modeling https://t.co/ub…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 05 18:13:41 +0000 2014](https://twitter.com/bruncedric/status/474615052453294081)
 
@@ -11098,7 +11098,7 @@ Replying to [@softmodeling](https://twitter.com/JordiCabot/status/47882246095176
 
 ----
 
-> RT @FuFanboy: Here my WorldCup match editor, made in 1 hour with Sirius! Thank you @obeo_corp #EclipseCon 
+> RT @FuFanboy: Here my WorldCup match editor, made in 1 hour with Sirius! Thank you [Obeo](https://www.obeosoft.com/) #EclipseCon 
 > 
 > ![]({{ site.url }}/media/479219352684990465-BqaGiWgCQAAG-w7.png)
 
@@ -11114,7 +11114,7 @@ Replying to [@softmodeling](https://twitter.com/JordiCabot/status/47882246095176
 
 ----
 
-> RT @EnaleanTeam: Let's take a coffee at 9.45 at the @obeo_corp booth for the demo of the new #Tuleap #Agile Planner for #Eclipse. #eclipsec…
+> RT @EnaleanTeam: Let's take a coffee at 9.45 at the [Obeo](https://www.obeosoft.com/) booth for the demo of the new #Tuleap #Agile Planner for #Eclipse. #eclipsec…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 19 07:18:34 +0000 2014](https://twitter.com/bruncedric/status/479523620285583360)
 
@@ -11453,7 +11453,7 @@ Replying to [@cboudjennah](https://twitter.com/cboudjennah/status/51540029386210
 
 ----
 
-> RT @alex_morel_: Last day of work at @obeo_corp , an usual day... 
+> RT @alex_morel_: Last day of work at [Obeo](https://www.obeosoft.com/) , an usual day... 
 > 
 > ![]({{ site.url }}/media/516581497411997696-Bys0oTFIEAIaff8.jpg)
 
@@ -12252,7 +12252,7 @@ Replying to [@AdDelafosse](https://twitter.com/AdDelafosse/status/56155400322261
 
 ----
 
-> RT @_AxelRICHARD_: ♪ Last Call ♪ → #Eclipse demo camp in #Nantes tomorrow ! With @EclipseFdn @obeo_corp @CodenvyHQ @IS2T_News https://t.co/h…
+> RT @_AxelRICHARD_: ♪ Last Call ♪ → #Eclipse demo camp in #Nantes tomorrow ! With @EclipseFdn [Obeo](https://www.obeosoft.com/) @CodenvyHQ @IS2T_News https://t.co/h…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 04 09:29:26 +0000 2015](https://twitter.com/bruncedric/status/562905759634432000)
 
@@ -12419,13 +12419,13 @@ Replying to [@waynebeaton and @cra](https://twitter.com/waynebeaton/status/57067
 
 ----
 
-> RT @obeo_corp: Eclipse Luna SR2 packages are online https://ow.ly/JJ64m
+> RT [Obeo](https://www.obeosoft.com/): Eclipse Luna SR2 packages are online https://ow.ly/JJ64m
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 27 15:26:09 +0000 2015](https://twitter.com/bruncedric/status/571330453908668417)
 
 ----
 
-> RT @obeo_corp: Obeo SmartEA 1.5.4 is released https://www.obeosmartea.com/en/resources/changelog #entarch
+> RT [Obeo](https://www.obeosoft.com/): Obeo SmartEA 1.5.4 is released https://www.obeosmartea.com/en/resources/changelog #entarch
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 27 15:30:36 +0000 2015](https://twitter.com/bruncedric/status/571331572512759808)
 
@@ -12802,7 +12802,7 @@ Replying to [@szarnekow](https://twitter.com/szarnekow/status/581366680586174464
 
 ----
 
-> RT @ejuliot: Pong competition for @obeo_corp 9th birthday. 
+> RT @ejuliot: Pong competition for [Obeo](https://www.obeosoft.com/) 9th birthday. 
 > 
 > ![]({{ site.url }}/media/584069823648440323-CBsHmPbWIAE8yt_.jpg)
 
@@ -12818,7 +12818,7 @@ Replying to [@szarnekow](https://twitter.com/szarnekow/status/581366680586174464
 
 ----
 
-> RT @Adaussy: Really nice birthday party @obeo_corp . And of course #HopeForEtienne
+> RT @Adaussy: Really nice birthday party [Obeo](https://www.obeosoft.com/) . And of course #HopeForEtienne
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Apr 04 13:06:54 +0000 2015](https://twitter.com/bruncedric/status/584341372200706048)
 
@@ -13176,7 +13176,7 @@ Replying to [@waynebeaton and @dougschaefer](https://twitter.com/bruncedric/stat
 
 ----
 
-> RT @MERgE_Project: MERgE modelling framework prototype demo by @jpe_obeo from @obeo_corp #MERgEPlenary https://t.co/1smMp3yaqE
+> RT @MERgE_Project: MERgE modelling framework prototype demo by @jpe_obeo from [Obeo](https://www.obeosoft.com/) #MERgEPlenary https://t.co/1smMp3yaqE
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 18 11:51:05 +0000 2015](https://twitter.com/bruncedric/status/611501383880155136)
 
@@ -13790,7 +13790,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6615879844882759
 
 ----
 
-> RT @Obeo_Corp: Spotted @laurentdelaigue @bruncedric @ejuliot @EclipseCon EU! https://buff.ly/1OnRu9p https://buff.ly/1krBXIz #EclipseConSpi…
+> RT [Obeo](https://www.obeosoft.com/): Spotted @laurentdelaigue @bruncedric @ejuliot @EclipseCon EU! https://buff.ly/1OnRu9p https://buff.ly/1krBXIz #EclipseConSpi…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 04 09:08:20 +0000 2015](https://twitter.com/bruncedric/status/661832337743810560)
 
@@ -13802,7 +13802,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6615879844882759
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon EU: Lucky are those who are attending @laurentdelaigue talk at Theater :) "EMF Compare + EGit = Seamless Collabo…
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon EU: Lucky are those who are attending @laurentdelaigue talk at Theater :) "EMF Compare + EGit = Seamless Collabo…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 04 15:38:27 +0000 2015](https://twitter.com/bruncedric/status/661930514182459392)
 
@@ -13843,7 +13843,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6615879844882759
 
 ----
 
-Replying to [@slacrampe, @atlanpole, @criteo and @Obeo_Corp](https://twitter.com/slacrampe/status/662625440222322688)
+Replying to [@slacrampe, @atlanpole, @criteo and [Obeo](https://www.obeosoft.com/)](https://twitter.com/slacrampe/status/662625440222322688)
 
 > indeed !  Thanks !
 
@@ -13911,7 +13911,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6648526912235028
 
 ----
 
-> RT @Obeo_Corp: Take a break it's Friday! Read @bruncedric last blog post: @EclipseCon Europe 2015 is over but #SiriusCon is coming! https:/…
+> RT [Obeo](https://www.obeosoft.com/): Take a break it's Friday! Read @bruncedric last blog post: @EclipseCon Europe 2015 is over but #SiriusCon is coming! https:/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 13 13:39:47 +0000 2015](https://twitter.com/bruncedric/status/665162141457100800)
 
@@ -14129,7 +14129,7 @@ Replying to [@bruncedric](https://twitter.com/alex_morel_/status/668805826862272
 
 ----
 
-> RT @EclipseSirius: #SiriusCon Let's start this particular day with @slacrampe, CEO @obeo_corp! 
+> RT @EclipseSirius: #SiriusCon Let's start this particular day with @slacrampe, CEO [Obeo](https://www.obeosoft.com/)! 
 > 
 > ![]({{ site.url }}/media/672335791784349696-CVSdQWbVEAALP8n.jpg)
 
@@ -14183,7 +14183,7 @@ Replying to [@bruncedric](https://twitter.com/alex_morel_/status/668805826862272
 
 ----
 
-> RT @EclipseSirius: #SiriusCon it's also how to “Breathe Life into your Designer” with J. Lenoir @ThalesGroup &amp; @MelanieBats @obeo_corp http…
+> RT @EclipseSirius: #SiriusCon it's also how to “Breathe Life into your Designer” with J. Lenoir @ThalesGroup &amp; @MelanieBats [Obeo](https://www.obeosoft.com/) http…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Dec 03 11:22:38 +0000 2015](https://twitter.com/bruncedric/status/672375386064441344)
 
@@ -14369,7 +14369,7 @@ Replying to [@MarcelBruch](https://twitter.com/MarcelBruch/status/67698777983907
 
 ----
 
-> RT @Obeo_Corp: 2 talks, including one with @bcombemale, have been accepted! See you at @EclipseCon NA guys https://www.eclipsecon.org/na2016/program/sessions/accepted?keys=sirius&field_experience_value=All&field_session_type_tid=All https://…
+> RT [Obeo](https://www.obeosoft.com/): 2 talks, including one with @bcombemale, have been accepted! See you at @EclipseCon NA guys https://www.eclipsecon.org/na2016/program/sessions/accepted?keys=sirius&field_experience_value=All&field_session_type_tid=All https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 16 15:22:35 +0000 2015](https://twitter.com/bruncedric/status/677146813397344256)
 
@@ -14516,7 +14516,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6877123167549235
 
 ----
 
-> Today we are gathering in Nantes to celebrate @Obeo_Corp's 10th birthday ! #ThisPictureIsAlmost10YearsOldNow 
+> Today we are gathering in Nantes to celebrate [Obeo](https://www.obeosoft.com/)'s 10th birthday ! #ThisPictureIsAlmost10YearsOldNow 
 > 
 > ![]({{ site.url }}/media/689740868585152512-CZJzqhTWQAAFMvI.jpg)
 
@@ -14542,7 +14542,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6877123167549235
 
 ----
 
-> RT @ejuliot: For our 10 years birthday, come back of this long term tradition at @Obeo_Corp : Nutella + Brioche #WeAreObeo https://t.co/fQB…
+> RT @ejuliot: For our 10 years birthday, come back of this long term tradition at [Obeo](https://www.obeosoft.com/) : Nutella + Brioche #WeAreObeo https://t.co/fQB…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 20 15:14:12 +0000 2016](https://twitter.com/bruncedric/status/689828278698377216)
 
@@ -14570,13 +14570,13 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/6877123167549235
 
 ----
 
-> RT @SFLinux: Combat de modélisation de robots avec @Obeo_Corp. Répétition générale avant les vraies affaires... ;) #onvasurmars https://t.c…
+> RT @SFLinux: Combat de modélisation de robots avec [Obeo](https://www.obeosoft.com/). Répétition générale avant les vraies affaires... ;) #onvasurmars https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 20 21:47:41 +0000 2016](https://twitter.com/bruncedric/status/689927301732130816)
 
 ----
 
-> RT @slacrampe: 10 years. Thanks everyone for supporting us on this great adventure [Obeo](https://www.obeosoft.com/) @obeo_corp Stay tuned for the next 10 ! https:/…
+> RT @slacrampe: 10 years. Thanks everyone for supporting us on this great adventure [Obeo](https://www.obeosoft.com/) [Obeo](https://www.obeosoft.com/) Stay tuned for the next 10 ! https:/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 21 10:02:19 +0000 2016](https://twitter.com/bruncedric/status/690112176988786688)
 
@@ -14658,7 +14658,7 @@ Replying to [@_AxelRICHARD_](https://twitter.com/_AxelRICHARD_/status/6918929482
 
 ----
 
-> RT @Obeo_Corp: 10 years old, a new chapter, a new logo: Obeo forges ahead into 2016! https://blog.obeosoft.com/fr/en/post/obeo-10th-birthday 
+> RT [Obeo](https://www.obeosoft.com/): 10 years old, a new chapter, a new logo: Obeo forges ahead into 2016! https://blog.obeosoft.com/fr/en/post/obeo-10th-birthday 
 > 
 > ![]({{ site.url }}/media/692301193704521728-CZuLpyhWAAAH5fa.jpg)
 
@@ -14876,7 +14876,7 @@ Replying to [@jankoehnlein](https://twitter.com/jankoehnlein/status/697369164177
 
 ----
 
-> RT @Obeo_Corp: Spotted @bruncedric :) Join us at #EclipseCon NA!  https://twitter.com/eclipsecon/status/699277032753012736
+> RT [Obeo](https://www.obeosoft.com/): Spotted @bruncedric :) Join us at #EclipseCon NA!  https://twitter.com/eclipsecon/status/699277032753012736
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 15 18:02:54 +0000 2016](https://twitter.com/bruncedric/status/699292819131908098)
 
@@ -14890,7 +14890,7 @@ Replying to [@jankoehnlein](https://twitter.com/jankoehnlein/status/697369164177
 
 Replying to [@bruncedric](https://twitter.com/mcartaud/status/700621521325133824)
 
-> Congratulation and welcome ! @MathieuCartaud @Obeo_Corp
+> Congratulation and welcome ! @MathieuCartaud [Obeo](https://www.obeosoft.com/)
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 19 14:05:13 +0000 2016](https://twitter.com/bruncedric/status/700682552290336769)
 
@@ -14904,7 +14904,7 @@ Replying to [@bruncedric](https://twitter.com/mcartaud/status/700621521325133824
 
 ----
 
-> RT @Samuel_Rochet: Bored by the snow outside? Come in meet @ejuliot and me at the Obeo booth #EMB2016 @Obeo_Corp 
+> RT @Samuel_Rochet: Bored by the snow outside? Come in meet @ejuliot and me at the Obeo booth #EMB2016 [Obeo](https://www.obeosoft.com/) 
 > 
 > ![]({{ site.url }}/media/702083205608972288-Cb49KVAW4AACoKi.jpg)
 
@@ -14912,7 +14912,7 @@ Replying to [@bruncedric](https://twitter.com/mcartaud/status/700621521325133824
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon NA: This year again, Obeo will be highly visible in the program! https://blog.obeosoft.com/fr/en/post/avengers-sirius-a-robot-obeo-s-landing-at-eclipsecon-north-america #OpenSource https://t.c…
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon NA: This year again, Obeo will be highly visible in the program! https://blog.obeosoft.com/fr/en/post/avengers-sirius-a-robot-obeo-s-landing-at-eclipsecon-north-america #OpenSource https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 26 09:34:36 +0000 2016](https://twitter.com/bruncedric/status/703151167883194368)
 
@@ -15068,7 +15068,7 @@ Replying to [@mporhel and @roxannejoncas](https://twitter.com/mporhel/status/706
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon NA: here we are! Do not miss these two talks: https://buff.ly/1UEyXqU poke @bruncedric @mporhel @ejuliot @bcombe…
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon NA: here we are! Do not miss these two talks: https://buff.ly/1UEyXqU poke @bruncedric @mporhel @ejuliot @bcombe…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 07 16:24:15 +0000 2016](https://twitter.com/bruncedric/status/706878134780616704)
 
@@ -15102,7 +15102,7 @@ Replying to [@mporhel and @roxannejoncas](https://twitter.com/mporhel/status/706
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon NA Avengers work together to save the world! To know more? Join @bruncedric https://www.eclipsecon.org/na2016/session/modeling-avengers-open-source-technology-mix-saving-world https://t.co…
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon NA Avengers work together to save the world! To know more? Join @bruncedric https://www.eclipsecon.org/na2016/session/modeling-avengers-open-source-technology-mix-saving-world https://t.co…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 08 18:47:46 +0000 2016](https://twitter.com/bruncedric/status/707276641693728768)
 
@@ -15192,7 +15192,7 @@ Replying to [@droy_eclipse and @guw](https://twitter.com/droy_eclipse/status/707
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon NA Join @mporhel for his talk: How to Make Robust and Scalable Modeling Workbenches with @eclipsesirius https://…
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon NA Join @mporhel for his talk: How to Make Robust and Scalable Modeling Workbenches with @eclipsesirius https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 09 19:00:12 +0000 2016](https://twitter.com/bruncedric/status/707642157843226628)
 
@@ -15314,7 +15314,7 @@ Replying to [@EclipseScience and @42aross](https://twitter.com/EclipseScience/st
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon NA is already over… Thanks guys for everything and see you soon at @EclipseCon in #France! cc @gblondelle
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon NA is already over… Thanks guys for everything and see you soon at @EclipseCon in #France! cc @gblondelle
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 10 22:32:33 +0000 2016](https://twitter.com/bruncedric/status/708057985931546624)
 
@@ -15694,7 +15694,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/7129999793637294
 
 ----
 
-> RT @Obeo_Corp: Obeo SmartEA 2.0 has been released! Discover what's new: https://www.obeosmartea.com/en/features/whatsnew #EntArch #NewLook 
+> RT [Obeo](https://www.obeosoft.com/): Obeo SmartEA 2.0 has been released! Discover what's new: https://www.obeosmartea.com/en/features/whatsnew #EntArch #NewLook 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/713312238073995264-CeYtAa6W8AAN6ha.mp4">Your browser does not support the video tag.</video>
 
@@ -15831,7 +15831,7 @@ Replying to [@darkjabberwock and @sbegaudeau](https://twitter.com/darkjabberwock
 
 ----
 
-> RT @Obeo_Corp: #Quebec @csa_asc's rovers on Mars? Yes we can with @SFLinux! Watch on @CTVMontreal: https://montreal.ctvnews.ca/mobile/video?playlistId=1.2844645 https://t.co/qg9…
+> RT [Obeo](https://www.obeosoft.com/): #Quebec @csa_asc's rovers on Mars? Yes we can with @SFLinux! Watch on @CTVMontreal: https://montreal.ctvnews.ca/mobile/video?playlistId=1.2844645 https://t.co/qg9…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 05 08:35:13 +0000 2016](https://twitter.com/bruncedric/status/717269350282092544)
 
@@ -16009,7 +16009,7 @@ Replying to [@mattermosthq](https://twitter.com/Mattermost/status/72244306417897
 
 ----
 
-> RT @eclipsecon: A round of applause for @Obeo_Corp as a Premium Sponsor for #EclipseCon France!
+> RT @eclipsecon: A round of applause for [Obeo](https://www.obeosoft.com/) as a Premium Sponsor for #EclipseCon France!
 > https://buff.ly/1NpWWne https://t.co/qEexQP…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 19 15:37:56 +0000 2016](https://twitter.com/bruncedric/status/722449160499306501)
@@ -16050,7 +16050,7 @@ Replying to [@mattermosthq](https://twitter.com/Mattermost/status/72244306417897
 
 ----
 
-> RT @fmadiot: Tentez votre chance pour gagner un Lego Mindstorms sur le stand @EclipseFdn @Obeo_Corp @eclipse_che #devoxxfr https://t.co/oG9…
+> RT @fmadiot: Tentez votre chance pour gagner un Lego Mindstorms sur le stand @EclipseFdn [Obeo](https://www.obeosoft.com/) @eclipse_che #devoxxfr https://t.co/oG9…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 20 13:20:01 +0000 2016](https://twitter.com/bruncedric/status/722776836707495936)
 
@@ -16200,7 +16200,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/725446047108075522)
 
 ----
 
-> RT @Obeo_Corp: Talking about the collaborative project @OCCIware at [Obeo](https://www.obeosoft.com/) https://www.occiware.org/bin/view/Main/WebHome #Cloud #OpenSouce cc @ejuliot https://…
+> RT [Obeo](https://www.obeosoft.com/): Talking about the collaborative project @OCCIware at [Obeo](https://www.obeosoft.com/) https://www.occiware.org/bin/view/Main/WebHome #Cloud #OpenSouce cc @ejuliot https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 28 09:16:15 +0000 2016](https://twitter.com/bruncedric/status/725614596661383169)
 
@@ -16558,7 +16558,7 @@ Replying to [@CaWal](https://twitter.com/CaWal/status/732986533653925890)
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon France: the modeling experts meet at Toulouse from June 7th to 9th https://blog.obeosoft.com/fr/en/post/eclipsecon-france-the-modeling-experts-meet-at-toulouse-from-june-7th-to-9th #OpenSource https://t…
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon France: the modeling experts meet at Toulouse from June 7th to 9th https://blog.obeosoft.com/fr/en/post/eclipsecon-france-the-modeling-experts-meet-at-toulouse-from-june-7th-to-9th #OpenSource https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 19 14:04:26 +0000 2016](https://twitter.com/bruncedric/status/733297264379199488)
 
@@ -16778,7 +16778,7 @@ Replying to [@zenobios](https://twitter.com/zenobios/status/739685419231674368)
 
 ----
 
-> RT @Obeo_Corp: 1st blog post of an awesome serie by @melaniebats on the features of #EclipseSirius 4.0..Be prepared for the future! https:/…
+> RT [Obeo](https://www.obeosoft.com/): 1st blog post of an awesome serie by @melaniebats on the features of #EclipseSirius 4.0..Be prepared for the future! https:/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 06 16:19:16 +0000 2016](https://twitter.com/bruncedric/status/739854179947171841)
 
@@ -16887,7 +16887,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @melaniebats: Ready for @eclipsecon France day 2! Do not miss the #EclipseSirius robot on the @Obeo_Corp booth 
+> RT @melaniebats: Ready for @eclipsecon France day 2! Do not miss the #EclipseSirius robot on the [Obeo](https://www.obeosoft.com/) booth 
 > 
 > ![]({{ site.url }}/media/740436465008693248-CkaKdJKXAAAHAd9.jpg)
 
@@ -16903,13 +16903,13 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @Obeo_Corp: 2d blog post about @EclipseSirius 4.0 new features by @melaniebats: how to specify preferred side for border nodes! https://…
+> RT [Obeo](https://www.obeosoft.com/): 2d blog post about @EclipseSirius 4.0 new features by @melaniebats: how to specify preferred side for border nodes! https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 08 08:26:04 +0000 2016](https://twitter.com/bruncedric/status/740459868604239873)
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon FR How #OpenSource will save the world? All the answers at @bruncedric’s talk https://www.eclipsecon.org/france2016/session/modeling-avengers-open-source-technology-mix-saving-world https://t.…
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon FR How #OpenSource will save the world? All the answers at @bruncedric’s talk https://www.eclipsecon.org/france2016/session/modeling-avengers-open-source-technology-mix-saving-world https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 08 08:31:10 +0000 2016](https://twitter.com/bruncedric/status/740461150882672640)
 
@@ -16990,7 +16990,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon Do not miss Alexandra Boeuf’s talk on @EclipseSirius: the eclipse WORkflow Modeling System for Flight Physicists…
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon Do not miss Alexandra Boeuf’s talk on @EclipseSirius: the eclipse WORkflow Modeling System for Flight Physicists…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 08 13:47:19 +0000 2016](https://twitter.com/bruncedric/status/740540715302801408)
 
@@ -17179,7 +17179,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @Obeo_Corp: Still time to register for the next @EclipseSirius roadshow in Munich! https://blog.obeosoft.com/fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://twitter.com/ejuliot/status/742297999158718464
+> RT [Obeo](https://www.obeosoft.com/): Still time to register for the next @EclipseSirius roadshow in Munich! https://blog.obeosoft.com/fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://twitter.com/ejuliot/status/742297999158718464
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 13 15:23:10 +0000 2016](https://twitter.com/bruncedric/status/742376774936465408)
 
@@ -17273,7 +17273,7 @@ Replying to [@melaniebats and @Samuel_Rochet](https://twitter.com/melaniebats/st
 
 ----
 
-> RT @Obeo_Corp: A giant elephant and the Obeo's booth? Welcome at #Web2day #NantesTech! https://twitter.com/fmadiot/status/743032457512013825
+> RT [Obeo](https://www.obeosoft.com/): A giant elephant and the Obeo's booth? Welcome at #Web2day #NantesTech! https://twitter.com/fmadiot/status/743032457512013825
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 15 13:17:35 +0000 2016](https://twitter.com/bruncedric/status/743069944875737088)
 
@@ -17342,7 +17342,7 @@ Replying to [@tracymiranda](https://twitter.com/tracymiranda/status/743810645360
 
 ----
 
-> RT @eclipsecon: Awesome! @Obeo_Corp is sponsoring #Eclipsecon Europe! Thank you! 
+> RT @eclipsecon: Awesome! [Obeo](https://www.obeosoft.com/) is sponsoring #Eclipsecon Europe! Thank you! 
 > 
 > ![]({{ site.url }}/media/743920566684499968-ClKJAzFWQAAW6aI.jpg)
 
@@ -17396,7 +17396,7 @@ Replying to [@diegosevilla](https://twitter.com/diegosevilla/status/743510763747
 
 ----
 
-> RT @Obeo_Corp: .@EclipseSirius roadshow in #Munich June 27th: a few places remain. #HurryUp it's free! https://blog.obeosoft.com/fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://t.co…
+> RT [Obeo](https://www.obeosoft.com/): .@EclipseSirius roadshow in #Munich June 27th: a few places remain. #HurryUp it's free! https://blog.obeosoft.com/fr/en/post/sirius-roadshow-in-munich-in-june-registration-is-open https://t.co…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 22 12:31:29 +0000 2016](https://twitter.com/bruncedric/status/745595058854989824)
 
@@ -18286,7 +18286,7 @@ Replying to [@laurentdelaigue and @Bouletcorp](https://twitter.com/laurentdelaig
 
 ----
 
-> RT @Obeo_Corp: Thanks @JAXenter for talking about #UMLDesigner 7.0 in the Eclipse Weekly! https://jaxenter.de/eclipse-weekly-eclipse-oxygen-m1-44827 cc @melaniebats https://t…
+> RT [Obeo](https://www.obeosoft.com/): Thanks @JAXenter for talking about #UMLDesigner 7.0 in the Eclipse Weekly! https://jaxenter.de/eclipse-weekly-eclipse-oxygen-m1-44827 cc @melaniebats https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 22 20:07:01 +0000 2016](https://twitter.com/bruncedric/status/767815358237462528)
 
@@ -18454,7 +18454,7 @@ Replying to [@haltraet and @torkildr](https://twitter.com/haltraet/status/771266
 
 ----
 
-> RT @bcombemale: Come to #models16, play with @EclipseSirius and make your @LEGOMindstormsN win the fight! 🤖 @Obeo_Corp @modelsconf https://…
+> RT @bcombemale: Come to #models16, play with @EclipseSirius and make your @LEGOMindstormsN win the fight! 🤖 [Obeo](https://www.obeosoft.com/) @modelsconf https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 08 19:50:26 +0000 2016](https://twitter.com/bruncedric/status/773971781149462528)
 
@@ -18570,7 +18570,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/7762758527536005
 
 ----
 
-> RT @Obeo_Corp: It's new &amp; great: participate to #MODELS2016 Clinic &amp; benefit from our expertise. Fill in: https://docs.google.com/forms/d/e/1FAIpQLSe7eq1sCmWaK7wI_tLwSEu8iFo6M1UtgWSxmswilHAx-y36gA/viewform?c=0&w=1 https://t…
+> RT [Obeo](https://www.obeosoft.com/): It's new &amp; great: participate to #MODELS2016 Clinic &amp; benefit from our expertise. Fill in: https://docs.google.com/forms/d/e/1FAIpQLSe7eq1sCmWaK7wI_tLwSEu8iFo6M1UtgWSxmswilHAx-y36gA/viewform?c=0&w=1 https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 15 10:43:10 +0000 2016](https://twitter.com/bruncedric/status/776370768590540800)
 
@@ -18827,7 +18827,7 @@ Replying to [@jpe_obeo](https://twitter.com/@jpe_obeo/status/782150648414502912)
 
 ----
 
-> RT @Obeo_Corp: Tutorial by @fmadiot @bruncedric 'Creating a Domain-Specific Graphical Modeling Workbench with #Eclipse Technologies' starts…
+> RT [Obeo](https://www.obeosoft.com/): Tutorial by @fmadiot @bruncedric 'Creating a Domain-Specific Graphical Modeling Workbench with #Eclipse Technologies' starts…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Oct 02 12:13:55 +0000 2016](https://twitter.com/bruncedric/status/782554203172511745)
 
@@ -18903,7 +18903,7 @@ Replying to [@ocnarftweet and @EclipseSirius](https://twitter.com/ocnarftweet/st
 
 ----
 
-> RT @Obeo_Corp: #MoDELS16 Perfect illustration: working in a friendly &amp; pleasant environment! 
+> RT [Obeo](https://www.obeosoft.com/): #MoDELS16 Perfect illustration: working in a friendly &amp; pleasant environment! 
 > 
 > ![]({{ site.url }}/media/782919885450047488-Ct13jmFWcAAcj6G.jpg)
 > 
@@ -19055,7 +19055,7 @@ Replying to [@antoniogado and @richpaige](https://twitter.com/antoniogado/status
 
 ----
 
-> RT @Obeo_Corp: Almost ready... #models16 
+> RT [Obeo](https://www.obeosoft.com/): Almost ready... #models16 
 > 
 > ![]({{ site.url }}/media/783730288190980096-CuBOO_zWAAE1qVW.jpg)
 
@@ -19279,7 +19279,7 @@ Replying to [@softmodeling](https://twitter.com/JordiCabot/status/78590731813113
 
 ----
 
-> RT @EclipseSirius: Congrats to @_pcdavid from @obeo_corp who achieved his thousandth #EclipseSirius commit! #Wow 
+> RT @EclipseSirius: Congrats to @_pcdavid from [Obeo](https://www.obeosoft.com/) who achieved his thousandth #EclipseSirius commit! #Wow 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/786119098799312896-CujXVkxXEAQWi4d.mp4">Your browser does not support the video tag.</video>
 
@@ -19344,13 +19344,13 @@ Replying to [@softmodeling](https://twitter.com/JordiCabot/status/78590731813113
 
 ----
 
-> RT @Obeo_Corp: We will be soon back to #EclipseCon EU &amp; are looking forward ! #Tutorial #Talks #Robots #EclipseFamily https://t.co/wCAPAfQm…
+> RT [Obeo](https://www.obeosoft.com/): We will be soon back to #EclipseCon EU &amp; are looking forward ! #Tutorial #Talks #Robots #EclipseFamily https://t.co/wCAPAfQm…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 18 10:03:08 +0000 2016](https://twitter.com/bruncedric/status/788319495483981824)
 
 ----
 
-> RT @Obeo_Corp: Robots contest at the IoT Playground at #EclipseCon EU: will you win the fight? https://www.eclipsecon.org/europe2016/playground #EclipseSirius https…
+> RT [Obeo](https://www.obeosoft.com/): Robots contest at the IoT Playground at #EclipseCon EU: will you win the fight? https://www.eclipsecon.org/europe2016/playground #EclipseSirius https…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 18 13:59:12 +0000 2016](https://twitter.com/bruncedric/status/788378904708931584)
 
@@ -19450,7 +19450,7 @@ Replying to [@Samuel_Rochet and @melaniebats](https://twitter.com/Samuel_Rochet/
 
 ----
 
-> RT @Samuel_Rochet: The @Obeo_Corp tweeting team #eclipsecon 😉 
+> RT @Samuel_Rochet: The [Obeo](https://www.obeosoft.com/) tweeting team #eclipsecon 😉 
 > 
 > ![]({{ site.url }}/media/790857535385374720-Cvmwm4pWEAAfuDg.jpg)
 > 
@@ -19504,7 +19504,7 @@ Replying to [@MaudiMm and @sbegaudeau](https://twitter.com/CamilleAmiaud/status/
 
 ----
 
-> RT @dfcg_bpdl: #TrophéeDFCG 2016 : les 3 candidats sont @KristellDequidt de @obeo_corp , Bertrand Guegano de @OceanetTechno et @ericmalahie…
+> RT @dfcg_bpdl: #TrophéeDFCG 2016 : les 3 candidats sont @KristellDequidt de [Obeo](https://www.obeosoft.com/) , Bertrand Guegano de @OceanetTechno et @ericmalahie…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 25 14:21:36 +0000 2016](https://twitter.com/bruncedric/status/790921253993545728)
 
@@ -19692,7 +19692,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/791307610209255424)
 
 ----
 
-> RT @Obeo_Corp: Thanks Jordi for this interview of @bruncedric. Read it and learn a lot about Obeo, #EclipseSirius and #SiriusCon https://t.…
+> RT [Obeo](https://www.obeosoft.com/): Thanks Jordi for this interview of @bruncedric. Read it and learn a lot about Obeo, #EclipseSirius and #SiriusCon https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 27 08:50:01 +0000 2016](https://twitter.com/bruncedric/status/791562584856092672)
 
@@ -19738,7 +19738,7 @@ Replying to [@alblue](https://twitter.com/alblue/status/791590852221165568)
 
 ----
 
-> RT @Obeo_Corp: Thanks @EclipseFdn for this great new #EclipseCon EU edition!
+> RT [Obeo](https://www.obeosoft.com/): Thanks @EclipseFdn for this great new #EclipseCon EU edition!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 27 15:53:51 +0000 2016](https://twitter.com/bruncedric/status/791669247365742594)
 
@@ -20035,7 +20035,7 @@ Replying to [@bruncedric](https://twitter.com/diegosevilla/status/79595018596902
 
 ----
 
-> RT @KristellDequidt: La force d'une start up c'est de travailler tous ensemble @ericmalahieude @lengow poke @Obeo_Corp #TropheeDFCG cc @dfc…
+> RT @KristellDequidt: La force d'une start up c'est de travailler tous ensemble @ericmalahieude @lengow poke [Obeo](https://www.obeosoft.com/) #TropheeDFCG cc @dfc…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 08 20:11:43 +0000 2016](https://twitter.com/bruncedric/status/796082795269541888)
 
@@ -20399,7 +20399,7 @@ Replying to [@jperiodlangley](https://twitter.com/jperiodlangley/status/79962741
 
 ----
 
-> RT @Obeo_Corp: UML Designer 7.1.0 (based on @EclipseSirius 4.1) has been released. Download &amp; enjoy! https://www.umldesigner.org/download/ https://t.co/K…
+> RT [Obeo](https://www.obeosoft.com/): UML Designer 7.1.0 (based on @EclipseSirius 4.1) has been released. Download &amp; enjoy! https://www.umldesigner.org/download/ https://t.co/K…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 23 21:52:51 +0000 2016](https://twitter.com/bruncedric/status/801544065678528513)
 
@@ -20684,7 +20684,7 @@ Replying to [@Samuel_Rochet and @melaniebats](https://twitter.com/Samuel_Rochet/
 
 ----
 
-Replying to [@erwan_bousse, @Obeo_Corp and @gemocinitiative](https://twitter.com/erwan_bousse/status/808665257384230912)
+Replying to [@erwan_bousse, [Obeo](https://www.obeosoft.com/) and @gemocinitiative](https://twitter.com/erwan_bousse/status/808665257384230912)
 
 > Isn't publicly available and open-source code an evidence of prior art ? :D"
 
@@ -20728,7 +20728,7 @@ Replying to [@erwan_bousse, @Obeo_Corp and @gemocinitiative](https://twitter.com
 
 ----
 
-> RT @Obeo_Corp: 3 videos to learn more about @EclipseSirius @capella_arcadia &amp; #SiriusCon Paris 2016 https://www.youtube.com/results?sp=CAISAggD&q=siriuscon&utm_content=buffer097b9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer https://t.co/W6…
+> RT [Obeo](https://www.obeosoft.com/): 3 videos to learn more about @EclipseSirius @capella_arcadia &amp; #SiriusCon Paris 2016 https://www.youtube.com/results?sp=CAISAggD&q=siriuscon&utm_content=buffer097b9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer https://t.co/W6…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Dec 15 16:50:52 +0000 2016](https://twitter.com/bruncedric/status/809440602366603264)
 
@@ -20766,7 +20766,7 @@ Replying to [@psuzzi](https://twitter.com/psuzzi/status/810633275219857410)
 
 ----
 
-> RT @Obeo_Corp: The @EclipseFdn newsletter smells like #Christmas: thanks @roxannejoncas! #GraphicalModeling #SiriusCon #OpenSource https://…
+> RT [Obeo](https://www.obeosoft.com/): The @EclipseFdn newsletter smells like #Christmas: thanks @roxannejoncas! #GraphicalModeling #SiriusCon #OpenSource https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Dec 20 11:16:23 +0000 2016](https://twitter.com/bruncedric/status/811168362818637824)
 
@@ -20794,7 +20794,7 @@ Replying to [@psuzzi](https://twitter.com/psuzzi/status/810633275219857410)
 
 ----
 
-> RT @Obeo_Corp: Merry Christmas Everyone! 
+> RT [Obeo](https://www.obeosoft.com/): Merry Christmas Everyone! 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/812600082650513413-C0Xiw4XWEAEuQ6t.mp4">Your browser does not support the video tag.</video>
 
@@ -21099,7 +21099,7 @@ Replying to [@bruncedric](https://twitter.com/tracymiranda/status/82095340514122
 
 ----
 
-> RT @Obeo_Corp: [One day, One 2016 fact] 16 000 #UMLDesigner users (at least) in 2016 https://www.umldesigner.org/ #ModelingRocks cc @EclipseSiri…
+> RT [Obeo](https://www.obeosoft.com/): [One day, One 2016 fact] 16 000 #UMLDesigner users (at least) in 2016 https://www.umldesigner.org/ #ModelingRocks cc @EclipseSiri…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jan 16 12:50:37 +0000 2017](https://twitter.com/bruncedric/status/820976550929661955)
 
@@ -21113,7 +21113,7 @@ Replying to [@bruncedric](https://twitter.com/tracymiranda/status/82095340514122
 
 ----
 
-> RT @Obeo_Corp: [OneDay, One 2016 fact] Last year, 1302 posts were published on @EclipseSirius forum. More than 108 per month! The Eclipse C…
+> RT [Obeo](https://www.obeosoft.com/): [OneDay, One 2016 fact] Last year, 1302 posts were published on @EclipseSirius forum. More than 108 per month! The Eclipse C…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 17 14:15:12 +0000 2017](https://twitter.com/bruncedric/status/821360223839539201)
 
@@ -21409,7 +21409,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/8224902718249697
 
 ----
 
-> RT @melaniebats: Fondue Time @Obeo_Corp Toulouse #WeAreObeo 
+> RT @melaniebats: Fondue Time [Obeo](https://www.obeosoft.com/) Toulouse #WeAreObeo 
 > 
 > ![]({{ site.url }}/media/826415476049899520-C3f0BIvWEAAlcIA.jpg)
 
@@ -21666,7 +21666,7 @@ Replying to [@oisin](https://twitter.com/oisin/status/836301897179009024)
 
 ----
 
-> RT @melaniebats: Brittany is at @Obeo_Corp Toulouse! Yum! 
+> RT @melaniebats: Brittany is at [Obeo](https://www.obeosoft.com/) Toulouse! Yum! 
 > 
 > ![]({{ site.url }}/media/836562135446585344-C5wBI8PWQAAy37K.jpg)
 
@@ -22298,7 +22298,7 @@ Replying to [@TugdualJ](https://twitter.com/TugdualJ/status/845033440860876802)
 
 ----
 
-> RT @Obeo_Corp: Happy birthday to us! 🎉 https://twitter.com/bruncedric/status/846991560545882113
+> RT [Obeo](https://www.obeosoft.com/): Happy birthday to us! 🎉 https://twitter.com/bruncedric/status/846991560545882113
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 29 08:07:38 +0000 2017](https://twitter.com/bruncedric/status/846997260730847232)
 
@@ -22320,7 +22320,7 @@ Replying to [@mchv and [Obeo](https://www.obeosoft.com/)](https://twitter.com/mc
 
 ----
 
-> RT @Samuel_Rochet: And now, the cultural moment @Obeo_Corp birthday #weAreObeo 
+> RT @Samuel_Rochet: And now, the cultural moment [Obeo](https://www.obeosoft.com/) birthday #weAreObeo 
 > 
 > ![]({{ site.url }}/media/847155095506763781-C8GmZt6W0AAWGMT.jpg)
 > 
@@ -23062,7 +23062,7 @@ Replying to [@mickaelistria](https://twitter.com/mickaelistria/status/8672895454
 
 ----
 
-> RT @EclipseFdn: @Obeo_Corp @Pierre_GUILET @EclipseSirius [Obeo](https://www.obeosoft.com/) Welcome to the Eclipse Committer world!
+> RT @EclipseFdn: [Obeo](https://www.obeosoft.com/) @Pierre_GUILET @EclipseSirius [Obeo](https://www.obeosoft.com/) Welcome to the Eclipse Committer world!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 01 13:09:45 +0000 2017](https://twitter.com/bruncedric/status/870266115200561152)
 
@@ -23158,7 +23158,7 @@ Replying to [@tracymiranda](https://twitter.com/tracymiranda/status/876443076834
 
 ----
 
-> RT @Obeo_Corp: One day before #CapellaDay, two before #EclipseCon France. (Almost) on our way to Toulouse! https://bit.ly/CapellaDayToulouse https://…
+> RT [Obeo](https://www.obeosoft.com/): One day before #CapellaDay, two before #EclipseCon France. (Almost) on our way to Toulouse! https://bit.ly/CapellaDayToulouse https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 19 08:03:27 +0000 2017](https://twitter.com/bruncedric/status/876712013422088192)
 
@@ -23247,7 +23247,7 @@ Replying to [@Samuel_Rochet and @gblondelle](https://twitter.com/Samuel_Rochet/s
 
 ----
 
-> RT @Obeo_Corp: Back to work at #EclipseCon: we hope you enjoyed this delicious lunch offered by Obeo #Yummy
+> RT [Obeo](https://www.obeosoft.com/): Back to work at #EclipseCon: we hope you enjoyed this delicious lunch offered by Obeo #Yummy
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 21 11:48:46 +0000 2017](https://twitter.com/bruncedric/status/877493495178690561)
 
@@ -23268,7 +23268,7 @@ Replying to [@Samuel_Rochet and @gblondelle](https://twitter.com/Samuel_Rochet/s
 
 ----
 
-> RT @Obeo_Corp: What is #WeAreObeo? Well, well, well... https://youtu.be/-v7Kgf2eejw #eclipsecon #cdi #paris #dev #java #opensource https://t.co/…
+> RT [Obeo](https://www.obeosoft.com/): What is #WeAreObeo? Well, well, well... https://youtu.be/-v7Kgf2eejw #eclipsecon #cdi #paris #dev #java #opensource https://t.co/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 21 12:56:08 +0000 2017](https://twitter.com/bruncedric/status/877510446928060418)
 
@@ -23332,7 +23332,7 @@ Replying to [@Samuel_Rochet and @gblondelle](https://twitter.com/Samuel_Rochet/s
 
 ----
 
-Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeFox_io, @xtext, @Obeo_Corp and @EclipseFdn](https://twitter.com/EclipseCon/status/877637469344194560)
+Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeFox_io, @xtext, [Obeo](https://www.obeosoft.com/) and @EclipseFdn](https://twitter.com/EclipseCon/status/877637469344194560)
 
 > Slides coming up sir! https://www.slideshare.net/cbrun/integrating-xtext-and-sirius-strategies-and-pitfalls?utm_source=slideshow&utm_medium=ssemail&utm_campaign=post_upload_view_cta
 
@@ -23362,7 +23362,7 @@ Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeF
 
 ----
 
-> RT @Obeo_Corp: Last day at #EclipseCon! Short night for a few attendees but as always, warm smiles
+> RT [Obeo](https://www.obeosoft.com/): Last day at #EclipseCon! Short night for a few attendees but as always, warm smiles
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 22 08:40:18 +0000 2017](https://twitter.com/bruncedric/status/877808453103763456)
 
@@ -23374,7 +23374,7 @@ Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeF
 
 ----
 
-> RT @Samuel_Rochet: #EclipseCon @Obeo_Corp lunch sponsor #WeAreObeo 
+> RT @Samuel_Rochet: #EclipseCon [Obeo](https://www.obeosoft.com/) lunch sponsor #WeAreObeo 
 > 
 > ![]({{ site.url }}/media/877859103326040066-DC61iVQXsAAC-4X.jpg)
 
@@ -23458,7 +23458,7 @@ Replying to [@EclipseCon, @jayjaybillings, @EclipseSirius, @jankoehnlein, @TypeF
 
 ----
 
-> RT @Obeo_Corp: Register to @melaniebats @sbegaudeau #EclipseOxygen meetup to discover the latest UX improvements to @EclipseSirius https://…
+> RT [Obeo](https://www.obeosoft.com/): Register to @melaniebats @sbegaudeau #EclipseOxygen meetup to discover the latest UX improvements to @EclipseSirius https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 27 14:05:05 +0000 2017](https://twitter.com/bruncedric/status/879702126125080576)
 
@@ -23588,7 +23588,7 @@ Replying to [@EclipseSirius](https://twitter.com/EclipseSirius/status/8806726954
 
 ----
 
-> RT @Obeo_Corp: Back to #EclipseCon France! Thanks @EclipseFdn for these pics :) https://www.flickr.com/photos/108559379@N08/with/35464245185/ #Nostalgia
+> RT [Obeo](https://www.obeosoft.com/): Back to #EclipseCon France! Thanks @EclipseFdn for these pics :) https://www.flickr.com/photos/108559379@N08/with/35464245185/ #Nostalgia
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jul 05 18:54:36 +0000 2017](https://twitter.com/bruncedric/status/882674085913923584)
 
@@ -23891,7 +23891,7 @@ Replying to [@TristanFAURE, @vladacretoaie, @kolovos and @EclipseSirius](https:/
 
 ----
 
-> RT @Obeo_Corp: Travel to Germany confirmed! The Obeo team will talk at #EclipseCon EU about #UX, #GraphicalModeling, #EclipseSirius, Doc Ge…
+> RT [Obeo](https://www.obeosoft.com/): Travel to Germany confirmed! The Obeo team will talk at #EclipseCon EU about #UX, #GraphicalModeling, #EclipseSirius, Doc Ge…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 28 09:00:25 +0000 2017](https://twitter.com/bruncedric/status/890859475749523456)
 
@@ -24006,7 +24006,7 @@ Replying to [@dougschaefer](https://twitter.com/dougschaefer/status/899311126097
 
 ----
 
-> RT @Obeo_Corp: Celebrating the 10 years of @EclipseSirius with an excellent breakfast! Everything is done to enjoy this special day! #Happy…
+> RT [Obeo](https://www.obeosoft.com/): Celebrating the 10 years of @EclipseSirius with an excellent breakfast! Everything is done to enjoy this special day! #Happy…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 21 09:05:27 +0000 2017](https://twitter.com/bruncedric/status/899558054601142272)
 
@@ -24018,7 +24018,7 @@ Replying to [@dougschaefer](https://twitter.com/dougschaefer/status/899311126097
 
 ----
 
-> RT @Obeo_Corp: Already 10 years since the beginning of @EclipseSirius! See how it started and what it became #HappyBirthdaySirius https://t…
+> RT [Obeo](https://www.obeosoft.com/): Already 10 years since the beginning of @EclipseSirius! See how it started and what it became #HappyBirthdaySirius https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 21 12:58:38 +0000 2017](https://twitter.com/bruncedric/status/899616737305427969)
 
@@ -24030,13 +24030,13 @@ Replying to [@dougschaefer](https://twitter.com/dougschaefer/status/899311126097
 
 ----
 
-> RT @glefur_: 10yrs ago I already worked at @Obeo_Corp and I led customer projects built on the GMF framework... 1/
+> RT @glefur_: 10yrs ago I already worked at [Obeo](https://www.obeosoft.com/) and I led customer projects built on the GMF framework... 1/
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 21 19:17:51 +0000 2017](https://twitter.com/bruncedric/status/899712167506784256)
 
 ----
 
-> RT @glefur_: @Obeo_Corp I witnessed how @EclipseSirius was a game changer to develop graphical modeling workbenches. #HappyBirthdaySirius
+> RT @glefur_: [Obeo](https://www.obeosoft.com/) I witnessed how @EclipseSirius was a game changer to develop graphical modeling workbenches. #HappyBirthdaySirius
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Aug 21 19:17:56 +0000 2017](https://twitter.com/bruncedric/status/899712188948127744)
 
@@ -24535,7 +24535,7 @@ Replying to [@roxannejoncas, @melaniebats, @slacrampe and @CityofVancouver](http
 
 ----
 
-Replying to [@gblondelle, @melaniebats, @slacrampe, @CityofVancouver and @Obeo_Corp](https://twitter.com/gblondelle/status/910143626101116929)
+Replying to [@gblondelle, @melaniebats, @slacrampe, @CityofVancouver and [Obeo](https://www.obeosoft.com/)](https://twitter.com/gblondelle/status/910143626101116929)
 
 > It'll be a great adventure !
 
@@ -24550,7 +24550,7 @@ Replying to [@gblondelle, @melaniebats, @slacrampe, @CityofVancouver and @Obeo_C
 
 ----
 
-Replying to [@guw and @Obeo_Corp](https://twitter.com/guw/status/910144135235063808)
+Replying to [@guw and [Obeo](https://www.obeosoft.com/)](https://twitter.com/guw/status/910144135235063808)
 
 > So I hear! We only pick great cities anyway ;-) CC @nantesfr
 
@@ -24582,7 +24582,7 @@ Replying to [@alex_morel_, [Obeo](https://www.obeosoft.com/) and @melaniebats](h
 
 ----
 
-> RT @ejuliot: Major transformation of @Obeo_Corp today: @slacrampe -&gt; creates our subsidiary in North America, @bruncedric -&gt; CEO, @melanieb…
+> RT @ejuliot: Major transformation of [Obeo](https://www.obeosoft.com/) today: @slacrampe -&gt; creates our subsidiary in North America, @bruncedric -&gt; CEO, @melanieb…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 19 15:15:54 +0000 2017](https://twitter.com/bruncedric/status/910160529456582656)
 
@@ -24596,7 +24596,7 @@ Replying to [@abernard_dvp and @melaniebats](https://twitter.com/abernard_dvp/st
 
 ----
 
-Replying to [@jfbrazeau, @gblondelle, @melaniebats, @slacrampe, @CityofVancouver and @Obeo_Corp](https://twitter.com/jfbrazeau/status/910152910759133184)
+Replying to [@jfbrazeau, @gblondelle, @melaniebats, @slacrampe, @CityofVancouver and [Obeo](https://www.obeosoft.com/)](https://twitter.com/jfbrazeau/status/910152910759133184)
 
 > Thanks! I have so much to learn, but I am ready :-)
 
@@ -24604,7 +24604,7 @@ Replying to [@jfbrazeau, @gblondelle, @melaniebats, @slacrampe, @CityofVancouver
 
 ----
 
-> RT @EclipseSirius: @Obeo_Corp is setting up in North America! With this new subsidiary: @bruncedric becomes CEO &amp; @melaniebats &gt; CTO https:…
+> RT @EclipseSirius: [Obeo](https://www.obeosoft.com/) is setting up in North America! With this new subsidiary: @bruncedric becomes CEO &amp; @melaniebats &gt; CTO https:…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 19 15:26:16 +0000 2017](https://twitter.com/bruncedric/status/910163137722281984)
 
@@ -24624,7 +24624,7 @@ Replying to [@droy_eclipse](https://twitter.com/droy_eclipse/status/910164820271
 
 ----
 
-Replying to [@milesparker and @Obeo_Corp](https://twitter.com/milesparker/status/910195128073043969)
+Replying to [@milesparker and [Obeo](https://www.obeosoft.com/)](https://twitter.com/milesparker/status/910195128073043969)
 
 > Thanks! Indeed BC seems great, looking forward to visit there ;-)
 
@@ -24640,7 +24640,7 @@ Replying to [@ocnarftweet](https://twitter.com/ocnarftweet/status/91019274769654
 
 ----
 
-Replying to [@mchv, @ejuliot, @Obeo_Corp, @slacrampe and @melaniebats](https://twitter.com/mchv/status/910175600983396352)
+Replying to [@mchv, @ejuliot, [Obeo](https://www.obeosoft.com/), @slacrampe and @melaniebats](https://twitter.com/mchv/status/910175600983396352)
 
 > Thanks Mariot!
 
@@ -24679,7 +24679,7 @@ Replying to [@alex_schl, @melaniebats, @slacrampe and @CityofVancouver](https://
 
 ----
 
-> RT @IanSkerrett: Great blog post from @melaniebats using Disney princess to describe her journey to CTO of @Obeo_Corp  https://t.co/Lu0kvq4…
+> RT @IanSkerrett: Great blog post from @melaniebats using Disney princess to describe her journey to CTO of [Obeo](https://www.obeosoft.com/)  https://t.co/Lu0kvq4…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Sep 19 20:41:03 +0000 2017](https://twitter.com/bruncedric/status/910242355382546438)
 
@@ -24713,7 +24713,7 @@ Replying to [@allilaire](https://twitter.com/allilaire/status/910414581356466177
 
 ----
 
-Replying to [@ejuliot and @Obeo_Corp](https://twitter.com/ejuliot/status/910449975003316224)
+Replying to [@ejuliot and [Obeo](https://www.obeosoft.com/)](https://twitter.com/ejuliot/status/910449975003316224)
 
 > I'm happy you and @slacrampe demonstrated this level of trust for all those years!
 
@@ -24721,7 +24721,7 @@ Replying to [@ejuliot and @Obeo_Corp](https://twitter.com/ejuliot/status/9104499
 
 ----
 
-> RT @ejuliot: .@capella_arcadia has already a vibrant ecosystem of suppliers. @Obeo_Corp is presenting its offer at @Pole_Systematic &amp; @Grou…
+> RT @ejuliot: .@capella_arcadia has already a vibrant ecosystem of suppliers. [Obeo](https://www.obeosoft.com/) is presenting its offer at @Pole_Systematic &amp; @Grou…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 20 11:55:38 +0000 2017](https://twitter.com/bruncedric/status/910472517772603392)
 
@@ -24735,7 +24735,7 @@ Replying to [@DominikMohilo](https://twitter.com/DominikMohilo/status/9104544158
 
 ----
 
-> RT @ejuliot: Obeo's way to trust in employees' capabilites: internship-&gt;developer-&gt;product leader-&gt;CTO-&gt;CEO. @Obeo_Corp @bruncedric
+> RT @ejuliot: Obeo's way to trust in employees' capabilites: internship-&gt;developer-&gt;product leader-&gt;CTO-&gt;CEO. [Obeo](https://www.obeosoft.com/) @bruncedric
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 20 12:12:47 +0000 2017](https://twitter.com/bruncedric/status/910476833115770880)
 
@@ -24836,7 +24836,7 @@ Replying to [@Samuel_Rochet](https://twitter.com/Samuel_Rochet/status/9108022105
 
 ----
 
-Replying to [@cedricvidal, @ejuliot, @Obeo_Corp, @slacrampe and @melaniebats](https://twitter.com/cedricvidal/status/910440794170982400)
+Replying to [@cedricvidal, @ejuliot, [Obeo](https://www.obeosoft.com/), @slacrampe and @melaniebats](https://twitter.com/cedricvidal/status/910440794170982400)
 
 > Merci !!!
 
@@ -25043,7 +25043,7 @@ Replying to [@alex_morel_, @EclipseCon and @alex_morel_](https://twitter.com/bru
 
 ----
 
-> RT @Obeo_Corp: Ecore Tools, AQL, @EclipseSirius, Acceleo &amp; EMF Compare: so much technologies that @bruncedric @melaniebats and @ejuliot wil…
+> RT [Obeo](https://www.obeosoft.com/): Ecore Tools, AQL, @EclipseSirius, Acceleo &amp; EMF Compare: so much technologies that @bruncedric @melaniebats and @ejuliot wil…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 05 14:24:38 +0000 2017](https://twitter.com/bruncedric/status/915945830531653632)
 
@@ -25079,7 +25079,7 @@ Replying to [@alex_morel_ and @EclipseCon](https://twitter.com/alex_morel_/statu
 
 ----
 
-> RT @Obeo_Corp: Back from a good experience at the TNO @ESI_nl Symposium! We were delighted to talk about @capella_arcadia &amp; #MBSE https://t…
+> RT [Obeo](https://www.obeosoft.com/): Back from a good experience at the TNO @ESI_nl Symposium! We were delighted to talk about @capella_arcadia &amp; #MBSE https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 06 14:00:03 +0000 2017](https://twitter.com/bruncedric/status/916302032377667585)
 
@@ -25555,7 +25555,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/9224709806179491
 
 ----
 
-> RT @Obeo_Corp: Don't miss @melaniebats &amp; @sbegaudeau 's talk at 14:30, Burgersaal 2: "All about #UX in @EclipseSirius" #EclipseCon Europe h…
+> RT [Obeo](https://www.obeosoft.com/): Don't miss @melaniebats &amp; @sbegaudeau 's talk at 14:30, Burgersaal 2: "All about #UX in @EclipseSirius" #EclipseCon Europe h…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 24 12:18:15 +0000 2017](https://twitter.com/bruncedric/status/922799397364121601)
 
@@ -25651,7 +25651,7 @@ Replying to [@Samuel_Rochet](https://twitter.com/Samuel_Rochet/status/9228382913
 
 ----
 
-> RT @Obeo_Corp: Last day of the week @EclipseCon Europe! Enjoy this moment to share with our @EclipseSirius
+> RT [Obeo](https://www.obeosoft.com/): Last day of the week @EclipseCon Europe! Enjoy this moment to share with our @EclipseSirius
 > experts https://twitter.com/Obeo_Corp/status/923085572956196865
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 26 08:04:14 +0000 2017](https://twitter.com/bruncedric/status/923460247011954688)
@@ -25674,7 +25674,7 @@ Replying to [@Samuel_Rochet](https://twitter.com/Samuel_Rochet/status/9228382913
 
 ----
 
-> RT @Obeo_Corp: Go further with the white paper  #Xtext &amp; @EclipseSirius, in cooperation with @TypeFox_io: https://bit.ly/Xtext-Sirius-WhitePaper
+> RT [Obeo](https://www.obeosoft.com/): Go further with the white paper  #Xtext &amp; @EclipseSirius, in cooperation with @TypeFox_io: https://bit.ly/Xtext-Sirius-WhitePaper
 > https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 26 11:18:48 +0000 2017](https://twitter.com/bruncedric/status/923509212298334210)
@@ -25689,7 +25689,7 @@ Replying to [@Samuel_Rochet](https://twitter.com/Samuel_Rochet/status/9228382913
 
 ----
 
-> RT @Obeo_Corp: Attend next talk @EclipseCon, 13:45 Seminarräume 1-3, &amp; learn how to generate documents from your models with #M2Doc https:/…
+> RT [Obeo](https://www.obeosoft.com/): Attend next talk @EclipseCon, 13:45 Seminarräume 1-3, &amp; learn how to generate documents from your models with #M2Doc https:/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 26 11:26:24 +0000 2017](https://twitter.com/bruncedric/status/923511125257412608)
 
@@ -25833,13 +25833,13 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/92760662
 
 ----
 
-> RT @Obeo_Corp: Hey #Devoxx! @melaniebats will present you how she became a free software developer. Don't miss her talk at 13:35 https://t.…
+> RT [Obeo](https://www.obeosoft.com/): Hey #Devoxx! @melaniebats will present you how she became a free software developer. Don't miss her talk at 13:35 https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 08 12:25:31 +0000 2017](https://twitter.com/bruncedric/status/928237041799827456)
 
 ----
 
-> RT @Obeo_Corp: If you can't attend @melaniebats' talk at #Devoxx, don't panic! She will be on Youtube with the live-streaming. Follow her o…
+> RT [Obeo](https://www.obeosoft.com/): If you can't attend @melaniebats' talk at #Devoxx, don't panic! She will be on Youtube with the live-streaming. Follow her o…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Nov 08 12:25:39 +0000 2017](https://twitter.com/bruncedric/status/928237076302188544)
 
@@ -26022,7 +26022,7 @@ Replying to [@alex_schl and @esconfs](https://twitter.com/alex_schl/status/92827
 
 ----
 
-> RT @cponsard: See also https://simqri.cetic.be/ and https://github.com/cetic/SimQRI Thanks to @Obeo_Corp for organising this great day ! Going back…
+> RT @cponsard: See also https://simqri.cetic.be/ and https://github.com/cetic/SimQRI Thanks to [Obeo](https://www.obeosoft.com/) for organising this great day ! Going back…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 09 19:09:53 +0000 2017](https://twitter.com/bruncedric/status/928701194150842369)
 
@@ -26185,7 +26185,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/9292878782613299
 
 ----
 
-> RT @bcombemale: @melaniebats kickoff the projects about EMF model manipulation and visualization @UTJeanJaures. Thanks @Obeo_Corp for your…
+> RT @bcombemale: @melaniebats kickoff the projects about EMF model manipulation and visualization @UTJeanJaures. Thanks [Obeo](https://www.obeosoft.com/) for your…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Nov 24 11:40:33 +0000 2017](https://twitter.com/bruncedric/status/934023934193950720)
 
@@ -26261,7 +26261,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/9292878782613299
 
 ----
 
-> RT @romainguider: Fier de recevoir le prix des acteurs du libre pour le développement international pour @Obeo_Corp . Merci à la @cnll_fr !…
+> RT @romainguider: Fier de recevoir le prix des acteurs du libre pour le développement international pour [Obeo](https://www.obeosoft.com/) . Merci à la @cnll_fr !…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 06 22:15:26 +0000 2017](https://twitter.com/bruncedric/status/938532360617938945)
 
@@ -26279,7 +26279,7 @@ Replying to [@sbegaudeau](https://twitter.com/sbegaudeau/status/9292878782613299
 
 ----
 
-> RT @Obeo_Corp: Presentations of #CapellaIC and @capella_arcadia, the #MBSE solution, at Euroforum Automotive Software Development @Industry…
+> RT [Obeo](https://www.obeosoft.com/): Presentations of #CapellaIC and @capella_arcadia, the #MBSE solution, at Euroforum Automotive Software Development @Industry…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 08 16:05:52 +0000 2017](https://twitter.com/bruncedric/status/939164133601267712)
 
@@ -26473,7 +26473,7 @@ Replying to [@jperiodlangley and @getplanapp](https://twitter.com/jperiodlangley
 
 ----
 
-> RT @Obeo_Corp: With no less than 6 articles, @capella_arcadia is the main theme of the December's #EclipseNewsletter 📰 Thank you @roxannejo…
+> RT [Obeo](https://www.obeosoft.com/): With no less than 6 articles, @capella_arcadia is the main theme of the December's #EclipseNewsletter 📰 Thank you @roxannejo…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Dec 18 15:49:02 +0000 2017](https://twitter.com/bruncedric/status/942783775993487360)
 
@@ -26583,7 +26583,7 @@ Replying to [@stephanepechard](https://twitter.com/stephanepechard/status/947005
 
 ----
 
-> RT @Obeo_Corp: Obeo wish you the best for 2018! Have a happy, wealthy and successful new year! 
+> RT [Obeo](https://www.obeosoft.com/): Obeo wish you the best for 2018! Have a happy, wealthy and successful new year! 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/948121688939614208-DShjgZdWAAEsvXR.mp4">Your browser does not support the video tag.</video>
 
@@ -26797,7 +26797,7 @@ Replying to [@darkjabberwock](https://twitter.com/darkjabberwock/status/95573919
 
 ----
 
-> RT @Obeo_Corp: For the German-speaking: Here is an article about @Capella_Arcadia published in German ➡️ https://se-trends.de/capella-und-arcadia
+> RT [Obeo](https://www.obeosoft.com/): For the German-speaking: Here is an article about @Capella_Arcadia published in German ➡️ https://se-trends.de/capella-und-arcadia
 > ICYMI: Reg…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 23 18:43:16 +0000 2018](https://twitter.com/bruncedric/status/955873584219656194)
@@ -27028,7 +27028,7 @@ Replying to [@weslleytorres, @fmadiot and @capella_arcadia](https://twitter.com/
 
 ----
 
-> RT @Obeo_Corp: Once again, #Obeo is glad to be a premium sponsor at #EclipseCon France 2018! See you in June #Eclipse community! @EclipseCo…
+> RT [Obeo](https://www.obeosoft.com/): Once again, #Obeo is glad to be a premium sponsor at #EclipseCon France 2018! See you in June #Eclipse community! @EclipseCo…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Feb 16 17:08:16 +0000 2018](https://twitter.com/bruncedric/status/964546987549970433)
 
@@ -27110,7 +27110,7 @@ Replying to [@weslleytorres, @fmadiot and @capella_arcadia](https://twitter.com/
 
 ----
 
-> RT @Obeo_Corp: Now it's time for @melaniebats and @stevanLM to present their slides! Check out the live video: https://www.crowdcast.io/e/checonf18/4 http…
+> RT [Obeo](https://www.obeosoft.com/): Now it's time for @melaniebats and @stevanLM to present their slides! Check out the live video: https://www.crowdcast.io/e/checonf18/4 http…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 21 16:38:11 +0000 2018](https://twitter.com/bruncedric/status/966351353114185729)
 
@@ -27184,7 +27184,7 @@ Replying to [@jfbrazeau](https://twitter.com/jfbrazeau/status/967499527480635393
 
 ----
 
-> RT @Obeo_Corp: #Obeo is making @EclipseSirius evolve to bring modeling tools to the cloud, and we need you to go beyond! Read more with the…
+> RT [Obeo](https://www.obeosoft.com/): #Obeo is making @EclipseSirius evolve to bring modeling tools to the cloud, and we need you to go beyond! Read more with the…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 26 11:45:48 +0000 2018](https://twitter.com/bruncedric/status/968089714992533504)
 
@@ -27233,7 +27233,7 @@ Replying to [@Tcharl, @EclipseSirius and @melaniebats](https://twitter.com/Tchar
 
 > We have Fabien working on the microservices aspect with @bcombemale 's lab. With all the splitting going on I can envision a future with clusters collaborating. What would boost that initiative would be a big player/user of modeling asking for such solutions ;-)
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 26 20:08:51 +0000 2018](https://twitter.com/bruncedric/status/968216310726479873)> RT @Obeo_Corp: Obeo and @Altran are pleased to
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 26 20:08:51 +0000 2018](https://twitter.com/bruncedric/status/968216310726479873)> RT [Obeo](https://www.obeosoft.com/): Obeo and @Altran are pleased to
 > invite you to #SiriusDayEindhoven (April 24th), a one-day conference on @EclipseSirius. Hurr…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Mar 02 09:50:49 +0000 2018](https://twitter.com/bruncedric/status/969510327686660096)
@@ -27276,25 +27276,25 @@ Replying to [@Tcharl, @EclipseSirius and @melaniebats](https://twitter.com/Tchar
 
 ----
 
-> RT @Obeo_Corp: How to generate custom MS Word documents from your Capella models with #M2Doc, by @laurentdelaigue #CapellaDay https://t.co/…
+> RT [Obeo](https://www.obeosoft.com/): How to generate custom MS Word documents from your Capella models with #M2Doc, by @laurentdelaigue #CapellaDay https://t.co/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 13 13:58:18 +0000 2018](https://twitter.com/bruncedric/status/973558875252297728)
 
 ----
 
-> RT @Obeo_Corp: Discover how to unleash the power of @capella_arcadia with #TeamForCapella: https://www.polarsys.org/capella/addons.html #MBSE #SysEng #Collabora…
+> RT [Obeo](https://www.obeosoft.com/): Discover how to unleash the power of @capella_arcadia with #TeamForCapella: https://www.polarsys.org/capella/addons.html #MBSE #SysEng #Collabora…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 13 13:58:42 +0000 2018](https://twitter.com/bruncedric/status/973558976347598848)
 
 ----
 
-> RT @capella_arcadia: #CapellaDay Stuttgart is already finished. Thanks @ThalesGermany for co-organizing it with @obeo_corp. Whether you att…
+> RT @capella_arcadia: #CapellaDay Stuttgart is already finished. Thanks @ThalesGermany for co-organizing it with [Obeo](https://www.obeosoft.com/). Whether you att…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 13 16:22:42 +0000 2018](https://twitter.com/bruncedric/status/973595215503257600)
 
 ----
 
-> RT @Obeo_Corp: Whether you attended #CapellaDay Stuttgart or not, do not miss the next Capella #Webinar: "Capella strategies and tools for…
+> RT [Obeo](https://www.obeosoft.com/): Whether you attended #CapellaDay Stuttgart or not, do not miss the next Capella #Webinar: "Capella strategies and tools for…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 15 12:06:49 +0000 2018](https://twitter.com/bruncedric/status/974255597448318976)
 
@@ -27362,7 +27362,7 @@ Replying to [@Tcharl, @EclipseSirius and @melaniebats](https://twitter.com/Tchar
 
 ----
 
-Replying to [@BGencarelle, @EclipseSirius and @Obeo_Corp](https://twitter.com/@BGencarelle/status/976144852655239169)
+Replying to [@BGencarelle, @EclipseSirius and [Obeo](https://www.obeosoft.com/)](https://twitter.com/@BGencarelle/status/976144852655239169)
 
 > Hi Ben, Sirius already have some support for "forms" either through the property view or through dialogs and wizards https://www.eclipse.dev/community/eclipse_newsletter/2017/june/article4.php or do you have something else in mind?
 
@@ -27481,7 +27481,7 @@ Replying to [@Samuel_Rochet and @mickaelistria](https://twitter.com/Samuel_Roche
 
 ----
 
-> RT @Obeo_Corp: Less than one month before #SiriusDay Eindhoven. Sign up to secure one of the last places available! https://bit.ly/SiriusDayEindhoven…
+> RT [Obeo](https://www.obeosoft.com/): Less than one month before #SiriusDay Eindhoven. Sign up to secure one of the last places available! https://bit.ly/SiriusDayEindhoven…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 28 14:17:48 +0000 2018](https://twitter.com/bruncedric/status/978999599242403841)
 
@@ -27489,20 +27489,20 @@ Replying to [@Samuel_Rochet and @mickaelistria](https://twitter.com/Samuel_Roche
 
 > RT @capella_arcadia: Reminder, only a few hours before the next Capella #Webinar! https://twitter.com/capella_arcadia/status/978194628833890304
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 29 14:12:51 +0000 2018](https://twitter.com/bruncedric/status/979360743241011209)> RT @melaniebats: This will be a really good week : Easter chocolates on Monday, talks accepted at @EclipseCon Fr on Tuesday, @Obeo_Corp ann…
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Mar 29 14:12:51 +0000 2018](https://twitter.com/bruncedric/status/979360743241011209)> RT @melaniebats: This will be a really good week : Easter chocolates on Monday, talks accepted at @EclipseCon Fr on Tuesday, [Obeo](https://www.obeosoft.com/) ann…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 03 12:07:52 +0000 2018](https://twitter.com/bruncedric/status/981141230800310272)
 
 ----
 
-> RT @Obeo_Corp: Here is a sample of what the Obeo team will do at #EclipseCon France 2018. See you there!
+> RT [Obeo](https://www.obeosoft.com/): Here is a sample of what the Obeo team will do at #EclipseCon France 2018. See you there!
 > https://bit.ly/ObeoTalksEConFR https://t.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Apr 03 13:40:59 +0000 2018](https://twitter.com/bruncedric/status/981164663537745920)
 
 ----
 
-> RT @Altran_NL: Altran and @Obeo_Corp are pleased to
+> RT @Altran_NL: Altran and [Obeo](https://www.obeosoft.com/) are pleased to
 > invite you to #SiriusDayEindhoven (April 24th), a one-day conference on @EclipseSirius.…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 04 13:04:57 +0000 2018](https://twitter.com/bruncedric/status/981517984362528770)
@@ -27629,7 +27629,7 @@ Replying to [@alex_morel_](https://twitter.com/alex_morel_/status/98225807677333
 
 ----
 
-> RT @Obeo_Corp: #DevoxxFR here we go! Join @melaniebats at @EclipseFdn booth and enjoy an @EclipseSirius demo: today at 4:30 pm, on Thursday…
+> RT [Obeo](https://www.obeosoft.com/): #DevoxxFR here we go! Join @melaniebats at @EclipseFdn booth and enjoy an @EclipseSirius demo: today at 4:30 pm, on Thursday…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 18 09:06:22 +0000 2018](https://twitter.com/bruncedric/status/986531373467959296)
 
@@ -27728,7 +27728,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/9883262849074995
 
 ----
 
-> RT @Obeo_Corp: It's Monday and you already need a break? Take 5 minutes to read @_pcdavid blog post about @eclipsesirius 6.0 new features h…
+> RT [Obeo](https://www.obeosoft.com/): It's Monday and you already need a break? Take 5 minutes to read @_pcdavid blog post about @eclipsesirius 6.0 new features h…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 23 08:52:00 +0000 2018](https://twitter.com/bruncedric/status/988339694684471296)
 
@@ -28046,7 +28046,7 @@ Replying to [@ralph_mueller](https://twitter.com/ralph_mueller/status/1003001737
 
 ----
 
-> RT @Obeo_Corp: Take 2 minutes to read @bruncedric's blog post about the recent partnership between Obeo and @SiemensPLM https://t.co/D5tdeF…
+> RT [Obeo](https://www.obeosoft.com/): Take 2 minutes to read @bruncedric's blog post about the recent partnership between Obeo and @SiemensPLM https://t.co/D5tdeF…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 11 14:05:35 +0000 2018](https://twitter.com/bruncedric/status/1006175615341551616)
 
@@ -28090,7 +28090,7 @@ Replying to [@waynebeaton and @EclipseCon](https://twitter.com/waynebeaton/statu
 
 ----
 
-> RT @Obeo_Corp: At #EclipseCon FR, we will have many opportunities to meet the Obeo team: check out what we planned for you! https://t.co/5W…
+> RT [Obeo](https://www.obeosoft.com/): At #EclipseCon FR, we will have many opportunities to meet the Obeo team: check out what we planned for you! https://t.co/5W…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 12 13:57:15 +0000 2018](https://twitter.com/bruncedric/status/1006535905358876672)
 
@@ -28122,7 +28122,7 @@ Replying to [@waynebeaton and @EclipseCon](https://twitter.com/waynebeaton/statu
 ----
 
 > RT @EclipseCon: Lunch is served! #EclipseCon
-> Thank you @Obeo_Corp 
+> Thank you [Obeo](https://www.obeosoft.com/) 
 > 
 > ![]({{ site.url }}/media/1006854298859376640-DfkEhvnW0AAhB52.jpg)
 
@@ -28136,7 +28136,7 @@ Replying to [@waynebeaton and @EclipseCon](https://twitter.com/waynebeaton/statu
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon FR 'The future of development tooling: The example of Eclipse Che, Theia and @eclipsesirius': more than 60 atten…
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon FR 'The future of development tooling: The example of Eclipse Che, Theia and @eclipsesirius': more than 60 atten…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 13 11:08:38 +0000 2018](https://twitter.com/bruncedric/status/1006855861006929926)
 
@@ -28150,7 +28150,7 @@ Replying to [@waynebeaton and @EclipseCon](https://twitter.com/waynebeaton/statu
 
 ----
 
-> RT @Obeo_Corp: Obeo rocks! Come by our booth and get your pixel glasses! #WeAreObeo #WorkHardPlayHard 
+> RT [Obeo](https://www.obeosoft.com/): Obeo rocks! Come by our booth and get your pixel glasses! #WeAreObeo #WorkHardPlayHard 
 > 
 > ![]({{ site.url }}/media/1006910326821056514-Dfk5hULVQAUxM3E.jpg)
 
@@ -28166,7 +28166,7 @@ Replying to [@waynebeaton and @EclipseCon](https://twitter.com/waynebeaton/statu
 
 ----
 
-> RT @Obeo_Corp: Live on stage #EclipseCon FR: @melaniebats and @_pcdavid about @EclipseSirius moving to the web and cloud https://t.co/BeMzX…
+> RT [Obeo](https://www.obeosoft.com/): Live on stage #EclipseCon FR: @melaniebats and @_pcdavid about @EclipseSirius moving to the web and cloud https://t.co/BeMzX…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 14 08:49:45 +0000 2018](https://twitter.com/bruncedric/status/1007183299247263750)
 
@@ -28219,7 +28219,7 @@ Replying to [@waynebeaton and @EclipseCon](https://twitter.com/waynebeaton/statu
 
 ----
 
-> RT @Obeo_Corp: Our pleasure! ;) https://twitter.com/EclipseCon/status/1007208527633543171
+> RT [Obeo](https://www.obeosoft.com/): Our pleasure! ;) https://twitter.com/EclipseCon/status/1007208527633543171
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 14 11:55:59 +0000 2018](https://twitter.com/bruncedric/status/1007230163422208000)
 
@@ -28239,7 +28239,7 @@ Replying to [@waynebeaton and @EclipseCon](https://twitter.com/waynebeaton/statu
 
 ----
 
-> RT @Obeo_Corp: #EclipseCon FR 2018 is over. Thanks for all @EclipseFdn! Upcoming event for the Obeo team: the Eclipse Photon Virtual Meetup…
+> RT [Obeo](https://www.obeosoft.com/): #EclipseCon FR 2018 is over. Thanks for all @EclipseFdn! Upcoming event for the Obeo team: the Eclipse Photon Virtual Meetup…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 14 16:03:03 +0000 2018](https://twitter.com/bruncedric/status/1007292340724224000)
 
@@ -28251,19 +28251,19 @@ Replying to [@waynebeaton and @EclipseCon](https://twitter.com/waynebeaton/statu
 
 ----
 
-> RT @Obeo_Corp: You're welcome! https://twitter.com/bgilmour/status/1007209432613314561
+> RT [Obeo](https://www.obeosoft.com/): You're welcome! https://twitter.com/bgilmour/status/1007209432613314561
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 14 20:45:14 +0000 2018](https://twitter.com/bruncedric/status/1007363353935826944)
 
 ----
 
-> RT @Obeo_Corp: [ #STD - 5 pm - Monday, 18th] Virtual Meetup with @melaniebats Obeo CTO, and @_pcdavid, @EclipseSirius expert. Sirius is mov…
+> RT [Obeo](https://www.obeosoft.com/): [ #STD - 5 pm - Monday, 18th] Virtual Meetup with @melaniebats Obeo CTO, and @_pcdavid, @EclipseSirius expert. Sirius is mov…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 18 07:27:15 +0000 2018](https://twitter.com/bruncedric/status/1008612087533318145)
 
 ----
 
-> RT @Obeo_Corp: Do not miss it: today is the day! https://bit.ly/EclipsePhotonSeriesModelingtoolsGoUpToTheCloud https://twitter.com/Obeo_Corp/status/1007533173847322626
+> RT [Obeo](https://www.obeosoft.com/): Do not miss it: today is the day! https://bit.ly/EclipsePhotonSeriesModelingtoolsGoUpToTheCloud https://twitter.com/Obeo_Corp/status/1007533173847322626
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 18 07:53:30 +0000 2018](https://twitter.com/bruncedric/status/1008618692966584320)
 
@@ -28327,7 +28327,7 @@ Replying to [@AndrzejWasowski, @cedricbrun, @melaniebats and @EclipseFdn](https:
 
 Replying to [@bruncedric](https://twitter.com/bruncedric/status/1011992082209234945)
 
-> You can get the all-in-one ready to use packages for Java, JEE or Modeling on @Obeo_Corp 's website: https://www.obeosoft.com/fr/en/eclipse-download 
+> You can get the all-in-one ready to use packages for Java, JEE or Modeling on [Obeo](https://www.obeosoft.com/) 's website: https://www.obeosoft.com/fr/en/eclipse-download 
 > 
 > ![]({{ site.url }}/media/1011993470200840192-DgtSmFGWkAEDUZx.jpg)
 
@@ -28335,7 +28335,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1011992082209234
 
 ----
 
-> RT @EclipseSirius: [⏩] #EclipsePhoton webinar: #Modeling tools go up to the cloud… with @melaniebats and @_pcdavid from @Obeo_Corp https://…
+> RT @EclipseSirius: [⏩] #EclipsePhoton webinar: #Modeling tools go up to the cloud… with @melaniebats and @_pcdavid from [Obeo](https://www.obeosoft.com/) https://…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 28 13:21:04 +0000 2018](https://twitter.com/bruncedric/status/1012325008214020096)
 
@@ -28359,7 +28359,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1011992082209234
 
 ----
 
-> RT @capella_arcadia: Capella will be at #incoseIS. Meet the @thalesgroup and @Obeo_Corp teams to discover how you can address your #Systems…
+> RT @capella_arcadia: Capella will be at #incoseIS. Meet the @thalesgroup and [Obeo](https://www.obeosoft.com/) teams to discover how you can address your #Systems…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jul 04 20:40:56 +0000 2018](https://twitter.com/bruncedric/status/1014610031269023745)
 
@@ -28523,7 +28523,7 @@ Replying to [@MaudiMm](https://twitter.com/CamilleAmiaud/status/1021317964434460
 
 ----
 
-> RT @Obeo_Corp: Have also a look at this page to get the informations about equivalences and differences  between #SysML and #Arcadia method…
+> RT [Obeo](https://www.obeosoft.com/): Have also a look at this page to get the informations about equivalences and differences  between #SysML and #Arcadia method…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 27 19:00:50 +0000 2018](https://twitter.com/bruncedric/status/1022919758633754625)
 
@@ -28639,7 +28639,7 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/1023641318772416512)
 
 ----
 
-> RT @Obeo_Corp: @SiemensPLM @capella_arcadia [Blog news] @SiemensPLM and Obeo announced new MBSE capabilities to Siemens Modeling Workbench…
+> RT [Obeo](https://www.obeosoft.com/): @SiemensPLM @capella_arcadia [Blog news] @SiemensPLM and Obeo announced new MBSE capabilities to Siemens Modeling Workbench…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Aug 22 21:35:49 +0000 2018](https://twitter.com/bruncedric/status/1032380848656474112)
 
@@ -28822,7 +28822,7 @@ Replying to [@jperiodlangley and [Obeo](https://www.obeosoft.com/)](https://twit
 
 ----
 
-> RT @Obeo_Corp: On recrute au sein de notre agence de Carquefou ! 
+> RT [Obeo](https://www.obeosoft.com/): On recrute au sein de notre agence de Carquefou ! 
 > [🚨 Warning] Si tu nous rejoins, tu risques un trop plein de M&amp;Ms et des b…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Sep 13 09:24:40 +0000 2018](https://twitter.com/bruncedric/status/1040169382465417216)
@@ -28854,14 +28854,14 @@ Replying to [@Windows](https://twitter.com/bruncedric/status/1040221953762762753
 
 ----
 
-> RT @Obeo_Corp: [For our Korean followers - article about @SiemensPLM &amp; Obeo partnership] 지멘스, ‘팀센터를 위한 시스템 모델링 워크벤치’ 출시
+> RT [Obeo](https://www.obeosoft.com/): [For our Korean followers - article about @SiemensPLM &amp; Obeo partnership] 지멘스, ‘팀센터를 위한 시스템 모델링 워크벤치’ 출시
 > https://t.co/iqMDEt…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 14 12:00:10 +0000 2018](https://twitter.com/bruncedric/status/1040570901295706112)
 
 ----
 
-> RT @Obeo_Corp: And to our Japonese ones :) 
+> RT [Obeo](https://www.obeosoft.com/): And to our Japonese ones :) 
 > シーメンス、マルチドメイン対応のデジタルツインを実現する 新しいソリューション、System Modeling Workbench for Teamcenterをリリース https://t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Sep 14 12:00:13 +0000 2018](https://twitter.com/bruncedric/status/1040570915501875200)
@@ -28956,7 +28956,7 @@ Replying to [@Windows](https://twitter.com/Windows/status/1040296941916180480)
 
 ----
 
-Replying to [@softmodeling, @rrecheve and @Obeo_Corp](https://twitter.com/JordiCabot/status/1046688047708991488)
+Replying to [@softmodeling, @rrecheve and [Obeo](https://www.obeosoft.com/)](https://twitter.com/JordiCabot/status/1046688047708991488)
 
 > An interesting and extensive article, thanks! We are working with @DiverSE_inria, @bcombemale through Fabien Coulon's PhD thesis on those challenges, it's great to see other academic interests in the area!
 
@@ -29010,27 +29010,27 @@ Replying to [@slacrampe](https://twitter.com/slacrampe/status/105093347898711244
 
 ----
 
-> RT @Obeo_Corp: Want to have a small glimpse 
+> RT [Obeo](https://www.obeosoft.com/): Want to have a small glimpse 
 > of #EclipseCon EU? Enjoy our special countdown! First post about @EclipseSirius 6.0 and tables…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 16 14:15:55 +0000 2018](https://twitter.com/bruncedric/status/1052201474581823488)
 
 ----
 
-> RT @Obeo_Corp: Second round of our #EclipseCon EU countdown with this post by @lredor about how to organize your actions in diagrams
+> RT [Obeo](https://www.obeosoft.com/): Second round of our #EclipseCon EU countdown with this post by @lredor about how to organize your actions in diagrams
 > https:…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 16 14:15:57 +0000 2018](https://twitter.com/bruncedric/status/1052201485814116353)
 
 ----
 
-> RT @Obeo_Corp: We keep going on with our #EclipseCon EU countdown with this post by @Pierre_GUILET about the visibility mode for @EclipseSi…
+> RT [Obeo](https://www.obeosoft.com/): We keep going on with our #EclipseCon EU countdown with this post by @Pierre_GUILET about the visibility mode for @EclipseSi…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 16 14:16:00 +0000 2018](https://twitter.com/bruncedric/status/1052201495716741120)
 
 ----
 
-> RT @Obeo_Corp: Last of our #EclipseCon EU countdown series with this post by @sbegaudeau about moving @EclipseSirius into the cloud https:/…
+> RT [Obeo](https://www.obeosoft.com/): Last of our #EclipseCon EU countdown series with this post by @sbegaudeau about moving @EclipseSirius into the cloud https:/…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 19 16:56:41 +0000 2018](https://twitter.com/bruncedric/status/1053329096015577088)
 
@@ -29078,7 +29078,7 @@ Replying to [@kthoms, @fr3dg, @EclipseCon, @EclipseFdn and @EclipseJavaIDE](http
 
 ----
 
-> RT @Obeo_Corp: @EclipseSirius In case you missed it, several experts from the @eclipsesirius team gave a small glimpse of #EclipseCon EU. E…
+> RT [Obeo](https://www.obeosoft.com/): @EclipseSirius In case you missed it, several experts from the @eclipsesirius team gave a small glimpse of #EclipseCon EU. E…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 22 10:16:48 +0000 2018](https://twitter.com/bruncedric/status/1054315627194839042)
 
@@ -29119,7 +29119,7 @@ Replying to [@sbegaudeau and @roxannejoncas](https://twitter.com/bruncedric/stat
 ----
 
 > RT @laurentdelaigue: Hey, can you spot the coolest company in the sponsor poster?
-> #WeAreObeo #eclipsecon @Obeo_Corp 
+> #WeAreObeo #eclipsecon [Obeo](https://www.obeosoft.com/) 
 > 
 > ![]({{ site.url }}/media/1054511203756793856-DqH1iBFX4AIwa1u.jpg)
 
@@ -29163,7 +29163,7 @@ Replying to [@xstefank](https://twitter.com/xstefank/status/1054430528680681473)
 
 ----
 
-> RT @laurentdelaigue: Glad to introduce the @Obeo_Corp dream team at #EclipseCon eu 2018
+> RT @laurentdelaigue: Glad to introduce the [Obeo](https://www.obeosoft.com/) dream team at #EclipseCon eu 2018
 > Feel free to come meet us at our booth! https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 23 10:57:55 +0000 2018](https://twitter.com/bruncedric/status/1054688360852348929)
@@ -29200,7 +29200,7 @@ Replying to [@xstefank](https://twitter.com/xstefank/status/1054430528680681473)
 
 ----
 
-> Feel free to stop by our @obeo_corp booth (#4… yes the one at the end of the corridor) or join us at one of our talks. It will be dealing with @eclipsesirius and other interesting stuff about #GraphicalModeling. Details: https://bit.ly/ObeoAtEConEU18 
+> Feel free to stop by our [Obeo](https://www.obeosoft.com/) booth (#4… yes the one at the end of the corridor) or join us at one of our talks. It will be dealing with @eclipsesirius and other interesting stuff about #GraphicalModeling. Details: https://bit.ly/ObeoAtEConEU18 
 > 
 > ![]({{ site.url }}/media/1054732225563029504-DqMpXGJX0AAxdX2.jpg)
 
@@ -29567,7 +29567,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1055111926206873
 
 ----
 
-> RT @EclipseSirius: [#EclipseCon EU] Still time to drop by @obeo_corp booth between two sessions or during a break :)
+> RT @EclipseSirius: [#EclipseCon EU] Still time to drop by [Obeo](https://www.obeosoft.com/) booth between two sessions or during a break :)
 > Meet a few members of…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 25 08:48:59 +0000 2018](https://twitter.com/bruncedric/status/1055380689737183232)
@@ -29919,7 +29919,7 @@ Replying to [@naomod_team, @sunye and @HugoBruneliere](https://twitter.com/naomo
 
 ----
 
-> Well deserved vacations for the @Obeo_Corp team. We're closing an exciting year filled with success, twists and hard work. No doubt the commitment and energy of everyone made a huge difference. Thanks folks!! 
+> Well deserved vacations for the [Obeo](https://www.obeosoft.com/) team. We're closing an exciting year filled with success, twists and hard work. No doubt the commitment and energy of everyone made a huge difference. Thanks folks!! 
 > 
 > <video preload="none" controls><source src="{{ site.url }}/media/1076221840132112385-Du-CDSvWsAAQls3.mp4">Your browser does not support the video tag.</video>
 
@@ -29927,7 +29927,7 @@ Replying to [@naomod_team, @sunye and @HugoBruneliere](https://twitter.com/naomo
 
 ----
 
-> RT @Obeo_Corp: Ho ho ho! Christmas is coming :) The Obeo team wish you to enjoy wonderful moments with your family and friends. https://t.c…
+> RT [Obeo](https://www.obeosoft.com/): Ho ho ho! Christmas is coming :) The Obeo team wish you to enjoy wonderful moments with your family and friends. https://t.c…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Dec 24 21:43:17 +0000 2018](https://twitter.com/bruncedric/status/1077318820358950912)
 
@@ -30169,7 +30169,7 @@ Replying to [@LibreOfficeFR](https://twitter.com/LibreOfficeFR/status/1112051081
 
 ----
 
-> I'm so glad I had the opportunity to share the story of @Obeo_Corp's development in Canada to such an audience. Great discussions and many additional tips were  given! Thanks @FIDAL_avocats and @CCINantes! 
+> I'm so glad I had the opportunity to share the story of [Obeo](https://www.obeosoft.com/)'s development in Canada to such an audience. Great discussions and many additional tips were  given! Thanks @FIDAL_avocats and @CCINantes! 
 > 
 > ![]({{ site.url }}/media/1112816179335319552-D3GEZlNW0AEGewC.jpg)
 > 
@@ -30215,7 +30215,7 @@ Replying to [@ttoine](https://twitter.com/ttoine/status/1113430002719240192)
 
 ----
 
-> RT @Obeo_Corp: Today is Obeo birthday! As usual we start quietly but it will not last :)
+> RT [Obeo](https://www.obeosoft.com/): Today is Obeo birthday! As usual we start quietly but it will not last :)
 > #weareobeo https://twitter.com/bruncedric/status/1113744393100460032
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 04 11:03:53 +0000 2019](https://twitter.com/bruncedric/status/1113759085432836103)
@@ -30439,7 +30439,7 @@ Replying to [@torkildr and @ttoine](https://twitter.com/torkildr/status/11291078
 
 ----
 
-> RT @ChadKJackson: @SiemensPLM talking about developing a new #systemsengineering authoring tool using @Obeo_Corp's Capella solution with th…
+> RT @ChadKJackson: @SiemensPLM talking about developing a new #systemsengineering authoring tool using [Obeo](https://www.obeosoft.com/)'s Capella solution with th…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Jun 10 14:43:28 +0000 2019](https://twitter.com/bruncedric/status/1138094335222833152)
 
@@ -30461,13 +30461,13 @@ Replying to [@torkildr and @ttoine](https://twitter.com/torkildr/status/11291078
 
 ----
 
-> RT @Obeo_Corp: Meet the Obeo team at #RealizeLive, @SiemensPLM users conference, and get useful insights about @capella_arcadia @EclipseSir…
+> RT [Obeo](https://www.obeosoft.com/): Meet the Obeo team at #RealizeLive, @SiemensPLM users conference, and get useful insights about @capella_arcadia @EclipseSir…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 11 10:05:10 +0000 2019](https://twitter.com/bruncedric/status/1138386685866205185)
 
 ----
 
-> RT @Obeo_Corp: At #RealizeLive, do not miss the 'System Modeling Workbench' overview that will be done room 250A at 10 am. 
+> RT [Obeo](https://www.obeosoft.com/): At #RealizeLive, do not miss the 'System Modeling Workbench' overview that will be done room 250A at 10 am. 
 > https://t.co/0p…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 11 13:59:06 +0000 2019](https://twitter.com/bruncedric/status/1138445557092012033)
@@ -30480,7 +30480,7 @@ Replying to [@torkildr and @ttoine](https://twitter.com/torkildr/status/11291078
 
 ----
 
-> RT @Obeo_Corp: Day 2 at Siemens #RealizeLive @SiemensPLM! Have you also spotted Cedric Brun and Stéphane Lacrampe on screen?
+> RT [Obeo](https://www.obeosoft.com/): Day 2 at Siemens #RealizeLive @SiemensPLM! Have you also spotted Cedric Brun and Stéphane Lacrampe on screen?
 > Join them, boo…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 11 15:40:43 +0000 2019](https://twitter.com/bruncedric/status/1138471129729966082)
@@ -30826,11 +30826,11 @@ Replying to [@jfbrazeau, [Obeo](https://www.obeosoft.com/), @theseacleaners, @Re
 
 ----
 
-> RT @Obeo_Corp: The Obeo team was on board for the #WorldCleanupDay with @theseacleaners
+> RT [Obeo](https://www.obeosoft.com/): The Obeo team was on board for the #WorldCleanupDay with @theseacleaners
 > 
 > 50kgs (including 3,4kgs of cigarette ends!) remove…
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Sep 22 09:09:25 +0000 2019](https://twitter.com/bruncedric/status/1175698604117385216)> RT @EclipseCon: As a Strategic Member of the @EclipseFdn, @Obeo_Corp develops technologies such as #EclipseSirius &amp; #EclipseAcceleo! Want t…
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sun Sep 22 09:09:25 +0000 2019](https://twitter.com/bruncedric/status/1175698604117385216)> RT @EclipseCon: As a Strategic Member of the @EclipseFdn, [Obeo](https://www.obeosoft.com/) develops technologies such as #EclipseSirius &amp; #EclipseAcceleo! Want t…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 04 20:56:37 +0000 2019](https://twitter.com/bruncedric/status/1180225232407339009)
 
@@ -30893,7 +30893,7 @@ Replying to [@the_qa_guy, @torkildr, @gblondelle and @EclipseCon](https://twitte
 
 ----
 
-> RT @Obeo_Corp: The less we can say is that next week is gonna be an intensive and excited one for @ejuliot @bruncedric and @melaniebats who…
+> RT [Obeo](https://www.obeosoft.com/): The less we can say is that next week is gonna be an intensive and excited one for @ejuliot @bruncedric and @melaniebats who…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Oct 22 00:28:16 +0000 2019](https://twitter.com/bruncedric/status/1186439090570518530)
 
@@ -31162,7 +31162,7 @@ Replying to [@AounRazaNaqvi, @BoschSI and @EclipseSirius](https://twitter.com/Ao
 
 ----
 
-> RT @Obeo_Corp: 👶 What happened during the 9-Month journey towards the future newest member of the Obeo family, 'Obeo Cloud Platform'?
+> RT [Obeo](https://www.obeosoft.com/): 👶 What happened during the 9-Month journey towards the future newest member of the Obeo family, 'Obeo Cloud Platform'?
 > 
 > Disc…
 
@@ -31237,7 +31237,7 @@ Replying to [@sbegaudeau](https://twitter.com/bruncedric/status/1205223323610820
 
 ----
 
-> RT @Obeo_Corp: Congrats to Arnaud (@ADieumegard), the latest Obeo committer on @EclipseFdn (KitAlpha project)! 
+> RT [Obeo](https://www.obeosoft.com/): Congrats to Arnaud (@ADieumegard), the latest Obeo committer on @EclipseFdn (KitAlpha project)! 
 > #OpenSource #WeAreObeo http…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 13 17:19:09 +0000 2019](https://twitter.com/bruncedric/status/1205537657301942273)
@@ -31319,15 +31319,15 @@ Replying to [@torkildr](https://twitter.com/torkildr/status/1206871619358134278)
 
 Replying to [@bruncedric](https://twitter.com/bruncedric/status/1207985392533811201)
 
-> 76 projects participated to this release coordinated by the @EclipseFdn Planning Council chaired by @melaniebats .  Beside this global coordination, for the @Obeo_Corp  team this is much more....
+> 76 projects participated to this release coordinated by the @EclipseFdn Planning Council chaired by @melaniebats .  Beside this global coordination, for the [Obeo](https://www.obeosoft.com/)  team this is much more....
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 20 11:27:23 +0000 2019](https://twitter.com/bruncedric/status/1207985845359259650)
 
 ----
 
-Replying to [@EclipseFdn, @melaniebats and @Obeo_Corp](https://twitter.com/bruncedric/status/1207985845359259650)
+Replying to [@EclipseFdn, @melaniebats and [Obeo](https://www.obeosoft.com/)](https://twitter.com/bruncedric/status/1207985845359259650)
 
-> For the @Obeo_Corp team this means shipping Eclipse Sirius, Eclipse Acceleo, EMF Compare, EcoreTools, Extended Editing Framework, GMF Runtime, Eclipse EMF Services, and make sure that everything integrates smoothly and provide the right level of quality for downstream consumers!
+> For the [Obeo](https://www.obeosoft.com/) team this means shipping Eclipse Sirius, Eclipse Acceleo, EMF Compare, EcoreTools, Extended Editing Framework, GMF Runtime, Eclipse EMF Services, and make sure that everything integrates smoothly and provide the right level of quality for downstream consumers!
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Dec 20 11:28:09 +0000 2019](https://twitter.com/bruncedric/status/1207986038523748353)
 
@@ -31403,7 +31403,7 @@ Replying to [@glefur_ and @alex_morel_](https://twitter.com/glefur_/status/12244
 
 ----
 
-> RT @Obeo_Corp: 📑 Read this article written by @ChadKJackson, Chief Analyst and CEO at @LC_Insights, to understand why using #MBSE and @cape…
+> RT [Obeo](https://www.obeosoft.com/): 📑 Read this article written by @ChadKJackson, Chief Analyst and CEO at @LC_Insights, to understand why using #MBSE and @cape…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Mar 25 17:52:38 +0000 2020](https://twitter.com/bruncedric/status/1242872032745926657)
 
@@ -31456,7 +31456,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1244618171857977
 > Under those exceptional circumstances, Obeo is operating close to normal. That is thanks to the awesome team at Obeo, which take care of each others, is deeply involved in our mission and also thanks to our customers, partners and providers which are supporting us.  
 > Thank you!
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 30 13:31:47 +0000 2020](https://twitter.com/bruncedric/status/1244618326409609221)> RT @Obeo_Corp: Discover how MBSE and @capella_arcadia can help you to manage design with a large number of engineers from different discipl…
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Mar 30 13:31:47 +0000 2020](https://twitter.com/bruncedric/status/1244618326409609221)> RT [Obeo](https://www.obeosoft.com/): Discover how MBSE and @capella_arcadia can help you to manage design with a large number of engineers from different discipl…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Apr 01 05:52:38 +0000 2020](https://twitter.com/bruncedric/status/1245227553150943232)
 
@@ -31627,7 +31627,7 @@ Replying to [@alex_morel_, @mchv, @CodeLutin, @aprilorg, @AllianceLibre, @Codeur
 
 ----
 
-> And @Obeo_Corp We're pretty excited about that! https://twitter.com/mmilinkov/status/1260118075220922368
+> And [Obeo](https://www.obeosoft.com/) We're pretty excited about that! https://twitter.com/mmilinkov/status/1260118075220922368
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue May 12 10:59:03 +0000 2020](https://twitter.com/bruncedric/status/1260162566506061824)
 
@@ -31681,7 +31681,7 @@ Replying to [@alex_morel_, @mchv, @CodeLutin, @aprilorg, @AllianceLibre, @Codeur
 
 ----
 
-> RT @softmodeling: Starting to prepare my talk on "Future Trends in Modeling" for SiriusCon https://buff.ly/2BCnl52  by @Obeo_Corp @eclipses…
+> RT @softmodeling: Starting to prepare my talk on "Future Trends in Modeling" for SiriusCon https://buff.ly/2BCnl52  by [Obeo](https://www.obeosoft.com/) @eclipses…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu May 28 11:13:19 +0000 2020](https://twitter.com/bruncedric/status/1265964363879534598)
 
@@ -31717,7 +31717,7 @@ Replying to [@alex_morel_, @mchv, @CodeLutin, @aprilorg, @AllianceLibre, @Codeur
 
 ----
 
-> RT @Obeo_Corp: How to apply systems engineering principles to an open ventilator sample product?
+> RT [Obeo](https://www.obeosoft.com/): How to apply systems engineering principles to an open ventilator sample product?
 > Discover it with this masterclass video by…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jun 05 11:25:44 +0000 2020](https://twitter.com/bruncedric/status/1268866590398955520)
@@ -31872,7 +31872,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1273501762570334
 
 ----
 
-> RT @melaniebats: Today, I am so proud to be CTO@Obeo! Developing open-source software was the reason why I joined @Obeo_Corp  several years…
+> RT @melaniebats: Today, I am so proud to be CTO@Obeo! Developing open-source software was the reason why I joined [Obeo](https://www.obeosoft.com/)  several years…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 18 13:20:47 +0000 2020](https://twitter.com/bruncedric/status/1273606587828101123)
 
@@ -31964,7 +31964,7 @@ Replying to [@EclipseSirius, @melaniebats and @sbegaudeau](https://twitter.com/E
 
 ----
 
-> That was a blast! A huge "thank you" to all the speakers, the attendees and the @Obeo_Corp team behind the scene! https://twitter.com/EclipseSirius/status/1273641251812884481
+> That was a blast! A huge "thank you" to all the speakers, the attendees and the [Obeo](https://www.obeosoft.com/) team behind the scene! https://twitter.com/EclipseSirius/status/1273641251812884481
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 18 16:32:07 +0000 2020](https://twitter.com/bruncedric/status/1273654737288732673)
 
@@ -32008,7 +32008,7 @@ Replying to [@EclipseSirius, @melaniebats and @sbegaudeau](https://twitter.com/E
 
 ----
 
-> RT @Obeo_Corp: [Capella Days Online] It's rather a 'Save the DateS' than 'Save the Date' :) Organized alongside #ESISymposium online, Capel…
+> RT [Obeo](https://www.obeosoft.com/): [Capella Days Online] It's rather a 'Save the DateS' than 'Save the Date' :) Organized alongside #ESISymposium online, Capel…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jun 25 16:22:44 +0000 2020](https://twitter.com/bruncedric/status/1276189091181350924)Replying to [@roxannejoncas and @CDeliveryFdn](https://twitter.com/roxannejoncas/status/1280881776848711681)
 
@@ -32107,7 +32107,7 @@ Replying to [@svenefftinge](https://twitter.com/svenefftinge/status/129826088452
 
 ----
 
-> RT @Obeo_Corp: 2 Days left until our next Capella webinar with #MBSE specialists Paul Goossens and Bharani Mohan from @maplesoft !
+> RT [Obeo](https://www.obeosoft.com/): 2 Days left until our next Capella webinar with #MBSE specialists Paul Goossens and Bharani Mohan from @maplesoft !
 > 
 > So regi…
 
@@ -32146,7 +32146,7 @@ Replying to [@svenefftinge](https://twitter.com/svenefftinge/status/129826088452
 
 > RT @capella_arcadia: [#CapellaDays] Clean our oceans w/@theseacleaners !
 >  
-> October 13th Arnaud Dieumegard &amp; Raphaël Pagé (@Obeo_corp) will…
+> October 13th Arnaud Dieumegard &amp; Raphaël Pagé ([Obeo](https://www.obeosoft.com/)) will…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Sep 16 15:55:56 +0000 2020](https://twitter.com/bruncedric/status/1306260541401432066)
 
@@ -32220,7 +32220,7 @@ Replying to [@svenefftinge](https://twitter.com/svenefftinge/status/129826088452
 
 ----
 
-> RT @EclipseCon: @Adaussy and @Obeo_Corp used #Eclipse RCP, #JMonkey, #VertX and more to build a solution capable of lifting 15 tonnes. To f…
+> RT @EclipseCon: @Adaussy and [Obeo](https://www.obeosoft.com/) used #Eclipse RCP, #JMonkey, #VertX and more to build a solution capable of lifting 15 tonnes. To f…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 12 11:30:00 +0000 2020](https://twitter.com/bruncedric/status/1315615700258619392)
 
@@ -32240,7 +32240,7 @@ Replying to [@svenefftinge](https://twitter.com/svenefftinge/status/129826088452
 
 ----
 
-Replying to [@ftomasse and @Obeo_Corp](https://twitter.com/ftomasse/status/1315943041526624256)
+Replying to [@ftomasse and [Obeo](https://www.obeosoft.com/)](https://twitter.com/ftomasse/status/1315943041526624256)
 
 > We had a great discussion, that was a pleasure for me, thanks a lot!
 
@@ -32306,7 +32306,7 @@ Replying to [@ftomasse and @Obeo_Corp](https://twitter.com/ftomasse/status/13159
 
 ----
 
-> RT @Obeo_Corp: Don’t miss Yvan Lussaud at #EclipseCon2020 presenting how Acceleo 4 improves performance and user experiences. 
+> RT [Obeo](https://www.obeosoft.com/): Don’t miss Yvan Lussaud at #EclipseCon2020 presenting how Acceleo 4 improves performance and user experiences. 
 > 
 > New templat…
 
@@ -32367,7 +32367,7 @@ Replying to [@ralph_mueller, @mmilinkov and @EclipseCon](https://twitter.com/ral
 
 ----
 
-> RT @Obeo_Corp: [#EclipseCon] At 4.15 pm CET @Adaussy will talk about a 3D simulator he developed and which could be used, for instance, to…
+> RT [Obeo](https://www.obeosoft.com/): [#EclipseCon] At 4.15 pm CET @Adaussy will talk about a 3D simulator he developed and which could be used, for instance, to…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 21 14:20:42 +0000 2020](https://twitter.com/bruncedric/status/1318920148322045952)
 
@@ -32389,7 +32389,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @Obeo_Corp: 🚀 It's day 3 at #EclispeCon! Feel free to drop by our virtual booth to get a demo of #SiriusWeb, the cloud-based evolution o…
+> RT [Obeo](https://www.obeosoft.com/): 🚀 It's day 3 at #EclispeCon! Feel free to drop by our virtual booth to get a demo of #SiriusWeb, the cloud-based evolution o…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 22 09:16:55 +0000 2020](https://twitter.com/bruncedric/status/1319206087652864002)
 
@@ -32415,7 +32415,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @Obeo_Corp: Join @ejuliot at #RealizeLIVE EU, a virtual event for the @siemenssoftware community. He'll speak about #MBSE adoption among…
+> RT [Obeo](https://www.obeosoft.com/): Join @ejuliot at #RealizeLIVE EU, a virtual event for the @siemenssoftware community. He'll speak about #MBSE adoption among…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Oct 30 10:46:07 +0000 2020](https://twitter.com/bruncedric/status/1322127638920658945)
 
@@ -32429,14 +32429,14 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 > RT @EclipseCon: Every session from #EclipseCon is now on YouTube! Rewatch your favorites or catch the sessions you missed. Thanks again for…
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Oct 31 10:32:54 +0000 2020](https://twitter.com/bruncedric/status/1322486698417291264)> RT @Obeo_Corp: Join us this Wednesday at 1:40 PM GMT+1 with @ejuliot Obeo VP at #RealizeEurope a @siemenssoftware virtual event. 
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Oct 31 10:32:54 +0000 2020](https://twitter.com/bruncedric/status/1322486698417291264)> RT [Obeo](https://www.obeosoft.com/): Join us this Wednesday at 1:40 PM GMT+1 with @ejuliot Obeo VP at #RealizeEurope a @siemenssoftware virtual event. 
 > Learn mor…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Nov 03 13:58:30 +0000 2020](https://twitter.com/bruncedric/status/1323625603132727297)
 
 ----
 
-> RT @Obeo_Corp: ⤵️ We’re happy to announce our participation in this year's online edition of #CSDMparis. Discover insightful talks includin…
+> RT [Obeo](https://www.obeosoft.com/): ⤵️ We’re happy to announce our participation in this year's online edition of #CSDMparis. Discover insightful talks includin…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 12 13:50:48 +0000 2020](https://twitter.com/bruncedric/status/1326885157895278592)
 
@@ -32448,7 +32448,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @Obeo_Corp: 🎙 What Obeo is about, how we work, what we do for our clients, users, what we want to achieve in the next years: all you sha…
+> RT [Obeo](https://www.obeosoft.com/): 🎙 What Obeo is about, how we work, what we do for our clients, users, what we want to achieve in the next years: all you sha…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 19 17:44:30 +0000 2020](https://twitter.com/bruncedric/status/1329480685392957444)
 
@@ -32495,7 +32495,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @EclipseFdn: Building on our latest case studies on @Obeo_Corp &amp; @cedalo_com, we are excited to announce the Entrepreneurial Open Source…
+> RT @EclipseFdn: Building on our latest case studies on [Obeo](https://www.obeosoft.com/) &amp; @cedalo_com, we are excited to announce the Entrepreneurial Open Source…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 16 18:20:11 +0000 2020](https://twitter.com/bruncedric/status/1339274136892346375)
 
@@ -32507,7 +32507,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 > 
 > ![]({{ site.url }}/media/1339611625725292545-EpdBhucXcAEshYT.jpg)
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Dec 17 16:41:15 +0000 2020](https://twitter.com/bruncedric/status/1339611625725292545)> RT @Obeo_Corp: Last year was a challenging one for everyone. We hope you've enjoyed a well-deserved holiday break. From our side, 2021 will…
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Dec 17 16:41:15 +0000 2020](https://twitter.com/bruncedric/status/1339611625725292545)> RT [Obeo](https://www.obeosoft.com/): Last year was a challenging one for everyone. We hope you've enjoyed a well-deserved holiday break. From our side, 2021 will…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 06 17:18:19 +0000 2021](https://twitter.com/bruncedric/status/1346868713123885057)
 
@@ -32538,7 +32538,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @Obeo_Corp: It will start soon, join @bruncedric during this workshop dedicated to #opensource! https://twitter.com/EclipseFdn/status/1349717970772234242
+> RT [Obeo](https://www.obeosoft.com/): It will start soon, join @bruncedric during this workshop dedicated to #opensource! https://twitter.com/EclipseFdn/status/1349717970772234242
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 14 15:00:32 +0000 2021](https://twitter.com/bruncedric/status/1349733140282003459)
 
@@ -32597,13 +32597,13 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @Obeo_Corp: 💪🏼 Congratulations to  @theseacleaners team! We are delighted to be by your side: discover the future Manta and join the bat…
+> RT [Obeo](https://www.obeosoft.com/): 💪🏼 Congratulations to  @theseacleaners team! We are delighted to be by your side: discover the future Manta and join the bat…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jan 26 15:21:07 +0000 2021](https://twitter.com/bruncedric/status/1354086975649755138)
 
 ----
 
-> RT @Obeo_Corp: Professional M2Doc for @capella_arcadia training session from March 29 to April 2: the training session will be led by an M2…
+> RT [Obeo](https://www.obeosoft.com/): Professional M2Doc for @capella_arcadia training session from March 29 to April 2: the training session will be led by an M2…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jan 27 09:06:47 +0000 2021](https://twitter.com/bruncedric/status/1354355159665618945)
 
@@ -32611,13 +32611,13 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 > RT @melaniebats: Hey @EclipseSirius community, a new regular series of 1-2 minutes videos: “Behind the scene of Sirius Web” starts today! 1…
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 28 12:20:07 +0000 2021](https://twitter.com/bruncedric/status/1354766200589479939)> RT @EclipseFdn: Software companies such as @Obeo_Corp are using #opensource to develop technology solutions for real-world problems. Read o…
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 28 12:20:07 +0000 2021](https://twitter.com/bruncedric/status/1354766200589479939)> RT @EclipseFdn: Software companies such as [Obeo](https://www.obeosoft.com/) are using #opensource to develop technology solutions for real-world problems. Read o…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 03 09:45:39 +0000 2021](https://twitter.com/bruncedric/status/1356901658249351168)
 
 ----
 
-> RT @Obeo_Corp: In our recent blog post written by @mporhel, we explain in-depth our contribution to the #EclipseCapella 5.0 update and the…
+> RT [Obeo](https://www.obeosoft.com/): In our recent blog post written by @mporhel, we explain in-depth our contribution to the #EclipseCapella 5.0 update and the…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Feb 08 09:15:34 +0000 2021](https://twitter.com/bruncedric/status/1358706023750656000)
 
@@ -32629,7 +32629,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @Obeo_Corp: Don’t miss out on this opportunity to look back at the major milestones of 2020. Such as the main features included in the b…
+> RT [Obeo](https://www.obeosoft.com/): Don’t miss out on this opportunity to look back at the major milestones of 2020. Such as the main features included in the b…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 10 10:53:25 +0000 2021](https://twitter.com/bruncedric/status/1359455426870394880)
 
@@ -32657,13 +32657,13 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @Obeo_Corp: T-minus 1 day till our upcoming online free event, with @junavas  from @ThalesGroup on February 25th and see what's planned…
+> RT [Obeo](https://www.obeosoft.com/): T-minus 1 day till our upcoming online free event, with @junavas  from @ThalesGroup on February 25th and see what's planned…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Feb 24 12:39:13 +0000 2021](https://twitter.com/bruncedric/status/1364555482527117315)
 
 ----
 
-> RT @Obeo_Corp: Don't miss Behind the scenes #2! @melaniebats invited @_AxelRICHARD_, Consultant at Obeo to present his work on the integrat…
+> RT [Obeo](https://www.obeosoft.com/): Don't miss Behind the scenes #2! @melaniebats invited @_AxelRICHARD_, Consultant at Obeo to present his work on the integrat…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Feb 25 12:42:20 +0000 2021](https://twitter.com/bruncedric/status/1364918652420694016)
 
@@ -32673,7 +32673,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 > 
 > If you retweet this video, I’ll print your name on a shirt and we…
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Feb 27 08:33:03 +0000 2021](https://twitter.com/bruncedric/status/1365580692822913026)> RT @Obeo_Corp: Our most recent #Capella Webinar was amazing! A big thank you to all who attended and registered for the event. 
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Sat Feb 27 08:33:03 +0000 2021](https://twitter.com/bruncedric/status/1365580692822913026)> RT [Obeo](https://www.obeosoft.com/): Our most recent #Capella Webinar was amazing! A big thank you to all who attended and registered for the event. 
 > 
 > If you wan…
 
@@ -32699,7 +32699,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @Obeo_Corp: Save the date 📅 !
+> RT [Obeo](https://www.obeosoft.com/): Save the date 📅 !
 > You can still register for our upcoming webinar, presented by Julien Morane from @CTEngineers how Capella…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 23 18:09:09 +0000 2021](https://twitter.com/bruncedric/status/1374422981724696585)
@@ -32732,7 +32732,7 @@ Replying to [@jayjaybillings](https://twitter.com/jayjaybillings/status/13190359
 
 ----
 
-> RT @Obeo_Corp: 1/2
+> RT [Obeo](https://www.obeosoft.com/): 1/2
 > 
 > 📅 Save the date! 📅
 > 
@@ -32778,7 +32778,7 @@ Replying to [@gblondelle, @EclipseFdn, @OPCoach_Eclipse, @tracymiranda, @alex_sc
 
 ----
 
-> RT @Obeo_Corp: Discover #TeamforCapella, a @capella_arcadia add-on to simply share your models on the same server:
+> RT [Obeo](https://www.obeosoft.com/): Discover #TeamforCapella, a @capella_arcadia add-on to simply share your models on the same server:
 > 🤝 Live collaboration: si…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 08 14:44:36 +0000 2021](https://twitter.com/bruncedric/status/1380169710885597185)
@@ -32803,7 +32803,7 @@ Replying to [@gblondelle, @EclipseFdn, @OPCoach_Eclipse, @tracymiranda, @alex_sc
 
 ----
 
-> RT @Obeo_Corp: ⤵️ 
+> RT [Obeo](https://www.obeosoft.com/): ⤵️ 
 > [New @capella_arcadia add-on] Discover Publication for Capella to connect Capella with Application Lifecycle Management…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Apr 29 14:38:02 +0000 2021](https://twitter.com/bruncedric/status/1387778205621407751)
@@ -33148,7 +33148,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1405129400866250
 
 > RT @EclipseFdn: Register for #EclipseCon 2021 to explore the latest Eclipse-related projects, collaborate with like-minded people and share…
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 30 07:08:08 +0000 2021](https://twitter.com/bruncedric/status/1421004666029187072)> RT @Obeo_Corp: It's such an honor to be once again a sponsor of @EclipseCon 2021! Save the date 📆
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Jul 30 07:08:08 +0000 2021](https://twitter.com/bruncedric/status/1421004666029187072)> RT [Obeo](https://www.obeosoft.com/): It's such an honor to be once again a sponsor of @EclipseCon 2021! Save the date 📆
 > #EclipseCon #opensource @EclipseFdn
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Aug 17 09:25:32 +0000 2021](https://twitter.com/bruncedric/status/1427562227767336969)
@@ -33175,7 +33175,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1405129400866250
 
 ----
 
-> RT @Obeo_Corp: What if you could simulate your Capella Model? A question asked (and answered) by Pierre Nowodzienski, from @thalesgroup!
+> RT [Obeo](https://www.obeosoft.com/): What if you could simulate your Capella Model? A question asked (and answered) by Pierre Nowodzienski, from @thalesgroup!
 > 
 > 📝…
 
@@ -33224,7 +33224,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1405129400866250
 
 ----
 
-> RT @Obeo_Corp: ✨Obeo is honored to be a sponsor of @EclipseCon 2021!✨
+> RT [Obeo](https://www.obeosoft.com/): ✨Obeo is honored to be a sponsor of @EclipseCon 2021!✨
 > #EclipseCon #Sirius @EclipseFdn
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Oct 11 14:12:24 +0000 2021](https://twitter.com/bruncedric/status/1447565752249294855)
@@ -33238,7 +33238,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1405129400866250
 
 ----
 
-> RT @Obeo_Corp: Have you watched our latest webinar yet ? 🤔 
+> RT [Obeo](https://www.obeosoft.com/): Have you watched our latest webinar yet ? 🤔 
 > 
 > 👉Discover how Publication for Capella provides fine-grained integration betwee…
 
@@ -33388,7 +33388,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1452999289345564
 
 ----
 
-> RT @Obeo_Corp: Join us this afternoon at @EclipseCon 2021 with W. Piers and A. Mooij for their #POOSL presentation!
+> RT [Obeo](https://www.obeosoft.com/): Join us this afternoon at @EclipseCon 2021 with W. Piers and A. Mooij for their #POOSL presentation!
 > 
 > Get an overview of the…
 
@@ -33396,7 +33396,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1452999289345564
 
 ----
 
-> RT @Obeo_Corp: This afternoon, @_AxelRICHARD_  &amp; @sbegaudeau will be presenting their talk at #EclipseCon2021!
+> RT [Obeo](https://www.obeosoft.com/): This afternoon, @_AxelRICHARD_  &amp; @sbegaudeau will be presenting their talk at #EclipseCon2021!
 > 
 > Understand how to integrate…
 
@@ -33411,7 +33411,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1452999289345564
 
 ----
 
-> RT @Obeo_Corp: Join us at 6:15 PM CET, @melaniebats will show you an easy and modern way to create graphical editors for your specific doma…
+> RT [Obeo](https://www.obeosoft.com/): Join us at 6:15 PM CET, @melaniebats will show you an easy and modern way to create graphical editors for your specific doma…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Oct 27 14:15:18 +0000 2021](https://twitter.com/bruncedric/status/1453364686641061895)
 
@@ -33439,7 +33439,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1452999289345564
 
 ----
 
-> RT @Obeo_Corp: 📅 #SAVETHEDATE | November 2th, 3 PM (UTC) 
+> RT [Obeo](https://www.obeosoft.com/): 📅 #SAVETHEDATE | November 2th, 3 PM (UTC) 
 > @laurentdelaigue will be a speaker at #OSLC Fest:
 > 
 > "#MBSE in the Digital Thread w…
@@ -33493,7 +33493,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1452999289345564
 
 ----
 
-> Congratulation to all the speakers, your presentations were top quality! Kuddos to the @Obeo_Corp team making sure everything works behind the scene the event was a blast! https://twitter.com/capella_arcadia/status/1461379282643693573
+> Congratulation to all the speakers, your presentations were top quality! Kuddos to the [Obeo](https://www.obeosoft.com/) team making sure everything works behind the scene the event was a blast! https://twitter.com/capella_arcadia/status/1461379282643693573
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Nov 18 17:22:19 +0000 2021](https://twitter.com/bruncedric/status/1461384286179926029)
 
@@ -33569,7 +33569,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1452999289345564
 > Retour sur ce webinaire très complet expliquant l'utilisation de 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧𝐞𝐫
 > ✅ Créativité (…
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 22 11:56:42 +0000 2021](https://twitter.com/bruncedric/status/1473623529455341572)> RT @Obeo_Corp: ✨ℍ𝕒𝕡𝕡𝕪 ℕ𝕖𝕨 𝕐𝕖𝕒𝕣✨
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Dec 22 11:56:42 +0000 2021](https://twitter.com/bruncedric/status/1473623529455341572)> RT [Obeo](https://www.obeosoft.com/): ✨ℍ𝕒𝕡𝕡𝕪 ℕ𝕖𝕨 𝕐𝕖𝕒𝕣✨
 > Obeo wishes you a beautiful year. 
 > That 2022 is a year full of new projects and adventures! 🤝 https://t.co/…
 
@@ -33577,7 +33577,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1452999289345564
 
 ----
 
-> RT @Obeo_Corp: 📣 We are glad to announce the release of 𝗧𝗲𝗮𝗺 𝗳𝗼𝗿 𝗖𝗮𝗽𝗲𝗹𝗹𝗮 𝟱.𝟮.𝟬! 🔥 It includes the compatibility with #Capella 5.2.0 and oth…
+> RT [Obeo](https://www.obeosoft.com/): 📣 We are glad to announce the release of 𝗧𝗲𝗮𝗺 𝗳𝗼𝗿 𝗖𝗮𝗽𝗲𝗹𝗹𝗮 𝟱.𝟮.𝟬! 🔥 It includes the compatibility with #Capella 5.2.0 and oth…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Jan 06 09:47:22 +0000 2022](https://twitter.com/bruncedric/status/1479026800281989122)
 
@@ -33636,7 +33636,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1480259374887182
 
 ----
 
-> RT @Obeo_Corp: 📣Obeo is glad to work with @thermofisher who chose to use the @capella_arcadia tool in a collaborative way, from a ready-to-…
+> RT [Obeo](https://www.obeosoft.com/): 📣Obeo is glad to work with @thermofisher who chose to use the @capella_arcadia tool in a collaborative way, from a ready-to-…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Mon Apr 11 17:15:38 +0000 2022](https://twitter.com/bruncedric/status/1513566456100884480)
 
@@ -33703,7 +33703,7 @@ Replying to [@bruncedric](https://twitter.com/bruncedric/status/1519660239682953
 
 > RT @BlueberryCoder: At last! The CFP for @EclipseCon 2022 is open. Submit your #IoT and #EdgeComputing talks before June 15, 2022. I look f…
 
-<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 29 15:51:38 +0000 2022](https://twitter.com/bruncedric/status/1520068298381086723)> RT @Obeo_Corp: #WEBINAR with TNO
+<img src="{{ site.url }}/media/tweet.ico" width="12" /> [Fri Apr 29 15:51:38 +0000 2022](https://twitter.com/bruncedric/status/1520068298381086723)> RT [Obeo](https://www.obeosoft.com/): #WEBINAR with TNO
 > 📅 May 3, 2022 - 16:00-17:00 CET
 > Don't miss the opportunity to learn about #POOSL combines #modeling with a…
 
@@ -33799,7 +33799,7 @@ Replying to [@mikbarbero, @EclipseFdn and @mmilinkov](https://twitter.com/mikbar
 
 ----
 
-> RT @Obeo_Corp: 💥They also use #TeamForCapella.
+> RT [Obeo](https://www.obeosoft.com/): 💥They also use #TeamForCapella.
 > For further informations about it, click here: 
 > https://www.obeosoft.com/fr/team-for-capella
 
@@ -33833,7 +33833,7 @@ Replying to [[Obeo](https://www.obeosoft.com/), @RIDE2022, @fmadiot and @Polemc2
 
 ----
 
-> RT @Obeo_Corp: 🤩 We are proud to be part of this #project! 
+> RT [Obeo](https://www.obeosoft.com/): 🤩 We are proud to be part of this #project! 
 > It's a great opportunity to be part of a working group to accelerate innovation…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Wed Jun 08 08:38:32 +0000 2022](https://twitter.com/bruncedric/status/1534454818340757505)
@@ -33937,7 +33937,7 @@ Replying to [[Obeo](https://www.obeosoft.com/), @RIDE2022, @fmadiot and @Polemc2
 
 ----
 
-> RT @EclipseFdn: Learn about new @ECDTools member @Obeo_Corp's participation in #opensource and the #EclipseFdn so far in our member case st…
+> RT @EclipseFdn: Learn about new @ECDTools member [Obeo](https://www.obeosoft.com/)'s participation in #opensource and the #EclipseFdn so far in our member case st…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 21 06:35:23 +0000 2022](https://twitter.com/bruncedric/status/1539134869447626753)
 
@@ -34056,7 +34056,7 @@ Replying to [[Obeo](https://www.obeosoft.com/), @RIDE2022, @fmadiot and @Polemc2
 
 ----
 
-> Early risers! The @Obeo_Corp team is on its way to #EclipseCon once again, see you soon ! 
+> Early risers! The [Obeo](https://www.obeosoft.com/) team is on its way to #EclipseCon once again, see you soon ! 
 > 
 > ![]({{ site.url }}/media/1584383265980698626-FfzcLdKXkAAGUDf.jpg)
 
@@ -34203,7 +34203,7 @@ Replying to [@mmilinkov](https://twitter.com/mmilinkov/status/158481012947973734
 
 ----
 
-> RT @KatySpringmaus: Learning why #langium + #siriusweb is a real ❤️story was fun! Thanks to @Oromis56 &amp; @bruncedric from @Obeo_Corp #Eclips…
+> RT @KatySpringmaus: Learning why #langium + #siriusweb is a real ❤️story was fun! Thanks to @Oromis56 &amp; @bruncedric from [Obeo](https://www.obeosoft.com/) #Eclips…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Thu Oct 27 01:49:11 +0000 2022](https://twitter.com/bruncedric/status/1585448492767784960)
 
