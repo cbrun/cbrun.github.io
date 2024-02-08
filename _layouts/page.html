@@ -33,7 +33,7 @@
     {% include _author-bio.html %}
   </div>
  {% if page.translation_id and page.translation_id != "" %}
-  Translations: {% for t in page.translations %}
+  {% for t in page.translations %}
     <a href="{{ t.url }}">{{ t.lang | language_name }}</a>
   {% endfor %}
 {% endif %}
