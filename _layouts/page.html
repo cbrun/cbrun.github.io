@@ -38,7 +38,10 @@
   {% endfor %}
 {% endif %}
   <article class="page">
-    <h1>{{ page.title }}</h1> {{ page.title-addition }}
+    <h1>{{ page.title }}</h1> 
+    {% if page.textra %} 
+   		 {{ page.textra }}
+   	{% endif %}
     <div class="article-wrap">
       {{ content }}
       {% if page.share != false %}
