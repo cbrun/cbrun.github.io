@@ -6,7 +6,7 @@ comments: true
 lang : en
 image:
   feature: banner4.webp
-textra: [🇫🇷]({% link about/about_fr.md  %})   
+textra: "[🇫🇷]({% link about/about_fr.md  %})"
 ---
 
 [🇫🇷]({% link about/about_fr.md  %}) 
