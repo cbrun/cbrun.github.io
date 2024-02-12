@@ -8,7 +8,6 @@ image:
   feature: banner4.webp
 translation_en: /about/
 ---
-[🇬🇧]({% link about/index.md  %}) 
 
 Je suis dirigeant de la société [Obeo](https://www.obeosoft.com/fr/), un éditeur logiciel français aidant les organisations à atteindre leurs objectifs de conception de systèmes complexes via des outils de modélisation. J'ai commencé comme ingénieur logiciel avec une touche d'académie grâce à un master. Je me suis impliqué tôt dans des projets open-source en contribuant à KDE ou au noyau Linux, puis j'ai rejoint la communauté Eclipse et j'occupe plusieurs rôles, de "projet lead", à "commiter" ou membre du PMC.
 
