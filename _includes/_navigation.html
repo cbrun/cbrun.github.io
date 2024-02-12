@@ -5,6 +5,10 @@
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
+               {% if page.translation_en != "" %}
+               	 <li>{% link page.translation_en  %}</li>
+               {% endif %}
+
 		        {% for link in site.data.navigation %}
 				    {% if link.url contains 'http' %}
 				        {% assign domain = '' %}
