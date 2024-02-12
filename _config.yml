@@ -70,6 +70,7 @@ exclude:
   - talks/etc
   - talks/lib
   - LICENSE
+  - vendor
 
 plugins:
       - jekyll-sitemap
