@@ -6,7 +6,7 @@
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
 			   {% if page.translation_en %}
-                  {% assign translated_post = site.pages | find: "id" , page.translation_en %}
+                  {% assign translated_post = site.pages[page.translation_en]%}
                	 <li><a href="{{ domain }}{{ translated_post.url  }}">🇬🇧</a></li>
                {% endif %}
 		        {% for link in site.data.navigation %}
