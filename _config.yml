@@ -55,6 +55,12 @@ owner:
   weibo: #username
   flickr: #username
 
+assets:
+  js_compressor: uglifier
+  css_compressor: sass
+  cache: _cache/assets
+  cachebust: hard
+
 include: [".htaccess"]
 exclude:
   - lib
