@@ -6,7 +6,7 @@ comments: true
 lang: fr
 image:
   feature: banner4.webp
-translation_en: about/index.md
+translation_en: about/index
 ---
 [🇬🇧]({% link about/index.md  %}) 
 
