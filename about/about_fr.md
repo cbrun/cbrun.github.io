@@ -13,7 +13,7 @@ Je suis dirigeant de la société [Obeo](https://www.obeosoft.com/fr/), un édit
 
 Le problème qui m'anime est "Comment pouvons-nous créer des outils meilleurs et ouverts, plus rapidement?" et cela m'a conduit aux pratiques et technologies de **modélisation dédiée à un domaine**. 
 
-J'aime partager mes découvertes à travers des conférences et il m'est arrivé de co-auteur d'articles et documents de recherche (voir la page [Talks and Papers](../talks)).
+J'aime partager mes découvertes à travers des conférences et il m'est arrivé de co-auteur d'articles et documents de recherche (voir la page [Talks and Papers](../../talks)).
 
 <br>
 
@@ -27,5 +27,5 @@ Chez Obeo, nous exploitons la puissance de la **modélisation** de sorte que la 
 
 Nous avons commencé en 2006 avec des technologies axées sur la **rétro-ingénierie** et la **génération de code** à travers la création du projet [Acceleo](https://www.eclipse.dev/acceleo/). Puis, nous avons commencé à nous impliquer dans Eclipse à travers [EMF Compare](https://www.eclipse.dev/emf/compare/) puis de nombreux autres projets.
 
-Obeo est maintenant l'un des 10 membres stratégiques de la Fondation Eclipse à côté de **Red-hat**, **IBM** ou **Oracle** et est l'une des organisations les plus actives, mais nous sommes loin d'être comme ces mastodontes car nous sommes environ 50 personnes réparties dans toute la France et commençons tout juste à conquérir le monde en [ouvrant un bureau à Vancouver](../obeo/north-america-here-we-come/) !
+Obeo est maintenant l'un des 10 membres stratégiques de la Fondation Eclipse à côté de **Red-hat**, **IBM** ou **Oracle** et est l'une des organisations les plus actives, mais nous sommes loin d'être comme ces mastodontes car nous sommes environ 50 personnes réparties dans toute la France et commençons tout juste à conquérir le monde en [ouvrant un bureau à Vancouver](../../obeo/north-america-here-we-come/) !
 
