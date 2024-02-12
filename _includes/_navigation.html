@@ -5,9 +5,8 @@
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
-			   {% if page.translation_en %}
-                  {% assign translated_post_url = site.pages[page.translation_en].url%}
-               	 <li><a href="{{ domain }}{{ site.pages[page.translation_en].url  }}">🇬🇧</a></li>
+			   {% if page.translation_en %}                  
+               	 <li><a href="{{ domain }}{{ page.translation_en  }}">🇬🇧</a></li>
                {% endif %}
 		        {% for link in site.data.navigation %}
 				    {% if link.url contains 'http' %}
