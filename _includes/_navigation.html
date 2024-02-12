@@ -7,7 +7,7 @@
 		    <ul>
 			   {% if page.translation_en %}
                   {% assign translated_post_url = site.pages[page.translation_en].url%}
-               	 <li><a href="{{ domain }}{{ translated_post_url  }}">🇬🇧</a></li>
+               	 <li><a href="{{ domain }}{{ site.pages[page.translation_en].url  }}">🇬🇧</a></li>
                {% endif %}
 		        {% for link in site.data.navigation %}
 				    {% if link.url contains 'http' %}
