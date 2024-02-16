@@ -4,7 +4,7 @@ title: Obeo Fête Ses 10 Ans
 categories: [eclipse]
 tags: [eclipse, obeo, startup]
 lang: fr
-permalink: /obeo/dix-ans/
+permalink: /eclipse/obeo-dix-ans/
 translation_en:/eclipse/ten-years/
 ---
 
