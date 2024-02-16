@@ -3,18 +3,19 @@ layout: post
 title: The Rising Adoption of Capella
 categories: [eclipse]
 tags: [eclipse, capella, smw]
+translation_fr : /eclipse/adoption-croissante-MBSE-capella/
 ---
 
 
 Witnessing an OSS technology getting together with a wide group of users is something I find exhilarating, I have experienced it with Acceleo, EMF Compare and Eclipse Sirius along the years, each time in different contexts and at different scales but discovering what is being done by others with a technology is always a source of excitement to me.
 
-[Capella](https://www.polarsys.org/capella/){:target="_blank"}  was contributed by Thales to the Eclipse communities a few years ago already and fueled by the growing need to design Systems in a better way, by the interest in Model Based System Engineering and the qualities of the product in itself we can clearly see an acceleration in the last few months.
+[Capella](https://mbse-capella.org/){:target="_blank"}  was contributed by Thales to the Eclipse communities a few years ago already and fueled by the growing need to design Systems in a better way, by the interest in Model Based System Engineering and the qualities of the product in itself we can clearly see an acceleration in the last few months.
 
 If you are wondering what is Capella and what it's used for, here is a 2-minute video we prepared for you:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nv8IOg_xVMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Worldwide awareness of this solution grows and adoption rises, organizations from Europe, North America and Asia are now using Capella and experiencing the benefits of using a tool which implements a method (coined "[Arcadia](https://www.polarsys.org/capella/arcadia.html){:target="_blank"}") and **not only a language.**
+Worldwide awareness of this solution grows and adoption rises, organizations from Europe, North America and Asia are now using Capella and experiencing the benefits of using a tool which implements a method (coined "[Arcadia](https://mbse-capella.org/arcadia.html){:target="_blank"}") and **not only a language.**
 
 <figure>
     <a href="{{ site.url }}/images/blog/capelladay2019/forum-activity.png"><img src="{{ site.url }}/images/blog/capelladay2019/forum-activity.png"></a>  
@@ -30,7 +31,7 @@ Rolls Royce, ArianeGroup or the Singapore University: they all have shared valua
 * [Capella for large complex mechanical systems](https://www.youtube.com/watch?v=njW_zdE_FzI){:target="_blank"}
 * MBSE must become a team sport !
 
-More are coming and many already available through the [Resources Page](https://www.polarsys.org/capella/resources.html){:target="_blank"}! BTW we can’t always get the authorization to keep them available online so your safest option is to register and attend.
+More are coming and many already available through the [Resources Page](https://mbse-capella.org/resources.html){:target="_blank"}! BTW we can’t always get the authorization to keep them available online so your safest option is to register and attend.
 
 <figure>
     <a href="https://polarsys.org/capella/capella_day_munich_2019.html"><img src="{{ site.url }}/images/blog/capelladay2019/munich.jpg"></a>  

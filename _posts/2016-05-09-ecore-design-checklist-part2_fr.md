@@ -94,7 +94,7 @@ Le générateur de code EMF masque cela pour vous et va finir par dupliquer du c
 * l'ordre de l'héritage est important : la classe d'implémentation étendra la classe d'implémentation de la **première** EClass dans la liste des supertypes, les classes suivantes entraîneront une duplication de code.
 * tout comme pour les conceptions orientées objet, avoir beaucoup d'héritage multiple indique un design qui ne sépare pas vraiment les préoccupations (ou pas les bonnes)
 
-### ☑ Les DataTypes personnalisés sont utilisés dans chaque situation où cela a du sens
+### ☑ Les DataTypes personnalisés sont utilisés à bon escient
 
 EMF fournit des datatypes prêts à l'emploi pour les *Strings*, *Integer*, *Float*, *Long* et leurs équivalents primitifs comme *EString*, *EInt* ...
 

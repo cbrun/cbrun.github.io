@@ -16382,7 +16382,7 @@ Replying to [@adolfosbh](https://twitter.com/adolfosbh/status/729993901046673408
 
 ----
 
-> Specify your own Flight Entertainment System wtih Capella! The sample model can be DL here https://www.polarsys.org/capella/download.html 
+> Specify your own Flight Entertainment System wtih Capella! The sample model can be DL here https://mbse-capella.org/download.html 
 > 
 > ![]({{ site.url }}/media/730714664166887424-CiQFHEfXEAAOl-z.jpg)
 > 
@@ -23209,7 +23209,7 @@ Replying to [@tracymiranda](https://twitter.com/tracymiranda/status/876443076834
 
 ----
 
-> RT @ejuliot: Creation of the Capella IC has been announced https://www.polarsys.org/capella/industry-consortium.html Here is the big picture of its main goals #CapellaDay #e…
+> RT @ejuliot: Creation of the Capella IC has been announced https://mbse-capella.org/industry-consortium.html Here is the big picture of its main goals #CapellaDay #e…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Jun 20 10:12:47 +0000 2017](https://twitter.com/bruncedric/status/877106952219897858)
 
@@ -27282,7 +27282,7 @@ Replying to [@Tcharl, @EclipseSirius and @melaniebats](https://twitter.com/Tchar
 
 ----
 
-> RT [Obeo](https://www.obeosoft.com/): Discover how to unleash the power of @capella_arcadia with #TeamForCapella: https://www.polarsys.org/capella/addons.html #MBSE #SysEng #Collabora…
+> RT [Obeo](https://www.obeosoft.com/): Discover how to unleash the power of @capella_arcadia with #TeamForCapella: https://mbse-capella.org/addons.html #MBSE #SysEng #Collabora…
 
 <img src="{{ site.url }}/media/tweet.ico" width="12" /> [Tue Mar 13 13:58:42 +0000 2018](https://twitter.com/bruncedric/status/973558976347598848)
 
