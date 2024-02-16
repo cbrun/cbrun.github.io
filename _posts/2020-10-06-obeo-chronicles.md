@@ -3,6 +3,7 @@ layout: post
 title: Obeo's Chronicles, Autumn 2020
 categories: [eclipse]
 tags: [eclipse, obeo, ecology]
+translation_fr: /eclipse/obeo-chroniques-2020/
 ---
 
 I can’t believe we are already looking at Q4. I have so much news to share with you!
