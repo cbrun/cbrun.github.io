@@ -10,7 +10,7 @@ permalink : /eclipse/adoption-croissante-MBSE-capella/
 
 Assister à l'adoption d'une technologie OSS par un large groupe d'utilisateurs est quelque chose que je trouve exaltant. J'ai vécu cela avec Acceleo, EMF Compare et Eclipse Sirius au fil des ans, chaque fois dans des contextes différents et à des échelles différentes, mais découvrir ce que d'autres font avec une technologie est toujours une source d'excitation pour moi.
 
-[Capella](https://mbse-capella.org/t="_blank"} a été contribué par Thales aux communautés Eclipse il y a déjà quelques années et, alimenté par le besoin croissant de concevoir des systèmes de meilleure façon, par l'intérêt pour l'ingénierie des systèmes basée sur les modèles et les qualités du produit lui-même, nous pouvons clairement voir une accélération ces derniers mois.
+[Capella](https://mbse-capella.org/{t="_blank"} a été contribué par Thales aux communautés Eclipse il y a déjà quelques années et, alimenté par le besoin croissant de concevoir des systèmes de meilleure façon, par l'intérêt pour l'ingénierie des systèmes basée sur les modèles et les qualités du produit lui-même, nous pouvons clairement voir une accélération ces derniers mois.
 
 Si vous vous demandez ce qu'est Capella et à quoi cela sert, voici une vidéo de 2 minutes que nous avons préparée pour vous :
 
