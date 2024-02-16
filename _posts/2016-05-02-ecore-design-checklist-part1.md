@@ -3,7 +3,7 @@ layout: post
 title: Metamodel (Ecore) Design Checklist - part 1
 categories: [eclipse]
 tags: [ecore, emf, eclipse]
-
+translation_fr: /eclipse/checklist-conception-ecore-partie1/
 ---
 
 **Be meticulous with the model describing your domain!**

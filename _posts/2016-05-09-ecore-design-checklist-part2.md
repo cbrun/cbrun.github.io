@@ -3,7 +3,7 @@ layout: post
 title: Metamodel (Ecore) Design Checklist - part 2
 categories: [eclipse]
 tags: [ecore, emf, eclipse]
-
+translation_fr: /eclipse/checklist-conception-ecore-partie2/
 ---
 
 This article is the second part of a series focusing on metamodel design (more especially Ecore models). 
@@ -90,98 +90,93 @@ If what you aim for is scalability and performance the capability to focus on a 
 Make sure your *.genmodel* is configured to leverage `MinimalEObjectImpl`. This is the default if you created your genmodel with a recent version of EMF, more information about this is available on [Ed's blog](https://ed-merks.blogspot.fr/2009/01/emf-ultra-slim-diet.html)
 
 ___
-
-
 ## Java
 
-### ☑ Multiple inheritance is not over-used
+### ☑ L'héritage multiple n'est pas surutilisé
 
 <img src="{{ site.url }}/images/blog/mutant-pony.png" style="float: right;">
 
 <br>
 
-Ecore allows for multiple inheritance. But in the end your Ecore model is transformed into Java code and Java only allows multiple interfaces to be implemented. 
+Ecore permet l'héritage multiple. Mais en fin de compte, votre modèle Ecore est transformé en code Java et Java permet uniquement la mise en œuvre de multiples interfaces.
 
-The EMF code generator hides that for you and might ends up duplicating code to make sure everything works as expected. A few things to keep in mind:
+Le générateur de code EMF masque cela pour vous et pourrait finir par dupliquer du code pour s'assurer que tout fonctionne comme prévu. Quelques points à garder à l'esprit :
 
-* the order of the inheritance matters: the implementation class will extends the implementation class of the **first** EClass in the list of supertypes, the subsequent classes will lead to duplicated code.
-* just like for Object Oriented designs, having a lot of multiple inheritance screams of a design which is not really splitting concerns (or not the right ones)
+* l'ordre de l'héritage est important : la classe d'implémentation étendra la classe d'implémentation de la **première** EClass dans la liste des supertypes, les classes suivantes entraîneront une duplication de code.
+* tout comme pour les conceptions orientées objet, avoir beaucoup d'héritage multiple indique un design qui ne sépare pas vraiment les préoccupations (ou pas les bonnes)
 
-### ☑ Custom DataType are used in every situation where it makes sense
+### ☑ Les DataTypes personnalisés sont utilisés dans chaque situation où cela a du sens
 
-EMF provides off-the-shelve datatypes for *Strings*, *Integer*, *Float*, *Long* and their primitive counterparts as *EString*, *EInt* ...
+EMF fournit des datatypes prêts à l'emploi pour les *Strings*, *Integer*, *Float*, *Long* et leurs équivalents primitifs comme *EString*, *EInt* ...
 
 <figure>
     <a href="{{ site.url }}/images/blog/datatype1.png"><img src="{{ site.url }}/images/blog/datatype1.png"></a>    
-    <figcaption>cutieMark is open-ended, designed as a String</figcaption>
+    <figcaption>cutieMark est ouvert, conçu comme un String</figcaption>
 </figure>
 
-But *String* is a technical concern and it might make the design more evident to replace usages of *EString* by your own EDataType if it express a domain specific type, even if you keep it mapped to ``java.lang.String``.
-It makes the Ecore model more explicit and paves the way for a behavior which can be specific to this particular type.
+Mais *String* est une préoccupation technique et il pourrait rendre la conception plus évidente de remplacer les usages de *EString* par votre propre EDataType s'il exprime un type spécifique au domaine, même si vous le conservez mappé sur ``java.lang.String``.
+Cela rend le modèle Ecore plus explicite et ouvre la voie à un comportement qui peut être spécifique à ce type particulier.
 
 <figure>
     <a href="{{ site.url }}/images/blog/datatype2.png"><img src="{{ site.url }}/images/blog/datatype2.png"></a>    
-    <figcaption>We are now sure we won't misinterpret cutiemarks with something else</figcaption>
+    <figcaption>Nous sommes maintenant sûrs de ne pas interpréter les cutiemarks avec autre chose</figcaption>
 </figure>
 
-If your custom datatype is not mapped to a very standard Java type, then make sure your implementation **is compliant with the equals/hashcode contract** otherwise tools like EMF Compare will have no mean to compare those individual values.
+Si votre datatype personnalisé n'est pas mappé à un type Java très standard, assurez-vous alors que votre implémentation **respecte le contrat equals/hashcode** sinon des outils comme EMF Compare n'auront aucun moyen de comparer ces valeurs individuelles.
 
-### ☑ The .genmodel output folders are specified or made empty
+### ☑ Les dossiers de sortie du .genmodel sont spécifiés ou nuls
 
-A simple right-click, *Generate All* action on the genmodel should give the result you intend. Don't rely on peoples **knowing** before-hand that you should only generate the `model` and `edit` plugin for instance.
-Don't make them think about such things.
+Une simple action de clic droit, *Generate All* sur le genmodel devrait donner le résultat que vous souhaitez. Ne comptez pas sur le fait que les gens **savent** à l'avance que vous devriez uniquement générer les plugins `model` et `edit` par exemple.
+Ne les faites pas réfléchir à ce genre de choses.
 
-You can do so in making the corresponding `[...] Directory` properties empty in the genpackage instance.
+Vous pouvez le faire en rendant vides les propriétés `[...] Directory` correspondantes dans l'instance genpackage.
 
 <figure>
     <a href="{{ site.url }}/images/blog/empty-tests-directory.png"><img src="{{ site.url }}/images/blog/empty-tests-directory.png"></a>    
-    <figcaption>Emptying the Tests Directory property</figcaption>
+    <figcaption>Vider la propriété du répertoire de tests</figcaption>
 </figure>
 
-The editor will then adapt its contextual menu and *Generate all* will not launch the tests generation.
+L'éditeur adaptera alors son menu contextuel et *Generate all* ne lancera pas la génération des tests.
 
 <figure>
     <a href="{{ site.url }}/images/blog/disabled-gen.png"><img src="{{ site.url }}/images/blog/disabled-gen.png"></a>    
-    <figcaption>Un-used generations are disabled</figcaption>
+    <figcaption>Les générations non utilisées sont désactivées</figcaption>
 </figure>
 
-Also it is generally better to use `src-gen` instead of `src` as the final folder, take the chance to update that at the same time.
+De plus, il est généralement préférable d'utiliser `src-gen` au lieu de `src` comme dossier final, profitez-en pour mettre à jour cela en même temps.
 
 <figure>
     <a href="{{ site.url }}/images/blog/srcgen-model-directory.png"><img src="{{ site.url }}/images/blog/srcgen-model-directory.png"></a>    
-    <figcaption>Use src-gen as an output directory by default</figcaption>
+    <figcaption>Utiliser src-gen comme répertoire de sortie par défaut</figcaption>
 </figure>
 
+### ☑ Le paquet de base du .genmodel est spécifié
 
-### ☑ The .genmodel base package is specified
-
-Set the `base package` property in the *.genmodel* file as it drives your Java namespace. You should **never introduce empty EPackages** to get the Java namespace result you want but instead you should use the `base package` property.
+Définissez la propriété `paquet de base` dans le fichier *.genmodel* car elle détermine votre espace de noms Java. Vous ne devriez **jamais introduire de EPackages vides** pour obtenir le résultat de l'espace de noms Java que vous souhaitez, mais vous devriez plutôt utiliser la propriété `paquet de base`.
 
 <figure>
     <a href="{{ site.url }}/images/blog/basepackage.png"><img src="{{ site.url }}/images/blog/basepackage.png"></a>    
-    <figcaption>Specifying the base package in the genmodel properties</figcaption>
+    <figcaption>Spécification du paquet de base dans les propriétés du genmodel</figcaption>
 </figure>
 
 
 ___
 
-That's it for now. If you start with this checklist you will have covered the basics. 
+C'est tout pour le moment. Si vous commencez avec cette liste de contrôle, vous aurez couvert les bases.
 
 <!---
-A condensed version listing all the rules of the articles is available on [this webpage](../ecore-design-checklist).
+Une version condensée listant toutes les règles des articles est disponible sur [cette page web](../ecore-design-checklist).
 -->
 
-My goal with EcoreTools is to assist you in taking care of those aspects, that's why many of those rules are illustrated by specific features of this diagram editor. 
-You will find this tool in the [Eclipse Modeling Package](https://www.eclipse.dev/downloads/packages/) and the [EcoreTools website](https://www.eclipse.dev/ecoretools/doc/) covers how to get started with it. 
+Mon objectif avec EcoreTools est de vous aider à prendre en compte ces aspects, c'est pourquoi de nombreuses règles sont illustrées par des fonctionnalités spécifiques de cet éditeur de diagrammes. 
+Vous trouverez cet outil dans le [Package de modélisation Eclipse](https://www.eclipse.dev/downloads/packages/) et le site web [EcoreTools](https://www.eclipse.dev/ecoretools/doc/) explique comment commencer à l'utiliser.
 
-Give it a shot, it's all Open-Source and part of Eclipse! 
+Essayez-le, tout est Open-Source et fait partie d'Eclipse !
 
 <br>
 <br>
 
-*Credits: thanks to Pierre-Charles and [Mélanie](https://melb.enix.org/) for the proof-reading, [Jan](https://twitter.com/jankoehnlein/status/729930181289349120) for bringing a new item and Roxanne for some of the ponies.*
-
-
+*Crédits : merci à Pierre-Charles et [Mélanie](https://melb.enix.org/) pour la relecture, [Jan](https://twitter.com/jankoehnlein/status/729930181289349120) pour avoir apporté un nouvel élément et Roxanne pour certains des poneys.*
 
 
 
