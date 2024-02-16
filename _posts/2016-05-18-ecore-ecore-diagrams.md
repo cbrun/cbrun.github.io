@@ -3,6 +3,7 @@ layout: post
 title: Ecore.ecore using EcoreTools
 categories: [eclipse]
 tags: [ecore, eclipse, ecoretools]
+translation_fr: /eclipse/ecore-ecore-diagrammes/
 ---
 
 A few weeks ago I ended up on the following thread on the [EMF Forum](https://www.eclipse.dev/forums/index.php/f/108/) asking for [Ecore meta-model formal documentation?](https://www.eclipse.dev/forums/index.php/t/1076719/).
