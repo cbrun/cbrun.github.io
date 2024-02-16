@@ -4,8 +4,8 @@ title: Obeo Fête Ses 10 Ans
 categories: [eclipse]
 tags: [eclipse, obeo, startup]
 lang: fr
-permalink: /eclipse/obeo-dix-ans/
-translation_en:/eclipse/ten-years/
+permalink : /eclipse/obeo-dix-ans/
+translation_en : /eclipse/ten-years/
 ---
 
 Obeo a célébré son 10ème anniversaire il y a quelques jours. Si vous classez les nombres par leur puissance symbolique, le nombre 10 est probablement assez haut dans la liste. Il devrait au moins vous faire regarder en arrière pour voir ce que vous avez accompli. Dans notre cas, cela nous a également amenés à redessiner notre logo.
