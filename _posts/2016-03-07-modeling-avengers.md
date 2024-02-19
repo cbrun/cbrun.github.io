@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modeling Avengers : OSS Technology Mix for Saving the World 
+title: "Modeling Avengers : OSS Technology Mix for Saving the World"
 categories: [talk]
 tags: [emf, acceleo, sirius, ecoretools,optaplanner, dsl, xtext]
 ---
