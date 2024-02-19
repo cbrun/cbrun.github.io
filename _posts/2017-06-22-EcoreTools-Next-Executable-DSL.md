@@ -22,9 +22,12 @@ Remember, we're still refining ALE, and your feedback is crucial for its evoluti
 
 So, brace yourselves for a dive into the world of executable DSLs with ALE – making the complex, accessible!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x4viqEFN7PU?si=wPAzy9LR7ODHaxNp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x4viqEFN7PU?si=wPAzy9LR7ODHaxNp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
 
-[EcoreTools-Next: Executable DSL made (more) accessible](https://cedric.brun.io/talks/EclipseConFR2017/ALE_talk.pdf) at EclipseCon France 2017, Toulouse  [video](https://www.youtube.com/watch?v=x4viqEFN7PU)
+
+
+
 
 Here are five key questions answered in the talk:
 
@@ -42,3 +45,6 @@ Here are five key questions answered in the talk:
 
 **What about the experiment of generating Java code and its performance comparison with AQL interpretation?**
    - Answer: There's an ongoing experiment to generate Java code to validate and compare its performance and use against AQL interpretation. This comparison will help understand the trade-offs, like whether being three or four times slower is acceptable or if it's significantly slower.
+
+   
+[EcoreTools-Next: Executable DSL made (more) accessible](https://cedric.brun.io/talks/EclipseConFR2017/ALE_talk.pdf) at EclipseCon France 2017, Toulouse  [video](https://www.youtube.com/watch?v=x4viqEFN7PU)
