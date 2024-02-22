@@ -2,7 +2,7 @@
 layout: post
 title: 'North America, here we come!'
 categories: [obeo]
-tags: [eclipse, eclipsecon]
+tags: [eclipse, eclipsecon, obeo]
 ---
 
 Industries are relying either on ad hoc or rigid tools for systems engineering. Either the tool is built “in-house” and grow organically or it is bought to one of the big software vendors and then the company have to adapt its practices and teams to use it. Such software vendors might use every opportunity to lock in their users, in both cases the tool longevity is quite uncertain.
