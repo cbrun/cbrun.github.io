@@ -33,8 +33,7 @@ owner:
   disqus-shortname: 
   twitter: bruncedric
   facebook: #username
-  google:
-    analytics: UA-60481050-1
+  google:    
     verify: 
     ad-client: 
     ad-slot: 
