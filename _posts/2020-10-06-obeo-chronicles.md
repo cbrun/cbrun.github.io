@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Obeo's Chronicles, Autumn 2020
-categories: [eclipse]
+categories: [obeo]
 tags: [eclipse, obeo, ecology]
 translation_fr: /eclipse/obeo-chroniques-2020/
 ---

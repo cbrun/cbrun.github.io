@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Interview by Strumenta
-categories: [modeling]
-categories: [eclipse]
+categories: [obeo]
 tags: [modeling, emf, eclipse, sirius, opensource]
 ---
 

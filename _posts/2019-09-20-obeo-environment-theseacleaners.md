@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's Do It! Obeo loves The SeaCleaners
-categories: [eclipse]
+categories: [obeo]
 tags: [eclipse, obeo, ecology]
 ---
 

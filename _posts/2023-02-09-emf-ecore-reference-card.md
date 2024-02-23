@@ -2,7 +2,6 @@
 layout: post
 title: Do you know Ecore? Looking for a reference card?
 categories: [modeling]
-categories: [eclipse]
 tags: [modeling, emf, eclipse, sirius, opensource, ecore]
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: What if you could design, simulate and analyze all at once using Open-Source solutions?
 categories: [modeling]
-categories: [eclipse]
 tags: [modeling, emf, eclipse, sirius, opensource, jupyter]
 ---
 

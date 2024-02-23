@@ -2,7 +2,6 @@
 layout: post
 title: Building Graphical Modeling Tools, Approaches to Reducing Complexity
 categories: [modeling]
-categories: [eclipse]
 tags: [modeling, emf, eclipse, sirius]
 ---
 
