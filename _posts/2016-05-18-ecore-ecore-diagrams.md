@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ecore.ecore using EcoreTools
-categories: [eclipse]
+categories: [modeling]
 tags: [ecore, eclipse, ecoretools]
 translation_fr: /eclipse/ecore-ecore-diagrammes/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checklist de conception de métamodèle (Ecore) - partie 2
-categories: [eclipse]
+categories: [modeling]
 tags: [ecore, emf, eclipse]
 permalink: /eclipse/checklist-conception-ecore-partie2/
 lang: fr

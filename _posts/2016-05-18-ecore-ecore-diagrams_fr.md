@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Utilisation d'Ecore.ecore avec EcoreTools
-categories: [eclipse]
+categories: [modeling]
 tags: [ecore, eclipse, ecoretools]
 translation_en : /eclipse/ecore-ecore-diagrams/
 lang: fr

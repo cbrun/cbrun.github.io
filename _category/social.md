@@ -1,5 +1,5 @@
 ---
 title: Social
 category: social
-description: "Social Media posts"
+description: "Some archive of my social Media posts"
 ---
