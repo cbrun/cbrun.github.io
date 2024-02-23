@@ -13,7 +13,7 @@
 				    {% endif %}
 				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 			   {% endfor %}
-			    {% for category in site.categories %}
+			   {% for category in site.categories %}
 			    <li>
 			        <a href="/category/{{ category[0] | slugify }}">
 			            {{ category[0] }}
