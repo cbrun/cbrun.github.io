@@ -1,5 +1,5 @@
 ---
-title: Social
+title: "Misc."
 category: social
-description: "Some archive of my social Media posts."
+description: "Some archive of my social media posts and miscellaneous things."
 ---
