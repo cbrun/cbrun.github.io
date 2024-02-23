@@ -16,6 +16,19 @@ sass:
 lang: en
 
 
+collections:
+  category:
+    output: true # générer la page HTML
+    permalink: /:collection/:name/index.html
+    
+defaults:
+  - scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
