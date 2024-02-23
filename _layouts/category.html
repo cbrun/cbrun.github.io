@@ -36,14 +36,20 @@
     <h1>{{ page.title }}</h1>
 		<p class="notice">{{ page.description }}</p>
     {% for post in site.categories[page.category] %}
+     {% if post_index0 == forloop.index %}
+     {% assign next_post = post %}
+     {% endif %}
+     {% if post_index1 == forloop.index0 %}
+     {% assign prev_post = post %}
+     {% endif %}
     {% unless post.translation_en %}
     {% unless post.draft %}
     {% unless post.noindex %}
-    {% unless post.next %}    
+    {% unless post.next %}  
       <h3>{{ post.date | date: '%Y' }}</h3>
       {% else %}
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ next_post.date | date: '%Y' }}{% endcapture %}
         {% if year != nyear %}
           <h3>{{ post.date | date: '%Y' }}</h3>
         {% endif %}
