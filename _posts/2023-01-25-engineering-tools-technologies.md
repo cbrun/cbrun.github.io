@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are your engineering tools built on top of strong and well-maintained technologies?
-categories: [oss]
+categories: [eclipse]
 tags: [modeling, emf, eclipse, sirius, opensource]
 ---
 
