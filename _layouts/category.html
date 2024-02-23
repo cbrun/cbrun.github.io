@@ -35,6 +35,21 @@
   <div id="index">
     <h1>{{ page.title }}</h1>
 		<p class="notice">{{ page.description }}</p>
+		
+	{% for post in site.categories[page.category] %}
+	    {% unless post.translation_en %}
+	    {% unless post.draft %}
+	    {% unless post.noindex %}
+	    {% unless post.next %}  
+		  {% if post.url == page.url %}
+		    {% assign post_index0 = forloop.index0 %}
+		    {% assign post_index1 = forloop.index %}
+		  {% endif %}
+	    {% endunless %}
+	    {% endunless %}
+	    {% endunless %}
+    {% endfor %}
+    
     {% for post in site.categories[page.category] %}
      {% if post_index0 == forloop.index %}
      {% assign next_post = post %}
