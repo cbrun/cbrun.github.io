@@ -8,10 +8,332 @@ tags:
 - compare
 - transformation
 - preview
+categories: [modeling]
 modified_time: '2011-10-18T08:47:56.157-07:00'
 thumbnail: https://4.bp.blogspot.com/-y0egF8rjm6Y/Tp2YUkJLHFI/AAAAAAAAAn4/U-tzStIFPJY/s72-c/compare-transfo-uml.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6296517877997441289
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/10/model-transformation-preview.html
 ---
 
-Let's say you have a model to model transformation, and you want to provide the ability, for the end-user, to<b> see and control what is going to be applied on the target model</b>. How could you do that ? EMF compare might do the trick..<br /><br />Here is a trivial model transformation, renaming all Classes which are "abstract" by adding a prefix to their name :<br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace;"><br /></span><br /><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"></span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">public class ModelTransformer {</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>public void process(Resource res) {</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>Iterator<eobject> it = EcoreUtil.getAllProperContents(res, true);</eobject></span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>while (it.hasNext()) {</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>EObject eobj = it.next();</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>if (eobj instanceof Class) {</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">    </span>renameifAbstract((Class)eobj);</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>}</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>}</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>}</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>private void renameifAbstract(Class eobj) {</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>if (eobj.isAbstract() &amp;&amp; !eobj.getName().startsWith("Abstract")) {</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>eobj.setName("Abstract" + eobj.getName());</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>}</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>}</span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span><br /><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">}</span><br /><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><br /><div>The orchestrator of this process has the following responsabilities : loading the original models, transforming those, and then opening the comparison preview, here is the code coming from an action :</div><div><br /></div><div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">protected void transformModelsAndOpenComparison() throws InterruptedException, PartInitException,</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>InvocationTargetException {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>ResourceSet future = new ResourceSetImpl();</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>for (URI uri : selectedURI) {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>future.getResource(uri, true);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>}</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>ModelTransformer transformer = new ModelTransformer();</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>for (Resource res : future.getResources()) {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>transformer.process(res);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>}</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>new DifferencePreview(future).compareWithExisting();</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>}</span></div></div><div><br /></div><div><i>Future</i> contains all the models <b>after</b> they have been transformed. &nbsp;Now the interesting part is in the DifferencePreview class :</div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">public class DifferencePreview {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>private ResourceSet now = new ResourceSetImpl();</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>private ResourceSet future;</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>public DifferencePreview(ResourceSet output) {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>future = output;</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>}</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>public void compareWithExisting() throws InterruptedException, PartInitException,</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>InvocationTargetException {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>for (Resource futureRes : future.getResources()) {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>now.getResource(futureRes.getURI(), true);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>}</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>MatchResourceSet match = MatchService.doResourceSetMatch(future, now, Collections.EMPTY_MAP);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>DiffResourceSet diff = DiffService.doDiff(match);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>ComparisonResourceSetSnapshot snap = DiffFactory.eINSTANCE.createComparisonResourceSetSnapshot();</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>snap.setDiffResourceSet(diff);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>snap.setMatchResourceSet(match);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>ModelCompareEditorInput input = new ModelCompareEditorInput(snap);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>CompareServices.openEditor(input, Collections.EMPTY_LIST);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>}</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">}</span></div></div><div><br /></div><div><i>Now </i>contains the state of the models as it's serialized on the filesystem. &nbsp;We starts by constructing the <i>Now</i> resourceset getting all the resources which are present in the <i>Future</i> one. Then we call emf compare to compute the required <b>match</b> and <b>diff</b> , forge an editor input and open it.</div><div><br /></div><div>How does it look like then ?&nbsp;</div><div class="separator" style="clear: both; text-align: center;"></div><div><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://4.bp.blogspot.com/-y0egF8rjm6Y/Tp2YUkJLHFI/AAAAAAAAAn4/U-tzStIFPJY/s1600/compare-transfo-uml.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="312" src="https://4.bp.blogspot.com/-y0egF8rjm6Y/Tp2YUkJLHFI/AAAAAAAAAn4/U-tzStIFPJY/s640/compare-transfo-uml.png" width="640" /></a></div><div><br /></div><div><br /></div><div>Pretty easy huh ?&nbsp;</div><div><br /></div><div>Now let's say you want to allow the end user to customize your output model and allow him to see when the changes coming from the transformation are in conflict with his customizations. Its getting more interesting : &nbsp;to do so you will need to have a version of the model which <b>has been untouched by the end user</b> and use it as the ancestor. You need to decide where to keep this data and how to prevent the end user to edit it. It's up to your use case, it might be a file next to the output file, it can be in the Eclipse metadata.. Here for the example we'll just use files with <i>a ".ancestor" suffix (see getAncestorURI) .</i></div><div><br /></div><div>Anyway, then you'll need to move to<b> three way comparison </b>:</div><div><br /></div><div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">public class DifferencePreviewWithConflictDetection {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>private ResourceSet now = new ResourceSetImpl();</span></div><div><span class="Apple-tab-span" style="white-space: pre;"><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"> </span></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span><b>private ResourceSet ancestor = new ResourceSetImpl();</b></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>private ResourceSet future;</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>public DifferencePreviewWithConflictDetection(ResourceSet output) {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>future = output;</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>}</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>public void compareWithExisting() throws InterruptedException, PartInitException,</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>InvocationTargetException {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>for (Resource futureRes : future.getResources()) {</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span>now.getResource(futureRes.getURI(), true);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">   </span><b>ancestor.getResource(getAncestorURI(futureRes.getURI()),true);</b></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>}</span></div><div><span class="Apple-tab-span" style="white-space: pre;"><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">  </span></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>MatchResourceSet match = MatchService.doResourceSetMatch(now, future,<span class="Apple-style-span" style="color: red;"> <b>ancestor</b></span>, Collections.EMPTY_MAP);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>DiffResourceSet diff = DiffService.doDiff(match,<b><span class="Apple-style-span" style="color: red;">true</span></b>);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>ComparisonResourceSetSnapshot snap = DiffFactory.eINSTANCE.createComparisonResourceSetSnapshot();</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>snap.setDiffResourceSet(diff);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>snap.setMatchResourceSet(match);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>ModelCompareEditorInput input = new ModelCompareEditorInput(snap);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;">  </span>CompareServices.openEditor(input, Collections.EMPTY_LIST);</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span>}</span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span" style="white-space: pre;"> </span><b>private URI getAncestorURI(URI uri) {</b></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><b><span class="Apple-tab-span" style="white-space: pre;">  </span>return uri.appendFileExtension("ancestor");</b></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><b><span class="Apple-tab-span" style="white-space: pre;"> </span>}</b></span></div><div><span class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">}</span></div></div><div><br /></div><div>And now what happens if the user decides to update the name of an abstract class, here <b>LibraryElement</b>&nbsp;got renamed in <b>AnyElement</b>&nbsp;...</div><div><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-unvCHxpBwNQ/Tp2YWL4V92I/AAAAAAAAAoA/uUeXdcbz3yY/s1600/compare-transfo-uml-conflict.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="312" src="https://2.bp.blogspot.com/-unvCHxpBwNQ/Tp2YWL4V92I/AAAAAAAAAoA/uUeXdcbz3yY/s640/compare-transfo-uml-conflict.png" width="640" /></a></div><div><br /></div><div>That's right, <b>we have a conflict </b>!&nbsp;</div><div><br /></div><div>It's a pretty simple example of what you can achieve using emf compare and how you can reuse it in your tooling. The model comparison editor which opens then is slightly different from the one you have &nbsp;using SCM operations and has less features (it does not provide the latest capabilities regarding diff filtering). It is also probably not the best fit for end users if many conflicts have to be handled, you might want a wizard in these cases. These are open subjects left as an exercice to the reader. &nbsp;We are clearly missing building blocks regarding ui so far.</div><div><br /></div><div>On the newsgroup, bugzilla or during conferences we are often amazed to see how adopters are re-using the technology for their use case, <b>keep telling us</b><i>,</i> we like to know !</div><div><br /></div><div>Next steps ? Plugging this with an <a href="https://eclipse.org/atl/">ATL</a> transformation or using the scoping mechanisms (<i>IMatchScope</i>) to ignore parts of the model we don't want to check, we'll see.. Stay tuned.</div><div><br /></div>
+Let's say you have a model to model transformation, and you want to provide the ability, for the end-user, to<b> see and
+	control what is going to be applied on the target model</b>. How could you do that ? EMF compare might do the
+trick..<br /><br />Here is a trivial model transformation, renaming all Classes which are "abstract" by adding a prefix
+to their name :<br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace;"><br /></span><br /><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"></span><br /><span
+	class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">public class
+	ModelTransformer {</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span><br /><span
+	class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span
+		class="Apple-tab-span" style="white-space: pre;"> </span>public void process(Resource res) {</span><br /><span
+	class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span
+		class="Apple-tab-span" style="white-space: pre;"> </span>Iterator<eobject> it =
+		EcoreUtil.getAllProperContents(res, true);</eobject></span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+		style="white-space: pre;"> </span>while (it.hasNext()) {</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+		style="white-space: pre;"> </span>EObject eobj = it.next();</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+		style="white-space: pre;"> </span>if (eobj instanceof Class) {</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+		style="white-space: pre;"> </span>renameifAbstract((Class)eobj);</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+		style="white-space: pre;"> </span>}</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+		style="white-space: pre;"> </span>}</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+		style="white-space: pre;"> </span>}</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span><br /><span
+	class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span
+		class="Apple-tab-span" style="white-space: pre;"> </span>private void renameifAbstract(Class eobj)
+	{</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+		style="white-space: pre;"> </span>if (eobj.isAbstract() &amp;&amp; !eobj.getName().startsWith("Abstract"))
+	{</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+		style="white-space: pre;"> </span>eobj.setName("Abstract" + eobj.getName());</span><br /><span
+	class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span
+		class="Apple-tab-span" style="white-space: pre;"> </span>}</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+		style="white-space: pre;"> </span>}</span><br /><span class="Apple-style-span"
+	style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span><br /><span
+	class="Apple-style-span" style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">}</span><br />
+<div><span class="Apple-style-span"
+		style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div><br />
+<div>The orchestrator of this process has the following responsabilities : loading the original models, transforming
+	those, and then opening the comparison preview, here is the code coming from an action :</div>
+<div><br /></div>
+<div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">protected void
+			transformModelsAndOpenComparison() throws InterruptedException, PartInitException,</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>InvocationTargetException {</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>ResourceSet future = new ResourceSetImpl();</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>for (URI uri : selectedURI) {</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>future.getResource(uri, true);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>}</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>ModelTransformer transformer = new ModelTransformer();</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>for (Resource res : future.getResources()) {</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>transformer.process(res);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>}</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>new DifferencePreview(future).compareWithExisting();</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>}</span></div>
+</div>
+<div><br /></div>
+<div><i>Future</i> contains all the models <b>after</b> they have been transformed. &nbsp;Now the interesting part is in
+	the DifferencePreview class :</div>
+<div><span class="Apple-style-span"
+		style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+<div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">public class DifferencePreview
+			{</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>private ResourceSet now = new ResourceSetImpl();</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>private ResourceSet future;</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>public DifferencePreview(ResourceSet output) {</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>future = output;</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>}</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>public void compareWithExisting() throws InterruptedException,
+			PartInitException,</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>InvocationTargetException {</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>for (Resource futureRes : future.getResources()) {</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>now.getResource(futureRes.getURI(), true);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>}</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>MatchResourceSet match = MatchService.doResourceSetMatch(future, now,
+			Collections.EMPTY_MAP);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>DiffResourceSet diff = DiffService.doDiff(match);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>ComparisonResourceSetSnapshot snap =
+			DiffFactory.eINSTANCE.createComparisonResourceSetSnapshot();</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>snap.setDiffResourceSet(diff);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>snap.setMatchResourceSet(match);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>ModelCompareEditorInput input = new
+			ModelCompareEditorInput(snap);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>CompareServices.openEditor(input, Collections.EMPTY_LIST);</span>
+	</div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>}</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">}</span></div>
+</div>
+<div><br /></div>
+<div><i>Now </i>contains the state of the models as it's serialized on the filesystem. &nbsp;We starts by constructing
+	the <i>Now</i> resourceset getting all the resources which are present in the <i>Future</i> one. Then we call emf
+	compare to compute the required <b>match</b> and <b>diff</b> , forge an editor input and open it.</div>
+<div><br /></div>
+<div>How does it look like then ?&nbsp;</div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<div><br /></div>
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://4.bp.blogspot.com/-y0egF8rjm6Y/Tp2YUkJLHFI/AAAAAAAAAn4/U-tzStIFPJY/s1600/compare-transfo-uml.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="312"
+			src="https://4.bp.blogspot.com/-y0egF8rjm6Y/Tp2YUkJLHFI/AAAAAAAAAn4/U-tzStIFPJY/s640/compare-transfo-uml.png"
+			width="640" /></a></div>
+<div><br /></div>
+<div><br /></div>
+<div>Pretty easy huh ?&nbsp;</div>
+<div><br /></div>
+<div>Now let's say you want to allow the end user to customize your output model and allow him to see when the changes
+	coming from the transformation are in conflict with his customizations. Its getting more interesting : &nbsp;to do
+	so you will need to have a version of the model which <b>has been untouched by the end user</b> and use it as the
+	ancestor. You need to decide where to keep this data and how to prevent the end user to edit it. It's up to your use
+	case, it might be a file next to the output file, it can be in the Eclipse metadata.. Here for the example we'll
+	just use files with <i>a ".ancestor" suffix (see getAncestorURI) .</i></div>
+<div><br /></div>
+<div>Anyway, then you'll need to move to<b> three way comparison </b>:</div>
+<div><br /></div>
+<div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">public class
+			DifferencePreviewWithConflictDetection {</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>private ResourceSet now = new ResourceSetImpl();</span></div>
+	<div><span class="Apple-tab-span" style="white-space: pre;"><span class="Apple-style-span"
+				style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"> </span></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span><b>private ResourceSet ancestor = new ResourceSetImpl();</b></span>
+	</div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>private ResourceSet future;</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>public DifferencePreviewWithConflictDetection(ResourceSet output)
+			{</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>future = output;</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>}</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>public void compareWithExisting() throws InterruptedException,
+			PartInitException,</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>InvocationTargetException {</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>for (Resource futureRes : future.getResources()) {</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>now.getResource(futureRes.getURI(), true);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;">
+			</span><b>ancestor.getResource(getAncestorURI(futureRes.getURI()),true);</b></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>}</span></div>
+	<div><span class="Apple-tab-span" style="white-space: pre;"><span class="Apple-style-span"
+				style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"> </span></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>MatchResourceSet match = MatchService.doResourceSetMatch(now,
+			future,<span class="Apple-style-span" style="color: red;"> <b>ancestor</b></span>,
+			Collections.EMPTY_MAP);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>DiffResourceSet diff = DiffService.doDiff(match,<b><span
+					class="Apple-style-span" style="color: red;">true</span></b>);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>ComparisonResourceSetSnapshot snap =
+			DiffFactory.eINSTANCE.createComparisonResourceSetSnapshot();</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>snap.setDiffResourceSet(diff);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>snap.setMatchResourceSet(match);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>ModelCompareEditorInput input = new
+			ModelCompareEditorInput(snap);</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>CompareServices.openEditor(input, Collections.EMPTY_LIST);</span>
+	</div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span>}</span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><br /></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><span class="Apple-tab-span"
+				style="white-space: pre;"> </span><b>private URI getAncestorURI(URI uri) {</b></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><b><span class="Apple-tab-span"
+					style="white-space: pre;"> </span>return uri.appendFileExtension("ancestor");</b></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;"><b><span class="Apple-tab-span"
+					style="white-space: pre;"> </span>}</b></span></div>
+	<div><span class="Apple-style-span"
+			style="font-family: 'Courier New', Courier, monospace; font-size: xx-small;">}</span></div>
+</div>
+<div><br /></div>
+<div>And now what happens if the user decides to update the name of an abstract class, here
+	<b>LibraryElement</b>&nbsp;got renamed in <b>AnyElement</b>&nbsp;...</div>
+<div><br /></div>
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://2.bp.blogspot.com/-unvCHxpBwNQ/Tp2YWL4V92I/AAAAAAAAAoA/uUeXdcbz3yY/s1600/compare-transfo-uml-conflict.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="312"
+			src="https://2.bp.blogspot.com/-unvCHxpBwNQ/Tp2YWL4V92I/AAAAAAAAAoA/uUeXdcbz3yY/s640/compare-transfo-uml-conflict.png"
+			width="640" /></a></div>
+<div><br /></div>
+<div>That's right, <b>we have a conflict </b>!&nbsp;</div>
+<div><br /></div>
+<div>It's a pretty simple example of what you can achieve using emf compare and how you can reuse it in your tooling.
+	The model comparison editor which opens then is slightly different from the one you have &nbsp;using SCM operations
+	and has less features (it does not provide the latest capabilities regarding diff filtering). It is also probably
+	not the best fit for end users if many conflicts have to be handled, you might want a wizard in these cases. These
+	are open subjects left as an exercice to the reader. &nbsp;We are clearly missing building blocks regarding ui so
+	far.</div>
+<div><br /></div>
+<div>On the newsgroup, bugzilla or during conferences we are often amazed to see how adopters are re-using the
+	technology for their use case, <b>keep telling us</b><i>,</i> we like to know !</div>
+<div><br /></div>
+<div>Next steps ? Plugging this with an <a href="https://eclipse.org/atl/">ATL</a> transformation or using the scoping
+	mechanisms (<i>IMatchScope</i>) to ignore parts of the model we don't want to check, we'll see.. Stay tuned.</div>
+<div><br /></div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eclipse Sirius and Obeo Designer
-categories: [eclipse]
+categories: [obeo]
 excerpt: "Now that one of the major Obeo Designer Technologies is Open-Source you might wonder how we get to employ close to 60 people. [..]"
 ---
 

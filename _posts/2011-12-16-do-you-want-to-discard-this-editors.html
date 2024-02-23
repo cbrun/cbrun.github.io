@@ -5,6 +5,7 @@ date: '2011-12-16T09:55:00.000-08:00'
 tags:
 - emf compare
 - eclipse
+categories: [modeling]
 modified_time: '2011-12-16T09:55:56.778-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-4696937203004590569
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/12/do-you-want-to-discard-this-editors.html
@@ -18,20 +19,19 @@ change your model and some external changes (aka somebody else changed your file
 undestanding why he has to pick one or the other version as <b>most of the time these changes are not conflicting
 </b>!<br /><br />Is that the best we can do ? &nbsp;Another option is to compare both versions, detect conflicts, and if
 there is no conflicts, just merge the changes.<br /><br /><a
-	href="https://cedric.brun.io/images/blog/2011/step2-unsync.png"
-	imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0"
+	href="https://cedric.brun.io/images/blog/2011/step2-unsync.png" imageanchor="1"
+	style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0"
 		src="https://cedric.brun.io/images/blog/2011/step2-unsync.png" /></a><br /><br />Here
 I changed the number of pages in the EMF Book from the model, and changed the title through the textual editor. When
 going back on my editor, the comparison, conflict detection and then merge process happens and I get this
-:<br /><br /><a href="https://cedric.brun.io/images/blog/2011/step3-merged.png"
-	imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0"
+:<br /><br /><a href="https://cedric.brun.io/images/blog/2011/step3-merged.png" imageanchor="1"
+	style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0"
 		src="https://cedric.brun.io/images/blog/2011/step3-merged.png" /></a><br /><br />And
 when I have conflicts? &nbsp;Then the editor can't do much, right, at least it can helps you and show you the conflict
 :<br /><br />
 <div class="separator" style="clear: both; text-align: center;"><a
-		href="https://cedric.brun.io/images/blog/2011/step6-conflict-resolution.png"
-		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><br class="Apple-interchange-newline" /><img
-			border="0"
+		href="https://cedric.brun.io/images/blog/2011/step6-conflict-resolution.png" imageanchor="1"
+		style="margin-left: 1em; margin-right: 1em;"><br class="Apple-interchange-newline" /><img border="0"
 			src="https://cedric.brun.io/images/blog/2011/step6-conflict-resolution.png" /></a>
 </div>
 <div><br /></div><br /><br /><br />How is it implemented ? That's fairly easy using emf and it's <a

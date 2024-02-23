@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Obeo Fête Ses 10 Ans
-categories: [eclipse]
+categories: [obeo]
 tags: [eclipse, obeo, startup]
 lang: fr
 permalink : /eclipse/obeo-dix-ans/

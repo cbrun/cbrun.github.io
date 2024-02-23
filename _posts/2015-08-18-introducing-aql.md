@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  AQL - a new interpreter for Sirius
-categories: [eclipse]
+categories: [modeling]
 tags: [eclipse, acceleo, sirius]
 ---
 
