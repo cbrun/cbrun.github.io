@@ -5,14 +5,6 @@
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
-		       {% for link in site.data.navigation %}
-				    {% if link.url contains 'http' %}
-				        {% assign domain = '' %}
-				        {% else %}
-				        {% assign domain = site.url %}
-				    {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-			   {% endfor %}
 			   {% for category in site.categories %}
 			    <li>
 			        <a href="/category/{{ category[0] | slugify }}">
@@ -20,6 +12,14 @@
 			        </a>
 			    </li>
 			    {% endfor %}
+		       {% for link in site.data.navigation %}
+				    {% if link.url contains 'http' %}
+				        {% assign domain = '' %}
+				        {% else %}
+				        {% assign domain = site.url %}
+				    {% endif %}
+				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+			   {% endfor %}			    
 			   {% if page.translation_en %}                  
                	 <li><a href="{{ domain }}{{ page.translation_en  }}">🇬🇧</a></li>
                {% endif %}
