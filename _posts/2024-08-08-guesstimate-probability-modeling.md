@@ -7,7 +7,8 @@ tags:
   - modeling
   - eclipse
   - sirius
-  - opensource
+  - opensource  
+translation_fr: /modeling/guesstimate-modelisation-probabilite/
 ---
 
 As you might be enjoying your summer and browsing around here, let me show you a little prototype I’ve been developing on and off through several versions of Sirius Web.
