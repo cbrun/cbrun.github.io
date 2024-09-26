@@ -5,6 +5,12 @@ permalink: /talks/
 excerpt: "page on Cédric Brun's website showcases a comprehensive collection of his presentations and publications. It features talks and papers delivered at various conferences and events, reflecting his expertise in software engineering, open-source technology, and model-based engineering. This page serves as a valuable resource for those interested in Cédric's contributions to the field of software development and his role in advancing open-source initiatives and modeling technologies."
 lang: en
 ---
+
+## 2024
+[![](https://cedric.brun.io/talks/Models2024/thumbnail.png)](https://cedric.brun.io/talks/Models2024/Advancing_Web-Based_Modeling_Tools_with_Sirius_Web_An_Illustration_with_SysON.pdf) 
+Models 2024 - Industry Day, Vienna, Austria, September 2024
+
+
 ## 2023
 [![](https://cedric.brun.io/talks/EclipseCon2023/thumbnail.png)](https://cedric.brun.io/talks/EclipseCon2023/EclipseCon_SiriusPapyrus_Web.pdf) 
 * [(Sirius + Papyrus) × Web: a new Era for Collaborative Engineering tools](https://www.eclipsecon.org/2023/sessions/sirius-papyrus-%C3%97-web-new-era-collaborative-engineering-tools), EclipseCon 2023, Ludwigsburg, Germany , [video](https://www.youtube.com/watch?v=18MuxEVm6y0)
