@@ -7,6 +7,9 @@ lang: en
 ---
 
 ## 2024
+[![](https://cedric.brun.io/talks/OCX2024/thumbnail.png)](https://cedric.brun.io/talks/OCX2024/OCX Open Innovation unleashed.pdf) 
+Open Community Experience 2024 - Mainz, Germany, October 2024
+
 [![](https://cedric.brun.io/talks/Models2024/thumbnail.png)](https://cedric.brun.io/talks/Models2024/Advancing_Web-Based_Modeling_Tools_with_Sirius_Web_An_Illustration_with_SysON.pdf) 
 Models 2024 - Industry Day, Vienna, Austria, September 2024
 
