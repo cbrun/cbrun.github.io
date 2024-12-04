@@ -73,7 +73,7 @@ assets:
   cache: _cache/assets
   cachebust: hard
 
-include: [".htaccess"]
+include: [".htaccess",".well-known"]
 exclude:
   - lib
   - config.rb
