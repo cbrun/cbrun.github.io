@@ -6,7 +6,7 @@ excerpt: "Now that one of the major Obeo Designer Technologies is Open-Source yo
 ---
 
 <figure>
-    <img src="/images/open.png">
+    <img src="{{ site.url }}/images/open.png">
    <figcaption> Image credits <a href="https://www.flickr.com/photos/opensourceway/">opensourceway</a></figcaption>
 </figure>
 
