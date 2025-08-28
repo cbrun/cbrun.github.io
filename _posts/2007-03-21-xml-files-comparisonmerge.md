@@ -20,7 +20,7 @@ Thanks to the EMF/XSD project this feature just comes at no cost! If you create 
 
 Here’s a screenshot of the tool comparing two XML files coming from the well-known “Library” example (sorry I did not put nice icons on the models ;) )
 
-[![EMF Compare XML](https://1.bp.blogspot.com/_u5tMWln_Ie8/SXsDG5Moo5I/AAAAAAAAAFY/kxbeVOlsmFU/s400/emfcomparexml.png)](https://1.bp.blogspot.com/_u5tMWln_Ie8/SXsDG5Moo5I/AAAAAAAAAFY/kxbeVOlsmFU/s1600-h/emfcomparexml.png)
+[![EMF Compare XML]({{ site.url }}/images/blog/2007/xml-files-comparisonmerge/s400_emfcomparexml.png)](https://1.bp.blogspot.com/_u5tMWln_Ie8/SXsDG5Moo5I/AAAAAAAAAFY/kxbeVOlsmFU/s1600-h/emfcomparexml.png)
 
 The XSD project really should have more visibility, it’s obviously useful in many use cases where XML matters and EMF provides so many nice features, you should not miss that!
 

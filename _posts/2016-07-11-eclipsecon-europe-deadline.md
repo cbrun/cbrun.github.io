@@ -24,4 +24,4 @@ Here are a few things to consider:
 
 I wish I gave you the extra push you needed to move this task up in your schedule, go ahead and [submit your talk now !](https://www.eclipsecon.org/europe2016/cfp)
 
-![](https://media.giphy.com/media/xkmQfH1TB0dLW/giphy.gif)
+![]({{ site.url }}/images/blog/2016/eclipsecon-europe-deadline/giphy.gif)

@@ -26,7 +26,7 @@ Looking at the overall conference :
 * we had a lot of fun as a [Program Committee](https://www.eclipsecon.org/europe2015/about-pc){:target="_blank"}, we worked as a team and I'm quite proud of the result
 * the Eclipse community *is a family*, just look at how people react when you step in the bar, not even having unpacked your luggage yet, now compare with what happens when you meet family which you barely see each year. That's right. Same spirit.
 <figure>
-    <a href="https://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"><img src="https://c2.staticflickr.com/6/5830/22702507431_ec218fe85d_n.jpg"></a>    
+    <a href="{{ site.url }}/images/blog/2015/eclipsecon-europe-2015/22702507431_ec218fe85d_n.jpg"><img src="{{ site.url }}/images/blog/2015/eclipsecon-europe-2015/22702507431_ec218fe85d_n.jpg"></a>    
     <figcaption>ECE 2015 had an awesome program!</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ This version brings pleasants improvements to empower you in building **state of
 Because of all those changes we landed in this beautiful part of Germany with many topics to discuss and were ready for the wave of questions. Most of them should be anwered by [Maxime's presentation: Sirius 3.1 - Stronger, Faster and Smarter Diagram Editors](https://mporhel.github.io/slides/2015_EclipseConEU_Sirius31_StrongerFasterSmarter/#/){:target="_blank"} if you could not make it to the conference.
 
 <figure>
-    <a href="https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg"><img src="https://farm1.staticflickr.com/690/22761525601_1864b66937.jpg"></a>    
+    <a href="{{ site.url }}/images/blog/2015/eclipsecon-europe-2015/22761525601_1864b66937.jpg"><img src="{{ site.url }}/images/blog/2015/eclipsecon-europe-2015/22761525601_1864b66937.jpg"></a>    
     <figcaption>Obeo Team at ECE 2015</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ First, a lightning talk by Max Bureck : [A Sirius editor to define Sirius editor
 He actually designed an `.odesign` to design `.odesigns` with instant graphical feedback.
 
 <figure>
-    <a href="https://pbs.twimg.com/media/CN9yy2nWwAAlxIQ.png:large"><img src="https://pbs.twimg.com/media/CN9yy2nWwAAlxIQ.png:large"></a>    
+    <a href="{{ site.url }}/images/blog/2015/eclipsecon-europe-2015/CN9yy2nWwAAlxIQ.png:large"><img src="{{ site.url }}/images/blog/2015/eclipsecon-europe-2015/CN9yy2nWwAAlxIQ.png:large"></a>    
     <figcaption>EcoreTool's odesign</figcaption>
 </figure>
 
