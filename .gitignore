@@ -6,3 +6,4 @@ _site
 *.sublime-workspace
 codekit-config.json
 _asset_bundler_cache
+AGENTS.md
