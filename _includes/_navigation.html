@@ -19,8 +19,12 @@
                {% assign tag_slug = cat | slugify %}
                {% assign tag_doc = nil %}
                {% for d in site.tag %}
-                 {% if d.tag and d.tag | slugify == tag_slug %}
-                   {% assign tag_doc = d %}
+                 {% if d.tag %}
+                   {% assign d_slug = d.tag | slugify %}
+                   {% if d_slug == tag_slug %}
+                     {% assign tag_doc = d %}
+                     {% break %}
+                   {% endif %}
                  {% endif %}
                {% endfor %}
                {% if tag_doc %}
