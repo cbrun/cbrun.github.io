@@ -3,6 +3,7 @@ layout: post
 title: Are your engineering tools built on top of strong and well-maintained technologies?
 categories: [eclipse]
 tags: [modeling, emf, eclipse, sirius, opensource]
+excerpt: "Why well‑maintained OSS foundations matter for engineering tools—Sirius’ 12 releases in 2022 show reliability for teams betting long‑term, today."
 ---
 
 When you pick technologies to build tools empowering hundreds of your engineers, you aim at making the best choice. Open-Source is the best when you play the long term.
@@ -29,7 +30,6 @@ Building graphical modeling tools can be a complex undertaking, especially if th
     <a href="https://projects.eclipse.org/projects/modeling.sirius/releases/"><img src="{{ site.url }}/images/blog/2023/Sirius-2022-releases-hd.png"></a>
     <figcaption>Eclipse Sirius release records</figcaption>
 </figure>
-
 
 
 

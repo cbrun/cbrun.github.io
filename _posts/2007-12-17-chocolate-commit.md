@@ -13,6 +13,7 @@ modified_time: '2009-05-07T08:23:55.723-07:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/SXr20u9p90I/AAAAAAAAAD4/CbjZO2yJfPU/s72-c/img_2195.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7409205535843746444
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2008/01/chocolate-commit.html
+permalink: /chocolate-commit/
 ---
 
 At [work](https://www.obeosoft.com/fr/) we have a rule: if you commit something which does not compile, or that causes failure of the build, then you have to bring back a chocolates candies box.

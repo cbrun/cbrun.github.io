@@ -10,6 +10,7 @@ tags:
 modified_time: '2014-06-20T01:49:13.830-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-4092639446544312147
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2014/06/ecoretools-20-luna-revival.html
+permalink: /ecoretools-20-luna-revival/
 ---
 
 With Eclipse Luna comes a complete re-implementation of [EcoreTools](https://www.eclipse.dev/ecoretools), the diagram editor for Ecore. This matters because EcoreTools is often the first step our adopters have to go through; users expect a diagram editor to design a domain model.

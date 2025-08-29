@@ -13,6 +13,7 @@ modified_time: '2010-03-01T02:51:44.758-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5185109365815226815
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/03/unusual-propulsion-system.html
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/S4uG_Hn6LQI/AAAAAAAAAPY/Q4T8HWzh-T8/s72-c/AJL_7926_275.jpg
+permalink: /unusual-propulsion-system/
 ---
 
 It's been more than four years now since I joined the _just founded_ Obeo company and started to be involved in the Eclipse Community. I had the chance to join one of the few French companies integrating the **Free Software and OSS** movement in its business model and plans.
