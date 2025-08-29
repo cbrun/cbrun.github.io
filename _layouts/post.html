@@ -2,7 +2,7 @@
 <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="{{ page.lang }}"><!--<![endif]-->
 <head>
 {% include _head.html %}
 {% if page.amphtml %}    
@@ -69,7 +69,7 @@
     </div><!--/ .headline-wrap -->
 {% if page.translated %}
   {% for t in page.translations %}
-    <a href="{{ t.url }}">{{ t.lang | language_name }}</a>
+    <a rel="alternate"  hreflang="{{ t.lang }}" href="{{ t.url }}">{{ t.lang | language_name }}</a>
   {% endfor %}
 {% endif %}
     <div class="article-wrap">
