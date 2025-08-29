@@ -9,7 +9,6 @@ categories: [modeling]
 modified_time: '2010-03-01T00:37:42.802-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3398213415942634780
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2007/03/emf-compare-now-uses-xmiid.html
-draft: true
 ---
 
 The generic EMF comparison engine uses statistics in order to match elements. It compares their content, their type, the relations with other objects and their name. This process gives good results on many metamodels, especially specific ones, but it can be costly for instance on UML models because there are many attributes on each element. On the other side, big models and standard ones are often serialized in XMI using IDs.

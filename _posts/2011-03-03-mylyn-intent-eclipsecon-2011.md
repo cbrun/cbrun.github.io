@@ -11,7 +11,6 @@ modified_time: '2011-03-03T07:44:18.920-08:00'
 thumbnail: https://3.bp.blogspot.com/-eWRpNigecMc/TW-v4_J6L8I/AAAAAAAAAbk/0vE-Ksl34-I/s72-c/featurescapture.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8297330572755532929
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/03/mylyn-intent-eclipsecon-2011.html
-draft: true
 ---
 
 In case you're not aware (yet ;) ) the **Mylyn Intent** [proposal](https://www.eclipse.dev/proposals/mylyn.docs.intent/) is going forward — if everything goes well we'll be able to get a shiny git repository on Eclipse.org in the incoming weeks.

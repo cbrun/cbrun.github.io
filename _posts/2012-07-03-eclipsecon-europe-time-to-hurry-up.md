@@ -10,7 +10,6 @@ tags:
 modified_time: '2012-07-03T07:09:58.541-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-4804147991845328415
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2012/07/eclipsecon-europe-time-to-hurry-up.html
-draft: true
 ---
 
 ![EclipseCon Europe]({{ site.url }}/images/blog/2012/eclipsecon-europe-time-to-hurry-up/4293345633_d5e13e2927_o.jpg)

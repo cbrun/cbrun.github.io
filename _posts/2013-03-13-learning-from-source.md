@@ -11,7 +11,6 @@ tags:
 modified_time: '2013-03-13T14:12:59.868-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3148017163523875960
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2013/03/learning-from-source.html
-draft: true
 ---
 
 I don't know about you, but at Obeo we're preparing for EclipseCon North America. Eclipse Conferences are great; so many things are built on top of Eclipse or within the Eclipse projects. Tooling of course, but also rich applications, runtimes — you can get a clear vision of what's going on in these areas in just a few days being there. You could think: "all right, but he is an Eclipse committer, of course Eclipse conferences are interesting to him". Actually I'm also CTO at Obeo and when Obeo comes at EclipseCon it's not a one man trip. **Seven people from Obeo** will go this year to Boston; it's not unusual, and for a company like us it's no small investment.

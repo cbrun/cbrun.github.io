@@ -14,7 +14,6 @@ modified_time: '2011-09-21T02:16:00.094-07:00'
 thumbnail: https://1.bp.blogspot.com/-56zFyxZPdGE/TmnW6PBNBsI/AAAAAAAAAmw/G9dwegS5FJI/s72-c/adventure-domain.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5829610168321635030
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/09/textual-adventures-in-ecore-graphical.html
-draft: true
 ---
 
 I was cleaning up my `${HOME}` folder today and found a set of demos I prepared two years ago.

@@ -14,7 +14,6 @@ modified_time: '2009-05-07T07:52:42.284-07:00'
 thumbnail: https://2.bp.blogspot.com/_OJuY9x1lbxI/Se9tLzXRS_I/AAAAAAAAALU/ny6uKiFIev4/s72-c/essaim_abeilles.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1036180728036140709
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/05/live-models-using-jboss-rules-drools.html
-draft: true
 ---
 
 **Modeling Kata** here again! Models are useful to describe things, systems, knowledge — basically any information you want to organize and formalize will gain by using a solid formalism like [Ecore](https://www.eclipse.dev/modeling/emf/).

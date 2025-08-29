@@ -11,7 +11,6 @@ modified_time: '2009-05-07T08:24:04.334-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/SXr9ljtDOSI/AAAAAAAAAEg/rkyorV0vi-w/s72-c/sequoia1.JPG
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5567137760679978815
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2008/03/amazing-forest.html
-draft: true
 ---
 
 Open-source projects are similar to trees in some ways. They live through time and slowly but steadily grow, becoming much more impressive and at some point far bigger than what people expected from the beginning.

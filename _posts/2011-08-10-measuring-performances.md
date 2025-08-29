@@ -12,7 +12,6 @@ modified_time: '2011-08-10T04:57:50.981-07:00'
 thumbnail: https://3.bp.blogspot.com/-FdR-1a_XLBs/TkJTMoasu4I/AAAAAAAAAiM/FtGlBhOvdE4/s72-c/perfsingletest.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1396678905777386614
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/08/measuring-performances.html
-draft: true
 ---
 
 Performance is a feature — your users need it and so does your product. The code is changing, always; keeping track of the effect of those changes on performance is not easy but it is as important as fixing bugs.

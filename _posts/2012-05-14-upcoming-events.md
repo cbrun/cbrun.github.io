@@ -10,7 +10,6 @@ tags:
 modified_time: '2012-05-14T09:08:59.781-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-9107775419716856250
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2012/05/upcoming-events.html
-draft: true
 ---
 
 With Juno's arriving to the end of the release cycle, Eclipse Day's are popping up everywhere in the world.

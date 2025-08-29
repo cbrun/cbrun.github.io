@@ -10,7 +10,6 @@ tags:
 modified_time: '2011-09-14T05:08:00.699-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8314226034257898745
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/09/eclipse-modeling-definitive-tutorial.html
-draft: true
 ---
 
 One of the things we keep hearing from adopters is: we need more doc — not just reference documentation but also how to use and combine the Eclipse Modeling components.

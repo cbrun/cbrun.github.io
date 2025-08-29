@@ -11,7 +11,6 @@ modified_time: '2013-01-22T12:55:54.311-08:00'
 thumbnail: https://cedric.brun.io/images/blog/2013/unicorn.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7966782633835511957
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2013/01/obeo-designer-610-no-4x-platform-yet.html
-draft: true
 ---
 
 ![Unicorn]({{ site.url }}/images/blog/2013/unicornf.jpg)

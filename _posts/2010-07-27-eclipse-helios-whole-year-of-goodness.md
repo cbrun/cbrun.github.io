@@ -12,7 +12,6 @@ modified_time: '2010-07-27T07:14:35.532-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/SqjIhFCOyQI/AAAAAAAAALI/_vSaQyCXIds/s72-c/acceleo99999.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2848207392834697323
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/07/eclipse-helios-whole-year-of-goodness.html
-draft: true
 ---
 
 Eclipse Helios is a release, but it's also a complete development cycle in a global and distributed team of committers. Since I chose [3 features](/2010/06/28/helios-review-in-pictures.html) I especially liked in **Helios** this kept bugging me: what is _Helios_ to me?

@@ -9,7 +9,6 @@ modified_time: '2008-11-07T01:37:58.184-08:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/SRM1J-f79aI/AAAAAAAAAAw/db60IMsgNYI/s72-c/img_3891.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1099675665789785002
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2008/11/how-much-computer-scientists-do-you.html
-draft: true
 ---
 
 To setup doors for a bathroom?

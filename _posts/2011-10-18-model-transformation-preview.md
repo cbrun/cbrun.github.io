@@ -13,7 +13,6 @@ modified_time: '2011-10-18T08:47:56.157-07:00'
 thumbnail: https://4.bp.blogspot.com/-y0egF8rjm6Y/Tp2YUkJLHFI/AAAAAAAAAn4/U-tzStIFPJY/s72-c/compare-transfo-uml.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6296517877997441289
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/10/model-transformation-preview.html
-draft: true
 ---
 
 Let's say you have a model-to-model transformation, and you want to provide the ability for the end-user to see and control what is going to be applied on the target model. How could you do that? EMF Compare might do the trick.

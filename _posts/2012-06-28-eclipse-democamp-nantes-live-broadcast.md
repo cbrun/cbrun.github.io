@@ -9,7 +9,6 @@ tags:
 modified_time: '2012-06-28T08:48:52.185-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8019769909912290843
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2012/06/eclipse-democamp-nantes-live-broadcast.html
-draft: true
 ---
 
 Hi,

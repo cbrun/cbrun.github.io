@@ -10,7 +10,6 @@ modified_time: '2013-03-22T03:44:44.418-07:00'
 thumbnail: https://4.bp.blogspot.com/-sdiNF9QpU08/UUcpF4VHxcI/AAAAAAAAGgs/QkCmFrnnfkk/s72-c/entities.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7466617162319474411
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2013/03/introducing-eclipse-sirius.html
-draft: true
 ---
 
 You might have noticed some signs of excitement from us lately, one being the following tweet:

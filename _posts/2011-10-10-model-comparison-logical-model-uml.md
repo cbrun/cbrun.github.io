@@ -10,7 +10,6 @@ modified_time: '2011-10-10T08:24:41.271-07:00'
 thumbnail: https://4.bp.blogspot.com/-QnuIRtATUd4/TpMMEWrcVpI/AAAAAAAAAnQ/a0o0Y8f99tE/s72-c/graphcompare-screen.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7776696937751658312
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/10/model-comparison-logical-model-uml.html
-draft: true
 ---
 
 ![EMF logo]({{ site.url }}/images/blog/2011/emf_logo.png)

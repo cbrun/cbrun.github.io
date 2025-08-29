@@ -9,7 +9,6 @@ tags:
 modified_time: '2013-11-19T08:43:28.562-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1933487336794831213
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2013/11/eclipse-devoxx.html
-draft: true
 ---
 
 I'm back from a full week at Devoxx in Antwerpen- Belgium. I was there to present the Sirius project and Eclipse Modeling at the Eclipse Foundation booth. (by the way, thanks again to the foundation staff!) It was quite fun to be there with Jelena Alter, Marcel Bruch, Julien Vermillard and Gael Blondelle; we had a good mix of things: Marcel for the Java developers with Code Recommender, Julien for M2M stuff (which was very hot at Devoxx this year) Jelena and Gael for the Eclipse Foundation itself and me with fancy graphical modelers.

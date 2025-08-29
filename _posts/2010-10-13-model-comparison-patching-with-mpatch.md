@@ -9,7 +9,6 @@ tags:
 modified_time: '2010-10-13T05:28:41.528-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8443724993412705362
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/10/model-comparison-patching-with-mpatch.html
-draft: true
 ---
 
 The following message is posted on this blog on behalf of Patrick Könemann.

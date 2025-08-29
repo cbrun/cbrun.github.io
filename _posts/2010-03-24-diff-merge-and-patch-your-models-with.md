@@ -12,7 +12,6 @@ modified_time: '2010-03-23T23:12:44.905-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/S6JBUCN2b7I/AAAAAAAAARY/E9hWcXn7EDs/s72-c/slide1.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5574820773702427430
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/03/diff-merge-and-patch-your-models-with.html
-draft: true
 ---
 
 Ok, you're stuck at home, you are one of the numerous budget shortcuts victims? You did not have the chance to come at EclipseCon? Here is some kind of transcript of the talk I just gave:

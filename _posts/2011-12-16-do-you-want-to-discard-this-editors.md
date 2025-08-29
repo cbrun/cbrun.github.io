@@ -9,7 +9,6 @@ tags:
 modified_time: '2011-12-16T09:55:56.778-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-4696937203004590569
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/12/do-you-want-to-discard-this-editors.html
-draft: true
 ---
 
 If you've used EMF editors you probably already have seen this kind of dialog:

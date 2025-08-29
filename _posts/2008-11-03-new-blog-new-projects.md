@@ -10,7 +10,6 @@ modified_time: '2008-11-03T11:58:33.535-08:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/SQ83MaH5wxI/AAAAAAAAAAM/7U5ADFXexlg/s72-c/house_garden.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-9032892606062005784
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2008/11/new-blog-new-projects.html
-draft: true
 ---
 
 I did not blog a lot lately, several reasons for that:

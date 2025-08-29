@@ -11,7 +11,6 @@ modified_time: '2010-03-23T15:30:00.444-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/S6Izgd_XcvI/AAAAAAAAARQ/pMIqMbOgAnk/s72-c/atl.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8754344415437460672
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/03/modeling-project-runaway-atl.html
-draft: true
 ---
 
 ["Modeling Project Runaway"](https://www.eclipsecon.org/2010/sessions/sessions?id=1278) was the talk you had to attend to get a vision of what is going on in Eclipse Modeling and, more especially, how lively this community is. The talk was even too short for EEF to get in, but this project had its own talk yesterday.

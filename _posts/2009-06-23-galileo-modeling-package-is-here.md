@@ -11,7 +11,6 @@ modified_time: '2009-06-23T08:14:00.585-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/SkDt0eXPiKI/AAAAAAAAAKQ/69068CIWyt4/s72-c/galileo_modeling_welcome.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3074497838075167991
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/06/galileo-modeling-package-is-here.html
-draft: true
 ---
 
 If you're [a friend](https://www.eclipse.dev/donate/) you can download the Galileo packages. The modeling one is here!

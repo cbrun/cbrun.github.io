@@ -9,7 +9,6 @@ tags:
 modified_time: '2010-03-11T09:24:34.814-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6616394046927386636
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/03/its-time-already.html
-draft: true
 ---
 
 ![Calendar]({{ site.url }}/images/blog/2010/calendar.jpg)

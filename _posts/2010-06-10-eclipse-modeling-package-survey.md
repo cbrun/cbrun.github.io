@@ -10,7 +10,6 @@ modified_time: '2010-06-11T05:18:27.689-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/TBCSNGcmO4I/AAAAAAAAATA/3uH2Sa365OY/s72-c/icon_twitter.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3996130301796475531
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/06/eclipse-modeling-package-survey.html
-draft: true
 ---
 
 I've been quiet in the planet lately; it doesn't mean I've been inactive — quite the contrary in fact. Just like all the other committers I've spent the last few weeks polishing the Eclipse Modeling Helios release. (As a sidenote, I'm giving more updates from here → [![Twitter]({{ site.url }}/images/blog/2010/eclipse-modeling-package-survey/s200_icon_twitter.png)](https://twitter.com/bruncedric))

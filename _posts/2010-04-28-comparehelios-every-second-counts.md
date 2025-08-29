@@ -12,7 +12,6 @@ modified_time: '2010-04-28T07:27:07.112-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/S9gt4IR8UQI/AAAAAAAAASw/J8dPvXGk1OE/s72-c/beforeSprint.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5291931750421210200
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/04/comparehelios-every-second-counts.html
-draft: true
 ---
 
 I tend to break a lot of keyboards. Not because I release all the aggression that I hold deep within me on them, but because I drool testing the product Obeo is going to launch — really soon now.

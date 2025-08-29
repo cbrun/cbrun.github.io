@@ -11,7 +11,6 @@ tags:
 modified_time: '2011-12-01T11:41:14.389-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8928794163682835913
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/12/sysml-comparison-and-contributions.html
-draft: true
 ---
 
 Community and Ecosystem

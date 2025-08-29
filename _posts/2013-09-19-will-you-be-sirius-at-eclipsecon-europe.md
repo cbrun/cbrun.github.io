@@ -11,7 +11,6 @@ modified_time: '2013-09-19T01:19:00.739-07:00'
 thumbnail: https://cedric.brun.io/images/blog/2013/esa2-t.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-9086028157993160208
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2013/09/will-you-be-sirius-at-eclipsecon-europe.html
-draft: true
 ---
 
 We've been in some sort of "Stealth mode" since the proposal for Eclipse Sirius got accepted. It did not make sense to us to communicate on Sirius as long as it's not there, in Eclipse. That said, the summer actually was quite intense; I'll start by a quick status report:

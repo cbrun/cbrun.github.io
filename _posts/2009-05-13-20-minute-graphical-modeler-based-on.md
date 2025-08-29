@@ -12,7 +12,6 @@ modified_time: '2009-05-13T11:21:55.918-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/SgsLjej2tHI/AAAAAAAAAJI/aKswPsPwwHM/s72-c/flowdiag_specify.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1848800102029818548
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/05/20-minute-graphical-modeler-based-on.html
-draft: true
 ---
 
 My last post about the flow model simulation was really missing a demo so that you get the **"live"** aspect of the model construction. No problem, that's a good occasion to show you a secret product we've been building on **top of the Eclipse Modeling projects** since a few years now. In my [_dictator_ position](https://model-driven-blogging.blogspot.com/2009/02/engineering-dictator-strikes-back.html) on this product you can guess I'm quite excited to show you that — nothing public came out about it until now but the first public release is not so far...

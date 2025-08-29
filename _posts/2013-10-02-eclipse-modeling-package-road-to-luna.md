@@ -11,7 +11,6 @@ tags:
 modified_time: '2013-10-02T06:34:28.508-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5175224056083756710
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2013/10/eclipse-modeling-package-road-to-luna.html
-draft: true
 ---
 
 Since the [last public survey](https://model-driven-blogging.blogspot.fr/2010/06/modeling-survey-results.html), my primary focus for the modeling package was:

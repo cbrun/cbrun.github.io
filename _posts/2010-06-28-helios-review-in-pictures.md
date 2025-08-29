@@ -11,7 +11,6 @@ tags:
 modified_time: '2010-07-05T08:51:45.448-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-795928650798672137
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/06/helios-review-in-pictures.html
-draft: true
 ---
 
 Now that the entire world noticed that I [don't know even one thing about soccer]({{ site.url }}/images/blog/2010/colored_generatedcode.png) and I'm [even trying to cheat](https://model-driven-blogging.blogspot.com/2010/06/forecasts-comparison-for-world.html), I should get back to sharing what I understand instead of those silly forecasts.

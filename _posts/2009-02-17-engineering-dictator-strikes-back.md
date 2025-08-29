@@ -12,7 +12,6 @@ modified_time: '2009-05-07T08:07:35.197-07:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/SZr29ji1-FI/AAAAAAAAAF4/qzOj-W9IvE8/s72-c/teammodel..png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8666280745850019187
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/02/engineering-dictator-strikes-back.html
-draft: true
 ---
 
 This post inaugurates a series of **modeling kata**. Modeling kata are about basic usage of Eclipse Modeling and related technologies to create fun stuff, and more importantly doing it again and again using different ways and analyzing the pros and cons of each solution. Of course the "kata" terminology [is not from me.](https://pragdave.pragprog.com/)

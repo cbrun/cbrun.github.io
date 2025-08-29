@@ -8,7 +8,6 @@ categories: [modeling]
 modified_time: '2009-05-07T08:24:25.390-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1537091550117102333
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2007/06/beautiful-evidence.html
-draft: true
 ---
 
 When I discovered the [NodeBox project](https://nodebox.net/code/index.php/Home), that thought (in fact — a [book title](https://www.edwardtufte.com/tufte/books_be)) immediately caught my mind.

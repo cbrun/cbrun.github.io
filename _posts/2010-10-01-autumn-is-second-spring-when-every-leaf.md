@@ -11,7 +11,6 @@ modified_time: '2010-10-01T08:09:09.742-07:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/TKWfZNHYO2I/AAAAAAAAAYQ/ClulJG9gKZo/s72-c/internship-cake.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6136697458246759714
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/10/autumn-is-second-spring-when-every-leaf.html
-draft: true
 ---
 
 Maybe Twitter gives a false impression that you're keeping the users informed of what is going on. False because **140 chars can't be enough!**

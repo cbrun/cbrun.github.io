@@ -11,7 +11,6 @@ categories: [eclipse]
 modified_time: '2009-05-07T08:23:43.180-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1840137971958799596
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2007/11/modeling-at-ese-2007.html
-draft: true
 ---
 
 Eclipse Summit is almost over now; a lot of things happened and the Modeling project is, for sure, really lively.

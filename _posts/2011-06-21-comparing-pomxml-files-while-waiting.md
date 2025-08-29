@@ -11,7 +11,6 @@ modified_time: '2011-06-21T07:52:46.945-07:00'
 thumbnail: https://4.bp.blogspot.com/-wScqYBvFleE/TgCr2lpHzzI/AAAAAAAAAf8/izHt7q-rq1A/s72-c/pomxsd.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8579311473137419148
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/06/comparing-pomxml-files-while-waiting.html
-draft: true
 ---
 
 I know you're all waiting for the **Indigo** release final bits! These 0 and 1 are finding their way on the mirrors as I'm writing to make sure we'll get the smoothest release ever ;)

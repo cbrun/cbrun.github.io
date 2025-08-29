@@ -11,7 +11,6 @@ modified_time: '2009-05-07T08:23:27.044-07:00'
 thumbnail: https://cedric.brun.io/images/blog/2007/gmfgraph-current-and-129-t.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6103436277211914396
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2007/09/i-love-deadlines.html
-draft: true
 ---
 
 … I like the whooshing sound they make as they go by.” _D. Adams_

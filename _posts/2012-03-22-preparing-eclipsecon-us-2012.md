@@ -12,7 +12,6 @@ tags:
 modified_time: '2012-03-22T07:37:50.741-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2290424503435707462
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2012/03/preparing-eclipsecon-us-2012.html
-draft: true
 ---
 
 We are pretty active in Eclipse:

@@ -9,7 +9,6 @@ tags:
 modified_time: '2011-09-07T06:16:48.682-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7325068202475443747
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/09/live-request-interpreter-for-acceleo-32.html
-draft: true
 ---
 
 [Laurent](https://eclipsemde.blogspot.com/) is working on an **Interpreter View** for Acceleo 3.2 (coming soon).

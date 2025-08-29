@@ -11,7 +11,6 @@ modified_time: '2011-12-06T07:33:00.571-08:00'
 thumbnail: https://1.bp.blogspot.com/-Cp4j-QDC-Ec/TqkcojmCR0I/AAAAAAAAAoM/2aXp5AYReZM/s72-c/eclipsedayparis.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2743914264775946597
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/12/eclipse-day-paris-2011.html
-draft: true
 ---
 
 Eclipse Day Paris took place a few weeks ago; every year it is scheduled the week after Eclipse Con Europe. I had the chance to attend the 2011 edition and it was a **real pleasure** for several reasons.

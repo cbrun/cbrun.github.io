@@ -11,7 +11,6 @@ tags:
 modified_time: '2011-05-06T05:50:34.521-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8627016920290556582
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/05/eclipse-modeling-package-sdk-or-not.html
-draft: true
 ---
 
 The **indigo** release will be the first year the Eclipse Modeling package is no more marked as "incubating". As I'm checking the status of every component I'm wondering: do you, end users of the package, want an SDK package or not?

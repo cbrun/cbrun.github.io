@@ -10,7 +10,6 @@ modified_time: '2009-06-16T01:32:09.406-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/SjOA5c4r7oI/AAAAAAAAAJo/25e-VYWfvW4/s72-c/ecoretools.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6597968654399650768
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/06/quick-glimpse-at-galileo-modeling.html
-draft: true
 ---
 
 Eclipse Galileo aka _3.5 simultaneous release_ is coming soon. We now all have this fuzzy feeling when development stops and we stay here a bit dizzy, wondering what we'll do next.

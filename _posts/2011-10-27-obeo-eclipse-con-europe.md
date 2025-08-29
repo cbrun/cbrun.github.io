@@ -9,7 +9,6 @@ tags:
 modified_time: '2011-10-27T02:00:24.275-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3486293101081552945
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/10/obeo-eclipse-con-europe.html
-draft: true
 ---
 
 Obeo invests a lot in Eclipse projects (yes, we are a [Strategic Member](https://www.eclipse.dev/membership/showMembersWithTag.php?TagID=strategic) of the Eclipse Foundation); we're building, in the open, the modeling platform we need for our [product](https://www.obeodesigner.com/).

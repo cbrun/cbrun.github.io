@@ -10,7 +10,6 @@ modified_time: '2009-10-26T04:14:19.692-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/SuWAejDTZII/AAAAAAAAANM/en5P-e3JYNQ/s72-c/intro.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1983516783824597404
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/10/eclipse-summit-here-we-come.html
-draft: true
 ---
 
 I'm polishing and putting the last touches of goodness in my slides for Eclipse Summit Europe. I'm looking forward to a great event as usual, with this warm and fuzzy feeling you have realizing you're part of such a vibrant community.

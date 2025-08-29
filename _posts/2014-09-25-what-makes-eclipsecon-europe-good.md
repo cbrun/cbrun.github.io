@@ -13,7 +13,6 @@ modified_time: '2014-09-25T02:12:56.500-07:00'
 thumbnail: https://2.bp.blogspot.com/-4lWOBVP_3Ew/VCAbyge940I/AAAAAAAAWKA/Xclhb38hAcc/s72-c/10552643724_92108f6723_z.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5651462119141300192
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2014/09/what-makes-eclipsecon-europe-good.html
-draft: true
 ---
 
 [EclipseCon Europe 2014](https://www.eclipsecon.org/europe2014/) is getting close and it will only get harder to book hotel rooms and flights. It's probably time to decide whether you come or not. Let me tell you what you can expect from such an event:

@@ -10,7 +10,6 @@ tags:
 modified_time: '2010-03-26T01:53:46.645-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5128593400282170056
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/03/im-poor-lonesome-cowboy.html
-draft: true
 ---
 
 I'm a long long way from home.

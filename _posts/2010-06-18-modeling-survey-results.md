@@ -11,7 +11,6 @@ modified_time: '2010-06-18T07:32:14.601-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/TBs4EOCQ0jI/AAAAAAAAATY/iuvwfIcGfR4/s72-c/commiter.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-89262900413695265
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/06/modeling-survey-results.html
-draft: true
 ---
 
 The survey has been going on for more than one week now and the trends are only enforcing themselves. Let's summarize it:

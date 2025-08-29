@@ -9,7 +9,6 @@ categories: [eclipse]
 modified_time: '2009-05-07T08:06:52.391-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7945694064996685286
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/03/eclipse-modeling-summer-of-code-2009.html
-draft: true
 ---
 
 <figure>

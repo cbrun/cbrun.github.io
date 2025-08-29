@@ -12,7 +12,6 @@ modified_time: '2009-05-07T08:22:01.340-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/SSw6WEWQHwI/AAAAAAAAACw/j66TGszx0ZE/s72-c/Tomstalk.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-4464001746837740654
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2008/11/back-from-ese-2008-wow.html
-draft: true
 ---
 
 I'm now back to France after this great conference. Ed covered the "modeling events" quite well already but I can't prevent myself from sharing my pleasure as I'm still filled with excitement!

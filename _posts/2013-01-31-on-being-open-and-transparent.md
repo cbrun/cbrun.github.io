@@ -11,7 +11,6 @@ tags:
 modified_time: '2013-01-31T04:22:51.759-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6882059087189884358
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2013/01/on-being-open-and-transparent.html
-draft: true
 ---
 
 We always intend to run our Eclipse projects as real open-source projects. Being open, transparent and so on. The Eclipse Development process forces you to do so in some way; the simultaneous release brings a bit more constraints in this regard but in the end, if you want a truly open project you'll need to do more.

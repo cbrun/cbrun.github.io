@@ -8,7 +8,6 @@ tags:
 modified_time: '2011-09-28T03:36:00.168-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5785203010688962162
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/09/synchronizing-data-dropbox-like-based.html
-draft: true
 ---
 
 I had to find a solution for my **backup/cloud drive** needs lately. [Dropbox](https://www.dropbox.com/pricing) works just fine, but the pricing is going high too fast as you want more space.

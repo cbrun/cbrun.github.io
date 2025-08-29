@@ -11,7 +11,6 @@ tags:
 modified_time: '2012-03-06T00:51:17.320-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-4451408571424473580
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2012/03/graphical-textual-table-trees-its-your.html
-draft: true
 ---
 
 Lately I've been making sure the upcoming Designer 6.0 release still plays well with Xtext. Results: fairly good. The newly introduced "Modeling Project" lets you behave with your Xtext models just like any other kind of models. Everything is synchronized; you can edit using the Xtext Editor, or using the Graphical modeler and the other one gets automatically refreshed. It just feels right.

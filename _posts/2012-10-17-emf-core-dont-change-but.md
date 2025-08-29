@@ -10,7 +10,6 @@ modified_time: '2012-10-17T07:47:27.400-07:00'
 thumbnail: https://3.bp.blogspot.com/-v3t2J3zS9_o/UH63qQBN-yI/AAAAAAAAD9A/EC4RXRMOZlw/s72-c/emf_logo.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3019877802021206875
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2012/10/emf-core-dont-change-but.html
-draft: true
 ---
 
 ![EMF]({{ site.url }}/images/blog/2012/emf-core-dont-change-but/s1600_emf_logo.png)
