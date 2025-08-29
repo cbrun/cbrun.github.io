@@ -99,3 +99,11 @@ exclude:
 
 plugins:
       - jekyll-sitemap
+
+# Main categories (used in navigation)
+main_categories:
+  - sirius-web
+  - mbse
+  - ecore
+  - capella
+  - obeo

@@ -13,13 +13,22 @@
 				    {% endif %}
 				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 			   {% endfor %}	
-			   {% for category in site.categories %}
-			    <li>
-			        <a href="/category/{{ category[0] | slugify }}">
-			            {{ category | first}}
-			        </a>
-			    </li>
-			   {% endfor %}
+           {% if site.main_categories %}
+             {% assign domain = site.url %}
+             {% for cat in site.main_categories %}
+               <li>
+                 <a href="{{ domain }}/tag/{{ cat | slugify }}/">{{ cat }}</a>
+               </li>
+             {% endfor %}
+           {% else %}
+             {% for category in site.categories %}
+               <li>
+                 <a href="/category/{{ category[0] | slugify }}">
+                   {{ category | first}}
+                 </a>
+               </li>
+             {% endfor %}
+           {% endif %}
 		       {% for link in site.data.navigation_right %}
 				    {% if link.url contains 'http' %}
 				        {% assign domain = '' %}
