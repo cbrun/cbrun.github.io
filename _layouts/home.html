@@ -34,8 +34,8 @@
   </div>
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% assign english_posts = site.posts | where_exp: "p", "p.translation_en == blank" %}
-    {% for post in english_posts limit:5 %}
+   {% for post in site.posts %}
+    {% if post.translation_en == nil or post.translation_en == '' or post.translation_en == false %}
       {% unless post.draft %}
       <article>
         {% if post.link %}
@@ -59,6 +59,7 @@
         {% endif %}
       </article>
       {% endunless %}
+     {% endif %}
     {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->
