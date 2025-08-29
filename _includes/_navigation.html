@@ -16,9 +16,17 @@
            {% if site.main_categories %}
              {% assign domain = site.url %}
              {% for cat in site.main_categories %}
-               <li>
-                 <a href="{{ domain }}/tag/{{ cat | slugify }}/">{{ cat }}</a>
-               </li>
+               {% assign tag_slug = cat | slugify %}
+               {% assign tag_doc = site.tag | where_exp: 'd', 'd.tag and d.tag | slugify == tag_slug' | first %}
+               {% if tag_doc %}
+                 <li>
+                   <a href="{{ domain }}{{ tag_doc.url }}">{{ tag_doc.title | default: cat }}</a>
+                 </li>
+               {% else %}
+                 <li>
+                   <a href="{{ domain }}/tag/{{ tag_slug }}/">{{ cat }}</a>
+                 </li>
+               {% endif %}
              {% endfor %}
            {% else %}
              {% for category in site.categories %}
