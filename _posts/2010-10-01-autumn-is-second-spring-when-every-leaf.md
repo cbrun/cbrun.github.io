@@ -44,4 +44,3 @@ Choosing the `"Create Java Service Wrapper"` quick fix will add a new query to y
 ![Query]({{ site.url }}/images/blog/2010/autumn-is-second-spring-when-every-leaf/s400_query.png)
 
 And you're done!
-

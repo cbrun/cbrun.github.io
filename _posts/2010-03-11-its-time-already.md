@@ -6,6 +6,7 @@ categories: [eclipse]
 tags:
   - gsoc
   - eclipse
+  - obeo
 modified_time: '2010-03-11T09:24:34.814-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6616394046927386636
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/03/its-time-already.html
@@ -34,4 +35,3 @@ Go and have [a look at the demos](https://doc.qt.nokia.com/4.6/examples.html). T
 Of course modeling in general, **EMF Compare** and **Amalgam** topics are on [the wiki page](https://wiki.eclipse.org/Google_Summer_of_Code_2010_Ideas); you have plenty of subjects to choose from!
 
 Please, if you're a student and are interested in participating in the GSOC, do not wait! Work with the projects to prepare your application!
-

@@ -7,6 +7,7 @@ tags:
   - eclipse
   - compare
   - acceleo
+  - obeo
 modified_time: '2010-06-28T02:23:12.676-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/TCha9tHZZXI/AAAAAAAAAUQ/ZYmMQtmLQRI/s72-c/compare_menu.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5597262855966298773
@@ -42,4 +43,3 @@ I had to use a few tricks: I had to provide a specific match engine enforcing th
 <iframe src="https://pastebin.com/embed_iframe.php?i=Ls4aqfPJ" style="border:none;width:100%;height:600px"></iframe>
 
 That's all for today. If I can free more time for this hack I'll provide a diff extension to change the score delta representation to a more meaningful one — so far it's left as an exercise for the reader ;)
-

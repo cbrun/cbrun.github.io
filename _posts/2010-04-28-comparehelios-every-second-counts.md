@@ -8,6 +8,7 @@ tags:
   - eclipse
   - compare
   - acceleo
+  - ecore
 modified_time: '2010-04-28T07:27:07.112-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/S9gt4IR8UQI/AAAAAAAAASw/J8dPvXGk1OE/s72-c/beforeSprint.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5291931750421210200
@@ -41,4 +42,3 @@ Not only will the Helios release provide these major performance enhancements bu
 Waking up as every morning, getting up but being a bit happier than usual as I know I made progress on something important for adopters :)
 
 Please, keep in mind that **your** feedback made me work on this — thanks again.
-

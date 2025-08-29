@@ -18,4 +18,3 @@ Speaking about [Ecore In Colors](https://model-driven-blogging.blogspot.com/2010
 [![Ecore In Colors demo thumbnail]({{ site.url }}/images/blog/2010/ecore-in-colors-in-motion/s400_ecoreincolorsplay.png)](https://literate.modeling.free.fr/modeling/designer/EcoreInColors.htm)
 
 By the way, Freddy convinced me to join the Twitter community (at last!). It's going on [here](https://twitter.com/bruncedric).
-

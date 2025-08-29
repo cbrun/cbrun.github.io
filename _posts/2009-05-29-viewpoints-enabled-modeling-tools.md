@@ -7,6 +7,7 @@ tags:
 - viewpoint
 - acceleo
 - modeling
+- ecore
 categories: [modeling]
 modified_time: '2009-05-29T07:56:06.558-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/Sh-3ZE0NAyI/AAAAAAAAAJY/bZpXkgra8KQ/s72-c/flow_viewpointsdefinition.png
@@ -33,4 +34,3 @@ The following demo (6 minutes) shows the usage of such a tooling, using (again) 
 Eclipse **is** great as a platform and enables you to build great tooling so that your users stay focused on their business issues (which are complex enough already). That's what we are trying to achieve with this product.
 
 Moreover, **Eclipse Modeling** is a gem mine driven by enthusiastic people. Don't wait and come with us — resistance is futile ;)
-

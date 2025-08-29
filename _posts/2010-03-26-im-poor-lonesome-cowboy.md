@@ -7,6 +7,7 @@ tags:
   - eclipsecon
   - eclipse
   - acceleo
+  - obeo
 modified_time: '2010-03-26T01:53:46.645-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5128593400282170056
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/03/im-poor-lonesome-cowboy.html
@@ -41,4 +42,3 @@ That's right, EclipseCon 2010 is over. Each year it gets better and better and l
 I'm pretty sure I'm forgetting things, but anyway, I really need to sleep now...
 
 In a nutshell: **the best conference ever** :)
-

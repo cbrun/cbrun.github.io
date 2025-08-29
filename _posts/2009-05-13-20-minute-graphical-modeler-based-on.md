@@ -7,6 +7,7 @@ tags:
 - eclipse
 - viewpoint
 - acceleo
+- ecore
 categories: [modeling]
 modified_time: '2009-05-13T11:21:55.918-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/SgsLjej2tHI/AAAAAAAAAJI/aKswPsPwwHM/s72-c/flowdiag_specify.png
@@ -41,4 +42,3 @@ To be fair, the final modeler is more a 25 minute modeler than 20, but I get a f
 Be sure that's only a tiny portion of what we've been able to achieve leveraging the Eclipse Modeling components ([EMF, GMF](https://www.eclipse.dev/modeling/), [Acceleo](https://www.acceleo.org), [Compare](https://www.eclipse.dev/modeling/emft/?project=compare#compare) just naming a few...) and the Eclipse Platform. Graphic modelers are one thing, but other representations matter — and I'm not even speaking about the "full viewpoint support".
 
 Stay tuned for more eye candy ;)
-

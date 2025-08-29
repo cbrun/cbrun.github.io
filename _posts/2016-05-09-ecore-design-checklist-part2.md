@@ -183,4 +183,3 @@ Essayez-le, tout est Open-Source et fait partie d'Eclipse !
 *Crédits : merci à Pierre-Charles et [Mélanie](https://melb.enix.org/) pour la relecture, [Jan](https://twitter.com/jankoehnlein/status/729930181289349120) pour avoir apporté un nouvel élément et Roxanne pour certains des poneys.*
 
 
-

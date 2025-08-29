@@ -97,4 +97,3 @@ Obeo goes international and brings open modeling technologies and systems engine
 
 Learn more about this news through [Mélanie's blog post](https://melb.enix.org/2017/09/19/zero-to-cto/) and [Obeo's summary](https://blog.obeosoft.com/fr/en/post/obeo-goes-west)
 
-

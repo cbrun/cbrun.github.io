@@ -7,6 +7,7 @@ tags:
   - eclipse
   - amalgamation
   - acceleo
+  - obeo
 modified_time: '2010-06-18T07:32:14.601-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/TBs4EOCQ0jI/AAAAAAAAATY/iuvwfIcGfR4/s72-c/commiter.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-89262900413695265
@@ -57,4 +58,3 @@ I'm done for the strong trends. Other questions like "Having on-the-shelf design
 A few more ideas or questions have been given through this survey. It will take another blog post to describe those.
 
 Thanks again for your feedback!
-

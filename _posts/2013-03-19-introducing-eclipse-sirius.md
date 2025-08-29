@@ -6,6 +6,9 @@ categories: [obeo]
 tags:
   - eclipse
   - acceleo
+  - obeo
+  - ecore
+  - emf
 modified_time: '2013-03-22T03:44:44.418-07:00'
 thumbnail: https://4.bp.blogspot.com/-sdiNF9QpU08/UUcpF4VHxcI/AAAAAAAAGgs/QkCmFrnnfkk/s72-c/entities.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7466617162319474411
@@ -82,4 +85,3 @@ Sirius brings you the ability to quickly define your dedicated editors: diagram,
 [![Requirements cross-table]({{ site.url }}/images/blog/2013/introducing-eclipse-sirius/s640_SysML_RequirementsCrossTable.png)]({{ site.url }}/images/blog/2013/introducing-eclipse-sirius/s1600_SysML_RequirementsCrossTable.png)
 
 ![Custom styles]({{ site.url }}/images/blog/2013/introducing-eclipse-sirius/s400_od6_feat_customstyles.png)
-

@@ -8,6 +8,7 @@ tags:
   - eclipse
   - sirius
   - opensource  
+  - sirius-web
 translation_fr: /modeling/guesstimate-modelisation-probabilite/
 excerpt: "A short demo of a Sirius Web prototype for Monte Carlo ‘guesstimates’—for modelers and engineers—showing how to build domain tools fast."
 ---

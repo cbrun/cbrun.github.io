@@ -9,6 +9,7 @@ tags:
   - compare
   - transformation
   - preview
+  - ecore
 modified_time: '2011-10-18T08:47:56.157-07:00'
 thumbnail: https://4.bp.blogspot.com/-y0egF8rjm6Y/Tp2YUkJLHFI/AAAAAAAAAn4/U-tzStIFPJY/s72-c/compare-transfo-uml.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6296517877997441289
@@ -28,4 +29,3 @@ Now, if you want to allow the end user to customize the output model and detect 
 [![Conflict compare]({{ site.url }}/images/blog/2011/model-transformation-preview/s640_compare-transfo-uml-conflict.png)]({{ site.url }}/images/blog/2011/model-transformation-preview/s1600_compare-transfo-uml-conflict.png)
 
 It's a simple example of what you can achieve using EMF Compare and how you can reuse it in your tooling.
-

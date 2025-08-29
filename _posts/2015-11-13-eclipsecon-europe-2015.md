@@ -6,6 +6,7 @@ tags:
   - eclipsecon
   - eclipse
   - sirius
+  - obeo
 
 ---
 
@@ -114,4 +115,3 @@ In a nutshell : **if you are willing to spare some heap memory,  IncQuery can bo
 All in all a great conference, thanks to the Eclipse Foundation staff and to the community at large for making it happen. I'm looking forward to the next one.
 
 Next stop : **SiriusCon** in Paris where I hope we'll meet. Did I mention it's  **free** ? Well, it is, but it doesn't mean we have infinite rooms so [register now](https://www.siriuscon.org/register.php){:target="_blank"}, **places are limited**!
-

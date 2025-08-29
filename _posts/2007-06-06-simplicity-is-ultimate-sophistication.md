@@ -5,6 +5,7 @@ date: '2007-06-05T21:50:00.000-07:00'
 categories: [modeling]
 tags:
   - acceleo
+  - ecore
 modified_time: '2009-01-24T03:48:37.132-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7806924588807923933
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2007/06/simplicity-is-ultimate-sophistication.html
@@ -21,4 +22,3 @@ The Acceleo website had a huge makeover for the 2.0.0 release, more especially i
 Don’t miss the new [“Take Part in Acceleo”](https://web.archive.org/web/20071014071148/https://www.acceleo.org/pages/participez-au-projet-acceleo/) page, opening to various contributions users, architects or developers are able to do.
 
 Still, to get to ultimate sophistication, we need your feedback! Do not hesitate to interact with the team!
-

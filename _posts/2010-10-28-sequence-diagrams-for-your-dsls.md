@@ -7,6 +7,7 @@ tags:
   - sequence diagram
   - eclipse
   - obeo designer
+  - ecore
 modified_time: '2010-10-28T02:00:31.950-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/TMkui6JcLSI/AAAAAAAAAZA/AWrfJ-jKimA/s72-c/newui.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2817152112629443534
@@ -34,4 +35,3 @@ If you don't know about Obeo Designer and you want to set up a dedicated design 
 Here is a flash demo being a recap of these features:
 
 <embed src="https://sites.google.com/site/modeldrivenblogging/sequence-DSL-andUIChanges.swf" width="959" height="758" quality="low" loop="false" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
-

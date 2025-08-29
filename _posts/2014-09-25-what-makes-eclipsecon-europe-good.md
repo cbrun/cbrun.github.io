@@ -9,6 +9,7 @@ tags:
   - eclipse
   - modeling
   - xtext
+  - obeo
 modified_time: '2014-09-25T02:12:56.500-07:00'
 thumbnail: https://2.bp.blogspot.com/-4lWOBVP_3Ew/VCAbyge940I/AAAAAAAAWKA/Xclhb38hAcc/s72-c/10552643724_92108f6723_z.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5651462119141300192
@@ -40,4 +41,3 @@ Social Events
 The Circus, the concert, the receptions. Many occasions to enjoy yourself and to meet the Eclipse family.
 
 If you haven't registered yet you might consider doing it [now](https://www.eclipsecon.org/europe2014/registration) as the price will rise at the end of the month. I'm looking forward to meet you there!
-

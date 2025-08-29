@@ -6,6 +6,7 @@ categories: [eclipse]
 tags:
   - eclipse
   - acceleo
+  - obeo
 modified_time: '2010-06-11T05:18:27.689-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/TBCSNGcmO4I/AAAAAAAAATA/3uH2Sa365OY/s72-c/icon_twitter.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3996130301796475531
@@ -23,4 +24,3 @@ If you're interested in Modeling in general, and Eclipse Modeling in particular,
 The survey is embedded in the post or accessible [here](https://spreadsheets0.google.com/viewform?hl=en&formkey=dEZ4UzZSUVF0T25ld2Z5TVNnUlhsQ2c6MQ#gid=0).
 
 <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dEZ4UzZSUVF0T25ld2Z5TVNnUlhsQ2c6MQ" width="760" height="1540" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-

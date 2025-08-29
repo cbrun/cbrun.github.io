@@ -7,6 +7,7 @@ tags:
   - conference
   - eclipse
   - modeling
+  - obeo
 modified_time: '2011-12-06T07:33:00.571-08:00'
 thumbnail: https://1.bp.blogspot.com/-Cp4j-QDC-Ec/TqkcojmCR0I/AAAAAAAAAoM/2aXp5AYReZM/s72-c/eclipsedayparis.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2743914264775946597
@@ -46,4 +47,3 @@ Afternoon we had a "hands on" session with Obeo Designer. Timing was short but a
 It's always enlightening for us to interact directly with users trying the technology. It helps us identify very small things which make a huge difference at the end. Obeo Designer 6.0 will bring a lot of good stuff in this regard — stay tuned!
 
 In a nutshell I really liked this event which is a **good complement** to other Eclipse events like democamps or Eclipse conferences. I'm looking forward to it for next year and can only advise you to book the dates!
-

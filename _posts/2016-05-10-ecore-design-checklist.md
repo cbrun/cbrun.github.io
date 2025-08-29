@@ -58,4 +58,3 @@ By the way, feel free to [tell me about your own rules](https://twitter.com/brun
 |[The .genmodel output folders are specified or made empty ]({{ site.url }}/modeling/ecore-design-checklist-part2#the-genmodel-output-folders-are-specified-or-made-empty)| ☑ |
 |[The .genmodel base package is specified ]({{ site.url }}/modeling/ecore-design-checklist-part2#the-genmodel-base-package-is-specified)| ☑ |
 
-

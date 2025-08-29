@@ -49,4 +49,3 @@ We're working a lot for the community, but we are earning back in many ways: Ecl
 [![]({{ site.url }}/images/blog/2010/unusual-propulsion-system/s400_AJL_8062_315.jpg)](https://1.bp.blogspot.com/_u5tMWln_Ie8/S4uJBhuFQ2I/AAAAAAAAAPo/8s5SEkdix68/s1600-h/AJL_8062_315.jpg)
 
 _Thanks to Jean-Luc for the awesome [Kayaks](https://www.hobie-kayak.com/cms/) trek and pictures :)_
-

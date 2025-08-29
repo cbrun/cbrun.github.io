@@ -9,6 +9,7 @@ tags:
 - acceleo
 - live model
 - emf
+- ecore
 categories: [modeling]
 modified_time: '2009-05-07T07:52:42.284-07:00'
 thumbnail: https://2.bp.blogspot.com/_OJuY9x1lbxI/Se9tLzXRS_I/AAAAAAAAALU/ny6uKiFIev4/s72-c/essaim_abeilles.jpg
@@ -35,4 +36,3 @@ Here is a class diagram displaying the simplest parts of the flow.ecore:
 Here I'm mixing both the information I'll describe (a given system with _datasources, processors_ and _flows_) and the feedback about my design (the flow element usage). Note that every element here might be activated or not (see the _FlowElementStatus_ enumeration).
 
 Now, to define my rules updating each value considering the overall model, I basically have the choice either to implement that in Java, or use a Rules Engine. Implementing in Java might look like a good idea but you quickly end up rebuilding an inference engine. Using **Drools** lets you focus on the rules. From there, the model can be updated live to give feedback on the design quality.
-

@@ -7,6 +7,7 @@ tags:
   - eclipsecon
   - sirius
   - eclipse
+  - obeo
 modified_time: '2013-09-19T01:19:00.739-07:00'
 thumbnail: https://cedric.brun.io/images/blog/2013/esa2-t.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-9086028157993160208
@@ -48,4 +49,3 @@ Then the team will gather for a Sirius BOF (to be announced). You get to ask any
 Last but no least, Obeo will have a booth during the whole conference; feel free to come by to ask questions or even just to have a chat. We are always eager to learn about use cases or experiments.
 
 I'm looking forward to it. If you're interested in modeling and did not register for EclipseCon Europe yet, [consider doing it,](https://www.eclipsecon.org/europe2013/) I guarantee you'll learn a lot!
-

@@ -5,6 +5,7 @@ date: '2008-11-03T09:11:00.000-08:00'
 tags:
 - eclipse
 - acceleo
+- obeo
 categories: [social]
 modified_time: '2008-11-03T11:58:33.535-08:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/SQ83MaH5wxI/AAAAAAAAAAM/7U5ADFXexlg/s72-c/house_garden.jpg
@@ -29,4 +30,3 @@ That makes many good reasons to justify my lack of _"mail answering"_ the previo
 Now let's work on those mails and prepare this [great incoming Eclipse conference](https://www.eclipsecon.org/summiteurope2008/)!
 
 _(The title is a quote by Don Herold)_
-

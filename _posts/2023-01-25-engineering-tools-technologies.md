@@ -8,6 +8,8 @@ tags:
   - eclipse
   - sirius
   - opensource
+  - sirius-web
+  - obeo
 excerpt: "Why well‑maintained OSS foundations matter for engineering tools—Sirius’ 12 releases in 2022 show reliability for teams betting long‑term, today."
 ---
 
@@ -35,6 +37,5 @@ Building graphical modeling tools can be a complex undertaking, especially if th
     <a href="https://projects.eclipse.org/projects/modeling.sirius/releases/"><img src="{{ site.url }}/images/blog/2023/Sirius-2022-releases-hd.png"></a>
     <figcaption>Eclipse Sirius release records</figcaption>
 </figure>
-
 
 

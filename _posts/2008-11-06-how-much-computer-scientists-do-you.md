@@ -4,6 +4,7 @@ title: How much computer scientists do you need...
 date: '2008-11-06T10:17:00.000-08:00'
 tags:
 - acceleo
+- obeo
 categories: [social]
 modified_time: '2008-11-07T01:37:58.184-08:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/SRM1J-f79aI/AAAAAAAAAAw/db60IMsgNYI/s72-c/img_3891.jpg
@@ -26,4 +27,3 @@ And tadaa!
 [![]({{ site.url }}/images/blog/2008/how-much-computer-scientists-do-you/s400_portes.jpg)](https://4.bp.blogspot.com/_u5tMWln_Ie8/SRM1cTlZ5gI/AAAAAAAAABA/my2XA9eBXAY/s1600-h/portes.jpg)
 
 **Thanks again** for your help guys :)
-

@@ -6,6 +6,7 @@ categories: [eclipse]
 tags:
   - eclipse
   - acceleo
+  - obeo
 modified_time: '2012-06-28T08:48:52.185-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8019769909912290843
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2012/06/eclipse-democamp-nantes-live-broadcast.html
@@ -27,4 +28,3 @@ It's in French and it should start at 17:30 (UTC+2)
 - 7:00PM - 7:20PM: [Introduction to Eclipse 4, the next generation Eclipse platform](https://www.eclipse.dev/eclipse4) (Xavier Seignard)
 
 It's started! https://plus.google.com/u/0/110344710078245747120/posts/2RUaaEdk2GB
-

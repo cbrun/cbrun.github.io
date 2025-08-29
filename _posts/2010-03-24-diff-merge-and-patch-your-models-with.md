@@ -8,6 +8,7 @@ tags:
   - eclipse
   - compare
   - acceleo
+  - ecore
 modified_time: '2010-03-23T23:12:44.905-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/S6JBUCN2b7I/AAAAAAAAARY/E9hWcXn7EDs/s72-c/slide1.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5574820773702427430
@@ -83,4 +84,3 @@ Let's take a step back. What are we trying to do?
 We are trying to change two versions of a graph into a set of events; in reality we are trying to re-construct "a posteriori" the history of the graph: what changes have been made to transform the original one to the new one.
 
 Match computation is done by the Match Engine; the diff by the Diff Engine. This processor has to provide a Diff Model from a Match Model.
-

@@ -7,6 +7,7 @@ tags:
   - sirius
   - capella
   - obeo
+  - MBSE
 ---
 
 You might have already heard the news, earlier this week during [Siemens PLM Connection Americas 2018](https://siemensplmconnectionamericas.org/), Joe Bohman announced that Siemens PLM was partnering with Obeo.
@@ -56,7 +57,6 @@ See you next week!
     <a href="https://www.eclipsecon.org/france2018/"><img src="{{ site.url }}/images/blog/2018/eclipsecon.png"></a>    
     <figcaption></figcaption>
 </figure>
-
 
 
 

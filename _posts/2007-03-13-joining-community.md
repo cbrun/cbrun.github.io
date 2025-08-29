@@ -7,6 +7,7 @@ tags:
   - eclipse
   - community
   - acceleo
+  - obeo
 categories: [eclipse]
 modified_time: '2009-05-07T08:25:19.849-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1517889382020277273

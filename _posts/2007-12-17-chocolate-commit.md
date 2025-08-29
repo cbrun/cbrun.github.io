@@ -33,4 +33,3 @@ The recipe is quite simple:
 - wait a bit ’till it’s totally solid
 - commit something using `String.isEmpty` for instance, be sure someone notices the mistake fast
 - bring the chocolates!
-

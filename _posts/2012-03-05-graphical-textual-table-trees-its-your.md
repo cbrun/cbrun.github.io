@@ -8,6 +8,7 @@ tags:
   - diagram
   - xtext
   - obeo designer
+  - ecore
 modified_time: '2012-03-06T00:51:17.320-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-4451408571424473580
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2012/03/graphical-textual-table-trees-its-your.html
@@ -30,4 +31,3 @@ But where does the "PlanningTheTravel" to "InThePlane" edge come from? I created
 When building the basis of the modeler takes minutes of work, you have enough time to think about user experience and focus on providing the right feedback, at the right time.
 
 I'm quite proud of what's cooking for this 6.0 release :)
-

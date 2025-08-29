@@ -6,6 +6,7 @@ categories: [eclipse]
 tags:
   - devoxx
   - eclipse
+  - obeo
 modified_time: '2013-11-19T08:43:28.562-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1933487336794831213
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2013/11/eclipse-devoxx.html
@@ -60,4 +61,3 @@ This is it for "Eclipse as an IDE".
 Regarding Sirius, I had very good feedback. People were either curious about it or left with the idea of trying it in their own context, which was more than I could expect from such a conference!
 
 ![Sirius demo]({{ site.url }}/images/blog/2013/10851011866_d536c4ce30_o.jpg)
-

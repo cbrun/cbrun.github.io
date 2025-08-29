@@ -8,6 +8,7 @@ tags:
   - community
   - compare
   - emf
+  - MBSE
 modified_time: '2011-12-01T11:41:14.389-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8928794163682835913
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/12/sysml-comparison-and-contributions.html
@@ -32,4 +33,3 @@ EclipseCon US will be a great place to share our experience. If you're intereste
 More about SysML ...
 
 The SysML contribution is built on top of the UML dedicated support; it just got integrated and built. It never got released so it might be a bit rough, and we still have some issues we [want to fix for 1.3](https://bugs.eclipse.org/bugs/show_bug.cgi?id=365285) but if you feel adventurous, [go get the bits here](https://download.eclipse.org/modeling/emf/compare/updates/interim/1.3/)! (update site)
-

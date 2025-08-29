@@ -53,4 +53,3 @@ Furthermore, **all the designs and blueprints of the Manta boat will be Open-Sou
 
 
 That being said, it is **just one step on a very specific part of our activity**, but a step starting a journey with more to do to improve the way Obeo operates regarding its environmental responsibility. When you start building awareness of our impact on all the ins and outs of what we do, you realize even a non-industrial, software company can contribute.
-

@@ -8,6 +8,7 @@ tags:
 - acceleo
 - modeling
 - chocolate
+- obeo
 categories: [eclipse]
 modified_time: '2009-05-07T08:22:40.510-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8563494176849868759
@@ -61,4 +62,3 @@ Second:
 Thanks to Obeo and the program committee (nah nah, nothing to do with the chocolate box!) I'll present a talk there about **Team Work with models** so that I can show EMF Compare in action, its integration in GMF modelers and even a bit of 3D if I'm able to code a prototype with GEF 3D since then.
 
 Stay tuned for more exciting stuff from the modeling space ;)
-

@@ -6,6 +6,7 @@ tags:
 - eclipse
 - community
 - acceleo
+- obeo
 categories: [eclipse]
 modified_time: '2009-08-05T01:18:10.981-07:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/Snk8tA6oO5I/AAAAAAAAAKo/e0ZoGnCoAhE/s72-c/img_4682.jpg
@@ -41,4 +42,3 @@ Those points have been **missed** by desktop apps, and those points _could_ be d
 And now that I washed my mind writing down these opinions I never really had time to organize before, I'll try to focus my activities around those concerns to make Eclipse easier to use, install, and moreover support multi-tier sharing and collaboration.
 
 Let's jump forward!
-

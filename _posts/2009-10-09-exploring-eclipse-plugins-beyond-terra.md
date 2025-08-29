@@ -6,6 +6,7 @@ tags:
 - eclipse
 - cartography
 - acceleo
+- obeo
 categories: [eclipse]
 modified_time: '2009-10-09T08:24:18.244-07:00'
 thumbnail: https://farm4.static.flickr.com/3040/2722476302_4bf25ea7b6_t.jpg
@@ -48,4 +49,3 @@ Here are a few extras:
 ![Acceleo.org standalone plugins]({{ site.url }}/images/blog/2009/exploring-eclipse-plugins-beyond-terra/s400_carto_acceleo_standalone.png)
 
 _Ok, that's Friday and I'm kinda lazy: no text annotations in the demo for now; maybe later if I've got thousand questions through the comments._
-

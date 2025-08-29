@@ -7,6 +7,7 @@ tags:
   - compare
   - acceleo
   - modeling
+  - ecore
 categories: [modeling]
 modified_time: '2009-05-07T08:25:06.025-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/SXsDG5Moo5I/AAAAAAAAAFY/kxbeVOlsmFU/s72-c/emfcomparexml.png
@@ -23,4 +24,3 @@ Here’s a screenshot of the tool comparing two XML files coming from the well-k
 [![EMF Compare XML]({{ site.url }}/images/blog/2007/xml-files-comparisonmerge/s400_emfcomparexml.png)](https://1.bp.blogspot.com/_u5tMWln_Ie8/SXsDG5Moo5I/AAAAAAAAAFY/kxbeVOlsmFU/s1600-h/emfcomparexml.png)
 
 The XSD project really should have more visibility, it’s obviously useful in many use cases where XML matters and EMF provides so many nice features, you should not miss that!
-

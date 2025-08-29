@@ -6,6 +6,7 @@ tags:
 - eclipse
 - acceleo
 - galileo
+- obeo
 categories: [modeling]
 modified_time: '2009-06-23T08:14:00.585-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/SkDt0eXPiKI/AAAAAAAAAKQ/69068CIWyt4/s72-c/galileo_modeling_welcome.png
@@ -22,4 +23,3 @@ Please notice the great "**What's New**" page with live content:
 [![]({{ site.url }}/images/blog/2009/galileo-modeling-package-is-here/s400_galileo_modeling_acceleo.png)](https://1.bp.blogspot.com/_u5tMWln_Ie8/SkDwCZQRauI/AAAAAAAAAKY/Ca_6P_GlSYY/s1600-h/galileo_modeling_acceleo.png)
 
 Yes, If you're interested in software engineering, if you think ["modeling is crap"](https://www.slideshare.net/merks/the-unbearable-stupidity-of-modeling-presentation) and you're looking for nice pragmatic tools focused on making things easier, come and join us during the **Libre Software Meeting** at Nantes on July 10th for the [Eclipse Acceleo Day](https://www.acceleo.org/wiki/index.php/Eclipse_Acceleo_Day)!
-

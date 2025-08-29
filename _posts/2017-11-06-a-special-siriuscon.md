@@ -6,6 +6,7 @@ tags:
   - eclipse
   - sirius
   - siriuscon
+  - obeo
 ---
 
 
@@ -27,5 +28,4 @@ You get exclusive content at SiriusCon, insights you can't find anywhere else, s
     <a href="{{ site.url }}/images/blog/siriuscon/2017.png"><img src="{{ site.url }}/images/blog/siriuscon/2017.png"></a>    
     <figcaption></figcaption>
 </figure>
-
 

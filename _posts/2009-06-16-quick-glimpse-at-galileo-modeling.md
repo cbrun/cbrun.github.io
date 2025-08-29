@@ -5,6 +5,7 @@ date: '2009-06-16T03:30:00.000-07:00'
 tags:
 - eclipse
 - acceleo
+- obeo
 categories: [modeling]
 modified_time: '2009-06-16T01:32:09.406-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/SjOA5c4r7oI/AAAAAAAAAJo/25e-VYWfvW4/s72-c/ecoretools.png
@@ -65,4 +66,3 @@ And here is the corresponding Java launcher:
 Kicking your generation is just a class instantiation and a call to the **doGenerate(**) method! You have no excuse for not integrating your code generation into your editor.
 
 In a nutshell Galileo brings the best of modeling with pragmatic components — you can't miss that!
-

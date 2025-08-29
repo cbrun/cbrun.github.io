@@ -6,6 +6,7 @@ tags:
   - eclipse
   - sirius
   - siriuscon
+  - obeo
 
 ---
 
@@ -63,4 +64,3 @@ At last but not least the event is once again free, but although it’s free, **
 I’m looking forward to see you there!
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/uvf_MYASxFE" frameborder="0" allowfullscreen></iframe>
-

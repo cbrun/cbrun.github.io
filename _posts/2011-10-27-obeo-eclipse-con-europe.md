@@ -6,6 +6,7 @@ categories: [eclipse]
 tags:
   - eclipsecon
   - eclipse
+  - obeo
 modified_time: '2011-10-27T02:00:24.275-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3486293101081552945
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/10/obeo-eclipse-con-europe.html
@@ -20,4 +21,3 @@ This year the Obeo'ers are co-presenting or presenting numerous talks covering a
 Unfortunately I won't be able to make it this year. I'll celebrate the 10th birthday of Eclipse through Twitter/G+ — so pleeeeease, tweet-it!
 
 On the other hand I will present at [Eclipse Day Paris](https://www.eclipsedayparis.com/): **What the heck is Eclipse Modeling and why should you care?** I'm looking forward to meet you there!
-

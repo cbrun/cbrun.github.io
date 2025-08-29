@@ -8,6 +8,9 @@ tags:
   - eclipse
   - amalgamation
   - modeling
+  - obeo
+  - ecore
+  - emf
 modified_time: '2013-10-02T06:34:28.508-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5175224056083756710
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2013/10/eclipse-modeling-package-road-to-luna.html
@@ -27,4 +30,3 @@ Several people chimed in lately with other components to include — and as we a
 Please, take a few minutes to answer the following survey, tweet about it, share [the link](https://docs.google.com/forms/d/1-wIPrgNvO5EMwNJMm4fX89VcI1JVRxAldRvqAPBVGjA/viewform) on google plus or whatever so that I can get data to push things forward.
 
 <iframe frameborder="0" height="1800" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/1-wIPrgNvO5EMwNJMm4fX89VcI1JVRxAldRvqAPBVGjA/viewform?embedded=true" width="730">Loading...</iframe>
-

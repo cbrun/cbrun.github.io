@@ -7,6 +7,7 @@ tags:
   - eclipsecon
   - eclipse
   - acceleo
+  - obeo
 modified_time: '2012-05-14T09:08:59.781-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-9107775419716856250
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2012/05/upcoming-events.html
@@ -41,4 +42,3 @@ The EclipseCon Europe call for paper is out! You should consider to start prepar
 - Other Cool Stuff
 
 Let's make this the best EclipseCon ever!
-

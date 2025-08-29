@@ -6,6 +6,7 @@ tags:
 - eclipse
 - community
 - acceleo
+- obeo
 categories: [eclipse]
 modified_time: '2009-05-07T08:24:04.334-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/SXr9ljtDOSI/AAAAAAAAAEg/rkyorV0vi-w/s72-c/sequoia1.JPG
@@ -32,4 +33,3 @@ But even big trees may fall if the roots are not deep enough, and like the sequo
 [![]({{ site.url }}/images/blog/2008/amazing-forest/s320_IMG_2876.JPG)](https://2.bp.blogspot.com/_u5tMWln_Ie8/SXr_GGt1afI/AAAAAAAAAFI/AZzRDOdxh5M/s1600-h/IMG_2876.JPG)
 
 So, what kind of roots do we want now?
-

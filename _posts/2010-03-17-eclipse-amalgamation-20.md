@@ -8,6 +8,7 @@ tags:
   - eclipse
   - amalgamation
   - modeling
+  - obeo
 modified_time: '2010-03-17T07:48:04.631-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/S6DqyN0fxrI/AAAAAAAAARI/gjLiFrDCZ6U/s72-c/puzzle.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2393432359444410631
@@ -42,4 +43,3 @@ In the meantime during the year this discovery support has been [moving from Myl
 As a user, having this UI makes my life easier: I can install components without even thinking about where I'll find the pieces and P2 takes care of the requirements and consistency of my Eclipse installation. I'm looking forward to hear from your feedback about it when the M6 package is out.
 
 This modeling platform is a basis we'll test and polish to get a streamlined user experience, and we'll have to organize ourselves to make sure we release a tested, used, and clean platform. The [Eclipse Modeling Panel](https://www.eclipsecon.org/2010/sessions/sessions?id=1528) will be a perfect time to give your opinion and feedback — do not miss it; it's on Monday!
-

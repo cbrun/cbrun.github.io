@@ -231,4 +231,3 @@ ___
 
 That's it for now but the subject is far from being exhausted. The [part 2](https://cedric.brun.io/eclipse/ecore-design-checklist-part2/) is more technical with a focus on the scalability and on the mapping in between Ecore and Java. 
 Feel free to give your feedback throuh [Twitter](https://twitter.com/bruncedric)!
-

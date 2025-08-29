@@ -6,6 +6,7 @@ categories: [modeling]
 tags:
   - eclipsecon
   - eclipse
+  - ecore
 modified_time: '2012-10-17T07:47:27.400-07:00'
 thumbnail: https://3.bp.blogspot.com/-v3t2J3zS9_o/UH63qQBN-yI/AAAAAAAAD9A/EC4RXRMOZlw/s72-c/emf_logo.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3019877802021206875
@@ -41,4 +42,3 @@ This leads to an innovative and versatile ecosystem, and that's what I'm going t
 Technologies for NoSQL, document DB, concurrency, distributed architecture, crowdsourcing and much more, all of them on top of EMF. More than just a list: for each of them an example of usage in a bigger application and my feedback using it.
 
 I can only say I already had a lot of fun preparing it and I can only hope you'll enjoy the talk.
-

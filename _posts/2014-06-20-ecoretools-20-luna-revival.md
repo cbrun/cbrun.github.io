@@ -46,4 +46,3 @@ Package Dependencies
 Intro screenshot
 
 ![Intro]({{ site.url }}/images/blog/2014/intro.png)
-

@@ -8,6 +8,7 @@ tags:
   - community
   - helios
   - acceleo
+  - obeo
 modified_time: '2010-07-27T07:14:35.532-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/SqjIhFCOyQI/AAAAAAAAALI/_vSaQyCXIds/s72-c/acceleo99999.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2848207392834697323
@@ -49,4 +50,3 @@ Helios will have its place in my memory — not the bits themselves but good thi
    [![Slide 3]({{ site.url }}/images/blog/2010/eclipse-helios-whole-year-of-goodness/s320_slide3.png)]({{ site.url }}/images/blog/2010/eclipse-helios-whole-year-of-goodness/s1600-h_slide3.png) [![Slide 7]({{ site.url }}/images/blog/2010/eclipse-helios-whole-year-of-goodness/s320_slide7.png)]({{ site.url }}/images/blog/2010/eclipse-helios-whole-year-of-goodness/s1600-h_slide7.png)
 
 Last but not least, this Helios cycle was filled with more interactions with end-users and adopters leading to nice enhancements in Eclipse as a whole — **thanks for your help!**
-

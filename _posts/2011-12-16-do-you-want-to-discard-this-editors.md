@@ -6,6 +6,7 @@ categories: [modeling]
 tags:
   - emf compare
   - eclipse
+  - ecore
 modified_time: '2011-12-16T09:55:56.778-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-4696937203004590569
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2011/12/do-you-want-to-discard-this-editors.html
@@ -38,4 +39,3 @@ The general process is: the editor tells the WorkspaceSync class when it got sav
 The drawback is clear with this implementation: you're keeping around — in memory — a copy of your model to be able to detect conflicts later on. As such that solution is not for every case.
 
 Other options are possible and might be great ways to exercise your EMF skills; if you try something, tell me!
-

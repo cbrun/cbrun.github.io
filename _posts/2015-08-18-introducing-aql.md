@@ -6,6 +6,7 @@ tags:
   - eclipse
   - acceleo
   - sirius
+  - ecore
 permalink: /eclipse/introducing-aql/
 ---
 
@@ -176,7 +177,6 @@ Since the Sirius 3.0 release we are ramping up :
 * more experiments (stay tuned !)
 
 All of these to make [AQL the recommended query language implementation](https://bugs.eclipse.org/bugs/show_bug.cgi?id=470460) for Sirius 3.1 !
-
 
 
 

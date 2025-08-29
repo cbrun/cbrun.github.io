@@ -7,6 +7,7 @@ tags:
 - community
 - acceleo
 - modeling
+- obeo
 categories: [eclipse]
 modified_time: '2009-05-07T08:23:43.180-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-1840137971958799596
@@ -26,4 +27,3 @@ QVT was also a hot subject; we can be quite confident [Quentin](https://web.arch
 During this session I had been able to see a comparison tool for the HL7 standards which was using a similar approach to EMF Compare. The author was very friendly and I’m looking forward to a possible collaboration.
 
 Just a downside on this event: well, Nick was not there so I had not been able to offer him beer for his help in setting up the EMF Compare build. Let’s just hope I won’t owe you more beer since we see each other again or you’ll quickly get drunk.
-

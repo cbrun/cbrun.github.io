@@ -6,6 +6,9 @@ tags:
 - agile
 - eclipse
 - acceleo
+- obeo
+- ecore
+- emf
 categories: [obeo]
 modified_time: '2009-07-17T05:07:14.884-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/SmBkMycMnwI/AAAAAAAAAKg/4p6LJ_p4DAo/s72-c/pres_ban.png
@@ -34,4 +37,3 @@ Keep in mind one thing: [we](https://www.obeosoft.com) are building tools which 
 [![]({{ site.url }}/images/blog/2009/feedback-from-it-companies-leveraging/3468412357_c106b188fa.jpg)](https://www.flickr.com/photos/dinomite/)
 
 So people claiming that Model Driven Development is incompatible with Agile Development are just **plain wrong**. The tooling supports this kind of development and makes it easier; it will just depend on the organization you pick: if your goal is about defining a process for your whole group so that you get quality and consistency over all your projects, then go ahead with the transversal team and keep in mind you'll have to work on your tooling a lot more to handle all the projects' use cases. If you just want to build a given software quicker and better, consider defining a tooling in a few days as it will make your life, **as a developer, way easier**.
-

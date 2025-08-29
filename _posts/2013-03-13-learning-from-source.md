@@ -36,4 +36,3 @@ And I am not even mentioning the discussions, the BOF sessions and the keynotes.
 Well, of course you won't be able to send all your developers there. Just make sure to send those who are good at sharing knowledge with the others and you'll see it will impact both your software and your practices.
 
 ps: better hurry to register
-

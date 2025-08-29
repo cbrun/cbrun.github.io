@@ -5,6 +5,7 @@ date: '2007-03-26T14:43:00.000-07:00'
 tags:
 - compare
 - modeling
+- ecore
 categories: [modeling]
 modified_time: '2010-03-01T00:37:42.802-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3398213415942634780
@@ -23,4 +24,3 @@ Here comes a screenshot showing the current state of the EMF Compare project, co
   </a>
   <figcaption>EMF Compare comparing two UML files.</figcaption>
   </figure>
-

@@ -5,6 +5,7 @@ date: '2009-03-10T08:46:00.000-07:00'
 tags:
 - eclipse
 - acceleo
+- obeo
 categories: [eclipse]
 modified_time: '2009-05-07T08:06:52.391-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7945694064996685286
@@ -42,4 +43,3 @@ Second: **huge models comparison** — by huge we mean really huge like millions
 Third: improving the "**Graphical Compare**" proof of concept initiated by Tobias ([flash demo here](https://literate.modeling.free.fr/modeling/compare/GMFCompareEcoredi.htm)).
 
 Many more ideas are available and look really cool especially in the modeling area, so if you're a student, jump and meet the **Eclipse Community**!
-

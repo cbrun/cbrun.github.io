@@ -7,6 +7,7 @@ tags:
 - eclipse
 - acceleo
 - modeling
+- obeo
 categories: [modeling]
 modified_time: '2009-09-29T09:09:44.397-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/SsIi1OL6w-I/AAAAAAAAALw/IpAvHoRsmME/s72-c/100_9865.JPG
@@ -53,4 +54,3 @@ It's been 3 years now since I arrived in [Obeo](https://www.obeosoft.com/fr/), a
 So far I'm quite happy with the results :)
 
 _ps: thanks to Jérôme who did the demo_
-
