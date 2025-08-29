@@ -8,6 +8,40 @@
 {% if page.amphtml %}    
   <link rel="amphtml" href="{{ page.amphtml }}">
 {% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title }}",
+{% if page.excerpt %}    
+  "description": "{{ page.description }}",
+{% endif %}  
+  "author": {"@type": "Person", "name": "{{ author }}"},
+{% if page.date %}  
+  "datePublished": "{{ page.date | date: "%Y-%m-%d" }}",
+{% endif %}  
+{% if page.modified %}  
+  "dateModified": "{{ page.modified | date: "%Y-%m-%d" }}",
+{% endif %}
+  
+  "mainEntityOfPage": {"@type": "WebPage","@id": "https://cedric.brun.io/modeling/models2024/"},
+{% if page.image.feature %}  
+  "image": [
+   {% if page.image.feature contains 'http' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  ],
+{% endif %}
+  "publisher": {
+    "@type": "Organization",
+    "name": "CEO @ Obeo",
+    "logo": {"@type": "ImageObject","url": "https://cedric.brun.io/favicon.png"}
+  }
+}
+</script>
 </head>
 
 <body class="post">
