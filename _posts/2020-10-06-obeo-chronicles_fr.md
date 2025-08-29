@@ -6,6 +6,7 @@ tags: [eclipse, obeo, écologie]
 lang: fr
 translation_en: /eclipse/obeo-chronicles/
 permalink: /eclipse/obeo-chroniques-2020/
+excerpt: "Chronique Q4 2020 pour la communauté Eclipse/modélisation—annonce open source de Sirius Web, Capella Days—et pourquoi cela compte pour les bâtisseurs d’outils."
 ---
 
 Je n'arrive pas à croire que nous sommes déjà au quatrième trimestre. J'ai tellement de nouvelles à partager avec vous !
@@ -83,4 +84,3 @@ Tout cela est rendu possible grâce à l'énergie et à la cohésion de l'équip
     <a href="{{ site.url }}/images/blog/chronicles/wcd.png"><img src="{{ site.url }}/images/blog/chronicles/wcd.png"></a>  
     <figcaption>#WeAreObeo au World Cleanup Day</figcaption>
 </figure>
-
