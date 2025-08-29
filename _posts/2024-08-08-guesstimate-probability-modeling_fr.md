@@ -11,6 +11,7 @@ tags:
 lang: fr
 permalink : /modeling/guesstimate-modelisation-probabilite/
 translation_en : /modeling/guesstimate-probability-modeling/
+excerpt: "Démo courte d’un prototype Sirius Web pour des « guesstimates » Monte Carlo — pour modélisateurs et ingénieurs — montrant comment créer rapidement des outils métier."
 ---
 Alors que vous profitez peut-être de votre été et que vous naviguez par ici, laissez-moi vous montrer un petit prototype sur lequel j'ai travaillé par intermittence à travers plusieurs versions de Sirius Web.
 

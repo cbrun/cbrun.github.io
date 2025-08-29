@@ -9,6 +9,7 @@ tags:
   - sirius
   - opensource  
 translation_fr: /modeling/guesstimate-modelisation-probabilite/
+excerpt: "A short demo of a Sirius Web prototype for Monte Carlo ‘guesstimates’—for modelers and engineers—showing how to build domain tools fast."
 ---
 
 As you might be enjoying your summer and browsing around here, let me show you a little prototype I’ve been developing on and off through several versions of Sirius Web.

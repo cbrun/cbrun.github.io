@@ -3,6 +3,7 @@ layout: post
 title: What if you could design, simulate and analyze all at once using Open-Source solutions?
 categories: [modeling]
 tags: [modeling, emf, eclipse, sirius, opensource, jupyter]
+excerpt: "A demo of Sirius Web × Jupyter Notebook—for engineers and data‑minded teams—showing why live design, simulation, and analysis together can transform workflows now."
 ---
 
 
@@ -22,6 +23,5 @@ I can't help but imagine the endless possibilities of quickly simulating design 
 What do you think? Have you used **𝗝𝘂𝗽𝘆𝘁𝗲𝗿** or **𝗘𝗰𝗹𝗶𝗽𝘀𝗲 𝗦𝗶𝗿𝗶𝘂𝘀** in your work? How? Would you consider it ?
 
 <video width="640" height="360" controls><source src="{{ site.url }}/media/SiriusWeb and JupyterNotebook.mp4">Your browser does not support the video tag.</video>
-
 
 

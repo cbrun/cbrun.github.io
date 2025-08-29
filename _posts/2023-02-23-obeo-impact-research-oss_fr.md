@@ -7,6 +7,7 @@ tags: [obeo, modeling, research, acceleo, m2doc, ecoretools, sirius, opensource]
 lang: fr
 permalink : /obeo/impact-pme-opensource-recherche-academique/
 translation_en: /obeo/obeo-impact-research-oss/
+excerpt: "Mesurer l’impact d’Obeo sur la recherche via l’open source—utile aux chercheurs, partenaires et responsables OSS—pour montrer pourquoi le modèle accélère la science dès maintenant."
 ---
 
 

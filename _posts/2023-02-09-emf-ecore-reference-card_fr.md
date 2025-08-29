@@ -6,6 +6,7 @@ tags: [modeling, emf, eclipse, sirius, opensource, ecore]
 lang: fr
 permalink: /modeling/ecore-diagram-reference/
 translation_en: /modeling/emf-ecore-reference-card/
+excerpt: "Une carte de référence Ecore en une page—pratique pour les utilisateurs EMF et enseignants—pour rappeler pourquoi ces concepts clés comptent et comment les appliquer."
 ---
 
 

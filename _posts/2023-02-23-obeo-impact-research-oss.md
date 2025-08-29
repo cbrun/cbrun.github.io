@@ -6,6 +6,7 @@ categories: [obeo]
 tags: [obeo, modeling, research, acceleo, m2doc, ecoretools, sirius, opensource]
 permalink: /obeo/obeo-impact-research-oss/
 translation_fr: /obeo/impact-pme-opensource-recherche-academique/
+excerpt: "Measuring Obeo’s open‑source impact on academia—useful for researchers, partners, and OSS leaders—to show why community stewardship accelerates research today."
 ---
 Through our leadership in open-source projects and technologies, we enable significant academic research across the world . In some cases directly with contributions from our PhD students (soon [Théo Giraudet](https://www.linkedin.com/in/th%C3%A9o-giraudet/)!) through collaboration with Benoit Combemale and the [DiverSE INRIA team](https://www.diverse-team.fr/), within the [EcoPlex project](https://www.ecoplex.fr/) and [Dalila Tamzalit](https://www.linkedin.com/in/dalila-tamzalit-3807375/) at [LS2N](https://www.ls2n.fr/) and [many other over the years](https://cedric.brun.io/talks/), but in the large majority of cases our contribution is indirect.
 
@@ -23,4 +24,3 @@ That's 15 more than the previous year, and about 1600 publications in the last 1
 
 This impressive result showcases the positive impact that Obeo has on the research community, and how Open-Source is an unchallenged multiplier in this regard 📈.
 We're thrilled to continue contributing modestly, to the overall progress of science and engineering by enabling so much high quality work!
-

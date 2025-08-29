@@ -5,6 +5,7 @@ categories: [modeling]
 tags: [modeling, emf, eclipse, sirius, opensource, ecore]
 permalink: /modeling/emf-ecore-reference-card/
 translation_fr: /modeling/ecore-diagram-reference/
+excerpt: "A one‑page Ecore reference card—handy for EMF users and educators—explaining why the core model concepts still matter and how to use them today."
 ---
 
 
@@ -25,7 +26,6 @@ To produce it I exclusively used Open-Source tools :
 I created 4 distincts diagrams from the Ecore.ecore model, then used the "Export as Image" feature of Sirius to get SVG files out of it. I dragged and dropped those file in Inkscape, scaled, composed a bit, and voilà ! Here is the refcard.
 
 You can decorate your office now ;) Hope you enjoy
-
 
 
 
