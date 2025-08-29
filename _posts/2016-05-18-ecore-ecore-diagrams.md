@@ -2,7 +2,10 @@
 layout: post
 title: Ecore.ecore using EcoreTools
 categories: [modeling]
-tags: [ecore, eclipse, ecoretools]
+tags:
+  - ecore
+  - eclipse
+  - ecoretools
 translation_fr: /eclipse/ecore-ecore-diagrammes/
 ---
 

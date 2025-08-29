@@ -3,7 +3,15 @@ layout: post
 title: Wondering what kind of impact a company like Obeo has on Research?
 categories: [modeling]
 categories: [obeo]
-tags: [obeo, modeling, research, acceleo, m2doc, ecoretools, sirius, opensource]
+tags:
+  - obeo
+  - modeling
+  - research
+  - acceleo
+  - m2doc
+  - ecoretools
+  - sirius
+  - opensource
 permalink: /obeo/obeo-impact-research-oss/
 translation_fr: /obeo/impact-pme-opensource-recherche-academique/
 excerpt: "Measuring Obeo’s open‑source impact on academia—useful for researchers, partners, and OSS leaders—to show why community stewardship accelerates research today."

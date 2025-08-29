@@ -1,7 +1,11 @@
 ---
 layout: page
 title: À Propos
-tags: [about, Jekyll, theme, responsive]
+tags:
+  - about
+  - Jekyll
+  - theme
+  - responsive
 comments: true
 lang: fr
 excerpt: "Présente Cédric Brun, PDG d'Obeo. Spécialiste des projets open-source et de la modélisation spécifique au domaine, Cédric contribue activement à la communauté Eclipse et partage son expertise en génie logiciel lors de conférences et dans des articles de recherche. La page met en lumière son rôle de leader chez Obeo et son engagement à faire progresser les outils et technologies de modélisation."

@@ -2,7 +2,12 @@
 layout: post
 title: Interview by Strumenta
 categories: [obeo]
-tags: [modeling, emf, eclipse, sirius, opensource]
+tags:
+  - modeling
+  - emf
+  - eclipse
+  - sirius
+  - opensource
 excerpt: "Language Engineering Talks #06—an interview for language engineering and modeling readers—sharing perspectives on OSS tooling and why it matters."
 ---
 

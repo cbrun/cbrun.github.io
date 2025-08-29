@@ -2,7 +2,11 @@
 layout: post 
 title: Construire des Outils de Modélisation Graphique, Approches pour Réduire la Complexité 
 categories: [modeling] 
-tags: [modeling, emf, eclipse, sirius] 
+tags:
+  - modeling
+  - emf
+  - eclipse
+  - sirius
 lang: fr
 permalink : /modeling/guesstimate-modelisation-probabilite/
 translation_en: /modeling/Solutions-to-build-graphical-modeler/

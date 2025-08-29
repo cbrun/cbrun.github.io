@@ -2,7 +2,10 @@
 layout: post
 title:  AQL - a new interpreter for Sirius
 categories: [modeling]
-tags: [eclipse, acceleo, sirius]
+tags:
+  - eclipse
+  - acceleo
+  - sirius
 permalink: /eclipse/introducing-aql/
 ---
 

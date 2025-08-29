@@ -2,7 +2,11 @@
 layout: post
 title: Building Graphical Modeling Tools, Approaches to Reducing Complexity
 categories: [modeling]
-tags: [modeling, emf, eclipse, sirius]
+tags:
+  - modeling
+  - emf
+  - eclipse
+  - sirius
 permalink: /modeling/Solutions-to-build-graphical-modeler/
 translation_fr: /modeling/guesstimate-modelisation-probabilite/
 excerpt: "How to cut complexity when building graphical modelers—for tool builders and engineering leaders—using modular design, DSLs, and fast iteration on the web."

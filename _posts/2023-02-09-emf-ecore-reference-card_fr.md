@@ -2,7 +2,13 @@
 layout: post 
 title: Connaissez-vous Ecore ? Vous cherchez une carte de référence ? 
 categories: [modeling] 
-tags: [modeling, emf, eclipse, sirius, opensource, ecore]
+tags:
+  - modeling
+  - emf
+  - eclipse
+  - sirius
+  - opensource
+  - ecore
 lang: fr
 permalink: /modeling/ecore-diagram-reference/
 translation_en: /modeling/emf-ecore-reference-card/

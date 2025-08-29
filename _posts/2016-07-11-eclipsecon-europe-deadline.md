@@ -2,7 +2,9 @@
 layout: post
 title: Psst, psst, you might want to submit right now for EclipseCon Europe!
 categories: [eclipse]
-tags: [eclipse, eclipsecon]
+tags:
+  - eclipse
+  - eclipsecon
 
 ---
 

@@ -2,7 +2,13 @@
 layout: post
 title: 'Graphical Modeling from 2016 to 2017: Better, Faster, Stronger'
 categories: [modeling]
-tags: [eclipse, sirius, modeling, emf, acceleo, obeo]
+tags:
+  - eclipse
+  - sirius
+  - modeling
+  - emf
+  - acceleo
+  - obeo
 ---
 
 

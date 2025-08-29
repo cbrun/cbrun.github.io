@@ -2,7 +2,11 @@
 layout: post
 title:  "SVG icons in Sirius Web"
 categories: [modeling]
-tags: [modeling, sirius, opensource, papyrus]
+tags:
+  - modeling
+  - sirius
+  - opensource
+  - papyrus
 excerpt: "Crisp SVG icons in Papyrus Web editors—useful for UX‑minded modelers evaluating Sirius Web and why vector assets elevate clarity."
 ---
 One of the things I'm excited about: so many technologies on the web stack are focused on high-quality visuals, and Sirius Web can now leverage all of that goodness.

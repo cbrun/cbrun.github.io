@@ -2,7 +2,12 @@
 layout: post
 title: Are your engineering tools built on top of strong and well-maintained technologies?
 categories: [eclipse]
-tags: [modeling, emf, eclipse, sirius, opensource]
+tags:
+  - modeling
+  - emf
+  - eclipse
+  - sirius
+  - opensource
 excerpt: "Why well‑maintained OSS foundations matter for engineering tools—Sirius’ 12 releases in 2022 show reliability for teams betting long‑term, today."
 ---
 

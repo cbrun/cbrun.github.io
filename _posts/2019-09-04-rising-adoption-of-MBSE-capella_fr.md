@@ -2,7 +2,11 @@
 layout: post
 title: L'Adoption Croissante de Capella
 categories: [modeling]
-tags: [eclipse, capella, smw, obeo]
+tags:
+  - eclipse
+  - capella
+  - smw
+  - obeo
 lang : fr
 translation_en: /eclipse/rising-adoption-of-MBSE-capella/
 permalink : /eclipse/adoption-croissante-MBSE-capella/

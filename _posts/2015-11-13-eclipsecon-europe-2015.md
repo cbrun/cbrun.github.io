@@ -2,7 +2,10 @@
 layout: post
 title:  EclipseCon Europe 2015 is over but SiriusCon is coming!
 categories: [eclipse]
-tags: [eclipsecon, eclipse, sirius]
+tags:
+  - eclipsecon
+  - eclipse
+  - sirius
 
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: 'You only have a few more hours to submit to EclipseCon Europe!'
 categories: [eclipse]
-tags: [eclipse, eclipsecon]
+tags:
+  - eclipse
+  - eclipsecon
 
 ---
 

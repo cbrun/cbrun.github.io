@@ -2,7 +2,13 @@
 layout: post
 title: Do you know Ecore? Looking for a reference card?
 categories: [modeling]
-tags: [modeling, emf, eclipse, sirius, opensource, ecore]
+tags:
+  - modeling
+  - emf
+  - eclipse
+  - sirius
+  - opensource
+  - ecore
 permalink: /modeling/emf-ecore-reference-card/
 translation_fr: /modeling/ecore-diagram-reference/
 excerpt: "A one‑page Ecore reference card—handy for EMF users and educators—explaining why the core model concepts still matter and how to use them today."

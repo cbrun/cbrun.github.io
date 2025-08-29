@@ -1,7 +1,11 @@
 ---
 layout: page
 title: About
-tags: [about, Jekyll, theme, responsive]
+tags:
+  - about
+  - Jekyll
+  - theme
+  - responsive
 comments: true
 excerpt : "Introduces Cédric Brun, CEO of Obeo. With a focus on open-source projects and domain-specific modeling, Cédric is an active contributor in the Eclipse community and shares his expertise in software engineering through conferences and research papers. The page highlights his leadership at Obeo and his dedication to advancing modeling tools and technologies."
 lang : en

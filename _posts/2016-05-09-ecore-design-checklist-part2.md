@@ -2,7 +2,10 @@
 layout: post
 title: Metamodel (Ecore) Design Checklist - part 2
 categories: [modeling]
-tags: [ecore, emf, eclipse]
+tags:
+  - ecore
+  - emf
+  - eclipse
 permalink: /modeling/ecore-design-checklist-part2/
 translation_fr: /eclipse/checklist-conception-ecore-partie2/
 ---

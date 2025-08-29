@@ -2,7 +2,10 @@
 layout: post
 title: ⦏Breaking News Eclipse Sirius⦎ SiriusCon 2017!
 categories: [eclipse]
-tags: [eclipse, sirius, siriuscon]
+tags:
+  - eclipse
+  - sirius
+  - siriuscon
 ---
 
 

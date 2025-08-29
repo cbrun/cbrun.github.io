@@ -2,7 +2,13 @@
 layout: post
 title: "EcoreTools-Next: Executable DSL made (more) accessible"
 categories: [modeling]
-tags: [emf, ecoretools, executable, simulation, dsl, xtext]
+tags:
+  - emf
+  - ecoretools
+  - executable
+  - simulation
+  - dsl
+  - xtext
 ---
 Hello there! I'm Cédric Brun, CTO at Obeo, and I'm excited to talk at the next EclipseCon France about making Executable Domain-Specific Languages (DSLs) more accessible through our latest innovation: ALE (Action Language for EMF), integrated into Ecore Tools.
 

@@ -2,7 +2,9 @@
 layout: post
 title: Tweets from 2010 to 2022
 categories: [social]
-tags: [social, tweets]
+tags:
+  - social
+  - tweets
 ---
 
 > Blogging about Eclipse, OSS and the Obeo Company  "Unusual Propulsion System" : https://tinyurl.com/ybazp84

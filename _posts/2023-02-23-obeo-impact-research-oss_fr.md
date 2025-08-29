@@ -3,7 +3,15 @@ layout: post
 title: Vous vous demandez quel impact une entreprise comme Obeo a sur la recherche ? 
 categories: [modeling] 
 categories: [obeo] 
-tags: [obeo, modeling, research, acceleo, m2doc, ecoretools, sirius, opensource] 
+tags:
+  - obeo
+  - modeling
+  - research
+  - acceleo
+  - m2doc
+  - ecoretools
+  - sirius
+  - opensource
 lang: fr
 permalink : /obeo/impact-pme-opensource-recherche-academique/
 translation_en: /obeo/obeo-impact-research-oss/
