@@ -34,7 +34,7 @@
   </div>
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-    {% assign english_posts = site.posts |  where_exp: 'p', 'p.translation_en == nil or p.translation_en == ""'%}
+    {% assign english_posts = site.posts | where_exp: "p", "p.translation_en == blank" %}
     {% for post in english_posts limit:5 %}
       {% unless post.draft %}
       <article>
