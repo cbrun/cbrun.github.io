@@ -13,8 +13,29 @@
 <meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
 {% if site.owner.bing-verify %}<meta name="msvalidate.01" content="{{ site.owner.bing-verify }}">{% endif %}
 
-{% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+{%- comment -%}
+  Canonical URL
+  - If this is a French page with a declared English counterpart (translation_en),
+    point canonical to the English permalink to avoid duplicate content signals.
+  - Otherwise, keep the existing page-based canonical computation.
+{%- endcomment -%}
+{% if page.lang == 'fr' and page.translation_en %}
+  {% assign canonical = site.url | append: page.translation_en %}
+{% else %}
+  {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+{% endif %}
 <link rel="canonical" href="{{ canonical }}">
+
+{%- comment -%}
+  Optional: alternate hreflang hints (kept minimal; extend as needed)
+{%- endcomment -%}
+{% if page.translation_en %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.translation_en }}">
+{% endif %}
+{% if page.translation_fr %}
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}{{ page.translation_fr }}">
+{% endif %}
+<link rel="alternate" hreflang="x-default" href="{{ canonical }}">
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- https://t.co/dKP3o1e -->
