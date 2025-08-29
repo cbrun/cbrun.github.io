@@ -6,6 +6,7 @@ tags: [modeling, emf, eclipse, sirius]
 lang: fr
 permalink : /modeling/guesstimate-modelisation-probabilite/
 translation_en: /modeling/Solutions-to-build-graphical-modeler/
+excerpt: "Réduire la complexité pour construire des modeleurs graphiques—pour concepteurs d’outils et responsables—grâce au modulaire, aux DSL et à l’itération rapide sur le web."
 ---
 
 Construire des outils de modélisation graphique peut être une entreprise complexe, surtout s'ils doivent prendre en charge de nombreuses fonctionnalités et fonctions. Chez Obeo, nous avons une vaste expérience dans ce domaine et nous nous efforçons de rendre le processus aussi simple et accessible que possible. Pour y parvenir, nous nous appuyons sur plusieurs stratégies, y compris la conception modulaire, les abstractions de plus haut niveau, et la capacité à itérer rapidement sur la définition d'un outil. Ces dernières années, nous avons conservé ces principes tout en faisant migrer les technologies vers le Web.

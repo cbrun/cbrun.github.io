@@ -5,6 +5,7 @@ categories: [modeling]
 tags: [modeling, emf, eclipse, sirius]
 permalink: /modeling/Solutions-to-build-graphical-modeler/
 translation_fr: /modeling/guesstimate-modelisation-probabilite/
+excerpt: "How to cut complexity when building graphical modelers—for tool builders and engineering leaders—using modular design, DSLs, and fast iteration on the web."
 ---
 
 Building graphical modeling tools can be a complex undertaking, especially if they need to support many features and functions. At Obeo, we have extensive experience in this area and strive to make the process as easy and accessible as possible. To accomplish this, we rely on several strategies, including modular design, higher-level abstractions, and the ability to iterate quickly on a tool definition. In the last few years we have kept these principles while transitionning the technologies to the Web.
@@ -70,6 +71,5 @@ With Sirius Web we even go one step further in reducing this feedback loop: you 
 
 ----
 To summarize, building a graphical modeling tool can be complex, but there are several ways to approach this complexity. Modular design allows for easier understanding and reuse of code, while higher-level abstractions can hide underlying complexity from the user. Fast iteration and turnaround is also important for efficient development. Obeo has been working on technologies to make building graphical modeling tools more accessible for many years now, and we are excited by the prospects of what is to come on this path : while Sirius on the desktop has proven this is an efficient way to tackle this complexity, [Sirius on the Web](https://www.eclipse.dev/sirius/sirius-web.html) goes even one step further in making such tools accessible to anyone.
-
 
 

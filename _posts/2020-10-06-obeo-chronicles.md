@@ -4,6 +4,7 @@ title: Obeo's Chronicles, Autumn 2020
 categories: [obeo]
 tags: [eclipse, obeo, ecology]
 translation_fr: /eclipse/obeo-chroniques-2020/
+excerpt: "Q4 2020 company update for the Eclipse/modeling community—Sirius Web’s open‑source reveal, Capella Days, and why it matters for tool builders now."
 ---
 
 I can’t believe we are already looking at Q4. I have so much news to share with you!
@@ -102,4 +103,3 @@ This is all made possible thanks to the energy and cohesion of the Obeo team in 
     <a href="{{ site.url }}/images/blog/chronicles/wcd.png"><img src="{{ site.url }}/images/blog/chronicles/wcd.png"></a>  
     <figcaption>#WeAreObeo at the World Cleanup Day</figcaption>
 </figure>
-
