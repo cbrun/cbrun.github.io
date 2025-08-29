@@ -208,4 +208,4 @@ Cet élément est symétrique au précédent : si l'un de vos objectifs est que 
 
 ___
 
-C'est tout pour le moment, mais le sujet est loin d'être épuisé. La [partie 2](https://cedric.brun.io/eclipse/ecore-design-checklist-part2/) est plus technique avec un accent sur la scalabilité et sur la correspondance entre Ecore et Java. N'hésitez pas à donner votre avis via [Twitter](https://twitter.com/bruncedric)!
+C'est tout pour le moment, mais le sujet est loin d'être épuisé. La [partie 2](https://cedric.brun.io//eclipse/checklist-conception-ecore-partie2/) est plus technique avec un accent sur la scalabilité et sur la correspondance entre Ecore et Java. N'hésitez pas à donner votre avis via [Twitter](https://twitter.com/bruncedric)!

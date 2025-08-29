@@ -3,11 +3,12 @@ layout: post
 title: Metamodel (Ecore) Design Checklist - part 2
 categories: [modeling]
 tags: [ecore, emf, eclipse]
+permalink: /modeling/ecore-design-checklist-part2/
 translation_fr: /eclipse/checklist-conception-ecore-partie2/
 ---
 
 This article is the second part of a series focusing on metamodel design (more especially Ecore models). 
-Following the [first part focused on some ground rules](../ecore-design-checklist-part1) this second part is focused on slightly more technical aspects: scalability and Java. The general disclaimer still applies: 
+Following the [first part focused on some ground rules]({{ site.url }}/modeling/ecore-design-checklist-part1) this second part is focused on slightly more technical aspects: scalability and Java. The general disclaimer still applies: 
 
 > Most of the checks stated here are very easy to comply with when considered from the start but might not be that cheap later on. 
 > Furthermore this list is not exhaustive and not necessary the unique and unviversal truth. Your mileage may vary but then [tell me about it!](https://twitter.com/bruncedric)

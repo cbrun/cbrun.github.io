@@ -7,7 +7,7 @@ permalink: /eclipse/checklist-conception-ecore-partie2/
 lang: fr
 translation_en: /eclipse/ecore-design-checklist-part2/
 ---
-Cet article est la deuxième partie d'une série axée sur la conception de métamodèles (plus précisement les modèles Ecore). À la suite de [la première partie centrée sur certaines règles de base](../ecore-design-checklist-part1), cette deuxième partie se concentre sur des aspects légèrement plus techniques : la performance et Java. Le disclaimer général s'applique toujours :
+Cet article est la deuxième partie d'une série axée sur la conception de métamodèles (plus précisement les modèles Ecore). À la suite de [la première partie centrée sur certaines règles de base]({{ site.url }}/eclipse/checklist-conception-ecore-partie1/), cette deuxième partie se concentre sur des aspects légèrement plus techniques : la performance et Java. Le disclaimer général s'applique toujours :
 
 > La plupart des vérifications indiquées ici sont très faciles à respecter si elles sont prises en compte dès le début, mais pourraient ne pas être aussi abordables plus tard. 
 > De plus, cette liste n'est pas exhaustive et n'est pas nécessairement la vérité unique et universelle. Votre expérience peut varier, mais alors [parlez-moi-en !](https://twitter.com/bruncedric)
@@ -153,7 +153,7 @@ ___
 C'est tout pour le moment. Si vous commencez avec cette liste de contrôle, vous aurez couvert les bases.
 
 <!---
-Une version condensée listant toutes les règles des articles est disponible sur [cette page web](../ecore-design-checklist).
+Une version condensée listant toutes les règles des articles est disponible sur [cette page web]({{ site.url }}/modeling/ecore-design-checklist/).
 -->
 
 Mon objectif avec EcoreTools est de vous aider à prendre en compte ces aspects, c'est pourquoi de nombreuses règles sont illustrées par des fonctionnalités spécifiques de cet éditeur de diagrammes. 
