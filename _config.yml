@@ -20,13 +20,20 @@ collections:
   category:
     output: true # générer la page HTML
     permalink: /:collection/:name/index.html
-    
+  tag:
+    output: true
+    permalink: /:collection/:name/index.html
 defaults:
   - scope:
       path: ""
       type: category
     values:
       layout: "category"
+  - scope:
+      path: ""
+      type: tag
+    values:
+      layout: "tag"
 
 
 kramdown:
