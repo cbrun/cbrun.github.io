@@ -1,7 +1,6 @@
 # Site navigation links
-
-- title: All Posts
-  url: /posts/
-
 - title: Talks and Papers
   url: /talks/
+
+- title: "*"
+  url: /posts/
