@@ -1,0 +1,61 @@
+---
+layout: post
+title: 'Engineering dictator strikes back : querying your team repository'
+date: '2009-02-17T08:44:00.000-08:00'
+tags:
+- modeling kata
+- eclipse
+- acceleo
+- software engineering
+categories: [obeo]
+
+modified_time: '2009-05-07T08:07:35.197-07:00'
+thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/SZr29ji1-FI/AAAAAAAAAF4/qzOj-W9IvE8/s72-c/teammodel..png
+blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8666280745850019187
+blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/02/engineering-dictator-strikes-back.html
+
+---
+
+That post inaugurate a series of <span style="font-weight: bold;">"modeling kata"'s</span>. Modeling kata's are about
+basic usage of Eclipse modeling and related technologies to create fun stuffs, and more importantly doing it again and
+again using different ways and analysing the pros and cons of each solution. Of course the "kata" terminology <a
+	href="https://pragdave.pragprog.com/">is not from me.</a><br /><br />Let's introduce the problem :<br /><br />Taking
+my role of<span style="font-weight: bold;"> " <strike>Non</strike> Benevolent Dictator for Life</span> " <a
+	href="https://www.obeosoft.com/fr/">at work </a>seriously, I like to keep an eye on the source code history of our
+products; on the mass of changes and on the places where the changes are made.<br /><br />That was the idea behind the
+teamlog2rss.py script I wrote last year. But now, going a bit further in the "big brother" concepts, I hacked a small
+EMF model to retrieve the logs from the team repository and to generate reports, I'm then able to analyze the log
+messages and file uri's :)<br /><br />The model is straightforward, here is a quick extract of the result
+:<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
+	href="https://4.bp.blogspot.com/_u5tMWln_Ie8/SZr29ji1-FI/AAAAAAAAAF4/qzOj-W9IvE8/s1600-h/teammodel..png"><img
+		style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 223px;"
+		src="https://4.bp.blogspot.com/_u5tMWln_Ie8/SZr29ji1-FI/AAAAAAAAAF4/qzOj-W9IvE8/s400/teammodel..png" alt=""
+		id="BLOGGER_PHOTO_ID_5303823048556017746" border="0" /></a><br /><br />The model implementation is querying <a
+	href="https://www.eclipse.dev/subversive/">Subversive </a>to retrieve the logs through a "derived reference". That
+solution is quite crappy as accessing the model means going through the network (meaning - that's slow), but the
+advantage is : my EMF model is a plain old EMF model, and as such any tool will work with it.<br /><br />Then I'm
+producing reports using <a href="https://www.acceleo.org/pages/accueil/">Acceleo</a>, for each week and commiter, I'm
+checking:<br />
+<ul>
+	<li>how many changes have been made<br /></li>
+	<li>how many unique files have been changed<br /></li>
+	<li>how many tests have been changed</li>
+	<li>how many "happy checkstyle" commits were done</li>
+	<li>commit activity concerning "bugfixing"<br /></li>
+	<li>how many "happy boyscout" commits were done</li>
+</ul>here is an extract of the M2T template:<br /><br /><a
+	onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
+	href="https://1.bp.blogspot.com/_u5tMWln_Ie8/SZr24t1WZfI/AAAAAAAAAFw/VXXtkzusc8U/s1600-h/teamtemplate.png"><img
+		style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 255px;"
+		src="https://1.bp.blogspot.com/_u5tMWln_Ie8/SZr24t1WZfI/AAAAAAAAAFw/VXXtkzusc8U/s400/teamtemplate.png" alt=""
+		id="BLOGGER_PHOTO_ID_5303822965418649074" border="0" /></a><br /><br />I'm then able to generate HTML, and even
+generate a small uri for Google charts to get nice pictures:<br /><a
+	onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
+	href="https://chart.apis.google.com/chart?chs=400x120&amp;cht=lc&amp;chd=t:118,171,131,79,170,52,144,252,155,275,190,108,56,76,145,97,110,165,154,82,107,141,101,67,76,76,325,94,225,79,76,58,225,70,133,249,160,196,70,82%7C223,781,734,1251,740,454,509,1539,1058,1670,3135,1040,1969,524,1529,504,1887,1772,1488,3002,914,1570,649,153,237,372,375,127,341,439,398,599,1699,648,1253,1352,1451,2524,324,752%7C223,781,734,1251,740,454,509,1539,1058,1670,3135,1040,1969,524,1529,504,1887,1772,1488,3002,914,1570,649,153,237,372,375,127,341,439,398,599,1699,648,1253,1352,1451,2524,324,752%7C18,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%7C0,0,0,0,2,0,0,0,1,4,1,0,0,0,6,0,15,2,15,4,2,12,11,2,4,1,356,85,221,13,22,1,2,2,41,99,74,21,28,31%7C114,537,322,483,340,3,288,619,659,923,1247,567,266,278,1232,94,50,97,19,0,78,700,2,0,1,0,0,6,14,0,6,13,2,6,0,0,13,14,32,20%7C10,80,34,62,139,4,56,24,6,21,61,11,5,6,7,37,62,8,22,130,33,23,44,18,15,46,10,12,35,23,24,27,7,34,5,6,3,52,6,1&amp;chco=fcaf3e,8ae234,729fcf,ad7fa8,fce94f,e9b96e,888a85&amp;chdl=commits%7C%20changed%20files%7C%20boyscout%7Ccheckstyle%7Cbugfixing%7Ctesting"><img
+		style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 120px;"
+		src="https://chart.apis.google.com/chart?chs=400x120&amp;cht=lc&amp;chd=t:118,171,131,79,170,52,144,252,155,275,190,108,56,76,145,97,110,165,154,82,107,141,101,67,76,76,325,94,225,79,76,58,225,70,133,249,160,196,70,82%7C223,781,734,1251,740,454,509,1539,1058,1670,3135,1040,1969,524,1529,504,1887,1772,1488,3002,914,1570,649,153,237,372,375,127,341,439,398,599,1699,648,1253,1352,1451,2524,324,752%7C223,781,734,1251,740,454,509,1539,1058,1670,3135,1040,1969,524,1529,504,1887,1772,1488,3002,914,1570,649,153,237,372,375,127,341,439,398,599,1699,648,1253,1352,1451,2524,324,752%7C18,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0%7C0,0,0,0,2,0,0,0,1,4,1,0,0,0,6,0,15,2,15,4,2,12,11,2,4,1,356,85,221,13,22,1,2,2,41,99,74,21,28,31%7C114,537,322,483,340,3,288,619,659,923,1247,567,266,278,1232,94,50,97,19,0,78,700,2,0,1,0,0,6,14,0,6,13,2,6,0,0,13,14,32,20%7C10,80,34,62,139,4,56,24,6,21,61,11,5,6,7,37,62,8,22,130,33,23,44,18,15,46,10,12,35,23,24,27,7,34,5,6,3,52,6,1&amp;chco=fcaf3e,8ae234,729fcf,ad7fa8,fce94f,e9b96e,888a85&amp;chdl=commits%7C%20changed%20files%7C%20boyscout%7Ccheckstyle%7Cbugfixing%7Ctesting"
+		alt="" border="0" /></a><br /><br />I'm even able to add the commiters picture in the "weekly hall of fame"
+through user code tags in the HTML :)<br /><br />That said, M2T transformation is not the best pick for such a need, I
+really need to deduce new information from the original teamlog data to produce, afterwards, a nice report. Next try on
+this kata will probably involve M2M transformation to deduce the information, or Birt reporting... But, I don't want to
+spoil you, <span style="font-style: italic;">stay tuned ;)</span>

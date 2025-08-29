@@ -1,0 +1,84 @@
+---
+layout: post
+title: 'Sirius 2.0 : Under the Hood'
+date: '2014-10-16T02:57:00.000-07:00'
+tags:
+- sirius
+- eclipse
+categories: [modeling]
+modified_time: '2014-10-16T03:10:30.875-07:00'
+thumbnail: https://2.bp.blogspot.com/-aPl8i1qF2YA/VD5FOW3PYpI/AAAAAAAAWl0/ymclmtIGllE/s72-c/ecoretools-bigmodel.png
+blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2547742688312471273
+blogger_orig_url: https://model-driven-blogging.blogspot.com/2014/10/sirius-20-under-hood.html
+---
+
+This summer was quite intense for the Sirius team. Sirius 1.0.0 was barely out that development of the 2.0 stream
+started while report from adopters which are not part of the Eclipse Release train started to appear.<br /><br />That
+represents fixing <a
+	href="https://bugs.eclipse.org/bugs/buglist.cgi?chfield=resolution&amp;chfieldfrom=2014-06-26&amp;chfieldto=Now&amp;chfieldvalue=FIXED&amp;list_id=10278667&amp;product=Sirius&amp;query_format=advanced&amp;resolution=FIXED">more
+	than 100 tickets</a> since the end of june, a few for Sirius 1.0.1 which got published a few weeks ago (and is part
+of Luna SR1). From those tickets 82 are targetting Sirius 2.0 (over a current perimeter of 101 tickets), we are
+currently validating the changes and closing the gap. As a sidenote more than one third of the tickets implemented in
+this version are directly funded by end users (hint : <a
+	href="https://www.obeosoft.com/fr/en/services/support-maintenance">this might be you</a>).<br /><br />Sirius 2.0
+will be released just before EclipseCon Europe , most of the 21 enhancements in this scope are already implemented and
+are under validation: &nbsp;<i>now might be a good time<a href="https://wiki.eclipse.org/Sirius/Update_Sites"> for
+		giving a look</a></i>.<br />These enhancements are mostly focused on the diagram editor user experience, fixing
+long standing issues inherited from the default behavior of the GMF runtime and bringing nice features for intensive
+users of diagrams. But we'll tell more about that in a specific post, lets focus on the "not so visible changes" for now
+:<br />
+<h3></h3>
+<h3>Performances and Scalability</h3>Another strong focus of the 2.0 version was performances and scalability : finding
+bottlenecks and taking them down.<br /><br />We worked on the basis of EcoreTools 2.0&nbsp;with a "big enough" model to
+detect such bottlenecks and mostly focused our efforts on the CPU usage (for now but memory will also be important at
+some point too). &nbsp;1.5Go heap was the target, as long as the scenario were doing fine within this bound we did not
+investigate.<br /><br />What is a "big enough" model you will ask, it is composed of 500 000 model elements (here
+EClasses, EAttributes, EPackages ...). 20 000 representations are created on top of those, 2 of them representing
+hundreds of EClasses.<br /><br />The test data is reverse engineered from the Sirius source code itself which make it
+quite "close" to a sensible Ecore model. Such a model makes it easy to identify bottlenecks: places where your code have
+a complexity relative to the number of model elements, or places where you are doing too much work on the UI
+thread.<br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://2.bp.blogspot.com/-aPl8i1qF2YA/VD5FOW3PYpI/AAAAAAAAWl0/ymclmtIGllE/s1600/ecoretools-bigmodel.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://2.bp.blogspot.com/-aPl8i1qF2YA/VD5FOW3PYpI/AAAAAAAAWl0/ymclmtIGllE/s1600/ecoretools-bigmodel.png"
+			height="323" width="640" /></a></div><br /><br />This has proven to be a very efficient way to identify
+problems and to fix them. Having a consistent installation of EcoreTools&nbsp;+ Sirius is quite easy, opening <a
+	href="https://github.com/cbrun/org.eclipse.ecoretools.performance/tree/master/plugins/org.eclipse.emf.ecoretools.design.tests.perf/projects">the
+	test project become a breeze then</a>&nbsp;and&nbsp;anybody in the team can reproduce the problem and measure for
+himself.<br /><br />And <a
+	href="https://bugs.eclipse.org/bugs/report.cgi?x_axis_field=target_milestone&amp;y_axis_field=resolution&amp;z_axis_field=&amp;no_redirect=1&amp;query_format=report-table&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;product=Sirius&amp;longdesc_type=allwordssubstr&amp;longdesc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=performance%2C+&amp;bug_id=&amp;bug_id_type=anyexact&amp;votes=&amp;votes_type=greaterthaneq&amp;emailtype1=substring&amp;email1=&amp;emailtype2=substring&amp;email2=&amp;emailtype3=substring&amp;email3=&amp;chfieldvalue=&amp;chfieldfrom=&amp;chfieldto=Now&amp;j_top=AND&amp;f1=noop&amp;o1=noop&amp;v1=&amp;format=table&amp;action=wrap">here
+	we are </a>:<br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://3.bp.blogspot.com/-e6QuqxZ5h0w/VD454uF1lPI/AAAAAAAAWlo/Ce4vhBFNUBM/s1600/sirius-perfo-2.0.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://3.bp.blogspot.com/-e6QuqxZ5h0w/VD454uF1lPI/AAAAAAAAWlo/Ce4vhBFNUBM/s1600/sirius-perfo-2.0.png" /></a>
+</div><br /><br />
+<div class="separator" style="clear: both; text-align: center;"></div>We fixed 16 tickets tagged "performances" for the
+2.0 release, here is the list of improvements :<br />- Sirius is initializing itself quicker (notable on <b>startups and
+	first usage)</b><br />- Many calls from the UI threads which were scaling poorly when you have thousands of
+representations are now way faster<br />- <b>Delete</b> have seen a big boost and is now scaling based on what you
+specify and how many things have changed during the execution of your tool <b>independently of the size of the
+	model</b><br />- Diagram having <b>lists with many elements</b> are created and refreshed quicker (the improvement
+is noticeable has soon as you have lists with hundreds of elements)<br />- <b>Select All</b> used to have an irritable
+lag when you were working on a big model, it is now instantly completed.<br />- <b>Tree Editors</b> defined using Sirius
+are now more efficient in refreshing the SWT Components.<br /><br />But more things have been identified often with
+partial patches which have not graduated yet to the stage of "reviewed and regression tested" but will in the next
+releases. Expect some improvements in the way "save" is handled when you have hundreds of resources.&nbsp;This is a
+constant effort but one which has great pay-off: any improvement in Sirius itself brings improvements in the dozens of
+tools which are relying on it.<br /><br />Performances are always a tricky issue for a generic framework or technology,
+so many things will depend on how its used and in which context and the most innocent change can dramatically impact the
+properties of your tool. The #1 rule is : have test data which are representative of what you want to achieve, make sure
+it can be used and migrated easily from version to version.<br /><br />
+<h3>Headless - aka reuse the plugins with no UI</h3><br />Another area which have seen improvements is about using
+Sirius in "other contexts".<br /><br />A first batch of changes has been merged so that some of the basic services
+offered by Sirius are now able to run without any UI. Things like loading a representation resource, creating a diagram,
+&nbsp;refreshing it, modifying the model and saving can now be used as a server-side or continuous integration process
+for instance.<br /><br />Here is a scenario which will work in headless :<br /><br />
+<div class="separator" style="clear: both; text-align: center;"><a
+		href="https://1.bp.blogspot.com/-TMET9lupLCQ/VD5uKk3RsRI/AAAAAAAAWmE/Yo8vcz0aStM/s1600/sirius-headless.png"
+		imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0"
+			src="https://1.bp.blogspot.com/-TMET9lupLCQ/VD5uKk3RsRI/AAAAAAAAWmE/Yo8vcz0aStM/s1600/sirius-headless.png" /></a>
+</div>&nbsp;<span class="Apple-tab-span" style="white-space: pre;"> </span><br />I'm pretty excited about this release
+and I'm looking forward to see these improvements in the tools already adopting Sirius. Of course these are just a few
+more steps closer to the goal, Sirius 3.0 planned for June will bring even more !<br /><br />

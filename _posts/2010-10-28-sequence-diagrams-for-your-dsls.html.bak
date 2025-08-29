@@ -1,0 +1,295 @@
+---
+layout: post
+title: Sequence Diagrams for your DSL's
+date: '2010-10-28T00:53:00.000-07:00'
+tags:
+- sequence diagram
+- eclipse
+- obeo designer
+categories: [modeling]
+modified_time: '2010-10-28T02:00:31.950-07:00'
+thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/TMkui6JcLSI/AAAAAAAAAZA/AWrfJ-jKimA/s72-c/newui.png
+blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2817152112629443534
+blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/10/sequence-diagrams-for-your-dsls.html
+---
+
+<div style="text-align: center;"><br /></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
+	href="https://4.bp.blogspot.com/_u5tMWln_Ie8/TMk5IvJKvAI/AAAAAAAAAZo/6YpkwQoBct0/s1600/main.png"></a>
+<div style="text-align: center;"><br /></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
+	href="https://3.bp.blogspot.com/_u5tMWln_Ie8/TMkui6JcLSI/AAAAAAAAAZA/AWrfJ-jKimA/s1600/newui.png"></a><span
+	class="blsp-spelling-error" id="SPELLING_ERROR_0">We're</span> <span class="blsp-spelling-error"
+	id="SPELLING_ERROR_1">working</span> a lot on <span class="blsp-spelling-error" id="SPELLING_ERROR_2">Obeo</span>
+Designer 5.0 - <span class="blsp-spelling-error" id="SPELLING_ERROR_3">release</span> <span class="blsp-spelling-error"
+	id="SPELLING_ERROR_4">planned</span> for Q1 2011 , on <span class="blsp-spelling-error"
+	id="SPELLING_ERROR_5">the</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_6">traceability</span> support
+and <span class="blsp-spelling-error" id="SPELLING_ERROR_7">the</span><b> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_8">next-gen</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_9">model</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_10">to</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_11">text</span> transformation language</b>.<div><br /></div>
+<div><span class="blsp-spelling-error" id="SPELLING_ERROR_12">Concerning</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_13">the</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_14">editing</span> and
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_15">diagraming</span> support changes are more <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_16">subtles</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_17">though</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_18">powerful</span>.
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_19">Here</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_20">is</span> a <span class="blsp-spelling-error" id="SPELLING_ERROR_21">quick</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_22">glimpse</span> on <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_23">the</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_24">latest</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_25">milestone</span> :</div>
+<div><br /></div>
+<div><span class="blsp-spelling-error" id="SPELLING_ERROR_26">The</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_27">most</span> visible change <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_28">is</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_29">the</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_30">work</span> on <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_31">the</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_32">diagram</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_33">ergonomy</span>, <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_34">the</span> user interface <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_35">has</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_36">been</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_37">cleanup</span>, <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_38">streamlined</span> and <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_39">features</span> are more accessible. <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_40">The</span> global toolbar <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_41">has</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_42">been</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_43">replaced</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_44">with</span> a <b><span class="blsp-spelling-error"
+			id="SPELLING_ERROR_45">dedicated</span> toolbar <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_46">embedded</span></b> in <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_47">the</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_48">diagram</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_49">editor</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_50">providing</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_51">access</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_52">to</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_53">the</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_54">filters</span> and
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_55">the</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_56">enablement</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_57">of</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_58">layers</span>. </div>
+<div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><img
+			src="https://3.bp.blogspot.com/_u5tMWln_Ie8/TMkui6JcLSI/AAAAAAAAAZA/AWrfJ-jKimA/s400/newui.png" border="0"
+			alt="" id="BLOGGER_PHOTO_ID_5533004794460646690"
+			style="display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 400px; height: 217px; " /></span>
+</div>
+<div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><span
+			class="Apple-style-span" style="color: rgb(0, 0, 0); "><span class="blsp-spelling-error"
+				id="SPELLING_ERROR_59">The</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_60">contextual</span> actions have <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_61">been</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_62">re-organized</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_63">too</span>.</span></span></div>
+<div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><img
+			src="https://4.bp.blogspot.com/_u5tMWln_Ie8/TMkusyn5QMI/AAAAAAAAAZI/g9xweWioBgw/s400/new_ui_contextmenu.png"
+			border="0" alt="" id="BLOGGER_PHOTO_ID_5533004964239589570"
+			style="display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 400px; height: 252px; " /></span>
+</div>
+<div><span class="Apple-style-span" style="color:#0000EE;"><br /></span></div>
+<div><a href="https://2.bp.blogspot.com/_u5tMWln_Ie8/TMkvNxSHtVI/AAAAAAAAAZQ/69ewVy0t20I/s1600/quickoutline.png"><img
+			src="https://2.bp.blogspot.com/_u5tMWln_Ie8/TMkvNxSHtVI/AAAAAAAAAZQ/69ewVy0t20I/s400/quickoutline.png"
+			border="0" alt="" id="BLOGGER_PHOTO_ID_5533005530815509842"
+			style="float: right; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 10px; cursor: pointer; width: 301px; height: 279px; " /></a><br />
+</div>
+<div>If <span class="blsp-spelling-error" id="SPELLING_ERROR_64">you're</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_65">used</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_66">to</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_67">nice</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_68">Eclipse</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_69">editors</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_70">you'll</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_71">be</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_72">happy</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_73">to</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_74">learn</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_75">that</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_76">the</span> "<span class="blsp-spelling-error"
+		id="SPELLING_ERROR_77">Quick</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_78">Outline</span>"
+	(<span class="blsp-spelling-error" id="SPELLING_ERROR_79">summoned</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_80">thanks</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_81">to</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_82">CTRL</span>+O) <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_83">is</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_84">available</span> in
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_85">the</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_86">diagrams</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_87">now</span>.
+</div>
+<div><br /></div>
+<div><br /></div>
+<div><br /></div>
+<div><br /></div>
+<div><span class="blsp-spelling-error" id="SPELLING_ERROR_88">Just</span> type in <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_89">any</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_90">word</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_91">here</span>, and <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_92">the</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_93">corresponding</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_94">model</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_95">element</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_96">will</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_97">be</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_98">revealed</span> in <span class="blsp-spelling-error" id="SPELLING_ERROR_99">your</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_100">diagram</span>.</div>
+<div><br /></div>
+<div><br /></div>
+<div><br /></div>
+<div><br /></div>
+<div><br /></div>
+<div><br /></div>
+<div>More <span class="blsp-spelling-error" id="SPELLING_ERROR_101">interesting</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_102">is</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_103">the</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_104">redesigned</span> support for <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_105">diagrams</span> ! <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_106">You</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_107">can</span>, for
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_108">any</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_109">kind</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_110">of</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_111">model</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_112">being</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_113">UML</span> or
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_114">your</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_115">own</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_116">DSL</span>, <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_117">specify</span> and <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_118">leverage</span> a <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_119">diagram</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_120">editor</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_121">keeping</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_122">the</span> <b><span class="blsp-spelling-error" id="SPELLING_ERROR_123">model</span>
+		<span class="blsp-spelling-error" id="SPELLING_ERROR_124">sequence</span> <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_125">order</span> in <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_126">sync</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_127">with</span>
+		<span class="blsp-spelling-error" id="SPELLING_ERROR_128">the</span> <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_129">diagram</span> <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_130">ordering</span>.</b></div>
+<div><br /></div>
+<div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><img
+			src="https://1.bp.blogspot.com/_u5tMWln_Ie8/TMkwGP0laYI/AAAAAAAAAZY/Px1umo3Qgzg/s400/sequence-global.png"
+			border="0" alt="" id="BLOGGER_PHOTO_ID_5533006501085800834"
+			style="display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 400px; height: 248px; " /></span>
+</div>
+<div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><span
+			class="Apple-style-span" style="color: rgb(0, 0, 0); "> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_131">you</span> have <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_132">the</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_133">same</span>
+			<span class="blsp-spelling-error" id="SPELLING_ERROR_134">level</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_135">of</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_136">customization</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_137">that</span> for <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_138">the</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_139">other</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_140">kind</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_141">of</span>
+			<span class="blsp-spelling-error" id="SPELLING_ERROR_142">diagrams</span>, <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_143">you</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_144">can</span>
+			change <span class="blsp-spelling-error" id="SPELLING_ERROR_145">the</span> <span
+				class="blsp-spelling-error" id="SPELLING_ERROR_146">shapes</span>, <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_147">colors</span> <b>and </b>use <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_148">the</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_149">sequence</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_150">diagram</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_151">constructions</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_152">like</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_153">lifelines</span>, messages and <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_154">executions</span>.</span></span></div>
+<div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><span
+			class="Apple-style-span" style="color: rgb(0, 0, 0); "><br /></span></span></div>
+<div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><span
+			class="Apple-style-span" style="color: rgb(0, 0, 0); "><span class="blsp-spelling-error"
+				id="SPELLING_ERROR_155">Here</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_156">we're</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_157">not</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_158">using</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_159">UML</span> but <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_160">our</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_161">own</span>
+			"<i><span class="blsp-spelling-error" id="SPELLING_ERROR_162">interactions</span></i>" <span
+				class="blsp-spelling-error" id="SPELLING_ERROR_163">DSL</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_164">which</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_165">refers</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_166">to</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_167">another</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_168">DSL</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_169">describing</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_170">domain</span> <span class="blsp-spelling-error"
+				id="SPELLING_ERROR_171">entities</span>.</span></span></div>
+<div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><span
+			class="Apple-style-span" style="color: rgb(0, 0, 0); "><br /></span></span></div>
+<div><span class="Apple-style-span" style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><span
+			class="Apple-style-span" style="color: rgb(0, 0, 0); "><span class="Apple-style-span"
+				style="color: rgb(0, 0, 238); -webkit-text-decorations-in-effect: underline; "><img
+					src="https://1.bp.blogspot.com/_u5tMWln_Ie8/TMkwiZlc4YI/AAAAAAAAAZg/SgAXf7tyL9A/s400/sea_sequence_diag.png"
+					border="0" alt="" id="BLOGGER_PHOTO_ID_5533006984743018882"
+					style="display: block; margin-top: 0px; margin-right: auto; margin-bottom: 10px; margin-left: auto; text-align: center; cursor: pointer; width: 400px; height: 236px; " /></span></span></span>
+</div>
+<div>As a <span class="blsp-spelling-error" id="SPELLING_ERROR_172">sidenote</span>, <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_173">you</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_174">can</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_175">now</span> have a <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_176">color</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_177">definition</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_178">which</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_179">is</span><b> <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_180">interpolated</span> on a <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_181">color</span> palette</b> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_182">depending</span> on <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_183">some</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_184">model</span>
+	computation. <span class="blsp-spelling-error" id="SPELLING_ERROR_185">Here</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_186">we</span> have a <span class="blsp-spelling-error" id="SPELLING_ERROR_187">nice</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_188">shade</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_189">of</span> green <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_190">depending</span> on <span class="blsp-spelling-error" id="SPELLING_ERROR_191">the</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_192">level</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_193">of</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_194">execution</span>.
+</div>
+<div><br /></div>
+<div>In a <span class="blsp-spelling-error" id="SPELLING_ERROR_195">nutshell</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_196">this</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_197">new</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_198">release</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_199">will</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_200">bring</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_201">you</span> <a
+		href="https://model-driven-blogging.blogspot.com/2009/09/having-more-control.html">more <span
+			class="blsp-spelling-error" id="SPELLING_ERROR_202">control</span></a>, <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_203">to</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_204">the</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_205">visual</span> aspect and <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_206">interactions</span> on <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_207">the</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_208">tooling</span>,
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_209">the</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_210">ability</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_211">to</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_212">define</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_213">sequence</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_214">diagrams</span>, <span class="blsp-spelling-error" id="SPELLING_ERROR_215">still</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_216">keeping</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_217">the</span> <b><span class="blsp-spelling-error"
+			id="SPELLING_ERROR_218">complexity</span> <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_219">to</span> a minimum</b> : no <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_220">deployement</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_221">requirement</span>, <span class="blsp-spelling-error" id="SPELLING_ERROR_222">one</span>
+	file <span class="blsp-spelling-error" id="SPELLING_ERROR_223">describes</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_224">the</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_225">whole</span> design
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_226">environment</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_227">which</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_228">you</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_229">can</span> test and <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_230">try</span> <b><span class="blsp-spelling-error" id="SPELLING_ERROR_231">without</span>
+		<span class="blsp-spelling-error" id="SPELLING_ERROR_232">even</span> <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_233">starting</span> an <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_234">Eclipse</span> <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_235">runtime</span></b>. </div>
+<div><br /></div>
+<div><span class="blsp-spelling-error" id="SPELLING_ERROR_236">It</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_237">doesn't</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_238">mean</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_239">you</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_240">can't</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_241">deploy</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_242">your</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_243">environment</span> as a set <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_244">of</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_245">plugins</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_246">with</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_247">proper</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_248">dependency</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_249">checking</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_250">thanks</span>
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_251">to</span> P2, <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_252">it's</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_253">just</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_254">that</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_255">you</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_256">don't</span> have
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_257">too</span>.</div><br />
+<div>If <span class="blsp-spelling-error" id="SPELLING_ERROR_258">you</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_259">don't</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_260">know</span> about
+	<span class="blsp-spelling-error" id="SPELLING_ERROR_261">Obeo</span> Designer and <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_262">you</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_263">want</span> <span
+		class="blsp-spelling-error" id="SPELLING_ERROR_264">to</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_265">setup</span> a <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_266">dedicated</span> design + <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_267">transformation</span> <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_268">toolchain</span> for <span class="blsp-spelling-error"
+		id="SPELLING_ERROR_269">your</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_270">domain</span>, <a
+		href="https://www.obeosoft.com/fr/pages/obeo-designer/">have a look <span class="blsp-spelling-error"
+			id="SPELLING_ERROR_271">here</span></a>.</div><br /><span class="blsp-spelling-error"
+	id="SPELLING_ERROR_272">Here</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_273">is</span> a flash
+<span class="blsp-spelling-error" id="SPELLING_ERROR_274">demo</span> <span class="blsp-spelling-error"
+	id="SPELLING_ERROR_275">being</span> a <span class="blsp-spelling-error" id="SPELLING_ERROR_276">recap</span> <span
+	class="blsp-spelling-error" id="SPELLING_ERROR_277">of</span> <span class="blsp-spelling-error"
+	id="SPELLING_ERROR_278">these</span> <span class="blsp-spelling-error" id="SPELLING_ERROR_279">features</span>
+:<br />
+<div><br /></div>
+<div><br /></div>
+<div><br /><br /><embed src="https://sites.google.com/site/modeldrivenblogging/sequence-DSL-andUIChanges.swf"
+		width="959" height="758" quality="low" loop="false" type="application/x-shockwave-flash"
+		pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed><br />
+</div>

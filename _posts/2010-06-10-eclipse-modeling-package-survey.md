@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Eclipse Modeling Package Survey"
+date: '2010-06-09T23:49:00.000-07:00'
+categories: [eclipse]
+tags:
+  - eclipse
+  - acceleo
+modified_time: '2010-06-11T05:18:27.689-07:00'
+thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/TBCSNGcmO4I/AAAAAAAAATA/3uH2Sa365OY/s72-c/icon_twitter.png
+blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3996130301796475531
+blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/06/eclipse-modeling-package-survey.html
+draft: true
+---
+
+I've been quiet in the planet lately; it doesn't mean I've been inactive — quite the contrary in fact. Just like all the other committers I've spent the last few weeks polishing the Eclipse Modeling Helios release. (As a sidenote, I'm giving more updates from here → [![Twitter]({{ site.url }}/images/blog/2010/eclipse-modeling-package-survey/s200_icon_twitter.png)](https://twitter.com/bruncedric))
+
+And now the final bits are almost here! More info about what's new in the Modeling Package soon, but you might have already seen that we have a [pretty good](https://twitter.com/IanSkerrett) [feedback](https://ekkescorner.wordpress.com/2010/06/08/redview-0-8-0-and-epp-modeling-helios-rc3/) :)
+
+Helios is almost public now; we're already wondering what shape **Eclipse Indigo** will have, and to do so I'd like to have **your opinion**. I compiled a tiny survey — 6 questions you can fill in seconds.
+
+If you're interested in Modeling in general, and Eclipse Modeling in particular, **please spend the next seconds filling this survey.**
+
+The survey is embedded in the post or accessible [here](https://spreadsheets0.google.com/viewform?hl=en&formkey=dEZ4UzZSUVF0T25ld2Z5TVNnUlhsQ2c6MQ#gid=0).
+
+<iframe src="https://spreadsheets.google.com/embeddedform?formkey=dEZ4UzZSUVF0T25ld2Z5TVNnUlhsQ2c6MQ" width="760" height="1540" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+

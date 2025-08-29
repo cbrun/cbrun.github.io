@@ -14,7 +14,7 @@ blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/10/model-compa
 ---
 
 <i>The following message is posted on this blog on behalf of Patrick Könemann</i><br /><img
-	src="https://modeldiff.imm.dtu.dk/modeldiff/images/delta.png" alt="" width="88" height="76"
+	src="{{ site.url }}/images/blog/2010/model-comparison-patching-with-mpatch/delta.png" alt="" width="88" height="76"
 	style="float: right; padding: 10px;" /><br /><br />
 <p><br /></p>
 <p>Cédric already announced it two weeks ago: <b>MPatch is integrated into EMF Compare!</b></p><br /><br />
@@ -25,28 +25,28 @@ blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/10/model-compa
 <p>This is just a simple model, a base version on the left and a modified version on the right.<br />Modeled with the
 	IBM Rational Software Architect, but any kind of EMF model is supported.<br />The changes are highlighted: 3 deleted
 	attributes, 1 updated attribute, 1 new class, 3 new generalizations.</p><br /><br />
-<p align="center"><img src="https://modeldiff.imm.dtu.dk/modeldiff/images/stories/tutorial2/modela.png" alt="" /></p>
+<p align="center"><img src="{{ site.url }}/images/blog/2010/model-comparison-patching-with-mpatch/modela.png" alt="" /></p>
 <br /><br />
 <p>EMF Compare is a nice tool for calculating such changes. The result is shown below.<br />All changes are nicely
 	highlighted in the treeviews and one can browse through them.<br />This is where <b>MPatch</b> comes into play: the
 	<b>export</b> menu lists a new option!
 </p><br /><br />
-<p align="center"><img src="https://modeldiff.imm.dtu.dk/modeldiff/images/stories/tutorial2/emfcompare.png" alt="" />
+<p align="center"><img src="{{ site.url }}/images/blog/2010/model-comparison-patching-with-mpatch/emfcompare.png" alt="" />
 </p><br /><br />
 <p>An export wizard is started that guides the user through the <b>MPatch</b> creation task.<br />In the end, the
 	changes are stored in a file, <b>extract_id.mpatch</b> for example.<br />This file can now be applied to other
 	models, even if <b>their contents differ</b>!</p><br /><br />
-<p align="center"><img src="https://modeldiff.imm.dtu.dk/modeldiff/images/stories/tutorial2/apply.png" alt="" /></p>
+<p align="center"><img src="{{ site.url }}/images/blog/2010/model-comparison-patching-with-mpatch/apply.png" alt="" /></p>
 <br /><br />
 <p>The model below is a different one -- again we want to extract the id attribute into a common
 	superclass.<br />However, the attributes, the classes, and even the number of attributes and classes differ!</p>
 <br /><br />
-<p align="center"><img src="https://modeldiff.imm.dtu.dk/modeldiff/images/stories/tutorial2/modelb.png" alt="" /></p>
+<p align="center"><img src="{{ site.url }}/images/blog/2010/model-comparison-patching-with-mpatch/modelb.png" alt="" /></p>
 <br /><br />
 <p>Let's see how <b>MPatch</b> handles the situation.<br />Selecting <i>Apply MPatch</i> triggers a wizard with the same
 	name.<br />The crucial part is the so-called <i>resolution of symbolic references</i> -- they are responsible for
 	selecting the proper model elements of your target model.<br />Let's have a closer look:</p><br /><br />
-<p align="center"><img src="https://modeldiff.imm.dtu.dk/modeldiff/images/stories/tutorial2/resolve.png" alt=""
+<p align="center"><img src="{{ site.url }}/images/blog/2010/model-comparison-patching-with-mpatch/resolve.png" alt=""
 		width="660" height="388" /></p><br /><br />
 <ul><br />
 	<li>The first change is not applicable because there is no attribute called <i>Title</i> -- ignore this!<br /></li>
@@ -57,7 +57,7 @@ blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/10/model-compa
 		found -- ok.<br /></li>
 </ul><br /><br />
 <p>Following the wizard to its end updates the given model and this is the result:</p><br /><br />
-<p align="center"><img src="https://modeldiff.imm.dtu.dk/modeldiff/images/stories/tutorial2/applied.png" alt="" /></p>
+<p align="center"><img src="{{ site.url }}/images/blog/2010/model-comparison-patching-with-mpatch/applied.png" alt="" /></p>
 <br /><br /><br />
 <p>To wrap up, an <b>Mpatch</b> is not only a self-contained patch for models, it is even able to make the changes
 	applicable to different models!</p><br /><br />

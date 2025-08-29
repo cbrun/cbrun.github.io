@@ -1,0 +1,30 @@
+---
+layout: post
+title: Chocolate commit
+date: '2007-12-16T15:12:00.000-08:00'
+tags:
+- eclipse
+- community
+- acceleo
+- chocolate
+- obeo
+categories: [obeo]
+modified_time: '2009-05-07T08:23:55.723-07:00'
+thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/SXr20u9p90I/AAAAAAAAAD4/CbjZO2yJfPU/s72-c/img_2195.jpg
+blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7409205535843746444
+blogger_orig_url: https://model-driven-blogging.blogspot.com/2008/01/chocolate-commit.html
+---
+
+<div><p>At <a href="https://www.obeosoft.com/fr/">work</a>we have a rule : if you commit something which does not compile, or that cause failure of the build, then you <b>have</b>to bring back a chocolates candies box. </p> <p>Many <i>“chocolate commits”</i>happened lately and we manage to always get a candy for the coffee break. As I’m working on a quite tricky project I’m thinking ahead and I did prepare chocolates this morning.</p><p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="https://4.bp.blogspot.com/_u5tMWln_Ie8/SXr20u9p90I/AAAAAAAAAD4/CbjZO2yJfPU/s1600-h/img_2195.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 267px;" src="https://4.bp.blogspot.com/_u5tMWln_Ie8/SXr20u9p90I/AAAAAAAAAD4/CbjZO2yJfPU/s400/img_2195.jpg" alt="" id="BLOGGER_PHOTO_ID_5294815697747703618" border="0" /></a></p> <p>The recipe is quite simple :</p> 
+<ul>
+<li><b>dissolve</b>/melt some <b> chocolate</b></li>
+<li><b>wait</b> a bit ’till it’s quite solid </li>
+<li><b>make</b> tiny balls with the <b>chocolate</b></li>
+<li><b>roll</b> them in sugar </li>
+<li><b>roll</b> them in hot really black </b>chocolate</b> </li>
+<li><b>roll</b> them in cacao powder </li>
+<li><b>wait</b> a bit ’till it’s totally solid </li>
+<li><b>commit</b> something using <i>String.isEmpty</i>for instance, be sure someone notices the mistake fast </li>
+<li><b>bring</b> the chocolates ! </li>
+</ul>
+</div>

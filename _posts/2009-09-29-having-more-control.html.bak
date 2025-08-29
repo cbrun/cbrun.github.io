@@ -1,0 +1,77 @@
+---
+layout: post
+title: Having more control ...
+date: '2009-09-29T06:57:00.000-07:00'
+tags:
+- designer
+- eclipse
+- acceleo
+- modeling
+categories: [modeling]
+modified_time: '2009-09-29T09:09:44.397-07:00'
+thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/SsIi1OL6w-I/AAAAAAAAALw/IpAvHoRsmME/s72-c/100_9865.JPG
+blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8062935893527033571
+blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/09/having-more-control.html
+---
+
+Who never asked for more time to focus on things that matters, like, for instance, <a
+	href="https://mariot-thoughts.blogspot.com/2009/09/nathalie-effect-goals-tests-and-patches.html">gigantic
+	barbecues</a> ?<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
+	href="https://3.bp.blogspot.com/_u5tMWln_Ie8/SsIi1OL6w-I/AAAAAAAAALw/IpAvHoRsmME/s1600-h/100_9865.JPG"><img
+		style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 273px;"
+		src="https://3.bp.blogspot.com/_u5tMWln_Ie8/SsIi1OL6w-I/AAAAAAAAALw/IpAvHoRsmME/s400/100_9865.JPG" alt=""
+		id="BLOGGER_PHOTO_ID_5386906402025030626" border="0" /></a><br />And then you fulminate against this tool which
+should help you and which is not,it's just another burden placed on you to provide this documentation nobody will ever
+maintain or even read. I<span style="font-style: italic;">s that what modeling is about</span> ?<br /><br />Life as a
+software user is often harsh, especially as you have, most of the time, no <span
+	style="font-weight: bold;">control</span> at all on the software you use. As a developer it's even more difficult as
+you have an idea on what's going on behind the scene, and not having control is something you just can't handle now that
+so much open-source products are providing you this power.<br /><br />If you had control on your tools, if you could
+adapt it or even easily define it, then you could focus on useful things. <span
+	style="font-weight: bold;">Modeling</span> can bring it back to you, not modeling like in UML Modelers, modeling
+like formalizing your domain model as a way to capture your though or your coding tasks.<br /><br />A Model doesn't have
+to be high level, a model doesn't have to provide as much information as your source code, a model is just here to help
+you answer questions about what you're doing.<br />If you can't say, for a given model what kind of questions it's
+helping you to answer, then your model is just not relevant, it's not a model, let's call that <span
+	style="font-weight: bold;">boxes with edges.</span><br /><br />And now let's take a small example, you wants to
+define a software using components which are providing services, then you wants to assign these "logical" components to
+Eclipse plugins, here is a model definition you can come up with :<br /><br /><a
+	onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
+	href="https://4.bp.blogspot.com/_u5tMWln_Ie8/SsIbD5F8ZMI/AAAAAAAAALQ/pHQPTzsglpQ/s1600-h/ecoremodel.png"><img
+		style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 372px;"
+		src="https://4.bp.blogspot.com/_u5tMWln_Ie8/SsIbD5F8ZMI/AAAAAAAAALQ/pHQPTzsglpQ/s400/ecoremodel.png" alt=""
+		id="BLOGGER_PHOTO_ID_5386897857967842498" border="0" /></a>From an instance of a model you can answer the
+questions : how is split my application ? what services are provided and required by who ? And how these components are
+linked to the Eclipse plugins I'm coding ?<br /><br />From now you can either capture an instance and start working
+thanks from EMF Dynamic support , or specify a tooling to ease this capture. If a diagram is a good representation for
+your problem, pick it, if it's not, pick a tabular, tree or even textual representation.<br /><br />The following demo
+describe a tooling specification (click on the image! ) at the top, the specification, at the bottom, the tooling which
+is dynamically adapting itself to the specification.<br /><br /><br /><a
+	onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
+	href="https://literate.modeling.free.fr/modeling/designer/overview/OD-specifier.htm"><img
+		style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 247px;"
+		src="https://4.bp.blogspot.com/_u5tMWln_Ie8/SsIxB3hUhoI/AAAAAAAAAMA/KUFbk1cSiG0/s400/specify.png" alt=""
+		id="BLOGGER_PHOTO_ID_5386898630096669458" border="0" /></a><br />Modeling itself is useful to organize your
+though, validate your design or even can help to pick the best trade-off for a given architecture. In a <a
+	href="https://model-driven-blogging.blogspot.com/2009/05/viewpoints-enabled-modeling-tools.html">old post I was
+	showing how a modeling tooling having support for viewpoints</a> is powerful in this regard. The next demo is
+showing you how the developer or analyst, can then leverage the tooling definition (click again !) :<br /><a
+	onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
+	href="https://literate.modeling.free.fr/modeling/designer/overview/OD-user.htm"><img
+		style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 310px; height: 273px;"
+		src="https://3.bp.blogspot.com/_u5tMWln_Ie8/SsIxEy-DzDI/AAAAAAAAAMI/e1_RyvvdM6o/s400/use.png" alt=""
+		id="BLOGGER_PHOTO_ID_5386899886600546674" border="0" /></a><br />Now you described everything and you're quite
+happy with the result, why not using this information to help you produce code ? As soon as the modeling environment is
+linked to the development tasks with code generators, the model is <span style="font-weight: bold;">not going to be
+	deprecated</span>, it will be used by the team to get the <span style="font-weight: bold;">tedious</span> work
+done.<br /><br />Moreover when the environment provides you navigation from your code to the model, then to the code,
+and support for customizing anything in the generated code, then the tool is no more a burden, but a relief. (yet
+another demo !)<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
+	href="https://literate.modeling.free.fr/modeling/designer/overview/OD-Acceleo_Traceability.htm"><img
+		style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px; height: 165px;"
+		src="https://2.bp.blogspot.com/_u5tMWln_Ie8/SsIw0a7QJ8I/AAAAAAAAAL4/AflscsX6aDU/s400/generate.png" alt=""
+		id="BLOGGER_PHOTO_ID_5386900989701440706" border="0" /></a><br />It's been 3 years now since I arrived in <a
+	href="https://www.obeosoft.com/fr/">Obeo</a>, and every tool we developed since then has been designed following
+this motto : "Having more control, not getting in the way and providing value to the developer."<br /><br />So far I'm
+quite happy with the results :)<br /><br /><br /><br /><br /><span style="font-style: italic;">ps : thanks to Jérôme who
+	did the démo</span>
