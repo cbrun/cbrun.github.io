@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: *
+title: '*'
 excerpt: "A List of all the posts"
 ---
