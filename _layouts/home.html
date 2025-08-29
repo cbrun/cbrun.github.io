@@ -34,7 +34,7 @@
   </div>
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-   {% for post in site.posts %}
+   {% for post in site.posts limit 10 %}
     {% if post.translation_en == nil or post.translation_en == '' or post.translation_en == false %}
       {% unless post.draft %}
       <article>
