@@ -29,10 +29,10 @@
 				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 			   {% endfor %}			    
 			   {% if page.translation_en %}                  
-               	 <li><a href="{{ domain }}{{ page.translation_en  }}">🇬🇧</a></li>
+               	 <li><a rel="alternate"  hreflang="en"  href="{{ domain }}{{ page.translation_en  }}">🇬🇧</a></li>
                {% endif %}
 			   {% if page.translation_fr %}                  
-               	 <li><a href="{{ domain }}{{ page.translation_fr  }}">🇫🇷</a></li>
+               	 <li><a rel="alternate"  hreflang="fr" href="{{ domain }}{{ page.translation_fr  }}">🇫🇷</a></li>
                {% endif %}
 		    </ul>
 		</nav>

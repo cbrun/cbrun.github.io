@@ -48,15 +48,15 @@
           <h2 class="link-post">
             <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
             <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
-            {% if post.translation_fr %}
-              <a class="translation-flag" href="{{ site.url }}{{ post.translation_fr }}" title="{{ 'fr' | language_name }}">{{ 'fr' | language_name }}</a>
+            {% if post.translation_fr %}               
+               	 <a href="{{ site.url  }}{{ page.translation_fr  }}">🇫🇷</a>       
             {% endif %}
           </h2>
         {% else %}
           <h2>
             <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-            {% if post.translation_fr %}
-              <a class="translation-flag" href="{{ site.url }}{{ post.translation_fr }}" title="{{ 'fr' | language_name }}">{{ 'fr' | language_name }}</a>
+            {% if post.translation_fr %}               
+               	 <a href="{{ site.url  }}{{ page.translation_fr  }}">🇫🇷</a>       
             {% endif %}
           </h2>
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
