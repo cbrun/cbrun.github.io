@@ -8,6 +8,7 @@ tags:
   - eclipse
   - sirius
   - papyrus
+  - uml
   - MBSE
 excerpt: "MODELS 2023 Industry Day session on Sirius Web and Papyrus Web—context and resources for collaborative engineering teams."
 draft: true

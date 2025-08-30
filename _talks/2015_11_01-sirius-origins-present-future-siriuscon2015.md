@@ -6,6 +6,7 @@ categories:
 tags:
   - talk
   - sirius-web
+  - siriuscon
 excerpt: "The story and roadmap of Sirius—key milestones, current state, and where it’s headed for tool builders."
 draft: true
 ---

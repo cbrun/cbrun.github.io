@@ -8,6 +8,7 @@ tags:
   - eclipse
   - sirius
   - papyrus
+  - uml
   - MBSE
 excerpt: "EclipseCon 2023 session: collaboration between Obeo and CEA on Sirius Web and Papyrus Web—slides, video, and who should care."
 draft: true

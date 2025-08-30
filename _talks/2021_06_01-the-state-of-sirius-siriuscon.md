@@ -8,6 +8,7 @@ tags:
   - eclipse
   - sirius
   - modeling
+  - siriuscon
 excerpt: "SiriusCon 2021 keynote on where Sirius is and where it’s going—useful for teams planning Eclipse/Sirius roadmaps."
 draft: true
 ---

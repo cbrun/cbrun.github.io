@@ -6,6 +6,7 @@ categories:
 tags:
   - talk
   - sirius-web
+  - siriuscon
 excerpt: "Sirius roadmap highlights from SiriusCon 2016—what’s coming and how it impacts teams building modelers."
 draft: true
 ---

@@ -5,6 +5,7 @@ categories:
   - interview
 tags:
   - obeo
+  - obeo designer
 excerpt: "InfoQ interview on Obeo Designer going open source as Sirius—implications for users and contributors."
 draft: true
 ---

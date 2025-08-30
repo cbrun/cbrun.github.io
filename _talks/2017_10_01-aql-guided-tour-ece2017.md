@@ -6,6 +6,8 @@ categories:
 tags:
   - talk
   - ecore
+  - acceleo
+  - aql
 excerpt: "AQL in practice: writing fast, readable queries for EMF models—tips from EclipseCon Europe 2017."
 draft: true
 ---
