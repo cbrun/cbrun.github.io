@@ -4,6 +4,7 @@ title: "What every developer should know about EMF Compare (EclipseCon Europe 20
 categories:
   - talk
 tags:
+  - talk
   - ecore
 excerpt: "EMF Compare essentials—how to diff/merge models reliably in real projects."
 draft: true

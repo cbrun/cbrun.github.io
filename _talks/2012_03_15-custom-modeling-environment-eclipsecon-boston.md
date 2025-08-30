@@ -4,6 +4,7 @@ title: "Your custom modeling environment definition made easy. At last! (Eclipse
 categories:
   - talk
 tags:
+  - talk
   - sirius-web
   - ecore
 excerpt: "Defining custom modeling environments with Eclipse technologies—patterns to keep them robust and evolvable."

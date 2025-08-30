@@ -4,6 +4,7 @@ title: "Sirius + Xtext = ♥ (EclipseCon Europe 2014)"
 categories:
   - talk
 tags:
+  - talk
   - sirius-web
   - ecore
 excerpt: "Combining Sirius and Xtext for hybrid DSL tooling—benefits, patterns, and resources from ECE 2014."
@@ -21,4 +22,3 @@ For DSL builders adopting a hybrid approach. A tour of integration benefits and 
 - Event: EclipseCon Europe 2014, Ludwigsburg, Germany
 - Date: October 2014
 - Program: https://www.eclipsecon.org/europe2014/session/sirius-xtext-%E2%99%A5
-

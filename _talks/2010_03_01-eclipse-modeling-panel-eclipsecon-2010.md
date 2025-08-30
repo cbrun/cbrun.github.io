@@ -4,7 +4,10 @@ title: "Eclipse Modeling Panel (EclipseCon 2010)"
 categories:
   - talk
 tags:
+  - talk
   - obeo
+  - ecore
+  - community
 excerpt: "Panel discussion on Eclipse Modeling—state of the ecosystem and outlook."
 draft: true
 ---

@@ -4,6 +4,7 @@ title: "Advancing Web‑Based Modeling with Sirius Web — MODELS 2024, Vienna"
 categories:
   - talk
 tags:
+  - talk
   - eclipse
   - sirius
   - MBSE

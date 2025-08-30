@@ -4,7 +4,9 @@ title: "From Acceleo.org to Eclipse Modeling (Eclipse Summit Europe 2009)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - acceleo
 excerpt: "Journey from Acceleo.org to Eclipse Modeling—lessons for open tooling and communities."
 draft: true
 ---

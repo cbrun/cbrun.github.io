@@ -4,7 +4,9 @@ title: "Collaborative Modeling: The New Deal (IWMCP 2011 Keynote)"
 categories:
   - talk
 tags:
+  - talk
   - obeo
+  - compare
 excerpt: "Keynote on collaborative modeling—governance, tooling, and practices to work across organizations."
 draft: true
 ---

@@ -4,6 +4,7 @@ title: "Tutorial — Building a Webapp Generator with Eclipse Modeling (BreizhCa
 categories:
   - talk
 tags:
+  - talk
   - obeo
   - ecore
 excerpt: "Hands‑on tutorial: generate webapps (backbone.js, …) with Eclipse Modeling—who benefits and what you need."

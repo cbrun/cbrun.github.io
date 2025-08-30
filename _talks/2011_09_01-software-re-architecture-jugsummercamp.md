@@ -4,7 +4,9 @@ title: "Building tools for software re‑architecture (JugSummer Camp 2011)"
 categories:
   - talk
 tags:
+  - talk
   - obeo
+  - acceleo
 excerpt: "Tools and approaches for software re‑architecture—how modeling helps plan and execute change."
 draft: true
 ---

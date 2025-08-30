@@ -4,6 +4,7 @@ title: "(Sirius + Papyrus) × Web — MODELS 2023, Industry Day"
 categories:
   - talk
 tags:
+  - talk
   - eclipse
   - sirius
   - papyrus

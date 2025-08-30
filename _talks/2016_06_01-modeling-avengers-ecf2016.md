@@ -4,6 +4,7 @@ title: "Modeling Avengers — Open‑Source Mix for Saving the World (EclipseCon
 categories:
   - talk
 tags:
+  - talk
   - obeo
 excerpt: "Mixing open‑source technologies to tackle real engineering problems—what we combined and why it matters."
 draft: true
@@ -21,4 +22,3 @@ For architects and leads assembling modeling stacks. A pragmatic tour of open‑
 - Date: 2016
 - Program: https://www.eclipsecon.org/france2016/session/modeling-avengers-open-source-technology-mix-saving-world
 - Slides: {{ site.url }}/talks/ModelingAvengers/#/
-

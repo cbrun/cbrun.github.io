@@ -4,6 +4,7 @@ title: "Sirius — Origins, Present, Future (SiriusCon 2015)"
 categories:
   - talk
 tags:
+  - talk
   - sirius-web
 excerpt: "The story and roadmap of Sirius—key milestones, current state, and where it’s headed for tool builders."
 draft: true
@@ -20,4 +21,3 @@ For toolsmiths and adopters of Sirius. A narrative of how Sirius evolved, the ca
 - Event: SiriusCon 2015, Paris
 - Date: 2015
 - Slides: {{ site.url }}/talks/SiriusOriginsPresentFuture/#/
-

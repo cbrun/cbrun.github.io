@@ -4,6 +4,7 @@ title: "Sirius + Xtext = ♥ (XtextCon 2014, Kiel)"
 categories:
   - talk
 tags:
+  - talk
   - sirius-web
   - ecore
 excerpt: "XtextCon talk on pairing Sirius with Xtext—slides and patterns for robust hybrid editors."

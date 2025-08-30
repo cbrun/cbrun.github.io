@@ -4,7 +4,9 @@ title: "Model Comparison Panel (EclipseCon 2007)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - compare
 excerpt: "Panel on model comparison—state, challenges, and directions from EclipseCon 2007."
 draft: true
 ---

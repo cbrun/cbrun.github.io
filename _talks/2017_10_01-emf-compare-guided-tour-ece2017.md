@@ -4,6 +4,7 @@ title: "Eclipse Modeling Guided Tour — EMF Compare (EclipseCon Europe 2017)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
 excerpt: "Guided tour of EMF Compare—practical workflows for diff/merge at scale in modeling projects."
 draft: true
@@ -22,4 +23,3 @@ For teams collaborating on EMF models. Covers compare/merge strategies, conflict
 - Event: EclipseCon Europe 2017, Ludwigsburg, Germany
 - Date: October 2017
 - Slides: [PDF]({{ site.url }}/talks/EclipseConEU2017/EclipseModelingGuidedTour-compare.pdf)
-

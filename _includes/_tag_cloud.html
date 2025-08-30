@@ -8,7 +8,8 @@ Links point to the corresponding generated tag pages under `/tag/<slug>/`.
 {%- assign tag_items = '' | split: '' -%}
 
 {%- for t in site.tags -%}
-  {%- assign slug = t[0] -%}
+  {%- assign slug_src = t[0] -%}
+  {%- assign slug = slug_src | slugify -%}
   {%- if main_tags contains slug -%}
     {%- continue -%}
   {%- endif -%}
@@ -30,18 +31,24 @@ Links point to the corresponding generated tag pages under `/tag/<slug>/`.
   {%- assign tag_doc = nil -%}
   {%- assign target_url = '/tag/' | append: slug | append: '/' -%}
   {%- for d in site.tag -%}
-    {%- if d.url == target_url -%}
+    {%- assign dslug = nil -%}
+    {%- if d.tag -%}
+      {%- assign dslug = d.tag | slugify -%}
+    {%- elsif d.title -%}
+      {%- assign dslug = d.title | slugify -%}
+    {%- endif -%}
+    {%- if d.url == target_url or dslug == slug -%}
       {%- assign tag_doc = d -%}
       {%- break -%}
     {%- endif -%}
   {%- endfor -%}
 
   {%- if tag_doc -%}
-    {%- assign label = tag_doc.title | default: slug -%}
+    {%- assign label = tag_doc.title | default: slug_src -%}
     {%- assign url = tag_doc.url -%}
   {%- else -%}
-    {%- assign label = slug -%}
-    {%- assign url = '/tag/' | append: slug | append: '/' -%}
+    {%- assign label = slug_src -%}
+    {%- assign url = target_url -%}
   {%- endif -%}
 
   {%- comment -%}

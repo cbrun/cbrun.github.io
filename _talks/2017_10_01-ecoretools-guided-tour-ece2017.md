@@ -4,6 +4,7 @@ title: "Eclipse Modeling Guided Tour — EcoreTools (EclipseCon Europe 2017)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
 excerpt: "Guided tour of EcoreTools at EclipseCon Europe 2017—what’s new, who it helps, and resources to get productive."
 draft: true
@@ -22,4 +23,3 @@ For EMF practitioners and teams maintaining meta‑models. A concise walkthrough
 - Event: EclipseCon Europe 2017, Ludwigsburg, Germany
 - Date: October 2017
 - Slides: [PDF]({{ site.url }}/talks/EclipseConEU2017/EclipseModelingGuidedTour-ecoretools.pdf)
-

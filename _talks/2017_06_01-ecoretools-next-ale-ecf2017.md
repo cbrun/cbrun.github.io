@@ -4,6 +4,7 @@ title: "EcoreTools‑Next: Executable DSL made (more) accessible — EclipseCon 
 categories:
   - talk
 tags:
+  - talk
   - ecore
 excerpt: "Making executable DSLs more accessible with EcoreTools—what it enables for teams and how to get started."
 draft: true
@@ -21,4 +22,3 @@ For language engineers and system designers. Shows how to leverage ALE and Ecore
 - Date: 2017
 - Slides: [PDF]({{ site.url }}/talks/EclipseConFR2017/ALE_talk.pdf)
 - Video: https://www.youtube.com/watch?v=x4viqEFN7PU
-

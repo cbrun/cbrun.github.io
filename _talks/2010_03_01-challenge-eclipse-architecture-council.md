@@ -4,6 +4,7 @@ title: "Challenge Eclipse — Ask the Architecture Council (EclipseCon 2010)"
 categories:
   - talk
 tags:
+  - talk
   - obeo
 excerpt: "Q&A with the Eclipse Architecture Council—perspectives on governance and project evolution."
 draft: true

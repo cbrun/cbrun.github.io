@@ -4,6 +4,7 @@ title: "Open Innovation Unleashed — OCX 2024, Mainz"
 categories:
   - talk
 tags:
+  - talk
   - eclipse
   - sirius
   - opensource

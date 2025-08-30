@@ -5,6 +5,7 @@ categories:
   - paper
 tags:
   - ecore
+  - compare
 excerpt: "Journal article on model differencing in EMF—foundations and implications for tooling."
 draft: true
 ---

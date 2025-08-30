@@ -4,7 +4,9 @@ title: "Acceleo, un générateur open source pour des développements dirigés p
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - acceleo
 excerpt: "Acceleo for model‑driven development—slides from Solutions Linux 2007."
 draft: true
 ---

@@ -4,6 +4,7 @@ title: "Breathe Life Into Your Designer! (EclipseCon France 2015)"
 categories:
   - talk
 tags:
+  - talk
   - sirius-web
 excerpt: "How to make modeling designers more engaging and effective—techniques and examples from the field."
 draft: true
@@ -20,4 +21,3 @@ For teams building custom designers with Sirius. Practical ways to improve inter
 - Event: EclipseCon France 2015, Toulouse
 - Date: 2015
 - Slides: https://siriuslab.github.io/talks/BreatheLifeInYourDesigner/slides/index.html
-

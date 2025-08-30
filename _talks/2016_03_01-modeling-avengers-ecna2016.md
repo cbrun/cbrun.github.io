@@ -4,6 +4,7 @@ title: "Modeling Avengers — Open‑Source Mix for Saving the World (EclipseCon
 categories:
   - talk
 tags:
+  - talk
   - obeo
 excerpt: "Open‑source technology mix for smart systems—slides, video, and why this approach scales across teams."
 draft: true
@@ -21,4 +22,3 @@ For teams modernizing engineering workflows. Demonstrates a practical OSS stack,
 - Date: 2016
 - Slides: {{ site.url }}/talks/ModelingAvengers/#/
 - Video: https://www.infoq.com/presentations/smart-farming-system-tools
-

@@ -4,6 +4,9 @@ title: "Ingénierie des Modèles 2006 (IDM, Lille)"
 categories:
   - talk
 tags:
+  - talk
+  - acceleo
+  - transformation
   - ecore
 excerpt: "Talk at Ingénierie des Modèles 2006—slides and context."
 draft: true

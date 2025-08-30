@@ -8,7 +8,6 @@ tags:
   - eclipse
   - compare
   - transformation
-  - preview
   - ecore
 modified_time: '2011-10-18T08:47:56.157-07:00'
 thumbnail: https://4.bp.blogspot.com/-y0egF8rjm6Y/Tp2YUkJLHFI/AAAAAAAAAn4/U-tzStIFPJY/s72-c/compare-transfo-uml.png

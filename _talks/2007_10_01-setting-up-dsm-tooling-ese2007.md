@@ -4,7 +4,10 @@ title: "Setting up a Domain Specific Tooling (Eclipse Summit Europe 2007)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - acceleo
+  - sirius
 excerpt: "Setting up domain‑specific tooling with Eclipse—slides and program link from ESE 2007."
 draft: true
 ---

@@ -4,7 +4,9 @@ title: "Diff, Merge and Patch your models with Helios (EclipseCon 2010)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - compare
 excerpt: "Using EMF Compare in Helios to diff/merge models—practical guidance and resources."
 draft: true
 ---

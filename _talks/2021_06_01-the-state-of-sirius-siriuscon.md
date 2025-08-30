@@ -4,6 +4,7 @@ title: "The State of Sirius — SiriusCon 2021"
 categories:
   - talk
 tags:
+  - talk
   - eclipse
   - sirius
   - modeling

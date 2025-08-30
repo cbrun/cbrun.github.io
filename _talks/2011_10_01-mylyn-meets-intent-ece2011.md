@@ -4,6 +4,7 @@ title: "Mylyn meets Intent: Documentation made fun and useful (EclipseCon Europe
 categories:
   - talk
 tags:
+  - talk
   - ecore
 excerpt: "Bringing documentation into the development loop—Mylyn and Intent integration patterns."
 draft: true

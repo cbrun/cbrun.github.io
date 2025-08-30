@@ -4,6 +4,7 @@ title: "Collaborative Modeling: The New Deal (EclipseCon Europe 2011)"
 categories:
   - talk
 tags:
+  - talk
   - obeo
 excerpt: "Collaborative modeling across teams—practices and tooling from EclipseCon Europe 2011."
 draft: true

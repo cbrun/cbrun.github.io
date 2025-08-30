@@ -4,6 +4,7 @@ title: "Understanding Eclipse Modeling (Eclipse Day Toulouse 2012)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
 excerpt: "An introduction to Eclipse Modeling—core ideas, components, and how they fit together."
 draft: true

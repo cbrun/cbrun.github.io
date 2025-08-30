@@ -4,6 +4,7 @@ title: "EcoreTools 2.0 — The Making Of (EclipseCon Europe 2013)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
 excerpt: "How EcoreTools 2.0 was built—decisions, trade‑offs, and what it enables for modelers."
 draft: true
@@ -22,4 +23,3 @@ For EMF practitioners and tool builders.
 - Program: https://www.eclipsecon.org/europe2013/ecoretools-20-making
 - Video: https://www.youtube.com/watch?v=XSP-oAmmS_E
 - Slides: https://www.eclipsecon.org/europe2013/sites/eclipsecon.org.europe2013/files/EcoreTools2.pdf
-

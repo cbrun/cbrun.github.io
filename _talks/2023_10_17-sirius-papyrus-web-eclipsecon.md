@@ -4,6 +4,7 @@ title: "(Sirius + Papyrus) × Web — EclipseCon 2023, Ludwigsburg"
 categories:
   - talk
 tags:
+  - talk
   - eclipse
   - sirius
   - papyrus
@@ -85,4 +86,3 @@ There are several ways to get involved in this exciting initiative:
 
 ## Related Blog Posts
 - [(Sirius + Papyrus) × Web: a new Era for Collaborative Engineering tools]({{ site.url }}/eclipsecon2023/)
-

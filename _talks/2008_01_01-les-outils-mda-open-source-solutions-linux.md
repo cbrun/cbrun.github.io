@@ -4,7 +4,9 @@ title: "Les outils MDA Open Source: Application à JEE (Solutions Linux 2008)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - acceleo
 excerpt: "Open‑source MDA tools applied to JEE—context and resources from Solutions Linux 2008."
 draft: true
 ---

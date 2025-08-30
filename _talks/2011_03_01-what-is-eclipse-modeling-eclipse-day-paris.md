@@ -4,7 +4,9 @@ title: "What the heck is Eclipse Modeling and why should you care! (EclipseDay P
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - sirius
 excerpt: "Intro to Eclipse Modeling—what problems it solves and where to start."
 draft: true
 ---

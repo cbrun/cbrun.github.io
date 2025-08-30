@@ -3,7 +3,8 @@ layout: post
 title: Having more control ...
 date: '2009-09-29T06:57:00.000-07:00'
 tags:
-- designer
+- obeo-designer
+- sirius
 - eclipse
 - acceleo
 - modeling

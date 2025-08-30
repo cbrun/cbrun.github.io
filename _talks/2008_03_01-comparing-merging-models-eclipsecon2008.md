@@ -4,7 +4,9 @@ title: "Comparing and Merging Models with Eclipse — Update on EMF Compare (Ecl
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - compare
 excerpt: "State of EMF Compare in 2008—capabilities, updates, and how teams use it."
 draft: true
 ---

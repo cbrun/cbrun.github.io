@@ -4,7 +4,10 @@ title: "Mega Modeling Mania (EclipseCon 2008)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - compare
+  - acceleo
 excerpt: "Hands‑on modeling challenge—resources and context for the EclipseCon 2008 Mega Modeling Mania."
 draft: true
 ---

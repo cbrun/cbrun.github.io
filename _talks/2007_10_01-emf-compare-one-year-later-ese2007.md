@@ -4,7 +4,9 @@ title: "EMF Compare: One Year Later (Eclipse Summit Europe 2007)"
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - compare
 excerpt: "EMF Compare after its first year—progress and what’s next."
 draft: true
 ---

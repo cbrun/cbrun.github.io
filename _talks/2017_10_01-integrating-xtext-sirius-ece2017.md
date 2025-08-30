@@ -4,6 +4,7 @@ title: "Integrating Xtext and Sirius — Strategies and Pitfalls (EclipseCon Eur
 categories:
   - talk
 tags:
+  - talk
   - sirius-web
   - ecore
 excerpt: "How to combine Xtext and Sirius safely—integration strategies, pitfalls, and evolution patterns from the field."
@@ -21,4 +22,3 @@ For teams building hybrid DSL tooling. Shares do’s and don’ts when wiring te
 - Event: EclipseCon Europe 2017, Ludwigsburg, Germany
 - Date: October 2017
 - Slides: [PDF]({{ site.url }}/talks/EclipseConEU2017/Sirius%20and%20Xtext-%20ECE.pdf)
-

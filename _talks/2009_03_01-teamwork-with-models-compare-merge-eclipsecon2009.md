@@ -4,7 +4,9 @@ title: "Team Work with Models: Compare and Merge with EMF Compare in Galileo (Ec
 categories:
   - talk
 tags:
+  - talk
   - ecore
+  - compare
 excerpt: "Collaborating on EMF models with EMF Compare—workflows and tips for teams."
 draft: true
 ---
