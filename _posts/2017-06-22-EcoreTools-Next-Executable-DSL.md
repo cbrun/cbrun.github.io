@@ -5,7 +5,6 @@ categories: [modeling]
 tags:
   - emf
   - ecoretools
-  - executable
   - simulation
   - dsl
   - xtext

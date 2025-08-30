@@ -4,7 +4,7 @@ title: 'New licenses for QT : any progress on Eclipse ?'
 date: '2007-08-22T03:14:00.000-07:00'
 tags:
 - community
-- qt
+- eclipse
 categories: [eclipse]
 modified_time: '2009-05-07T08:24:53.383-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2795164138278148919

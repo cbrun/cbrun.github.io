@@ -5,7 +5,6 @@ categories: [modeling]
 tags:
   - eclipse
   - capella
-  - smw
   - obeo
 translation_fr : /eclipse/adoption-croissante-MBSE-capella/
 ---

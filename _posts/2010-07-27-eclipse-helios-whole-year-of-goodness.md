@@ -6,8 +6,8 @@ categories: [eclipse]
 tags:
   - eclipse
   - community
-  - helios
   - acceleo
+  - amalgamation
   - obeo
 modified_time: '2010-07-27T07:14:35.532-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/SqjIhFCOyQI/AAAAAAAAALI/_vSaQyCXIds/s72-c/acceleo99999.png

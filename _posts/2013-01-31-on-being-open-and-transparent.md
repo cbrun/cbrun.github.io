@@ -4,8 +4,8 @@ title: "On being open and transparent"
 date: '2013-01-31T04:19:00.001-08:00'
 categories: [eclipse]
 tags:
-  - foss
-  - emf compare
+  - opensource
+  - compare
   - eclipse
   - community
 modified_time: '2013-01-31T04:22:51.759-08:00'

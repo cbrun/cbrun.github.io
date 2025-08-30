@@ -5,7 +5,7 @@ categories: [obeo]
 tags:
   - eclipse
   - obeo
-  - startup
+  - opensource
 lang: fr
 permalink : /eclipse/obeo-dix-ans/
 translation_en : /eclipse/ten-years/

@@ -3,11 +3,9 @@ layout: post
 title: Live Models Using JBoss Rules (Drools) and EMF
 date: '2009-05-05T09:03:00.000-07:00'
 tags:
-- modeling kata
-- jboss drools
+- optaplanner
 - eclipse
 - acceleo
-- live model
 - emf
 - ecore
 categories: [modeling]
