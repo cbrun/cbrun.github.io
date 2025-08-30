@@ -33,6 +33,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Build JS bundle (scripts.min.js)
+        run: |
+          npx terser assets/js/plugins/*.js assets/js/_*.js -c -m -o assets/js/scripts.min.js
       - name: Setup Ruby
         uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
         with:

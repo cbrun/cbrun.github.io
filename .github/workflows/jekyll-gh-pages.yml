@@ -30,6 +30,13 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Build JS bundle (scripts.min.js)
+        run: |
+          npx terser assets/js/plugins/*.js assets/js/_*.js -c -m -o assets/js/scripts.min.js
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
