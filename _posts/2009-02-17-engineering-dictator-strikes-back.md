@@ -12,6 +12,7 @@ modified_time: '2009-05-07T08:07:35.197-07:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/SZr29ji1-FI/AAAAAAAAAF4/qzOj-W9IvE8/s72-c/teammodel..png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8666280745850019187
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/02/engineering-dictator-strikes-back.html
+excerpt: "A modeling kata turning SVN logs into actionable EMF reports with Acceleo—for engineering leads and toolsmiths who want real‑time insight into team activity today."
 ---
 
 This post inaugurates a series of **modeling kata**. Modeling kata are about basic usage of Eclipse Modeling and related technologies to create fun stuff, and more importantly doing it again and again using different ways and analyzing the pros and cons of each solution. Of course the "kata" terminology [is not from me.](https://pragdave.pragprog.com/)
@@ -48,4 +49,3 @@ I'm then able to generate HTML, and even generate a small URI for Google charts 
 I'm even able to add the committers picture in the "weekly hall of fame" through user code tags in the HTML :)
 
 That said, M2T transformation is not the best pick for such a need. I really need to deduce new information from the original team log data to produce, afterwards, a nice report. Next try on this kata will probably involve M2M transformation to deduce the information, or BIRT reporting... But I don't want to spoil you, _stay tuned ;)_
-

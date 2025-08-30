@@ -12,6 +12,7 @@ modified_time: '2009-05-07T07:53:21.950-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/SfHEb0GwU2I/AAAAAAAAAH4/TAhk-tqIxVw/s72-c/acceleo_core_team.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3773848005745087417
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/04/award-winning-acceleo-moving-to-eclipse.html
+excerpt: "Award‑winning Acceleo joins Eclipse—for template‑based code generation users who care about open governance, roadmaps, and community momentum right now."
 ---
 
 Thank you from the **Acceleo Team** _(unfortunately not complete here, have a look on the team pages for [core](https://www.acceleo.org/pages/contacts) and [modules](https://www.acceleo.org/pages/contacts-des-modules/))_!
@@ -41,4 +42,3 @@ _Want more?_ Here are a few demos:
 - Migrating from the old syntax to the new one: https://literate.modeling.free.fr/modeling/acceleo/10-acceleo-migrate.htm
 
 Want more and more? Acceleo is part of Galileo and [builds are provided](https://www.eclipse.dev/modeling/m2t/downloads/?project=acceleo). Do not hesitate to have a try and give feedback on the M2T newsgroup!
-

@@ -14,6 +14,7 @@ modified_time: '2009-07-17T05:07:14.884-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/SmBkMycMnwI/AAAAAAAAAKg/4p6LJ_p4DAo/s72-c/pres_ban.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6552395144159522586
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/07/feedback-from-it-companies-leveraging.html
+excerpt: "Real‑world feedback from Capgemini, Atos, Orange, Bull on Acceleo—for IT leaders and dev teams weighing model‑driven approaches for agility and quality."
 ---
 
 The first Eclipse Acceleo Day took place last week and was a pretty nice event — no doubt we'll organize others like that :)

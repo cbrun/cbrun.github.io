@@ -12,6 +12,7 @@ modified_time: '2009-08-05T01:18:10.981-07:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/Snk8tA6oO5I/AAAAAAAAAKo/e0ZoGnCoAhE/s72-c/img_4682.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2992224150856306838
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/08/lets-take-step-back.html
+excerpt: "Taking stock of web‑app vs. desktop trends and Eclipse’s path to easy install, updates, and collaboration—for platform builders deciding where to invest now."
 ---
 
 Lately I had to step back a bit and have a look at what's going on in the software industry. I think most of us did that lately as big players moved their chess pawns and many new technologies seem to have gained some kind of maturity. Many events happened in the last years being evidence the game rules are changing — are all those web apps white or dark magic?

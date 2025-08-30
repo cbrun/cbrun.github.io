@@ -12,6 +12,7 @@ modified_time: '2009-05-07T08:07:13.135-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/Sa6GLMuNNLI/AAAAAAAAAG4/AbnjaM7dp7U/s72-c/1-switch-perspective.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8765541702991355228
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/03/shuangxi-effect-ui-testing-and.html
+excerpt: "Using SWTBot to generate tutorial screenshots and test Eclipse UIs—for plugin developers and doc writers who need maintainable, up‑to‑date guides now."
 ---
 
 In my never-ending quest of ideas or tools to **avoid doing boring stuff** (that sacred goal explains my interest in pragmatic modeling), I made quite a victory today thanks to one of those gems you find in Eclipse.
@@ -86,4 +87,3 @@ captureScreenshot("6-new-template-wizard-full.png");
 That's the [喜喜 (ShuangXi)](https://en.wikipedia.org/wiki/Double_Happiness_%28calligraphy%29) effect: you roughly test your UI and you get your screenshots!
 
 _ps: special "Hi" to the unique Guangzhou visitor I had on this blog so far :)_
-

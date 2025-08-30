@@ -12,6 +12,7 @@ modified_time: '2009-10-09T08:24:18.244-07:00'
 thumbnail: https://farm4.static.flickr.com/3040/2722476302_4bf25ea7b6_t.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3244660270746656679
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/10/exploring-eclipse-plugins-beyond-terra.html
+excerpt: "A one‑day cartography of Eclipse plugins with PDE APIs—for Eclipse engineers needing step‑by‑step exploration of dependencies and extensions now."
 ---
 
 [![]({{ site.url }}/images/blog/2009/exploring-eclipse-plugins-beyond-terra/2722476302_4bf25ea7b6.jpg)](https://www.flickr.com/photos/maxbraun/2722476302/)

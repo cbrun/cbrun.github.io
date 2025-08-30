@@ -13,6 +13,7 @@ categories: [eclipse]
 modified_time: '2009-05-07T08:22:40.510-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8563494176849868759
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/01/2008-was-full-of-excitement-2009-can.html
+excerpt: "A look back at 2008’s Eclipse/modeling highlights and what’s next for 2009—for Eclipse users and open‑source practitioners seeking context and resources right now."
 ---
 
 Times have been busy [since Eclipse Summit](https://model-driven-blogging.blogspot.com/2008/11/back-from-ese-2008-wow.html), mixing the great stuff I'm doing at work, Gaspard (Casper) incredibly fast growing, the Eclipse and Open Source activities and the whole Christmas and New Year's Eve stuff — each day was full of excitement.

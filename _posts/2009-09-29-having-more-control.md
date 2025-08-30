@@ -14,6 +14,7 @@ modified_time: '2009-09-29T09:09:44.397-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/SsIi1OL6w-I/AAAAAAAAALw/IpAvHoRsmME/s72-c/100_9865.JPG
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8062935893527033571
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/09/having-more-control.html
+excerpt: "Regain control of your tooling with domain models, viewpoints, and generation—for developers who want less overhead and more value from modeling today."
 ---
 
 Who never asked for more time to focus on things that matter, like, for instance, [gigantic barbecues](https://mariot-thoughts.blogspot.com/2009/09/nathalie-effect-goals-tests-and-patches.html)?

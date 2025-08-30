@@ -14,6 +14,7 @@ modified_time: '2009-05-29T07:56:06.558-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/Sh-3ZE0NAyI/AAAAAAAAAJY/bZpXkgra8KQ/s72-c/flow_viewpointsdefinition.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8577426604884474196
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2009/05/viewpoints-enabled-modeling-tools.html
+excerpt: "Viewpoints‑enabled modeling that shows only what matters—for system designers who need focused representations and actions aligned to current concerns."
 ---
 
 This post follows those showing how it's possible to leverage [EMF and JBoss Drools](https://model-driven-blogging.blogspot.com/2009/05/live-models-using-jboss-rules-drools.html) to get an interactive model updated considering business rules, and how you can get a set of [graphical modelers](https://model-driven-blogging.blogspot.com/2009/05/20-minute-graphical-modeler-based-on.html) to ease your design tasks and provide feedback while you're building your system.
