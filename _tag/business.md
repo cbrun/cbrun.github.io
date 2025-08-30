@@ -1,5 +1,5 @@
 ---
 title: "business"
 tag: "business"
-description: "Posts tagged with ‘business’."
+description: "Company building at Obeo: strategy, partnerships, and the business of open‑source engineering tools."
 ---

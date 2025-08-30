@@ -1,5 +1,5 @@
 ---
 title: "smw"
 tag: "smw"
-description: "Posts tagged with ‘smw’."
+description: "Notes referencing SMW and related experiments—lightweight knowledge modeling and publishing."
 ---

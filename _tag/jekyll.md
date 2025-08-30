@@ -1,5 +1,5 @@
 ---
 title: "Jekyll"
 tag: "Jekyll"
-description: "Posts tagged with ‘Jekyll’."
+description: "Jekyll tips for this site: structure, theming, and performance tweaks that keep content maintainable."
 ---

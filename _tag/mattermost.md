@@ -1,5 +1,5 @@
 ---
 title: "mattermost"
 tag: "mattermost"
-description: "Posts tagged with ‘mattermost’."
+description: "Team collaboration with Mattermost: workflows, integrations, and how chat supports engineering tool teams."
 ---

@@ -1,5 +1,5 @@
 ---
 title: "software engineering"
 tag: "software engineering"
-description: "Posts tagged with ‘software engineering’."
+description: "Software engineering beyond modeling: testing, architecture, developer experience, and practices that scale teams."
 ---

@@ -1,5 +1,5 @@
 ---
 title: "cartography"
 tag: "cartography"
-description: "Posts tagged with ‘cartography’."
+description: "Architecture cartography and technical maps: visualizing systems, dependencies, and teams to make better engineering decisions."
 ---

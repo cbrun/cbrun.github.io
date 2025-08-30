@@ -1,5 +1,5 @@
 ---
 title: "interview"
 tag: "interview"
-description: "Posts tagged with ‘interview’."
+description: "Interviews and conversations—on open‑source, MBSE, and the craft of building engineering tools."
 ---

@@ -1,5 +1,5 @@
 ---
 title: "preview"
 tag: "preview"
-description: "Posts tagged with ‘preview’."
+description: "Sneak peeks and early previews of features, posts, or tooling experiments before they ship."
 ---

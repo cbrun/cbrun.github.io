@@ -1,5 +1,5 @@
 ---
 title: "simulation"
 tag: "simulation"
-description: "Posts tagged with ‘simulation’."
+description: "Simulating models: execution engines, validation, and how feedback loops improve design decisions."
 ---

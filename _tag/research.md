@@ -1,5 +1,5 @@
 ---
 title: "research"
 tag: "research"
-description: "Posts tagged with ‘research’."
+description: "Research notes and collaborations—bridging academic results with practical engineering tool development."
 ---

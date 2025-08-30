@@ -1,5 +1,5 @@
 ---
 title: "helios"
 tag: "helios"
-description: "Posts tagged with ‘helios’."
+description: "Eclipse Helios release: features, migration notes, and what it changed for modeling tool builders."
 ---

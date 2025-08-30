@@ -1,5 +1,5 @@
 ---
 title: "écologie"
 tag: "écologie"
-description: "Posts tagged with ‘écologie’."
+description: "Notes personnelles sur l’écologie et l’impact du numérique—réflexions et liens utiles."
 ---

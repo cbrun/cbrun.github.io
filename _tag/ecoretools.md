@@ -1,5 +1,5 @@
 ---
 title: "ecoretools"
 tag: "ecoretools"
-description: "Posts tagged with ‘ecoretools’."
+description: "EcoreTools tips and walkthroughs: modeling patterns, validation, and tricks that make EMF meta‑modeling faster."
 ---

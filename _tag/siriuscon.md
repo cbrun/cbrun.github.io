@@ -1,5 +1,5 @@
 ---
 title: "siriuscon"
 tag: "siriuscon"
-description: "Posts tagged with ‘siriuscon’."
+description: "SiriusCon talks and announcements: resources and highlights for the Sirius community and adopters."
 ---

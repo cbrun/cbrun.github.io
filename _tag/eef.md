@@ -1,5 +1,5 @@
 ---
 title: "eef"
 tag: "eef"
-description: "Posts tagged with ‘eef’."
+description: "Eclipse EEF (Extended Editing Framework): building form‑based editors for EMF models and integrating them in toolchains."
 ---

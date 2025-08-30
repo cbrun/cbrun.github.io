@@ -1,5 +1,5 @@
 ---
 title: "chocolate"
 tag: "chocolate"
-description: "Posts tagged with ‘chocolate’."
+description: "Occasional personal posts about chocolate—because good energy fuels good engineering."
 ---

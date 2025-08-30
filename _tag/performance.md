@@ -1,5 +1,5 @@
 ---
 title: "performance"
 tag: "performance"
-description: "Posts tagged with ‘performance’."
+description: "Performance tuning for modeling tools: profiling, rendering optimizations, and practical fixes that keep editors responsive."
 ---

@@ -1,5 +1,5 @@
 ---
 title: "agile"
 tag: "agile"
-description: "Posts tagged with ‘agile’."
+description: "Agile practices applied to engineering tool teams: planning, feedback loops, and collaboration patterns that work for modeling and platform projects."
 ---

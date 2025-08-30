@@ -1,5 +1,5 @@
 ---
 title: "conference"
 tag: "conference"
-description: "Posts tagged with ‘conference’."
+description: "Conference notes and resources: slides, videos, and takeaways from events in the Eclipse, MBSE, and modeling communities."
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ecology"
 tag: "ecology"
-description: "Posts tagged with ‘ecology’."
+description: "Personal notes on ecology and the environmental impact of software—ideas, references, and experiments."
 ---

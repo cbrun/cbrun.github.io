@@ -1,5 +1,5 @@
 ---
 title: "emf"
 tag: "emf"
-description: "Posts tagged with ‘emf’."
+description: "Eclipse Modeling Framework (EMF): meta‑modeling, code generation, validation, and ecosystem best practices."
 ---

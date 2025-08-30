@@ -1,5 +1,5 @@
 ---
 title: "social"
 tag: "social"
-description: "Posts tagged with ‘social’."
+description: "Community and social updates—people, events, and the human side of building tools."
 ---

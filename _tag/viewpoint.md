@@ -1,5 +1,5 @@
 ---
 title: "viewpoint"
 tag: "viewpoint"
-description: "Posts tagged with ‘viewpoint’."
+description: "Sirius viewpoint modeling: structuring editors, layers, and tools so teams can tailor views to their domain."
 ---

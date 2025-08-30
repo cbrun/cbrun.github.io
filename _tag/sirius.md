@@ -1,5 +1,5 @@
 ---
 title: Sirius
 tag: sirius
-description: "Posts tagged with ‘sirius’: Eclipse Sirius, Sirius Web, Papyrus Web, and related MBSE topics."
+description: "Eclipse Sirius and Sirius Web: building graphical editors, viewpoint models, and web‑based toolchains—with tips for performance and UX."
 ---

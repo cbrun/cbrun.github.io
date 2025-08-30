@@ -1,5 +1,5 @@
 ---
 title: "jupyter"
 tag: "jupyter"
-description: "Posts tagged with ‘jupyter’."
+description: "Jupyter for engineering: notebooks, demos, and experiments that complement model‑driven workflows."
 ---

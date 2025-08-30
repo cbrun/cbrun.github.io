@@ -1,5 +1,5 @@
 ---
 title: "foss"
 tag: "foss"
-description: "Posts tagged with ‘foss’."
+description: "Free and open‑source software: governance, sustainability, and practical benefits for engineering teams and organizations."
 ---

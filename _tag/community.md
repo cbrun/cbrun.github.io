@@ -1,5 +1,5 @@
 ---
 title: "community"
 tag: "community"
-description: "Posts tagged with ‘community’."
+description: "Open‑source community work: governance, contribution stories, and how we build sustainable ecosystems together."
 ---
