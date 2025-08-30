@@ -257,15 +257,17 @@ $button-size: 1.5rem;
   padding: 4px 0;
 }
 
-// Make the two nav toggles appear on one line on mobile
-.nav .navtoogle {
-  display: inline-block;
-  margin-right: 8px;
-}
-.nav #menutoggle,
-.nav #topicstoggle {
-  float: left;
-  margin-right: 8px;
+// Make the two nav toggles appear on one line on mobile only
+@media only screen and (max-width: 37.49em) {
+  .nav .navtoogle {
+    display: inline-block;
+    margin-right: 8px;
+  }
+  .nav #menutoggle,
+  .nav #topicstoggle {
+    float: left;
+    margin-right: 8px;
+  }
 }
 
 /* Main content */
