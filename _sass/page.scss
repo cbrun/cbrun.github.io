@@ -236,6 +236,11 @@ $button-size: 1.5rem;
   -ms-transition: max-height .4s;
   transition: max-height .4s;
 }
+// Ensure inner lists inside mobile-topics are not collapsed by the generic `.js .nav ul` rule
+.js .nav .mobile-topics ul {
+  max-height: none;
+  overflow: visible;
+}
 // Hide the mobile topics completely on larger screens; sidebar shows the desktop tag cloud
 @media #{$small} {
   .nav .mobile-topics { display: none; }
