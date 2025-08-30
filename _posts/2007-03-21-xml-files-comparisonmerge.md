@@ -5,7 +5,6 @@ date: '2007-03-20T17:34:00.000-07:00'
 tags:
   - eclipse
   - compare
-  - acceleo
   - modeling
   - ecore
 categories: [modeling]

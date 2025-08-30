@@ -9,6 +9,7 @@ tags:
   - sirius
   - opensource
   - sirius-web
+  - obeo designer
   - obeo
 excerpt: "Why well‑maintained OSS foundations matter for engineering tools—Sirius’ 12 releases in 2022 show reliability for teams betting long‑term, today."
 ---

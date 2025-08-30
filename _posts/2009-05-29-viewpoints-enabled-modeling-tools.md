@@ -5,6 +5,7 @@ date: '2009-05-29T05:37:00.000-07:00'
 tags:
 - eclipse
 - viewpoint
+- sirius
 - acceleo
 - modeling
 - ecore

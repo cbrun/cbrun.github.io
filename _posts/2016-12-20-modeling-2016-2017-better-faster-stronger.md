@@ -9,6 +9,7 @@ tags:
   - emf
   - acceleo
   - obeo
+  - obeo designer
 ---
 
 

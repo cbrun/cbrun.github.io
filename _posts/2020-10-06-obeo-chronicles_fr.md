@@ -5,7 +5,7 @@ categories: [obeo]
 tags:
   - eclipse
   - obeo
-  - écologie
+  - sustainability
 lang: fr
 translation_en: /eclipse/obeo-chronicles/
 permalink: /eclipse/obeo-chroniques-2020/

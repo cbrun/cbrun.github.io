@@ -1,6 +1,12 @@
 ---
 layout: post
 title:  Some news on the AQL front
+tags:
+  - eclipse
+  - acceleo
+  - sirius
+  - ecore
+  - aql
 categories: [modeling]
 ---
 

@@ -4,8 +4,9 @@ title: "Model Comparison : Logical Model, UML, Papyrus, EcoreTools and GMF Integ
 date: '2011-10-10T07:59:00.000-07:00'
 categories: [modeling]
 tags:
-  - emf compare
+  - compare
   - eclipse
+  - uml
 modified_time: '2011-10-10T08:24:41.271-07:00'
 thumbnail: https://4.bp.blogspot.com/-QnuIRtATUd4/TpMMEWrcVpI/AAAAAAAAAnQ/a0o0Y8f99tE/s72-c/graphcompare-screen.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-7776696937751658312

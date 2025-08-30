@@ -8,6 +8,7 @@ tags:
   - sirius
   - ecoretools
   - optaplanner
+  - sustainability
   - dsl
   - xtext
 ---

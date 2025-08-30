@@ -6,7 +6,8 @@ categories: [eclipse]
 tags:
   - performance
   - obeo
-  - emf compare
+  - compare
+  - software-engineering
   - eclipse
 modified_time: '2011-08-10T04:57:50.981-07:00'
 thumbnail: https://3.bp.blogspot.com/-FdR-1a_XLBs/TkJTMoasu4I/AAAAAAAAAiM/FtGlBhOvdE4/s72-c/perfsingletest.png

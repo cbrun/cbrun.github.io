@@ -4,7 +4,7 @@ title: "Do you want to discard this editor's changes ?"
 date: '2011-12-16T09:55:00.000-08:00'
 categories: [modeling]
 tags:
-  - emf compare
+  - compare
   - eclipse
   - ecore
 modified_time: '2011-12-16T09:55:56.778-08:00'

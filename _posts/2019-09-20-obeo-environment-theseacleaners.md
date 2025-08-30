@@ -5,7 +5,7 @@ categories: [obeo]
 tags:
   - eclipse
   - obeo
-  - ecology
+  - sustainability
 ---
 
 I am deeply convinced a company is not only an economical actor. It has a much wider responsibility as any decision also has **social**, **environmental** or even **political** implications.

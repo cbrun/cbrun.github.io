@@ -7,6 +7,7 @@ tags:
   - acceleo
   - sirius
   - ecore
+  - aql
 permalink: /eclipse/introducing-aql/
 ---
 
