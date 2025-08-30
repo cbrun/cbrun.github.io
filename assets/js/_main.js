@@ -11,21 +11,40 @@ var changeClass = function (r,className1,className2) {
     }
     return r.className;
 };  
-//  Creating our button in JS for smaller screens
+//  Creating our buttons in JS for smaller screens
 var menuElements = document.getElementById('site-nav');
 menuElements.insertAdjacentHTML('afterBegin','<button type="button" role="button" id="menutoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>menu</button>');
+// Insert the Topics toggle button just before the mobile topics block (so CSS can use + selector)
+var topicsBlock = document.querySelector('#site-nav .mobile-topics');
+if (topicsBlock) {
+  topicsBlock.insertAdjacentHTML('beforebegin','<button type="button" role="button" id="topicstoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>topics</button>');
+}
 
 //  Toggle the class on click to show / hide the menu
 document.getElementById('menutoggle').onclick = function() {
   changeClass(this, 'navtoogle active', 'navtoogle');
 };
+var topicsToggle = document.getElementById('topicstoggle');
+if (topicsToggle) {
+  topicsToggle.onclick = function() {
+    changeClass(this, 'navtoogle active', 'navtoogle');
+  };
+}
 // http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/comment-page-2/#comment-438918
 document.onclick = function(e) {
-  var mobileButton = document.getElementById('menutoggle'),
-    buttonStyle =  mobileButton.currentStyle ? mobileButton.currentStyle.display : getComputedStyle(mobileButton, null).display;
-
-  if(buttonStyle === 'block' && e.target !== mobileButton && new RegExp(' ' + 'active' + ' ').test(' ' + mobileButton.className + ' ')) {
-    changeClass(mobileButton, 'navtoogle active', 'navtoogle');
+  var mobileButton = document.getElementById('menutoggle');
+  if (mobileButton) {
+    var buttonStyle =  mobileButton.currentStyle ? mobileButton.currentStyle.display : getComputedStyle(mobileButton, null).display;
+    if(buttonStyle === 'block' && e.target !== mobileButton && new RegExp(' ' + 'active' + ' ').test(' ' + mobileButton.className + ' ')) {
+      changeClass(mobileButton, 'navtoogle active', 'navtoogle');
+    }
+  }
+  var topicsButton = document.getElementById('topicstoggle');
+  if (topicsButton) {
+    var topicsStyle = topicsButton.currentStyle ? topicsButton.currentStyle.display : getComputedStyle(topicsButton, null).display;
+    if(topicsStyle === 'block' && e.target !== topicsButton && new RegExp(' ' + 'active' + ' ').test(' ' + topicsButton.className + ' ')) {
+      changeClass(topicsButton, 'navtoogle active', 'navtoogle');
+    }
   }
 };
 

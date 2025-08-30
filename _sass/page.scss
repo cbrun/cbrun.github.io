@@ -205,8 +205,8 @@ $button-size: 1.5rem;
     max-height: 30em;
   }
 }
-// Displaying the menu when the user has clicked on the button
-.js .nav .active + ul {		
+// Displaying the menu when the user has clicked on the button (specifically the menu toggle)
+.js .nav #menutoggle.active + ul {		
   max-height: 30em;
   overflow: hidden;
   -webkit-transition: max-height .4s;
@@ -226,8 +226,8 @@ $button-size: 1.5rem;
   max-height: 0;
   overflow: hidden;
 }
-// Reveal topics when the toggle button is active (general sibling after button)
-.js .nav .active ~ .mobile-topics {
+// Reveal topics when the topics toggle button is active (adjacent sibling after button)
+.js .nav #topicstoggle.active + .mobile-topics {
   max-height: 30em;
   overflow: hidden;
   -webkit-transition: max-height .4s;
