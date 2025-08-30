@@ -55,14 +55,15 @@ Links point to the corresponding generated tag pages under `/tag/<slug>/`.
 {%- endfor -%}
 
 {%- assign tag_items = tag_items | sort | reverse -%}
-
-<ul class="tag-cloud">
-{%- for entry in tag_items -%}
-  {%- assign parts = entry | split: '|' -%}
-  {%- assign count = parts[1] | plus: 0 -%}
-  {%- assign slug = parts[2] -%}
-  {%- assign label = parts[3] -%}
-  {%- assign url = parts[4] -%}
-  <li><a href="{{ site.url }}{{ url }}">{{ label }} ({{ count }})</a></li>
-{%- endfor -%}
-</ul>
+<div>
+  <ul class="tag-cloud">
+  {%- for entry in tag_items -%}
+    {%- assign parts = entry | split: '|' -%}
+    {%- assign count = parts[1] | plus: 0 -%}
+    {%- assign slug = parts[2] -%}
+    {%- assign label = parts[3] -%}
+    {%- assign url = parts[4] -%}
+    <li><a href="{{ site.url }}{{ url }}">{{ label }} ({{ count }})</a></li>
+  {%- endfor -%}
+  </ul>
+</div>
