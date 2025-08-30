@@ -31,6 +31,10 @@
 <div id="main" role="main">
   <div class="article-author-side">
     {% include _author-bio.html %}
+    <div class="sidebar-block tag-cloud">
+      <h3>Topics</h3>
+      {% include _tag_cloud.html %}
+    </div>
   </div>
   <div id="index">
     <h1>{{ page.title }}</h1>
