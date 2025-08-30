@@ -199,21 +199,56 @@ $button-size: 1.5rem;
 }
 // When JavaScript is enabled, we hide the menu
 .js .nav ul {
-	max-height: 0;
-	overflow: hidden;
-	@media #{$small} {
-		max-height: 30em;
-	}
+  max-height: 0;
+  overflow: hidden;
+  @media #{$small} {
+    max-height: 30em;
+  }
 }
 // Displaying the menu when the user has clicked on the button
 .js .nav .active + ul {		
-	max-height: 30em;
-	overflow: hidden;
-	-webkit-transition: max-height .4s;
-	-moz-transition: max-height .4s;
-	-o-transition: max-height .4s;
-	-ms-transition: max-height .4s;
-	transition: max-height .4s;
+  max-height: 30em;
+  overflow: hidden;
+  -webkit-transition: max-height .4s;
+  -moz-transition: max-height .4s;
+  -o-transition: max-height .4s;
+  -ms-transition: max-height .4s;
+  transition: max-height .4s;
+}
+
+// Mobile topics (tag cloud) shown inside the toggled menu on small screens
+.nav .mobile-topics {
+  // hidden by default when JS is enabled
+  max-height: 0;
+  overflow: hidden;
+}
+.js .nav .mobile-topics {
+  max-height: 0;
+  overflow: hidden;
+}
+// Reveal topics when the toggle button is active (general sibling after button)
+.js .nav .active ~ .mobile-topics {
+  max-height: 30em;
+  overflow: hidden;
+  -webkit-transition: max-height .4s;
+  -moz-transition: max-height .4s;
+  -o-transition: max-height .4s;
+  -ms-transition: max-height .4s;
+  transition: max-height .4s;
+}
+// Hide the mobile topics completely on larger screens; sidebar shows the desktop tag cloud
+@media #{$small} {
+  .nav .mobile-topics { display: none; }
+}
+.nav .mobile-topics h3 { margin: 10px 0; }
+.nav .mobile-topics ul.tag-cloud {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.nav .mobile-topics ul.tag-cloud li a {
+  display: inline-block;
+  padding: 4px 0;
 }
 
 /* Main content */
