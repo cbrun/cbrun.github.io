@@ -205,8 +205,9 @@ $button-size: 1.5rem;
     max-height: 30em;
   }
 }
-// Displaying the menu when the user has clicked on the button (specifically the menu toggle)
-.js .nav #menutoggle.active + ul {		
+// Displaying the menu when the user has clicked on the button (menu toggle)
+// Use general sibling selector so buttons can sit side-by-side before the list
+.js .nav #menutoggle.active ~ ul {		
   max-height: 30em;
   overflow: hidden;
   -webkit-transition: max-height .4s;
@@ -226,8 +227,8 @@ $button-size: 1.5rem;
   max-height: 0;
   overflow: hidden;
 }
-// Reveal topics when the topics toggle button is active (adjacent sibling after button)
-.js .nav #topicstoggle.active + .mobile-topics {
+// Reveal topics when the topics toggle button is active (allow other siblings like <ul> in between)
+.js .nav #topicstoggle.active ~ .mobile-topics {
   max-height: 30em;
   overflow: hidden;
   -webkit-transition: max-height .4s;
@@ -254,6 +255,12 @@ $button-size: 1.5rem;
 .nav .mobile-topics ul.tag-cloud li a {
   display: inline-block;
   padding: 4px 0;
+}
+
+// Make the two nav toggles appear on one line on mobile
+.nav .navtoogle {
+  display: inline-block;
+  margin-right: 8px;
 }
 
 /* Main content */

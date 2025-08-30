@@ -13,11 +13,11 @@ var changeClass = function (r,className1,className2) {
 };  
 //  Creating our buttons in JS for smaller screens
 var menuElements = document.getElementById('site-nav');
+// Insert Menu and Topics buttons next to each other at the start of the nav
 menuElements.insertAdjacentHTML('afterBegin','<button type="button" role="button" id="menutoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>menu</button>');
-// Insert the Topics toggle button just before the mobile topics block (so CSS can use + selector)
-var topicsBlock = document.querySelector('#site-nav .mobile-topics');
-if (topicsBlock) {
-  topicsBlock.insertAdjacentHTML('beforebegin','<button type="button" role="button" id="topicstoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>topics</button>');
+var menuToggleEl = document.getElementById('menutoggle');
+if (menuToggleEl) {
+  menuToggleEl.insertAdjacentHTML('afterend','<button type="button" role="button" id="topicstoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>topics</button>');
 }
 
 //  Toggle the class on click to show / hide the menu
