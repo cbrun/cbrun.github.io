@@ -6,7 +6,7 @@ categories:
 tags:
   - obeo
   - linux
-  - hardware
+  - sustainability
   - laptop
   - framework
   - opensource
