@@ -1,23 +1,22 @@
 {%- comment -%}
 Tag cloud including posts and talks (non-main tags only), sorted by total count desc.
 Counts exclude documents marked draft, noindex, or French translations (translation_en present).
-Links point to the corresponding generated tag pages under `/tag/<slug>/`.
+No use of where_exp to maximize Liquid 4 compatibility in includes.
 {%- endcomment -%}
 
 {%- assign main_tags = site.main_categories | default: "" -%}
 
-{%- assign posts_ok = site.posts | where_exp: "p", "p.draft != true and p.noindex != true and p.translation_en == nil" -%}
-{%- assign talks_ok = site.talks | where_exp: "t", "t.draft != true and t.noindex != true and t.translation_en == nil" -%}
-{%- assign docs = posts_ok | concat: talks_ok -%}
-
 {%- comment -%}
-Collect all tag names from eligible docs, then uniquify and compute per-tag counts.
+Collect all tag names from all docs (posts + talks), then uniquify.
 {%- endcomment -%}
 {%- assign all_tag_names = '' | split: '' -%}
-{%- for d in docs -%}
-  {%- for tg in d.tags -%}
-    {%- assign all_tag_names = all_tag_names | push: tg -%}
-  {%- endfor -%}
+{%- assign all_docs = site.posts | concat: site.talks -%}
+{%- for d in all_docs -%}
+  {%- if d.tags -%}
+    {%- for tg in d.tags -%}
+      {%- assign all_tag_names = all_tag_names | push: tg -%}
+    {%- endfor -%}
+  {%- endif -%}
 {%- endfor -%}
 
 {%- assign unique_tags = all_tag_names | uniq -%}
@@ -29,8 +28,18 @@ Collect all tag names from eligible docs, then uniquify and compute per-tag coun
     {%- continue -%}
   {%- endif -%}
 
-  {%- assign docs_for_tag = docs | where_exp: "x", "x.tags contains tag_name" -%}
-  {%- assign count = docs_for_tag | size -%}
+  {%- assign count = 0 -%}
+  {%- for p in site.posts -%}
+    {%- if p.draft != true and p.noindex != true and p.translation_en == nil and p.tags contains tag_name -%}
+      {%- assign count = count | plus: 1 -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- for t in site.talks -%}
+    {%- if t.draft != true and t.noindex != true and t.translation_en == nil and t.tags contains tag_name -%}
+      {%- assign count = count | plus: 1 -%}
+    {%- endif -%}
+  {%- endfor -%}
+
   {%- if count <= 1 -%}
     {%- continue -%}
   {%- endif -%}
