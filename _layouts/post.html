@@ -17,19 +17,20 @@
     "@type": "Organization",
     "name": "CEO @ Obeo",
     "logo": {"@type": "ImageObject","url": "https://cedric.brun.io/favicon.png"}
-  }
-  "headline": "{{ page.title }}",{% if page.excerpt %}
-  "description": "{{ page.excerpt }}",{% endif %}
-  "author": {"@type": "Person", "name": "{{ author }}"},{% if page.date %}
-  "datePublished": "{{ page.date | date: "%Y-%m-%d" }}",{% endif %}{% if page.modified %}
-  "dateModified": "{{ page.modified | date: "%Y-%m-%d" }}",{% endif %}
-  "mainEntityOfPage": {"@type": "WebPage","@id": "{{ site.url }}{{ page.url }}"},{% if page.image.feature %}"image": [
+  },
+  "headline": "{{ page.title }}"{% if page.excerpt %},
+  "description": "{{ page.excerpt | strip_newlines | escape }}"{% endif %},
+  "author": {"@type": "Person", "name": "{{ author }}"}{% if page.date %},
+  "datePublished": "{{ page.date | date_to_xmlschema }}"{% endif %}{% if page.last_modified_at %},
+  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}"{% endif %},
+  "mainEntityOfPage": {"@type": "WebPage","@id": "{{ site.url }}{{ page.url }}"}{% if page.image.feature %},
+  "image": [
    {% if page.image.feature contains 'http' %}
       "{{ page.image.feature }}"
     {% else %}
       "{{ site.url }}/images/{{ page.image.feature }}"
     {% endif %}
-  ],{% endif %}
+  ]{% endif %}
 }
 </script>
 </head>
@@ -76,7 +77,7 @@
       <hr />
       <footer role="contentinfo">
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.last_modified_at %} and last updated on <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time>{% endif %}.</p>
       </footer>
     </div><!-- /.article-wrap -->
   {% if site.owner.disqus-shortname and page.comments == true %}

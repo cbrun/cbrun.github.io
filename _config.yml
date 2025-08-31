@@ -99,6 +99,7 @@ exclude:
 
 plugins:
       - jekyll-sitemap
+      - jekyll-last-modified-at
 
 # Main categories (used in navigation)
 main_categories:
