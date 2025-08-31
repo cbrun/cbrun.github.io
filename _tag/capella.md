@@ -10,7 +10,7 @@ If you’ve ever designed a big, complex system — an airplane, a power grid, a
 
 That’s why **Capella** exists. It’s an open-source modeling tool for **Model-Based Systems Engineering (MBSE)**. Instead of passing around specs and hoping they line up, you build a model of your system once, with clear viewpoints for each stakeholder. Think of it as a shared blueprint that can be sliced different ways: what the system does, how it’s structured, how it behaves over time.
 
-Here’s the Feynman version: Capella is like Lego instructions for systems engineering. Instead of just saying “make a spaceship,” it tells you exactly which bricks go where, how they connect, and why. The instructions aren’t static — they adapt as your design evolves, and you can check that everything still fits together before you spend billions building the real thing.
+Capella is like Lego instructions for systems engineering. Instead of just saying “make a spaceship,” it tells you exactly which bricks go where, how they connect, and why. The instructions aren’t static - they adapt as your design evolves, and you can check that everything still fits together before you spend billions building the real thing.
 
 ## Where Obeo Comes In
 
@@ -40,6 +40,6 @@ This hub collects **some of my posts about Capella** — stories from the field,
 * **Lessons from real projects**: what works, what doesn’t, and how people adapt.
 * **Ecosystem signals**: industry partnerships and add-ons that show where Capella (and MBSE at large) is heading.
 
-If you care about systems engineering — or just want to see how open-source tools can reshape an entire discipline — this is a good place to start.
+If you care about systems engineering or just want to see how open-source tools can reshape an entire discipline, this is a good place to start.
 
 ---
