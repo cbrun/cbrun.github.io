@@ -9,7 +9,6 @@ tags:
   - acceleo
   - aql
 excerpt: "AQL in practice: writing fast, readable queries for EMF models—tips from EclipseCon Europe 2017."
-draft: true
 ---
 
 For engineers writing constraints, derived features, and UI logic on EMF models. AQL provides concise, performant queries that integrate well across Sirius and tooling.
