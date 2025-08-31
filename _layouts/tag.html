@@ -40,7 +40,7 @@
     <h1>{{ page.title }}</h1>
     {{ content }}
     
-   {% assign postsByYear = site.tags[page.tag] | concat: site.talks[page.tag] | group_by_exp: "post", "post.date | date: '%Y'" %}
+   {% assign postsByYear = site.tags[page.tag] | group_by_exp: "post", "post.date | date: '%Y'" %}
    {% for year in postsByYear %}
     <h3>{{ year.name }}</h3>
     {% for post in year.items %}
