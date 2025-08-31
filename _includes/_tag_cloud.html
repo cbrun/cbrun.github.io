@@ -1,25 +1,45 @@
 {%- comment -%}
-Tag cloud (non-main tags only), sorted by post count desc.
-Counts exclude posts marked draft, noindex, or French translations (translation_en present).
-Links point to the corresponding generated tag pages under `/tag/<slug>/`.
+Tag cloud including posts and talks (non-main tags only), sorted by total count desc.
+Counts exclude documents marked draft, noindex, or French translations (translation_en present).
+No use of where_exp to maximize Liquid 4 compatibility in includes.
 {%- endcomment -%}
 
 {%- assign main_tags = site.main_categories | default: "" -%}
+
+{%- comment -%}
+Collect all tag names from all docs (posts + talks), then uniquify.
+{%- endcomment -%}
+{%- assign all_tag_names = '' | split: '' -%}
+{%- assign all_docs = site.posts | concat: site.talks -%}
+{%- for d in all_docs -%}
+  {%- if d.tags -%}
+    {%- for tg in d.tags -%}
+      {%- assign all_tag_names = all_tag_names | push: tg -%}
+    {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign unique_tags = all_tag_names | uniq -%}
 {%- assign tag_items = '' | split: '' -%}
 
-{%- for t in site.tags -%}
-  {%- assign slug_src = t[0] -%}
-  {%- assign slug = slug_src | slugify -%}
+{%- for tag_name in unique_tags -%}
+  {%- assign slug = tag_name | slugify -%}
   {%- if main_tags contains slug -%}
     {%- continue -%}
   {%- endif -%}
 
-  {%- assign posts_all = t[1] -%}
-  {%- assign posts_pub = posts_all
-    | where_exp: "p", "p.draft != true"
-    | where_exp: "p", "p.noindex != true"
-    | where_exp: "p", "p.translation_en == nil" -%}
-  {%- assign count = posts_pub | size -%}
+  {%- assign count = 0 -%}
+  {%- for p in site.posts -%}
+    {%- if p.draft != true and p.noindex != true and p.translation_en == nil and p.tags contains tag_name -%}
+      {%- assign count = count | plus: 1 -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- for t in site.talks -%}
+    {%- if t.draft != true and t.noindex != true and t.translation_en == nil and t.tags contains tag_name -%}
+      {%- assign count = count | plus: 1 -%}
+    {%- endif -%}
+  {%- endfor -%}
+
   {%- if count <= 1 -%}
     {%- continue -%}
   {%- endif -%}
@@ -44,17 +64,13 @@ Links point to the corresponding generated tag pages under `/tag/<slug>/`.
   {%- endfor -%}
 
   {%- if tag_doc -%}
-    {%- assign label = tag_doc.title | default: slug_src -%}
+    {%- assign label = tag_doc.title | default: tag_name -%}
     {%- assign url = tag_doc.url -%}
   {%- else -%}
-    {%- assign label = slug_src -%}
+    {%- assign label = tag_name -%}
     {%- assign url = target_url -%}
   {%- endif -%}
 
-  {%- comment -%}
-  Build a sortable token: zero-padded count to ensure lexicographic sort works numerically.
-  Store as: PADDED|COUNT|SLUG|LABEL|URL
-  {%- endcomment -%}
   {%- capture padded %}00000{{ count }}{%- endcapture -%}
   {%- assign padded = padded | slice: -5, 5 -%}
   {%- capture item %}{{ padded }}|{{ count }}|{{ slug }}|{{ label }}|{{ url }}{%- endcapture -%}
@@ -67,10 +83,10 @@ Links point to the corresponding generated tag pages under `/tag/<slug>/`.
   {%- for entry in tag_items -%}
     {%- assign parts = entry | split: '|' -%}
     {%- assign count = parts[1] | plus: 0 -%}
-    {%- assign slug = parts[2] -%}
     {%- assign label = parts[3] -%}
     {%- assign url = parts[4] -%}
     <li><a href="{{ site.url }}{{ url }}">{{ label }} ({{ count }})</a></li>
   {%- endfor -%}
   </ul>
+  <p class="notice notice--info">Tag counts include talks.</p>
 </div>
