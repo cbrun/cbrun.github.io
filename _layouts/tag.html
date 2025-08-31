@@ -42,35 +42,38 @@
     
     {% assign items = site.posts | concat: site.talks | sort: 'date' | reverse %}
     {% assign last_year = nil %}
-    {% for item in items %}
-     {% if item.translation_en == nil or item.translation_en == '' or item.translation_en == false %}
-      {% if item.tags contains page.tag and item.draft != true and item.noindex != true and is_en %}
-        {% assign is_talk = false %}
-        {% if item.collection == 'talks' or item.categories contains 'talk' %}
+    {% for post in items %}
+     {% assign is_talk = false %}
+     {% if post.collection == 'talks' or post.categories contains 'talk' %}
           {% assign is_talk = true %}
+     {% endif %}
+     {% if post.translation_en == nil or post.translation_en == '' or post.translation_en == false %}
+      {% unless post.draft or post.noindex %}
+      <article>
+        {% if post.link %}
+          <h2 class="link-post">
+            {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
+            <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
+            {% if post.translation_fr %}
+                 <a href="{{ site.url }}{{ post.url }}">🇬🇧</a>
+              	 <a href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
+            {% endif %}
+          </h2>
+        {% else %}
+          <h2>
+            {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
+            <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            {% if post.translation_fr %}
+                 <a href="{{ site.url }}{{ post.url }}">🇬🇧</a>
+              	 <a href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
+            {% endif %}
+          </h2>
+          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
-        {% capture year %}{{ item.date | date: '%Y' }}{% endcapture %}
-        {% if year != last_year %}
-          <h3>{{ year }}</h3>
-          {% assign last_year = year %}
-        {% endif %}
-        <article>
-          {% if item.link %}
-            <h2 class="link-post">
-              <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-              {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
-              <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a>
-            </h2>
-          {% else %}
-            <h2>
-              <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-              {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
-            </h2>
-            <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
-          {% endif %}
-        </article>
-        {% endif %}
-      {% endif %}
+      </article>
+      {% endunless %}
+     {% endif %}
     {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->
