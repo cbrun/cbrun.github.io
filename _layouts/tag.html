@@ -41,7 +41,6 @@
     {{ content }}
     
     {% assign items = site.posts | concat: site.talks | sort: 'date' | reverse %}
-    {% assign last_year = nil %}
     {% for post in items %}
      {% assign is_talk = false %}
      {% if post.collection == 'talks' or post.categories contains 'talk' %}
