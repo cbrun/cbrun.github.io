@@ -34,24 +34,30 @@
   </div>
   <div id="index">
     <h1>{{ page.title }}</h1>
-    {% assign articles = site.posts | concat: site.talks | sort: 'date' | reverse %}
-    {% assign last_year = nil %}
-    {% for item in articles %}
-      {% if item.draft != true and item.noindex != true and item.translation_en == nil %}
-        {% capture year %}{{ item.date | date: '%Y' }}{% endcapture %}
-        {% if year != last_year %}
-          <h3>{{ year }}</h3>
-          {% assign last_year = year %}
+    {% for post in site.posts %}
+    {% unless post.translation_en %}
+    {% unless post.draft %}
+    {% unless post.noindex %}
+    {% unless post.next %}    
+      <h3>{{ post.date | date: '%Y' }}</h3>
+      {% else %}
+        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+        {% if year != nyear %}
+          <h3>{{ post.date | date: '%Y' }}</h3>
         {% endif %}
-        <article>
-          {% if item.link %}
-            <h2 class="link-post"><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a> <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a></h2>
-          {% else %}
-            <h2><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></h2>
-            <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
-          {% endif %}
-        </article>
-      {% endif %}
+      {% endunless %}
+      <article>
+        {% if post.link %}
+          <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
+        {% else %}
+          <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        {% endif %}
+      </article>
+    {% endunless %}
+    {% endunless %}
+    {% endunless %}
     {% endfor %}
     <h3>Drafts</h3>    
     {% for post in site.posts %}  

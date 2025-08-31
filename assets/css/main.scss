@@ -37,21 +37,3 @@ sitemap: false
     border-radius: 4px;
     box-shadow: 0 1px 1px rgba(59,156,186,0.25);
 }
-
-/* Simple badge styling for content types */
-.badge {
-  display: inline-block;
-  margin-left: .4em;
-  padding: .1em .45em;
-  font-size: .6em;
-  font-weight: 600;
-  line-height: 1.6;
-  border-radius: .35em;
-  vertical-align: middle;
-}
-
-.badge--talk {
-  color: #0b3d2e;
-  background-color: #bde5d6;
-  border: 1px solid rgba(11,61,46,.15);
-}

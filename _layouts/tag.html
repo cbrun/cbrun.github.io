@@ -38,42 +38,28 @@
   </div>
   <div id="index">
     <h1>{{ page.title }}</h1>
-    {% assign content_length = content | strip | size %}
-    {% if content_length > 0 %}
-      {{ content }}
-    {% elsif page.description %}
-      <p class="notice">{{ page.description }}</p>
+    {% if page.description %}
+    <p class="notice">{{ page.description }}</p>
     {% endif %}
-   {% assign items = site.posts | concat: site.talks | sort: 'date' | reverse %}
-   {% assign last_year = nil %}
-   {% for item in items %}
-     {% assign is_en = item.translation_en == nil %}
-     {% if item.tags contains page.tag and item.draft != true and item.noindex != true and is_en %}
-        {% capture year %}{{ item.date | date: '%Y' }}{% endcapture %}
-        {% if year != last_year %}
-          <h3>{{ year }}</h3>
-          {% assign last_year = year %}
-        {% endif %}
-        {% assign is_talk = false %}
-        {% if item.collection == 'talks' or item.categories contains 'talk' %}
-          {% assign is_talk = true %}
-        {% endif %}
+   {% assign postsByYear = site.tags[page.tag] | group_by_exp: "post", "post.date | date: '%Y'" %}
+   {% for year in postsByYear %}
+    <h3>{{ year.name }}</h3>
+    {% for post in year.items %}
+      {% unless post.translation_en %}
+      {% unless post.draft %}
+      {% unless post.noindex %}
         <article>
-          {% if item.link %}
-            <h2 class="link-post">
-              <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-              {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
-              <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a>
-            </h2>
+          {% if post.link %}
+            <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
           {% else %}
-            <h2>
-              <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-              {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
-            </h2>
-            <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
+            <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
-     {% endif %}
+      {% endunless %}
+      {% endunless %}
+      {% endunless %}
+    {% endfor %}
    {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->

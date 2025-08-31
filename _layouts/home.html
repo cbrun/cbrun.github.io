@@ -38,35 +38,33 @@
   </div>
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-   {% assign articles = site.posts | concat: site.talks | sort: 'date' | reverse %}
-   {% assign shown = 0 %}
-   {% for item in articles %}
-     {% assign is_en = item.translation_en == nil or item.translation_en == '' or item.translation_en == false %}
-     {% if item.draft != true and item.noindex != true and is_en and shown < 10 %}
+   {% for post in site.posts limit:10 %}
+    {% if post.translation_en == nil or post.translation_en == '' or post.translation_en == false %}
+      {% unless post.draft or post.noindex %}
       <article>
-        {% if item.link %}
+        {% if post.link %}
           <h2 class="link-post">
-            <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-            <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a>
-            {% if item.translation_fr %}
-                 <a href="{{ site.url }}{{ item.url }}">🇬🇧</a>
-               	 <a href="{{ site.url }}{{ item.translation_fr  }}">🇫🇷</a>       
+            <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
+            {% if post.translation_fr %}
+                 <a href="{{ site.url }}{{ post.url }}">🇬🇧</a>
+              	 <a href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
             {% endif %}
           </h2>
         {% else %}
           <h2>
-            <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-            {% if item.translation_fr %}
-                 <a href="{{ site.url }}{{ item.url }}">🇬🇧</a>
-               	 <a href="{{ site.url }}{{ item.translation_fr  }}">🇫🇷</a>       
+            <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            {% if post.translation_fr %}
+                 <a href="{{ site.url }}{{ post.url }}">🇬🇧</a>
+              	 <a href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
             {% endif %}
           </h2>
-          <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
+          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
       </article>
-      {% assign shown = shown | plus: 1 %}
+      {% endunless %}
      {% endif %}
-   {% endfor %}
+    {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->
 
