@@ -43,7 +43,7 @@
     {% assign items = site.posts | concat: site.talks | sort: 'date' | reverse %}
     {% assign last_year = nil %}
     {% for item in items %}
-      {% assign is_en = item.translation_en == nil or item.translation_en == '' or item.translation_en == false %}
+     {% if item.translation_en == nil or item.translation_en == '' or item.translation_en == false %}
       {% if item.tags contains page.tag and item.draft != true and item.noindex != true and is_en %}
         {% assign is_talk = false %}
         {% if item.collection == 'talks' or item.categories contains 'talk' %}
@@ -69,6 +69,7 @@
             <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
+        {% endif %}
       {% endif %}
     {% endfor %}
   </div><!-- /#index -->
