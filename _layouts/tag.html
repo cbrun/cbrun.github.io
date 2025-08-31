@@ -41,12 +41,19 @@
     {{ content }}
     
     {% assign items = site.posts | concat: site.talks | sort: 'date' | reverse %}
+    {% assign page_tag = page.tag | downcase %}
     {% for post in items %}
+     {% assign has_tag = false %}
+     {% for t in post.tags %}
+       {% if t | downcase == page_tag %}
+         {% assign has_tag = true %}
+       {% endif %}
+     {% endfor %}
      {% assign is_talk = false %}
      {% if post.collection == 'talks' or post.categories contains 'talk' %}
           {% assign is_talk = true %}
      {% endif %}
-     {% if post.translation_en == nil or post.translation_en == '' or post.translation_en == false %}
+     {% if has_tag and (post.translation_en == nil or post.translation_en == '' or post.translation_en == false) %}
       {% unless post.draft or post.noindex %}
       <article>
         {% if post.link %}
