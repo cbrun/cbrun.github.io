@@ -25,3 +25,4 @@ For engineers writing constraints, derived features, and UI logic on EMF models.
 - Event: EclipseCon Europe 2017, Ludwigsburg, Germany
 - Date: October 2017
 - Slides: [PDF]({{ site.url }}/talks/EclipseConEU2017/EclipseModelingGuidedTour-aql.pdf)
+- Video: https://www.youtube.com/watch?v=a271YFtNX6M
