@@ -38,8 +38,11 @@
   </div>
   <div id="index">
     <h1>{{ page.title }}</h1>
-    {% if page.description %}
-    <p class="notice">{{ page.description }}</p>
+    {% assign content_length = content | strip | size %}
+    {% if content_length > 0 %}
+      {{ content }}
+    {% elsif page.description %}
+      <p class="notice">{{ page.description }}</p>
     {% endif %}
    {% assign posts_tag = site.posts | where_exp: 'p', 'p.tags contains page.tag' %}
    {% assign talks_tag = site.talks | where_exp: 't', 't.tags contains page.tag' %}
@@ -50,11 +53,22 @@
    {% for year in itemsByYear %}
     <h3>{{ year.name }}</h3>
     {% for item in year.items %}
+        {% assign is_talk = false %}
+        {% if item.collection == 'talks' or item.categories contains 'talk' %}
+          {% assign is_talk = true %}
+        {% endif %}
         <article>
           {% if item.link %}
-            <h2 class="link-post"><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a> <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a></h2>
+            <h2 class="link-post">
+              <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+              {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
+              <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a>
+            </h2>
           {% else %}
-            <h2><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></h2>
+            <h2>
+              <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+              {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
+            </h2>
             <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
