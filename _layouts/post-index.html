@@ -34,30 +34,23 @@
   </div>
   <div id="index">
     <h1>{{ page.title }}</h1>
-    {% for post in site.posts %}
-    {% unless post.translation_en %}
-    {% unless post.draft %}
-    {% unless post.noindex %}
-    {% unless post.next %}    
-      <h3>{{ post.date | date: '%Y' }}</h3>
-      {% else %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if year != nyear %}
-          <h3>{{ post.date | date: '%Y' }}</h3>
-        {% endif %}
-      {% endunless %}
-      <article>
-        {% if post.link %}
-          <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-        {% else %}
-          <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-        {% endif %}
-      </article>
-    {% endunless %}
-    {% endunless %}
-    {% endunless %}
+    {% assign posts_ok = site.posts | where_exp: "p", "p.draft != true and p.noindex != true and p.translation_en == nil" %}
+    {% assign talks_ok = site.talks | where_exp: "t", "t.draft != true and t.noindex != true and t.translation_en == nil" %}
+    {% assign articles = posts_ok | concat: talks_ok | sort: 'date' | reverse %}
+
+    {% assign articlesByYear = articles | group_by_exp: 'it', "it.date | date: '%Y'" %}
+    {% for year in articlesByYear %}
+      <h3>{{ year.name }}</h3>
+      {% for item in year.items %}
+        <article>
+          {% if item.link %}
+            <h2 class="link-post"><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a> <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a></h2>
+          {% else %}
+            <h2><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></h2>
+            <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
+          {% endif %}
+        </article>
+      {% endfor %}
     {% endfor %}
     <h3>Drafts</h3>    
     {% for post in site.posts %}  

@@ -41,24 +41,23 @@
     {% if page.description %}
     <p class="notice">{{ page.description }}</p>
     {% endif %}
-   {% assign postsByYear = site.tags[page.tag] | group_by_exp: "post", "post.date | date: '%Y'" %}
-   {% for year in postsByYear %}
+   {% assign posts_tag = site.posts | where_exp: 'p', 'p.tags contains page.tag' %}
+   {% assign talks_tag = site.talks | where_exp: 't', 't.tags contains page.tag' %}
+   {% assign items = posts_tag | concat: talks_tag %}
+   {% assign items = items | where_exp: 'x', 'x.draft != true' | where_exp: 'x', 'x.noindex != true' | where_exp: 'x', 'x.translation_en == nil' | sort: 'date' | reverse %}
+
+   {% assign itemsByYear = items | group_by_exp: 'it', "it.date | date: '%Y'" %}
+   {% for year in itemsByYear %}
     <h3>{{ year.name }}</h3>
-    {% for post in year.items %}
-      {% unless post.translation_en %}
-      {% unless post.draft %}
-      {% unless post.noindex %}
+    {% for item in year.items %}
         <article>
-          {% if post.link %}
-            <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
+          {% if item.link %}
+            <h2 class="link-post"><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a> <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a></h2>
           {% else %}
-            <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+            <h2><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></h2>
+            <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
-      {% endunless %}
-      {% endunless %}
-      {% endunless %}
     {% endfor %}
    {% endfor %}
   </div><!-- /#index -->
