@@ -34,14 +34,15 @@
   </div>
   <div id="index">
     <h1>{{ page.title }}</h1>
-    {% assign posts_ok = site.posts | where_exp: "p", "p.draft != true and p.noindex != true and p.translation_en == nil" %}
-    {% assign talks_ok = site.talks | where_exp: "t", "t.draft != true and t.noindex != true and t.translation_en == nil" %}
-    {% assign articles = posts_ok | concat: talks_ok | sort: 'date' | reverse %}
-
-    {% assign articlesByYear = articles | group_by_exp: 'it', "it.date | date: '%Y'" %}
-    {% for year in articlesByYear %}
-      <h3>{{ year.name }}</h3>
-      {% for item in year.items %}
+    {% assign articles = site.posts | concat: site.talks | sort: 'date' | reverse %}
+    {% assign last_year = nil %}
+    {% for item in articles %}
+      {% if item.draft != true and item.noindex != true and item.translation_en == nil %}
+        {% capture year %}{{ item.date | date: '%Y' }}{% endcapture %}
+        {% if year != last_year %}
+          <h3>{{ year }}</h3>
+          {% assign last_year = year %}
+        {% endif %}
         <article>
           {% if item.link %}
             <h2 class="link-post"><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a> <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a></h2>
@@ -50,7 +51,7 @@
             <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
-      {% endfor %}
+      {% endif %}
     {% endfor %}
     <h3>Drafts</h3>    
     {% for post in site.posts %}  
