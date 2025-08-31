@@ -40,20 +40,44 @@
     <h1>{{ page.title }}</h1>
     {{ content }}
     
-    {% assign items = site.posts | concat: site.talks | sort: 'date' | reverse %}
     {% assign page_tag = page.tag | downcase %}
+
+    {%- comment -%}
+    Resolve posts matching this tag via site.tags with case-insensitive key.
+    {%- endcomment -%}
+    {% assign matched_posts = '' | split: '' %}
+    {% for pair in site.tags %}
+      {% assign tag_name = pair[0] %}
+      {% if tag_name | downcase == page_tag %}
+        {% assign matched_posts = pair[1] %}
+      {% endif %}
+    {% endfor %}
+
+    {%- comment -%}
+    Talks are stored in a separate collection, filter them manually by tag.
+    {%- endcomment -%}
+    {% assign matched_talks = '' | split: '' %}
+    {% for t in site.talks %}
+      {% assign has_tag = false %}
+      {% if t.tags %}
+        {% for tg in t.tags %}
+          {% if tg | downcase == page_tag %}
+            {% assign has_tag = true %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      {% if has_tag %}
+        {% assign matched_talks = matched_talks | push: t %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign items = matched_posts | concat: matched_talks | sort: 'date' | reverse %}
     {% for post in items %}
-     {% assign has_tag = false %}
-     {% for t in post.tags %}
-       {% if t | downcase == page_tag %}
-         {% assign has_tag = true %}
-       {% endif %}
-     {% endfor %}
      {% assign is_talk = false %}
      {% if post.collection == 'talks' or post.categories contains 'talk' %}
           {% assign is_talk = true %}
      {% endif %}
-     {% if has_tag and (post.translation_en == nil or post.translation_en == '' or post.translation_en == false) %}
+     {% if post.translation_en == nil or post.translation_en == '' or post.translation_en == false %}
       {% unless post.draft or post.noindex %}
       <article>
         {% if post.link %}
@@ -63,7 +87,7 @@
             <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
             {% if post.translation_fr %}
                  <a href="{{ site.url }}{{ post.url }}">🇬🇧</a>
-              	 <a href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
+             	 <a href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
             {% endif %}
           </h2>
         {% else %}
@@ -72,7 +96,7 @@
             <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
             {% if post.translation_fr %}
                  <a href="{{ site.url }}{{ post.url }}">🇬🇧</a>
-              	 <a href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
+             	 <a href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
             {% endif %}
           </h2>
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
