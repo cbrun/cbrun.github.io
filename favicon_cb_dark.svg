@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#007788"/>
+  <!-- corner notch -->
+  <path d="M512,384 v128 h-128 c70,0 128,-58 128,-128z" fill="#009db5"/>
+  <!-- initials -->
+  <text x="50%" y="60%" text-anchor="middle"
+        font-family="Inter, Montserrat, Arial, sans-serif"
+        font-size="320" font-weight="700" fill="#ffffff">CB</text>
+</svg>
