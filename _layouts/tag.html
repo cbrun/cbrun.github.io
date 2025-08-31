@@ -44,10 +44,10 @@
     {% elsif page.description %}
       <p class="notice">{{ page.description }}</p>
     {% endif %}
-   {% assign posts_tag = site.posts | where_exp: 'p', 'p.tags contains page.tag' %}
-   {% assign talks_tag = site.talks | where_exp: 't', 't.tags contains page.tag' %}
+   {% assign posts_tag = site.posts | where_exp: "p", "p.tags contains page.tag" %}
+   {% assign talks_tag = site.talks | where_exp: "t", "t.tags contains page.tag" %}
    {% assign items = posts_tag | concat: talks_tag %}
-   {% assign items = items | where_exp: 'x', 'x.draft != true' | where_exp: 'x', 'x.noindex != true' | where_exp: 'x', 'x.translation_en == nil' | sort: 'date' | reverse %}
+   {% assign items = items | where_exp: "x", "x.draft != true" | where_exp: "x", "x.noindex != true" | where_exp: "x", "x.translation_en == nil" | sort: 'date' | reverse %}
 
    {% assign itemsByYear = items | group_by_exp: 'it', "it.date | date: '%Y'" %}
    {% for year in itemsByYear %}
