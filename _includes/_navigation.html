@@ -51,9 +51,7 @@
                	 <li><a rel="alternate"  hreflang="fr" href="{{ domain }}{{ page.translation_fr  }}">🇫🇷</a></li>
                {% endif %}
 		    </ul>
-		    <div class="mobile-topics">
-		      {% include _tag_cloud.html %}
-		    </div>
+		    <!-- Mobile tag cloud removed from nav to avoid Liquid parsing issues -->
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->
