@@ -42,11 +42,16 @@
    {% assign shown = 0 %}
    {% for item in articles %}
      {% assign is_en = item.translation_en == nil or item.translation_en == '' or item.translation_en == false %}
+     {% assign is_talk = false %}
+     {% if item.collection == 'talks' or item.categories contains 'talk' %}
+       {% assign is_talk = true %}
+     {% endif %}
      {% if item.draft != true and item.noindex != true and is_en and shown < 10 %}
       <article>
         {% if item.link %}
           <h2 class="link-post">
             <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+            {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
             <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a>
             {% if item.translation_fr %}
                  <a href="{{ site.url }}{{ item.url }}">🇬🇧</a>
@@ -56,6 +61,7 @@
         {% else %}
           <h2>
             <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+            {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
             {% if item.translation_fr %}
                  <a href="{{ site.url }}{{ item.url }}">🇬🇧</a>
                	 <a href="{{ site.url }}{{ item.translation_fr  }}">🇫🇷</a>       
