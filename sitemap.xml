@@ -33,14 +33,16 @@ permalink: /sitemap.xml
     {%- if c.label != 'posts' and c.output != false -%}
       {%- for doc in c.docs -%}
         {%- unless doc.noindex or doc.sitemap == false or doc.draft -%}
+          {%- assign tag_posts = site.tags[doc.tag] -%}
+          {%- if c.label != 'tag' or tag_posts and tag_posts.size >= 3 -%}
           <url>
             <loc>{{ site.url }}{{ doc.url | replace:'index.html','' }}</loc>
             {%- assign lm = doc.last_modified_at | default: doc.date -%}
             {%- if lm -%}<lastmod>{{ lm | date_to_xmlschema }}</lastmod>{%- endif -%}
           </url>
+          {%- endif -%}
         {%- endunless -%}
       {%- endfor -%}
     {%- endif -%}
   {%- endfor -%}
 </urlset>
-
