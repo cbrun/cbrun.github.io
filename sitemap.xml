@@ -1,0 +1,46 @@
+---
+layout: null
+sitemap: false
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- comment -%} Pages {%- endcomment -%}
+  {%- for page in site.pages -%}
+    {%- unless page.noindex or page.sitemap == false -%}
+      <url>
+        <loc>{{ site.url }}{{ page.url | replace:'index.html','' }}</loc>
+        {%- assign lm = page.last_modified_at | default: page.date -%}
+        {%- if lm -%}<lastmod>{{ lm | date_to_xmlschema }}</lastmod>{%- endif -%}
+      </url>
+    {%- endunless -%}
+  {%- endfor -%}
+
+  {%- comment -%} Posts {%- endcomment -%}
+  {%- for post in site.posts -%}
+    {%- unless post.draft or post.noindex or post.sitemap == false -%}
+      <url>
+        <loc>{{ site.url }}{{ post.url | replace:'index.html','' }}</loc>
+        {%- assign lm = post.last_modified_at | default: post.date -%}
+        {%- if lm -%}<lastmod>{{ lm | date_to_xmlschema }}</lastmod>{%- endif -%}
+      </url>
+    {%- endunless -%}
+  {%- endfor -%}
+
+  {%- comment -%} Other collections (e.g., talks, tags, categories) {%- endcomment -%}
+  {%- for collection in site.collections -%}
+    {%- assign c = collection -%}
+    {%- if c.label != 'posts' and c.output != false -%}
+      {%- for doc in c.docs -%}
+        {%- unless doc.noindex or doc.sitemap == false or doc.draft -%}
+          <url>
+            <loc>{{ site.url }}{{ doc.url | replace:'index.html','' }}</loc>
+            {%- assign lm = doc.last_modified_at | default: doc.date -%}
+            {%- if lm -%}<lastmod>{{ lm | date_to_xmlschema }}</lastmod>{%- endif -%}
+          </url>
+        {%- endunless -%}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+</urlset>
+
