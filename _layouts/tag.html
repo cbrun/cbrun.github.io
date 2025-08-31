@@ -39,7 +39,8 @@
   <div id="index">
     <h1>{{ page.title }}</h1>
     {{ content }}
-   {% assign items = site.posts | concat: site.talks | sort: 'date' | reverse %}
+    
+    {% assign items = site.posts | concat: site.talks | sort: 'date' | reverse %}
     {% assign last_year = nil %}
     {% for item in items %}
       {% assign is_en = item.translation_en == nil %}
@@ -48,20 +49,26 @@
         {% if item.collection == 'talks' or item.categories contains 'talk' %}
           {% assign is_talk = true %}
         {% endif %}
-        {% if is_talk %}
-          {% capture year %}{{ item.date | date: '%Y' }}{% endcapture %}
-          {% if year != last_year %}
-            <h3>{{ year }}</h3>
-            {% assign last_year = year %}
-          {% endif %}
-          <article>
+        {% capture year %}{{ item.date | date: '%Y' }}{% endcapture %}
+        {% if year != last_year %}
+          <h3>{{ year }}</h3>
+          {% assign last_year = year %}
+        {% endif %}
+        <article>
+          {% if item.link %}
+            <h2 class="link-post">
+              <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+              {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
+              <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a>
+            </h2>
+          {% else %}
             <h2>
               <a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-              <span class="badge badge--talk" title="Talk">Talk</span>
+              {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
             </h2>
             <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
-          </article>
-        {% endif %}
+          {% endif %}
+        </article>
       {% endif %}
     {% endfor %}
   </div><!-- /#index -->
