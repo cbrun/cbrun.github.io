@@ -38,11 +38,11 @@
   </div>
   <div id="index">
     <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
-   {% assign posts_ok = site.posts | where_exp: "p", "p.draft != true and p.noindex != true and (p.translation_en == nil or p.translation_en == '')" %}
-   {% assign talks_ok = site.talks | where_exp: "t", "t.draft != true and t.noindex != true and (t.translation_en == nil or t.translation_en == '')" %}
-   {% assign articles = posts_ok | concat: talks_ok | sort: 'date' | reverse %}
-   {% assign articles = articles | slice: 0, 10 %}
+   {% assign articles = site.posts | concat: site.talks | sort: 'date' | reverse %}
+   {% assign shown = 0 %}
    {% for item in articles %}
+     {% assign is_en = item.translation_en == nil or item.translation_en == '' or item.translation_en == false %}
+     {% if item.draft != true and item.noindex != true and is_en and shown < 10 %}
       <article>
         {% if item.link %}
           <h2 class="link-post">
@@ -64,6 +64,8 @@
           <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
         {% endif %}
       </article>
+      {% assign shown = shown | plus: 1 %}
+     {% endif %}
    {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->

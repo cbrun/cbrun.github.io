@@ -44,15 +44,16 @@
     {% elsif page.description %}
       <p class="notice">{{ page.description }}</p>
     {% endif %}
-   {% assign posts_tag = site.posts | where_exp: "p", "p.tags contains page.tag" %}
-   {% assign talks_tag = site.talks | where_exp: "t", "t.tags contains page.tag" %}
-   {% assign items = posts_tag | concat: talks_tag %}
-   {% assign items = items | where_exp: "x", "x.draft != true" | where_exp: "x", "x.noindex != true" | where_exp: "x", "x.translation_en == nil" | sort: 'date' | reverse %}
-
-   {% assign itemsByYear = items | group_by_exp: 'it', "it.date | date: '%Y'" %}
-   {% for year in itemsByYear %}
-    <h3>{{ year.name }}</h3>
-    {% for item in year.items %}
+   {% assign items = site.posts | concat: site.talks | sort: 'date' | reverse %}
+   {% assign last_year = nil %}
+   {% for item in items %}
+     {% assign is_en = item.translation_en == nil %}
+     {% if item.tags contains page.tag and item.draft != true and item.noindex != true and is_en %}
+        {% capture year %}{{ item.date | date: '%Y' }}{% endcapture %}
+        {% if year != last_year %}
+          <h3>{{ year }}</h3>
+          {% assign last_year = year %}
+        {% endif %}
         {% assign is_talk = false %}
         {% if item.collection == 'talks' or item.categories contains 'talk' %}
           {% assign is_talk = true %}
@@ -72,7 +73,7 @@
             <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
-    {% endfor %}
+     {% endif %}
    {% endfor %}
   </div><!-- /#index -->
 </div><!-- /#main -->
