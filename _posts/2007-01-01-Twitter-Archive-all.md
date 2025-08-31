@@ -5,6 +5,7 @@ categories: [social]
 tags:
   - social
   - tweets
+noindex: true
 ---
 
 > Blogging about Eclipse, OSS and the Obeo Company  "Unusual Propulsion System" : https://tinyurl.com/ybazp84

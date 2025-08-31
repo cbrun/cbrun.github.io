@@ -7,6 +7,16 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
 {% endif %}
 
+{%- comment -%}
+  Robots indexing control
+  - If a page (post, tag, category, or any page) sets `noindex: true`
+    in its front matter, emit `noindex,follow` to prevent indexing while
+    keeping link equity flowing.
+{%- endcomment -%}
+{% if page.noindex %}
+<meta name="robots" content="noindex,follow">
+{% endif %}
+
 {% include _open-graph.html %}
 
 {% if site.owner.google.verify %}<!-- Webmaster Tools verfication -->
