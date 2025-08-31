@@ -12,7 +12,6 @@ tags:
   - opensource
 excerpt: "Hands-on impressions of the DIY Framework Laptop 13″—for Linux users and maintainability‑minded teams—covering assembly, build quality, and why repairable, modular design matters right now."
 permalink: /obeo/framework-laptop-linux-modular-repairable/
-draft: true
 ---
 
 I received and assembled my new Framework Laptop 13″ DIY edition last week, and after a week of use, I’m impressed. The assembly process was straightforward, and I was able to transfer my hard drive directly from my previous laptop (which had—again—a swelling battery after a few years of use).
