@@ -23,37 +23,37 @@ Collect all tag names from qualifying posts, then dedupe to iterate once per slu
 {%- endfor -%}
 {%- assign unique_tag_names = all_tag_names | uniq -%}
 
-{%- assign processed_slugs = '' | split: '' -%}
-{%- assign tag_items = '' | split: '' -%}
+{%- assign tc_processed_slugs = '' | split: '' -%}
+{%- assign tc_items = '' | split: '' -%}
 
 {%- for tag_name in unique_tag_names -%}
-  {%- assign slug = tag_name | strip | slugify -%}
-  {%- if main_tags contains slug -%}
+  {%- assign tc_slug = tag_name | strip | slugify -%}
+  {%- if main_tags contains tc_slug -%}
     {%- continue -%}
   {%- endif -%}
-  {%- if processed_slugs contains slug -%}
+  {%- if tc_processed_slugs contains tc_slug -%}
     {%- continue -%}
   {%- endif -%}
 
   {%- comment -%}
   Count posts for this slug (case-insensitive via slugify)
   {%- endcomment -%}
-  {%- assign count = 0 -%}
+  {%- assign tc_count = 0 -%}
   {%- for p in site.posts -%}
     {%- if p.draft != true and p.noindex != true and p.translation_en == nil and p.tags -%}
-      {%- assign has_tag = false -%}
+      {%- assign tc_has_tag = false -%}
       {%- for tg in p.tags -%}
-        {%- if has_tag == false and (tg | slugify) == slug -%}
-          {%- assign has_tag = true -%}
+        {%- if tc_has_tag == false and (tg | slugify) == tc_slug -%}
+          {%- assign tc_has_tag = true -%}
         {%- endif -%}
       {%- endfor -%}
-      {%- if has_tag -%}
-        {%- assign count = count | plus: 1 -%}
+      {%- if tc_has_tag -%}
+        {%- assign tc_count = tc_count | plus: 1 -%}
       {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
 
-  {%- if count < 3 -%}
+  {%- if tc_count < 3 -%}
     {%- continue -%}
   {%- endif -%}
 
@@ -61,21 +61,21 @@ Collect all tag names from qualifying posts, then dedupe to iterate once per slu
   Build sortable token: zero-padded count ensures numeric sort via string sort.
   Store as: PADDED|COUNT|SLUG|LABEL
   {%- endcomment -%}
-  {%- capture padded %}00000{{ count }}{%- endcapture -%}
-  {%- assign padded = padded | slice: -5, 5 -%}
-  {%- capture item %}{{ padded }}|{{ count }}|{{ slug }}|{{ tag_name }}{%- endcapture -%}
-  {%- assign tag_items = tag_items | push: item -%}
-  {%- assign processed_slugs = processed_slugs | push: slug -%}
+  {%- capture tc_padded %}00000{{ tc_count }}{%- endcapture -%}
+  {%- assign tc_padded = tc_padded | slice: -5, 5 -%}
+  {%- capture tc_item %}{{ tc_padded }}|{{ tc_count }}|{{ tc_slug }}|{{ tag_name }}{%- endcapture -%}
+  {%- assign tc_items = tc_items | push: tc_item -%}
+  {%- assign tc_processed_slugs = tc_processed_slugs | push: tc_slug -%}
 {%- endfor -%}
 
-{%- assign tag_items = tag_items | sort | reverse -%}
+{%- assign tc_items = tc_items | sort | reverse -%}
 
 <ul class="tag-cloud">
-{%- for entry in tag_items -%}
-  {%- assign parts = entry | split: '|' -%}
-  {%- assign count = parts[1] | plus: 0 -%}
-  {%- assign slug  = parts[2] -%}
-  {%- assign label = parts[3] -%}
-  <li><a href="{{ site.url }}/tag/{{ slug }}/">{{ label }} ({{ count }})</a></li>
+{%- for entry in tc_items -%}
+  {%- assign tc_parts = entry | split: '|' -%}
+  {%- assign tc_count = tc_parts[1] | plus: 0 -%}
+  {%- assign tc_slug  = tc_parts[2] -%}
+  {%- assign tc_label = tc_parts[3] -%}
+  <li><a href="{{ site.url }}/tag/{{ tc_slug }}/">{{ tc_label }} ({{ tc_count }})</a></li>
 {%- endfor -%}
 </ul>
