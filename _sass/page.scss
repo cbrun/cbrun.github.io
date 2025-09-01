@@ -371,13 +371,10 @@ $button-size: 1.5rem;
 	}
 	img {
 		width: 100%;
-		height: clamp(140px, 28vh, 300px);
+		height: 300px;
 		object-fit: cover;
 		object-position: center;
 		-ms-interpolation-mode: bicubic;
-		@media #{$large} {
-			height: clamp(180px, 32vh, 360px);
-		}
 	}
 	.headline-wrap {
 		position: absolute;
