@@ -13,6 +13,11 @@ excerpt: "Highlights of Eclipse IDE enhancements presented at Devoxx France 2017
 
 For developers using Eclipse IDE. A tour of productivity features and quality‑of‑life improvements.
 
+That was not my presentation, but my good friend [Mikaël](https://blogs.eclipse.org/blogs/mika%C3%ABl-barbero) was supposed to give it. He was sick and I happened to be at Devoxx so I gave it for him !
+
+![]({{ site.url }}/images/blog/2016-2017/devoxx-talk.jpg)
+
+
 ## Key Takeaways
 - Faster workflows with recent IDE enhancements.
 - Tips for customizing the IDE effectively.
