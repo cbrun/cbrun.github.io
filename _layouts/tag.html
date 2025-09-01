@@ -50,7 +50,6 @@
       {% endif %}
       {% unless post.translation_en %}
       {% unless post.draft %}
-      {% unless post.noindex %}
         <article>
           {% if post.link %}
             {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
