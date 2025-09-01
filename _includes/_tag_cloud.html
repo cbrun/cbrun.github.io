@@ -16,7 +16,8 @@ Collect all tag names from qualifying posts, then dedupe to iterate once per slu
 {%- for p in site.posts -%}
   {%- if p.draft != true and p.noindex != true and p.translation_en == nil and p.tags -%}
     {%- for tg in p.tags -%}
-      {%- assign all_tag_names = all_tag_names | push: tg -%}
+      {%- assign tn = tg | strip -%}
+      {%- assign all_tag_names = all_tag_names | push: tn -%}
     {%- endfor -%}
   {%- endif -%}
 {%- endfor -%}
@@ -26,7 +27,7 @@ Collect all tag names from qualifying posts, then dedupe to iterate once per slu
 {%- assign tag_items = '' | split: '' -%}
 
 {%- for tag_name in unique_tag_names -%}
-  {%- assign slug = tag_name | slugify -%}
+  {%- assign slug = tag_name | strip | slugify -%}
   {%- if main_tags contains slug -%}
     {%- continue -%}
   {%- endif -%}
