@@ -1,40 +1,25 @@
 {%- comment -%}
-Tag cloud from posts (non-main tags only), sorted by total count desc.
-Counts exclude documents marked draft, noindex, or French translations (translation_en present).
-No use of where_exp to maximize Liquid 4 compatibility in includes.
+Tag cloud (non-main tags only), sorted by post count desc.
+Counts exclude posts marked draft, noindex, or French translations (translation_en present).
+Links point to the corresponding generated tag pages under `/tag/<slug>/`.
 {%- endcomment -%}
 
 {%- assign main_tags = site.main_categories | default: "" -%}
-
-{%- comment -%}
-Collect all tag names from posts, then uniquify.
-{%- endcomment -%}
-{%- assign all_tag_names = '' | split: '' -%}
-{%- for d in site.posts -%}
-  {%- if d.tags -%}
-    {%- for tg in d.tags -%}
-      {%- assign all_tag_names = all_tag_names | push: tg -%}
-    {%- endfor -%}
-  {%- endif -%}
-{%- endfor -%}
-
-{%- assign unique_tags = all_tag_names | uniq -%}
 {%- assign tag_items = '' | split: '' -%}
 
-{%- for tag_name in unique_tags -%}
-  {%- assign slug = tag_name | slugify -%}
+{%- for t in site.tags -%}
+  {%- assign slug_src = t[0] -%}
+  {%- assign slug = slug_src | slugify -%}
   {%- if main_tags contains slug -%}
     {%- continue -%}
   {%- endif -%}
 
-  {%- assign count = 0 -%}
-  {%- for p in site.posts -%}
-    {%- if p.draft != true and p.noindex != true and p.translation_en == nil and p.tags contains tag_name -%}
-      {%- assign count = count | plus: 1 -%}
-    {%- endif -%}
-  {%- endfor -%}
-  
-
+  {%- assign posts_all = t[1] -%}
+  {%- assign posts_pub = posts_all
+    | where_exp: "p", "p.draft != true"
+    | where_exp: "p", "p.noindex != true"
+    | where_exp: "p", "p.translation_en == nil" -%}
+  {%- assign count = posts_pub | size -%}
   {%- if count <= 1 -%}
     {%- continue -%}
   {%- endif -%}
@@ -59,13 +44,17 @@ Collect all tag names from posts, then uniquify.
   {%- endfor -%}
 
   {%- if tag_doc -%}
-    {%- assign label = tag_doc.title | default: tag_name -%}
+    {%- assign label = tag_doc.title | default: slug_src -%}
     {%- assign url = tag_doc.url -%}
   {%- else -%}
-    {%- assign label = tag_name -%}
+    {%- assign label = slug_src -%}
     {%- assign url = target_url -%}
   {%- endif -%}
 
+  {%- comment -%}
+  Build a sortable token: zero-padded count to ensure lexicographic sort works numerically.
+  Store as: PADDED|COUNT|SLUG|LABEL|URL
+  {%- endcomment -%}
   {%- capture padded %}00000{{ count }}{%- endcapture -%}
   {%- assign padded = padded | slice: -5, 5 -%}
   {%- capture item %}{{ padded }}|{{ count }}|{{ slug }}|{{ label }}|{{ url }}{%- endcapture -%}
@@ -78,6 +67,7 @@ Collect all tag names from posts, then uniquify.
   {%- for entry in tag_items -%}
     {%- assign parts = entry | split: '|' -%}
     {%- assign count = parts[1] | plus: 0 -%}
+    {%- assign slug = parts[2] -%}
     {%- assign label = parts[3] -%}
     {%- assign url = parts[4] -%}
     <li><a href="{{ site.url }}{{ url }}">{{ label }} ({{ count }})</a></li>
