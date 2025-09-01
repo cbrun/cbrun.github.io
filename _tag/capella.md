@@ -4,6 +4,8 @@ tag: "capella"
 description: "Here I track Capella from the field: adoption stories, ecosystem moves, and what open tooling means for systems engineering programs. Posts focus on practical benefits, integration strategies, and lessons from real projects, plus industry partnerships that signal where Capella and related MBSE tooling are heading."
 ---
 
+# Capella
+
 If you’ve ever designed a big, complex system — an airplane, a power grid, a train — you know the hard part isn’t drawing the diagrams. The hard part is making sure *everyone* understands the same thing, works off the same model, and keeps consistency as the system evolves. One person’s “engine” might be another’s “component,” and before you know it, your project documentation is a pile of contradictions.
 
 That’s why **Capella** exists. It’s an open-source modeling tool for **Model-Based Systems Engineering (MBSE)**. Instead of passing around specs and hoping they line up, you build a model of your system once, with clear viewpoints for each stakeholder. Think of it as a shared blueprint that can be sliced different ways: what the system does, how it’s structured, how it behaves over time.
