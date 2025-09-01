@@ -3,7 +3,8 @@ layout: post
 title: 'Engineering dictator strikes back : querying your team repository'
 date: '2009-02-17T08:44:00.000-08:00'
 tags:
-- modeling kata
+- modeling
+- dsl
 - eclipse
 - acceleo
 - software engineering
