@@ -1,13 +1,18 @@
 {%- comment -%}
-Simple tag list from posts (non‑main tags only).
+Tag cloud with counts, from posts (non‑main tags only):
 - Only published, indexable, English posts are considered (no draft, no noindex, no translation_en).
-- Displays only the tag name as the link text (no counts, no titles), linking to /tag/<slug>/.
-- Avoids where_exp to maximize compatibility.
+- Show only tags with at least 3 posts.
+- Order by post count descending.
+- Display label as the tag name (as used in posts), e.g., "acceleo (3)".
+- Avoids where_exp for compatibility.
 {%- endcomment -%}
 
 {%- assign main_tags = site.main_categories | default: "" -%}
-{%- assign all_tag_names = '' | split: '' -%}
 
+{%- comment -%}
+Collect all tag names from qualifying posts, then dedupe to iterate once per slug.
+{%- endcomment -%}
+{%- assign all_tag_names = '' | split: '' -%}
 {%- for p in site.posts -%}
   {%- if p.draft != true and p.noindex != true and p.translation_en == nil and p.tags -%}
     {%- for tg in p.tags -%}
@@ -15,13 +20,61 @@ Simple tag list from posts (non‑main tags only).
     {%- endfor -%}
   {%- endif -%}
 {%- endfor -%}
+{%- assign unique_tag_names = all_tag_names | uniq -%}
 
-{%- assign unique_tags = all_tag_names | uniq | sort -%}
+{%- assign processed_slugs = '' | split: '' -%}
+{%- assign tag_items = '' | split: '' -%}
+
+{%- for tag_name in unique_tag_names -%}
+  {%- assign slug = tag_name | slugify -%}
+  {%- if main_tags contains slug -%}
+    {%- continue -%}
+  {%- endif -%}
+  {%- if processed_slugs contains slug -%}
+    {%- continue -%}
+  {%- endif -%}
+
+  {%- comment -%}
+  Count posts for this slug (case-insensitive via slugify)
+  {%- endcomment -%}
+  {%- assign count = 0 -%}
+  {%- for p in site.posts -%}
+    {%- if p.draft != true and p.noindex != true and p.translation_en == nil and p.tags -%}
+      {%- assign has_tag = false -%}
+      {%- for tg in p.tags -%}
+        {%- if has_tag == false and (tg | slugify) == slug -%}
+          {%- assign has_tag = true -%}
+        {%- endif -%}
+      {%- endfor -%}
+      {%- if has_tag -%}
+        {%- assign count = count | plus: 1 -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- if count < 3 -%}
+    {%- continue -%}
+  {%- endif -%}
+
+  {%- comment -%}
+  Build sortable token: zero-padded count ensures numeric sort via string sort.
+  Store as: PADDED|COUNT|SLUG|LABEL
+  {%- endcomment -%}
+  {%- capture padded %}00000{{ count }}{%- endcapture -%}
+  {%- assign padded = padded | slice: -5, 5 -%}
+  {%- capture item %}{{ padded }}|{{ count }}|{{ slug }}|{{ tag_name }}{%- endcapture -%}
+  {%- assign tag_items = tag_items | push: item -%}
+  {%- assign processed_slugs = processed_slugs | push: slug -%}
+{%- endfor -%}
+
+{%- assign tag_items = tag_items | sort | reverse -%}
 
 <ul class="tag-cloud">
-{%- for tag_name in unique_tags -%}
-  {%- assign slug = tag_name | slugify -%}
-  {%- if main_tags contains slug -%}{%- continue -%}{%- endif -%}
-  <li><a href="{{ site.url }}/tag/{{ slug }}/">{{ tag_name }}</a></li>
+{%- for entry in tag_items -%}
+  {%- assign parts = entry | split: '|' -%}
+  {%- assign count = parts[1] | plus: 0 -%}
+  {%- assign slug  = parts[2] -%}
+  {%- assign label = parts[3] -%}
+  <li><a href="{{ site.url }}/tag/{{ slug }}/">{{ label }} ({{ count }})</a></li>
 {%- endfor -%}
 </ul>
