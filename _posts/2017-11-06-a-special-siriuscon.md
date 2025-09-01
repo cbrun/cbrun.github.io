@@ -7,6 +7,7 @@ tags:
   - sirius
   - siriuscon
   - obeo
+excerpt: "SiriusCon 2017 arrives in Paris this week with deep Sirius content, companion tech, and user stories: for tool builders and adopters; why it matters—exclusive roadmap insights and limited free registration."
 ---
 
 
@@ -28,4 +29,3 @@ You get exclusive content at SiriusCon, insights you can't find anywhere else, s
     <a href="{{ site.url }}/images/blog/siriuscon/2017.png"><img src="{{ site.url }}/images/blog/siriuscon/2017.png"></a>    
     <figcaption></figcaption>
 </figure>
-

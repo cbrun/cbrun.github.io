@@ -18,6 +18,9 @@ For teams building hybrid DSL tooling. Shares do’s and don’ts when wiring te
 - Synchronization and validation patterns that scale.
 - Common pitfalls and how to avoid them.
 
+[![]({{ site.url }}/images/blog/2016-2017/integratingxtext.png)]({{ site.url }}/talks/EclipseConEU2017/Sirius%20and%20Xtext-%20ECE.pdf)
+
+
 ## Context
 - Event: EclipseCon Europe 2017, Ludwigsburg, Germany
 - Date: October 2017

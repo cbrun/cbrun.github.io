@@ -8,6 +8,7 @@ tags:
   - simulation
   - dsl
   - xtext
+excerpt: "Introducing ALE in Ecore Tools to make executable DSLs practical: for DSL authors and EMF users; why it matters—define behavior without codegen, iterate faster, and see it live at EclipseCon France."
 ---
 Hello there! I'm Cédric Brun, CTO at Obeo, and I'm excited to talk at the next EclipseCon France about making Executable Domain-Specific Languages (DSLs) more accessible through our latest innovation: ALE (Action Language for EMF), integrated into Ecore Tools.
 

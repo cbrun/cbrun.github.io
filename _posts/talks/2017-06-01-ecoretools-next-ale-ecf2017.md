@@ -17,6 +17,9 @@ For language engineers and system designers. Shows how to leverage ALE and Ecore
 - Improved onboarding for non‑experts.
 - Integration across EMF/Sirius tooling.
 
+[![]({{ site.url }}/images/blog/2016-2017/ale.png)]({{ site.url }}/talks/EclipseConFR2017/ALE_talk.pdf)
+
+
 ## Context
 - Event: EclipseCon France 2017, Toulouse
 - Date: 2017

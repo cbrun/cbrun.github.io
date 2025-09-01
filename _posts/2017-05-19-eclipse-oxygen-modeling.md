@@ -8,6 +8,7 @@ tags:
   - modeling
   - emf
   - acceleo
+excerpt: "A hands-on look at EcoreTools’ Oxygen revamp powered by Sirius properties: for EMF/Sirius tool builders and modelers; why it matters—lighter code, better UX, and new dialogs landing in Oxygen M7."
 ---
 
 Every year the Eclipse M7 milestone act as a very strong deadline for the projects which are part of the release train: it's then time for polishing and refining!
@@ -79,4 +80,3 @@ As a tool provider I could focus on streamlining the experience, providing tabs 
 It is just one of the many changes which we've been working on since last year to improve the user experience of modeling tools, Mélanie and Stéphane will present a talk on this very subject during EclipseCon France at Toulouse: ["All about UX in Sirius."](https://www.eclipsecon.org/france2017/session/all-about-ux-sirius).
 
 All of these changes are landing in [Eclipse Oxygen](https://www.eclipse.dev/downloads/index-developer.php){:target="_blank"} starting with M7, those are newly introduced and I have no doubt I'll have some polishing and refining to do, I'm counting on you to [report anything suspicious](https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Ecoretools){:target="_blank"}
-

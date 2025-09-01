@@ -6,6 +6,7 @@ tags:
   - eclipse
   - eclipsecon
   - obeo
+excerpt: "Obeo expands to North America with a Vancouver subsidiary and leadership shifts (Cédric as CEO, Mélanie as CTO): for partners and MBSE adopters; why it matters—bringing open modeling and Capella expertise closer to key industries."
 ---
 
 Industries are relying either on ad hoc or rigid tools for systems engineering. Either the tool is built “in-house” and grow organically or it is bought to one of the big software vendors and then the company have to adapt its practices and teams to use it. Such software vendors might use every opportunity to lock in their users, in both cases the tool longevity is quite uncertain.
@@ -96,4 +97,3 @@ Obeo goes international and brings open modeling technologies and systems engine
 ---------------------------
 
 Learn more about this news through [Mélanie's blog post](https://melb.enix.org/2017/09/19/zero-to-cto/) and [Obeo's summary](https://blog.obeosoft.com/fr/en/post/obeo-goes-west)
-

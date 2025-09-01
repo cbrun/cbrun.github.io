@@ -18,6 +18,9 @@ For developers using Eclipse IDE. A tour of productivity features and quality‑
 - Tips for customizing the IDE effectively.
 - Where to follow the roadmap.
 
+[![]({{ site.url }}/images/blog/2016-2017/devox.png)](https://www.slideshare.net/mikaelbarbero/whats-new-in-eclipse-oxygen-devoxx-france-2017)
+
+
 ## Context
 - Event: Devoxx France 2017, Paris (backup for Mikaël)
 - Date: 2017

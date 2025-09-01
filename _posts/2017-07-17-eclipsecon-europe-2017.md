@@ -6,6 +6,7 @@ tags:
   - eclipse
   - eclipsecon
   - obeo
+excerpt: "Last-hours call to submit talks to EclipseCon Europe 2017: for community speakers and project leads; why it matters—help shape the program with focused, to-the-point abstracts today."
 
 ---
 
@@ -26,5 +27,4 @@ By my count we already have more than 170 submissions and the usual **last minut
     <a href="{{ site.url }}/images/blog/ece-2016-full.jpg"><img src="{{ site.url }}/images/blog/ece-2016.jpg"></a>    
     <figcaption>Memories from EclipseCon 2016</figcaption>
 </figure>
-
 
