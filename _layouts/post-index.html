@@ -34,7 +34,7 @@
   </div>
   <div id="index">
     <h1>{{ page.title }}</h1>
-    {% assign articles = site.posts | concat: site.talks | sort: 'date' | reverse %}
+    {% assign articles = site.posts | sort: 'date' | reverse %}
     {% assign last_year = nil %}
     {% for item in articles %}
       {% if item.draft != true and item.noindex != true and item.translation_en == nil %}

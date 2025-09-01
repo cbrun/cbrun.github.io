@@ -1,5 +1,5 @@
 {%- comment -%}
-Tag cloud including posts and talks (non-main tags only), sorted by total count desc.
+Tag cloud from posts (non-main tags only), sorted by total count desc.
 Counts exclude documents marked draft, noindex, or French translations (translation_en present).
 No use of where_exp to maximize Liquid 4 compatibility in includes.
 {%- endcomment -%}
@@ -7,11 +7,10 @@ No use of where_exp to maximize Liquid 4 compatibility in includes.
 {%- assign main_tags = site.main_categories | default: "" -%}
 
 {%- comment -%}
-Collect all tag names from all docs (posts + talks), then uniquify.
+Collect all tag names from posts, then uniquify.
 {%- endcomment -%}
 {%- assign all_tag_names = '' | split: '' -%}
-{%- assign all_docs = site.posts | concat: site.talks -%}
-{%- for d in all_docs -%}
+{%- for d in site.posts -%}
   {%- if d.tags -%}
     {%- for tg in d.tags -%}
       {%- assign all_tag_names = all_tag_names | push: tg -%}
@@ -34,11 +33,7 @@ Collect all tag names from all docs (posts + talks), then uniquify.
       {%- assign count = count | plus: 1 -%}
     {%- endif -%}
   {%- endfor -%}
-  {%- for t in site.talks -%}
-    {%- if t.draft != true and t.noindex != true and t.translation_en == nil and t.tags contains tag_name -%}
-      {%- assign count = count | plus: 1 -%}
-    {%- endif -%}
-  {%- endfor -%}
+  
 
   {%- if count <= 1 -%}
     {%- continue -%}
@@ -88,5 +83,4 @@ Collect all tag names from all docs (posts + talks), then uniquify.
     <li><a href="{{ site.url }}{{ url }}">{{ label }} ({{ count }})</a></li>
   {%- endfor -%}
   </ul>
-  <p class="notice notice--info">Tag counts include talks.</p>
 </div>
