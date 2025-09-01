@@ -6,6 +6,7 @@ categories:
 tags:
   - talk
   - ecore
+  - eclipsecon
 excerpt: "Making executable DSLs more accessible with EcoreTools—what it enables for teams and how to get started."
 ---
 

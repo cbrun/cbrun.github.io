@@ -9,8 +9,8 @@ tags:
   - sirius
   - modeling
   - siriuscon
+  - sirius-web
 excerpt: "SiriusCon 2021 keynote on where Sirius is and where it’s going—useful for teams planning Eclipse/Sirius roadmaps."
-draft: true
 ---
 
 For Sirius users, toolsmiths, and architects planning their modeling roadmaps. The keynote highlights the state of Sirius (desktop and web), lessons learned from adopters, and the path toward web‑based modeling while keeping mature desktop workflows productive.

@@ -5,8 +5,9 @@ categories:
   - interview
 tags:
   - obeo
+  - eclipse
+  - opensource
 excerpt: "Discussion on contributing Sirius to Eclipse—why governance matters and what it enables."
-draft: true
 ---
 
 For open‑source practitioners and adopters curious about how large, previously commercial codebases transition to community projects. We explain the steps to contribute Sirius under the Eclipse Foundation, how governance and IP checks work, and what it changes for end users and contributors.

@@ -5,8 +5,10 @@ categories:
   - paper
 tags:
   - ecore
+  - gemoc
+  - execution
+  - simulation
 excerpt: "Technical paper on executing models with GEMOC—what the approach enables and where it fits."
-draft: true
 ---
 
 For researchers and practitioners exploring executable modeling. Presents a TTC’15 case solution using GEMOC Studio.

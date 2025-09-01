@@ -6,8 +6,9 @@ categories:
 tags:
   - obeo
   - ecore
+  - dsl
+  - gemoc
 excerpt: "Book chapter on how languages support coordination across teams and domains—why this matters for large‑scale engineering."
-draft: true
 ---
 
 For architects and language designers. Discusses how domain‑specific languages help align technical work and social collaboration at scale.

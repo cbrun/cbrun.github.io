@@ -5,7 +5,8 @@ categories:
   - paper
 tags:
   - opensource
-  - ebook
+  - obeo
+  - eclipse
 excerpt: "Contribution to the Eclipse Foundation eBook on open‑source participation—audience, why it matters, and where to read."
 draft: true
 ---

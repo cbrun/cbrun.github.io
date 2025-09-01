@@ -4,10 +4,10 @@ title: "Xtext × Sirius — White Paper"
 categories:
   - paper
 tags:
-  - sirius-web
+  - sirius
   - ecore
+  - xtext
 excerpt: "White paper on combining Xtext and Sirius—when to mix textual and graphical DSLs, and how to architect maintainable tools."
-draft: true
 ---
 
 For DSL designers and tool builders considering hybrid modeling experiences. The paper explains when a textual language (Xtext) pairs well with a graphical designer (Sirius) and what architecture patterns help teams evolve safely.
