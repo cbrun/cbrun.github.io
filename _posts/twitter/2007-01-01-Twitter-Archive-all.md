@@ -3,7 +3,6 @@ layout: post
 title: Tweets from 2010 to 2022
 categories: [social]
 tags:
-  - social
   - tweets
 noindex: true
 ---
