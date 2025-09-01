@@ -8,7 +8,7 @@ tags:
   - eclipse
   - sirius
   - MBSE
-  - SysON
+  - syson
 excerpt: "MODELS 2024 Industry Day session for engineers exploring web‑based modeling—Sirius Web and SysON resources and why it matters."
 ---
 
