@@ -7,8 +7,8 @@ tags:
   - talk
   - sirius-web
   - ecore
+  - xtext
 excerpt: "How to combine Xtext and Sirius safely—integration strategies, pitfalls, and evolution patterns from the field."
-draft: true
 ---
 
 For teams building hybrid DSL tooling. Shares do’s and don’ts when wiring textual and graphical editors together, with upgrade‑safe patterns.

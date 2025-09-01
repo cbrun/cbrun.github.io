@@ -9,7 +9,6 @@ tags:
   - transformation
   - ecore
 excerpt: "Talk at Ingénierie des Modèles 2006—slides and context."
-draft: true
 ---
 
 For researchers and practitioners in the early days of MDE adoption. This talk shared lessons from applying model‑driven engineering in industry, why meta‑modeling matters, and how EMF/Ecore unlock consistent tooling across the lifecycle.

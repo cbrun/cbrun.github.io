@@ -6,8 +6,8 @@ categories:
 tags:
   - talk
   - ecore
+  - sirius
 excerpt: "Guided tour of EcoreTools at EclipseCon Europe 2017—what’s new, who it helps, and resources to get productive."
-draft: true
 ---
 
 For EMF practitioners and teams maintaining meta‑models. A concise walkthrough of EcoreTools capabilities and patterns that keep models clean and maintainable.

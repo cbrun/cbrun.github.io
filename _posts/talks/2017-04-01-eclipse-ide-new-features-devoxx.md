@@ -6,8 +6,9 @@ categories:
 tags:
   - talk
   - obeo
+  - java
+  - eclipse
 excerpt: "Highlights of Eclipse IDE enhancements presented at Devoxx France 2017—what’s useful for everyday productivity."
-draft: true
 ---
 
 For developers using Eclipse IDE. A tour of productivity features and quality‑of‑life improvements.

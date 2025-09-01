@@ -5,10 +5,10 @@ categories:
   - talk
 tags:
   - talk
-  - sirius-web
+  - sirius
   - ecore
+  - xtext
 excerpt: "Lessons learned integrating Xtext with Sirius at EclipseCon France 2017—clean boundaries, robust sync, and maintainability."
-draft: true
 ---
 
 For DSL/tooling teams evolving from prototypes to production. Focus on sustainable integration patterns across textual and graphical tooling.

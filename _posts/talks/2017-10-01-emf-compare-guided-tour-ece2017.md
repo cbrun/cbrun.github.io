@@ -6,8 +6,9 @@ categories:
 tags:
   - talk
   - ecore
+  - compare
+  - emf
 excerpt: "Guided tour of EMF Compare—practical workflows for diff/merge at scale in modeling projects."
-draft: true
 ---
 
 For teams collaborating on EMF models. Covers compare/merge strategies, conflict handling, and integration in modeling workflows.
