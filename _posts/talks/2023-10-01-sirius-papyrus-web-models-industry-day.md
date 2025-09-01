@@ -11,7 +11,6 @@ tags:
   - uml
   - MBSE
 excerpt: "MODELS 2023 Industry Day session on Sirius Web and Papyrus Web—context and resources for collaborative engineering teams."
-draft: true
 ---
 
 For teams exploring collaborative web‑based modeling and the future of Papyrus on the web. The session shares the Obeo × CEA collaboration, the status of Papyrus Web editors, and how Sirius Web underpins an incremental path from desktop to the web.
