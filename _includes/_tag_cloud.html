@@ -1,75 +1,27 @@
 {%- comment -%}
-Tag cloud (non-main tags only), sorted by post count desc.
-Counts exclude posts marked draft or French translations (translation_en present).
-Links point to the corresponding generated tag pages under `/tag/<slug>/`.
+Simple tag list from posts (non‑main tags only).
+- Only published, indexable, English posts are considered (no draft, no noindex, no translation_en).
+- Displays only the tag name as the link text (no counts, no titles), linking to /tag/<slug>/.
+- Avoids where_exp to maximize compatibility.
 {%- endcomment -%}
 
 {%- assign main_tags = site.main_categories | default: "" -%}
-{%- assign tag_items = '' | split: '' -%}
+{%- assign all_tag_names = '' | split: '' -%}
 
-{%- for t in site.tags -%}
-  {%- assign slug_src = t[0] -%}
-  {%- assign slug = slug_src | slugify -%}
-  {%- if main_tags contains slug -%}
-    {%- continue -%}
+{%- for p in site.posts -%}
+  {%- if p.draft != true and p.noindex != true and p.translation_en == nil and p.tags -%}
+    {%- for tg in p.tags -%}
+      {%- assign all_tag_names = all_tag_names | push: tg -%}
+    {%- endfor -%}
   {%- endif -%}
-
-  {%- assign posts_all = t[1] -%}
-  {%- assign posts_pub = posts_all
-    | where_exp: "p", "p.draft != true"
-    | where_exp: "p", "p.translation_en == nil" -%}
-  {%- assign count = posts_pub | size -%}
-  {%- if count <= 1 -%}
-    {%- continue -%}
-  {%- endif -%}
-
-  {%- comment -%}
-  Resolve the tag document in the `tag` collection to get title and URL.
-  Fallbacks to slug and `/tag/<slug>/` if not found.
-  {%- endcomment -%}
-  {%- assign tag_doc = nil -%}
-  {%- assign target_url = '/tag/' | append: slug | append: '/' -%}
-  {%- for d in site.tag -%}
-    {%- assign dslug = nil -%}
-    {%- if d.tag -%}
-      {%- assign dslug = d.tag | slugify -%}
-    {%- elsif d.title -%}
-      {%- assign dslug = d.title | slugify -%}
-    {%- endif -%}
-    {%- if d.url == target_url or dslug == slug -%}
-      {%- assign tag_doc = d -%}
-      {%- break -%}
-    {%- endif -%}
-  {%- endfor -%}
-
-  {%- if tag_doc -%}
-    {%- assign label = tag_doc.title | default: slug_src -%}
-    {%- assign url = tag_doc.url -%}
-  {%- else -%}
-    {%- assign label = slug_src -%}
-    {%- assign url = target_url -%}
-  {%- endif -%}
-
-  {%- comment -%}
-  Build a sortable token: zero-padded count to ensure lexicographic sort works numerically.
-  Store as: PADDED|COUNT|SLUG|LABEL|URL
-  {%- endcomment -%}
-  {%- capture padded %}00000{{ count }}{%- endcapture -%}
-  {%- assign padded = padded | slice: -5, 5 -%}
-  {%- capture item %}{{ padded }}|{{ count }}|{{ slug }}|{{ label }}|{{ url }}{%- endcapture -%}
-  {%- assign tag_items = tag_items | push: item -%}
 {%- endfor -%}
 
-{%- assign tag_items = tag_items | sort | reverse -%}
-<div>
-  <ul class="tag-cloud">
-  {%- for entry in tag_items -%}
-    {%- assign parts = entry | split: '|' -%}
-    {%- assign count = parts[1] | plus: 0 -%}
-    {%- assign slug = parts[2] -%}
-    {%- assign label = parts[3] -%}
-    {%- assign url = parts[4] -%}
-    <li><a href="{{ site.url }}{{ url }}">{{ label }} ({{ count }})</a></li>
-  {%- endfor -%}
-  </ul>
-</div>
+{%- assign unique_tags = all_tag_names | uniq | sort -%}
+
+<ul class="tag-cloud">
+{%- for tag_name in unique_tags -%}
+  {%- assign slug = tag_name | slugify -%}
+  {%- if main_tags contains slug -%}{%- continue -%}{%- endif -%}
+  <li><a href="{{ site.url }}/tag/{{ slug }}/">{{ tag_name }}</a></li>
+{%- endfor -%}
+</ul>
