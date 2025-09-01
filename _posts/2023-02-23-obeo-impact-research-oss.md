@@ -12,8 +12,8 @@ tags:
   - ecoretools
   - sirius
   - opensource
-permalink: /obeo/obeo-impact-research-oss/
-translation_fr: /obeo/impact-pme-opensource-recherche-academique/
+permalink: /eclipse/obeo-impact-research-oss/
+translation_fr: /eclipse/impact-pme-opensource-recherche-academique/
 excerpt: "Measuring Obeo’s open‑source impact on academia—useful for researchers, partners, and OSS leaders—to show why community stewardship accelerates research today."
 ---
 Through our leadership in open-source projects and technologies, we enable significant academic research across the world . In some cases directly with contributions from our PhD students (soon [Théo Giraudet](https://www.linkedin.com/in/th%C3%A9o-giraudet/)!) through collaboration with Benoit Combemale and the [DiverSE INRIA team](https://www.diverse-team.fr/), within the [EcoPlex project](https://www.ecoplex.fr/) and [Dalila Tamzalit](https://www.linkedin.com/in/dalila-tamzalit-3807375/) at [LS2N](https://www.ls2n.fr/) and [many other over the years](https://cedric.brun.io/talks/), but in the large majority of cases our contribution is indirect.

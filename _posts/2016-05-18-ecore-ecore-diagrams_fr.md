@@ -9,6 +9,7 @@ tags:
 translation_en : /eclipse/ecore-ecore-diagrams/
 lang: fr
 permalink: /eclipse/ecore-ecore-diagrammes/
+excerpt: "Des diagrammes Ecore.ecore tout neufs avec EcoreTools : pour utilisateurs et formateurs EMF; pourquoi maintenant—des visuels clairs et des astuces pour documenter le métamodèle."
 ---
 
 Il y a quelques semaines, je suis tombé sur le fil suivant du [Forum EMF](https://www.eclipse.dev/forums/index.php/f/108/) demandant une [documentation formelle du méta-modèle Ecore ?](https://www.eclipse.dev/forums/index.php/t/1076719/).
@@ -132,7 +133,6 @@ Pour ce type de diagrammes avec de nombreuses formes non connectées, vos meille
 
 
 Alors maintenant, qui veut une belle affiche dans son bureau ?
-
 
 
 

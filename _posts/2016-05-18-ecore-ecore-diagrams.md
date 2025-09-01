@@ -7,6 +7,7 @@ tags:
   - eclipse
   - ecoretools
 translation_fr: /eclipse/ecore-ecore-diagrammes/
+excerpt: "Fresh, high‑res Ecore.ecore diagrams recreated with EcoreTools: for EMF users and educators; why it matters—clear visuals and how‑to tips to document the metamodel today."
 ---
 
 A few weeks ago I ended up on the following thread on the [EMF Forum](https://www.eclipse.dev/forums/index.php/f/108/) asking for [Ecore meta-model formal documentation?](https://www.eclipse.dev/forums/index.php/t/1076719/).
@@ -129,7 +130,6 @@ For these kind of diagrams with many un-connected shapes your best friends are t
 
 
 So now, who wants a nice poster in the office ?
-
 
 
 

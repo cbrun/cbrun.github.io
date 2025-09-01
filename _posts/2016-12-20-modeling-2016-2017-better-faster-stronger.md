@@ -10,6 +10,7 @@ tags:
   - acceleo
   - obeo
   - obeo designer
+excerpt: "Year‑end recap and 2017 roadmap for graphical modeling with Sirius: for tool builders and adopters; why it matters—properties view, UX polish, and a push on scalability and process‑aware tooling."
 ---
 
 

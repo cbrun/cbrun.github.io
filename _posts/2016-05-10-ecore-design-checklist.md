@@ -7,6 +7,7 @@ tags:
   - eclipse
   - emf
 permalink: modeling/ecore-design-checklist/
+excerpt: "Index for the Ecore design checklist series: for EMF practitioners; why it matters—quick one‑page reference linking both parts for everyday use."
 ---
 
 This is an index page for the *Metamodel (Ecore) Design Checklist* serie, a condensed version listing all the rules of the article ([part1]({{ site.url }}/modeling/ecore-design-checklist-part1) and [part2]({{ site.url }}/modeling/ecore-design-checklist-part2)) for your convenience.
@@ -57,4 +58,3 @@ By the way, feel free to [tell me about your own rules](https://twitter.com/brun
 |[Custom DataType are used in every situation where it makes sense ]({{ site.url }}/modeling/ecore-design-checklist-part2#custom-datatype-are-used-in-every-situation-where-it-makes-sense)| ☑ |
 |[The .genmodel output folders are specified or made empty ]({{ site.url }}/modeling/ecore-design-checklist-part2#the-genmodel-output-folders-are-specified-or-made-empty)| ☑ |
 |[The .genmodel base package is specified ]({{ site.url }}/modeling/ecore-design-checklist-part2#the-genmodel-base-package-is-specified)| ☑ |
-

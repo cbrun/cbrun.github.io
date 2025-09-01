@@ -7,6 +7,7 @@ tags:
   - eclipsecon
   - obeo
 
+excerpt: "One week left to submit for EclipseCon Europe 2016: for speakers and project leads; why it matters—community voting favors early entries, keep abstracts sharp and submit today."
 ---
 
 <img src="{{ site.url }}/images/blog/ece-program.jpg" style="float: right;">

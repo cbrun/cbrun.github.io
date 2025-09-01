@@ -9,6 +9,7 @@ tags:
 permalink: /eclipse/checklist-conception-ecore-partie2/
 lang: fr
 translation_en: /eclipse/ecore-design-checklist-part2/
+excerpt: "Checklist Ecore (partie 2) : performance, scalabilité et mapping Java pour modélisateurs EMF; pour créateurs d’outils; pourquoi maintenant—des modèles plus rapides et plus faciles à maintenir."
 ---
 Cet article est la deuxième partie d'une série axée sur la conception de métamodèles (plus précisement les modèles Ecore). À la suite de [la première partie centrée sur certaines règles de base]({{ site.url }}/eclipse/checklist-conception-ecore-partie1/), cette deuxième partie se concentre sur des aspects légèrement plus techniques : la performance et Java. Le disclaimer général s'applique toujours :
 
@@ -168,7 +169,6 @@ Essayez-le, tout est Open-Source et fait partie d'Eclipse !
 <br>
 
 *Crédits : merci à Pierre-Charles et [Mélanie](https://melb.enix.org/) pour la relecture, [Jan](https://twitter.com/jankoehnlein/status/729930181289349120) pour avoir apporté un nouvel élément et Roxanne pour certains des poneys.*
-
 
 
 
