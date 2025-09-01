@@ -1,6 +1,6 @@
 {%- comment -%}
 Tag cloud (non-main tags only), sorted by post count desc.
-Counts exclude posts marked draft, noindex, or French translations (translation_en present).
+Counts exclude posts marked draft or French translations (translation_en present).
 Links point to the corresponding generated tag pages under `/tag/<slug>/`.
 {%- endcomment -%}
 
@@ -17,7 +17,6 @@ Links point to the corresponding generated tag pages under `/tag/<slug>/`.
   {%- assign posts_all = t[1] -%}
   {%- assign posts_pub = posts_all
     | where_exp: "p", "p.draft != true"
-    | where_exp: "p", "p.noindex != true"
     | where_exp: "p", "p.translation_en == nil" -%}
   {%- assign count = posts_pub | size -%}
   {%- if count <= 1 -%}

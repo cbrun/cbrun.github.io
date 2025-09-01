@@ -37,7 +37,7 @@
     {% assign articles = site.posts | sort: 'date' | reverse %}
     {% assign last_year = nil %}
     {% for item in articles %}
-      {% if item.draft != true and item.noindex != true and item.translation_en == nil %}
+      {% if item.draft != true and item.translation_en == nil %}
         {% capture year %}{{ item.date | date: '%Y' }}{% endcapture %}
         {% if year != last_year %}
           <h3>{{ year }}</h3>
