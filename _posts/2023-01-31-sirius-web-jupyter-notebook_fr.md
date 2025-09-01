@@ -11,7 +11,7 @@ tags:
   - jupyter
   - MBSE
   - sirius-web
-  - SysON
+  - syson
 permalink: /modeling/sirius-web-et-jupyter-notebook/
 translation_en: /modeling/sirius-web-jupyter-notebook/
 excerpt: "Une démo de Sirius Web × Jupyter Notebook—pour les ingénieurs et les équipes data—montrant comment concevoir, simuler et analyser en direct peut transformer les workflows dès maintenant."

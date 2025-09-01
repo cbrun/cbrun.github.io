@@ -11,7 +11,7 @@ tags:
   - jupyter
   - MBSE
   - sirius-web
-  - SysON
+  - syson
 permalink: /modeling/sirius-web-jupyter-notebook/
 translation_fr: /modeling/sirius-web-et-jupyter-notebook/
 excerpt: "A demo of Sirius Web × Jupyter Notebook—for engineers and data‑minded teams—showing why live design, simulation, and analysis together can transform workflows now."
