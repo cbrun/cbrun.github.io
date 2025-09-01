@@ -51,7 +51,24 @@
                	 <li><a rel="alternate"  hreflang="fr" href="{{ domain }}{{ page.translation_fr  }}">🇫🇷</a></li>
                {% endif %}
 		    </ul>
-		    <!-- Mobile tag cloud removed from nav to avoid Liquid parsing issues -->
+		    <!--
+		      Mobile "Topics" dropdown content
+		      ---------------------------------------------------------------
+		      The JS (assets/js/_main.js) injects two buttons at the start of
+		      this <nav id="site-nav" class="nav"> element on small screens:
+		        - #menutoggle: toggles the main <ul> menu below (see CSS rule
+		          .js .nav #menutoggle.active ~ ul)
+		        - #topicstoggle: toggles this .mobile-topics block below (see CSS rule
+		          .js .nav #topicstoggle.active ~ .mobile-topics)
+		      The general sibling selector (~) requires that the toggled button
+		      appears before the content to show/hide. That’s why this block is
+		      placed after the <ul> and still inside the same #site-nav container.
+		      The tag cloud include avoids fragile Liquid features (no where_exp).
+		    -->
+		    <div class="mobile-topics">
+		      <h3>Topics</h3>
+		      {% include _tag_cloud.html %}
+		    </div>
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->

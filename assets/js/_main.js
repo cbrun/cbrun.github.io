@@ -1,5 +1,17 @@
-/*! Responsive Menu */
-// http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/
+/*! Responsive Menu (mobile two-button nav)
+   ---------------------------------------------------------------
+   On small screens we programmatically inject two buttons as the
+   first children of <nav id="site-nav" class="nav">:
+     - #menutoggle: toggles the main <ul> menu
+     - #topicstoggle: toggles the .mobile-topics block
+   CSS uses general sibling selectors (~) so the buttons must be
+   before the elements they control. See _sass/page.scss for rules:
+     .js .nav #menutoggle.active ~ ul { ... }
+     .js .nav #topicstoggle.active ~ .mobile-topics { ... }
+   This file only flips the 'active' class on each button; it does not
+   directly show/hide elements.
+   Reference: http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/
+*/
 //  The function to change the class
 var changeClass = function (r,className1,className2) {
   var regex = new RegExp("(?:^|\\s+)" + className1 + "(?:\\s+|$)");
@@ -13,17 +25,22 @@ var changeClass = function (r,className1,className2) {
 };  
 //  Creating our buttons in JS for smaller screens
 var menuElements = document.getElementById('site-nav');
-// Insert Menu and Topics buttons next to each other at the start of the nav
-menuElements.insertAdjacentHTML('afterBegin','<button type="button" role="button" id="menutoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>menu</button>');
-var menuToggleEl = document.getElementById('menutoggle');
-if (menuToggleEl) {
-  menuToggleEl.insertAdjacentHTML('afterend','<button type="button" role="button" id="topicstoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>topics</button>');
+if (menuElements) {
+  // Insert Menu and Topics buttons next to each other at the start of the nav
+  menuElements.insertAdjacentHTML('afterBegin','<button type="button" role="button" id="menutoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>menu</button>');
+  var menuToggleEl = document.getElementById('menutoggle');
+  if (menuToggleEl) {
+    menuToggleEl.insertAdjacentHTML('afterend','<button type="button" role="button" id="topicstoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>topics</button>');
+  }
 }
 
 //  Toggle the class on click to show / hide the menu
-document.getElementById('menutoggle').onclick = function() {
-  changeClass(this, 'navtoogle active', 'navtoogle');
-};
+var menutoggleEl = document.getElementById('menutoggle');
+if (menutoggleEl) {
+  menutoggleEl.onclick = function() {
+    changeClass(this, 'navtoogle active', 'navtoogle');
+  };
+}
 var topicsToggle = document.getElementById('topicstoggle');
 if (topicsToggle) {
   topicsToggle.onclick = function() {

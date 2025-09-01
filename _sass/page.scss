@@ -206,7 +206,10 @@ $button-size: 1.5rem;
   }
 }
 // Displaying the menu when the user has clicked on the button (menu toggle)
-// Use general sibling selector so buttons can sit side-by-side before the list
+// The two mobile buttons (#menutoggle and #topicstoggle) are injected by
+// assets/js/_main.js at the start of <nav id="site-nav" class="nav">.
+// We use the general sibling selector (~) so the toggled button can be placed
+// before the content and still control it without extra wrappers.
 .js .nav #menutoggle.active ~ ul {		
   max-height: 30em;
   overflow: hidden;
@@ -218,6 +221,9 @@ $button-size: 1.5rem;
 }
 
 // Mobile topics (tag cloud) shown inside the toggled menu on small screens
+// Structure expected inside #site-nav (in order):
+//   [#menutoggle][#topicstoggle][ul] [.mobile-topics]
+// When #topicstoggle has .active, reveal the .mobile-topics container.
 .nav .mobile-topics {
   // hidden by default when JS is enabled
   max-height: 0;
