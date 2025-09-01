@@ -37,9 +37,12 @@
     </div>
   </div>
   <div id="index">
-    <h1>{{ page.title }}</h1>
-    {{ content }}
-    
+  {% assign has_content = content | strip | size %}
+  {% if has_content > 0 %}
+  {{ content }}
+  {% else %}
+  <h1>{{ page.title }}</h1>
+  {% endif %}
    {% assign postsByYear = site.tags[page.tag] | group_by_exp: "post", "post.date | date: '%Y'" %}
    {% for year in postsByYear %}
     <h3>{{ year.name }}</h3>
@@ -72,7 +75,6 @@
             <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
           {% endif %}
         </article>
-      {% endunless %}
       {% endunless %}
       {% endunless %}
     {% endfor %}
