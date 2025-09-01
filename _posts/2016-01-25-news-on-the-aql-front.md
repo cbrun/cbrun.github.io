@@ -8,6 +8,7 @@ tags:
   - ecore
   - aql
 categories: [modeling]
+excerpt: "What’s new in AQL for Sirius 3.1/Mars.2: for Sirius specifiers and EMF toolsmiths; why it matters—faster queries, Java‑extensible services, better validation and typing you can use right now."
 ---
 
 
@@ -166,7 +167,6 @@ Introducing this capability means the user doesn't have to cast types using `.oc
 ## Migrating from Acceleo2 to AQL in the tests
 
 Beside these improvements we also worked quite a lot in polishing, testing and improving the existing code. The Sirius project used to evaluate thousands of **Acceleo 2** expressions in the JUnit and swtbot tests. A large part of those expressions have been migrated to AQL and we are now quite close to a complete migration. This will open the door to a simpler and faster packaging and test story for the Sirius project (You can track progress in this regard through [Bug 478878](https://bugs.eclipse.org/bugs/show_bug.cgi?id=478878) ) 
-
 
 
 

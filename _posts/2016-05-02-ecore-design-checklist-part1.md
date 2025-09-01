@@ -8,6 +8,7 @@ tags:
   - eclipse
 permalink : /modeling/ecore-design-checklist-part1/
 translation_fr: /eclipse/checklist-conception-ecore-partie1/
+excerpt: "A practical Ecore metamodel design checklist (part 1): for EMF/Sirius tool makers; why it matters—get fundamentals right early to avoid costly refactors later."
 ---
 
 **Be meticulous with the model describing your domain!**

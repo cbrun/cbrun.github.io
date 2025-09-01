@@ -11,6 +11,7 @@ tags:
   - sustainability
   - dsl
   - xtext
+excerpt: "Applying Eclipse modeling + OptaPlanner to smart farming water management: for engineers and researchers; why it matters—real‑world decision support beyond software, shown at EclipseCon NA 2016."
 ---
 
 As Obeo's CTO, I had the opportunity to present at EclipseCon 2016 about our intriguing project with INRA, focusing on agricultural water resource management. This project explored how Eclipse modeling technologies like EMF, Sirius, Xtext, and OptaPlanner could be applied in agriculture, a field quite different from their usual software system environments. The goal was to optimize agricultural practices through decision-making tools about crop planting, water usage, and resource allocation. It was a fascinating exploration outside our usual domain, demonstrating the versatility and effectiveness of these technologies in complex, real-world problems. The project underscored the importance of precise domain modeling and integrating various technologies to devise comprehensive solutions.

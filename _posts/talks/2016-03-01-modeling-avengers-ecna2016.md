@@ -6,11 +6,19 @@ categories:
 tags:
   - talk
   - obeo
+  - dsl
+  - simulation
+  - sirius
+  - gemoc
+  - optaplanner
 excerpt: "Open‑source technology mix for smart systems—slides, video, and why this approach scales across teams."
 draft: true
 ---
 
 For teams modernizing engineering workflows. Demonstrates a practical OSS stack, from modeling to analysis, and what enables reuse.
+
+[![]({{ site.url }}/images/blog/2016-2017/avengers.png)]({{ site.url }}/talks/ModelingAvengers/#/)
+
 
 ## Key Takeaways
 - End‑to‑end OSS stack in action.

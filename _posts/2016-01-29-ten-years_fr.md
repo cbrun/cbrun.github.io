@@ -9,6 +9,7 @@ tags:
 lang: fr
 permalink : /eclipse/obeo-dix-ans/
 translation_en : /eclipse/ten-years/
+excerpt: "Obeo a 10 ans : retour sur une décennie d’open‑source et de croissance; pour partenaires, clients et communauté; pourquoi maintenant—des valeurs et des personnes qui nourrissent nos prochains projets."
 ---
 
 Obeo a célébré son 10ème anniversaire il y a quelques jours. Si vous classez les nombres par leur puissance symbolique, le nombre 10 est probablement assez haut dans la liste. Il devrait au moins vous faire regarder en arrière pour voir ce que vous avez accompli. Dans notre cas, cela nous a également amenés à redessiner notre logo.

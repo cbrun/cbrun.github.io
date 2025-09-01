@@ -8,6 +8,7 @@ tags:
   - eclipse
 permalink: /modeling/ecore-design-checklist-part2/
 translation_fr: /eclipse/checklist-conception-ecore-partie2/
+excerpt: "Ecore design checklist (part 2): scalability and Java mapping tips for EMF modelers; for tool builders; why it matters—keep models fast, lean, and maintainable at scale."
 ---
 
 This article is the second part of a series focusing on metamodel design (more especially Ecore models). 
@@ -181,5 +182,4 @@ Essayez-le, tout est Open-Source et fait partie d'Eclipse !
 <br>
 
 *Crédits : merci à Pierre-Charles et [Mélanie](https://melb.enix.org/) pour la relecture, [Jan](https://twitter.com/jankoehnlein/status/729930181289349120) pour avoir apporté un nouvel élément et Roxanne pour certains des poneys.*
-
 

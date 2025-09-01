@@ -6,6 +6,10 @@ categories:
 tags:
   - talk
   - obeo
+  - simulation
+  - sirius
+  - gemoc
+  - optaplanner
 excerpt: "Mixing open‑source technologies to tackle real engineering problems—what we combined and why it matters."
 draft: true
 ---
@@ -16,6 +20,9 @@ For architects and leads assembling modeling stacks. A pragmatic tour of open‑
 - Proven OSS combinations and when to use them.
 - Integration patterns and pitfalls.
 - Business value through open collaboration.
+
+[![]({{ site.url }}/images/blog/2016-2017/avengers2.png)]({{ site.url }}/talks/ModelingAvengers/#/)
+
 
 ## Context
 - Event: EclipseCon France 2016, Toulouse

@@ -7,8 +7,8 @@ tags:
   - talk
   - obeo
   - ecore
+  - acceleo
 excerpt: "Hands‑on tutorial: generate webapps (backbone.js, …) with Eclipse Modeling—who benefits and what you need."
-draft: true
 ---
 
 For developers curious about code generation with modeling. A hands‑on path from meta‑model to templates to a running webapp (e.g., backbone.js), covering the build chain and testing strategy.
