@@ -23,9 +23,6 @@ collections:
   tag:
     output: true
     permalink: /:collection/:name/index.html
-  talks:
-    output: true
-    permalink: /talk/:title/
 defaults:
   - scope:
       path: ""
@@ -37,12 +34,6 @@ defaults:
       type: tag
     values:
       layout: "tag"
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: post
-      categories: ["talk"]
 
 
 kramdown:
