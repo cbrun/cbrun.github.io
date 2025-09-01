@@ -54,9 +54,8 @@
       {% unless post.translation_en %}
       {% unless post.draft %}
         <article>
-          {% if post.link %}
-            {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
-            <h2 class="link-post">
+          {% if post.link %}            
+            <h2 class="link-post">{% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
               <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> 
               <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
                {% if post.translation_fr %}
@@ -65,8 +64,7 @@
                {% endif %}
             </h2>
           {% else %}
-             {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
-            <h2>
+            <h2>{% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
               <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
                {% if post.translation_fr %}
                  <a href="{{ site.url }}{{ post.url }}">🇬🇧</a>
