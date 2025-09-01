@@ -24,8 +24,8 @@ From Acceleo 2.x with its XPath-like syntax, to a language inheriting from OCL (
 
 ## Want to go deeper?
 
-* **(AQL reference (syntax + standard services))[https://eclipse.dev/acceleo/documentation/aql.html]** — the canonical doc.
-* **(Sirius “Writing Queries)[https://eclipse.dev/sirius/doc/specifier/general/Writing_Queries.html]”** — how AQL plugs into VSMs, key differences, and setup.
-* **(What’s new in Sirius 3.0)[https://eclipse.dev/sirius/whatsnew/whatsnew3.html]** — background on why AQL was introduced.
+* **[AQL reference (syntax + standard services)](https://eclipse.dev/acceleo/documentation/aql.html)** — the canonical doc.
+* **[Sirius “Writing Queries](https://eclipse.dev/sirius/doc/specifier/general/Writing_Queries.html)”** — how AQL plugs into VSMs, key differences, and setup.
+* **[What’s new in Sirius 3.0](https://eclipse.dev/sirius/whatsnew/whatsnew3.html)** — background on why AQL was introduced.
 
 
