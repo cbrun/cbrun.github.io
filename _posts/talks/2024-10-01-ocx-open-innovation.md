@@ -8,6 +8,7 @@ tags:
   - eclipse
   - sirius
   - opensource
+  - obeo
   - MBSE
 excerpt: "OCX 2024 talk resources for Eclipse/MBSE practitioners—context, slides, and why open innovation and stewardship matter now."
 ---

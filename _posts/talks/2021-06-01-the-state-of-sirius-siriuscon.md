@@ -20,7 +20,7 @@ For Sirius users, toolsmiths, and architects planning their modeling roadmaps. T
 - Direction: Sirius Web capabilities and when to move what to the web.
 - Practice: guidance for extension, customization, and sustainable maintenance.
 
-[![]({{ site.url }}/talks/2021-book.webp)]({{ site.url }}/talks/SiriusCon2021/SiriusCon_2021-The_State_of_Sirius_Where_We_Are_and_Where_We_Are_Going.pdf)
+[![]({{ site.url }}/imags/blog/2021/stateofsirius.png)]({{ site.url }}/talks/SiriusCon2021/SiriusCon_2021-The_State_of_Sirius_Where_We_Are_and_Where_We_Are_Going.pdf)
 
 ## Abstract
 A pragmatic tour of where Sirius stands and where it is headed. We cover project milestones, what’s new for diagram editors and customization, and how the web stack complements desktop scenarios. The talk provides decision guidance for teams balancing innovation with stability.
