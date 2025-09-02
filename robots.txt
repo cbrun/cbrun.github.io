@@ -1,0 +1,16 @@
+---
+layout: null
+permalink: /robots.txt
+---
+# robots.txt for https://cedric.brun.io
+
+User-agent: *
+# Prevent indexing/crawling of slide assets and subfolders
+Disallow: /talks/
+
+# Allow everything else
+Allow: /
+
+# Sitemaps
+Sitemap: {{ site.url }}/sitemap.xml
+
