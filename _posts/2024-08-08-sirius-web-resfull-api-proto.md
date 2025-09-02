@@ -8,7 +8,6 @@ tags:
   - sirius-web
 draft : true
 ---
-# Opening Up Sirius Web: A REST API Prototype
 
 One of the big ideas behind Sirius Web is openness. Not just “open” as in *open source*, but also “open” as in *working smoothly with the rest of the ecosystem*.
 

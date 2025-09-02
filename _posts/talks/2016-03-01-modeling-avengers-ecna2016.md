@@ -12,7 +12,6 @@ tags:
   - gemoc
   - optaplanner
 excerpt: "Open‑source technology mix for smart systems—slides, video, and why this approach scales across teams."
-draft: true
 ---
 
 For teams modernizing engineering workflows. Demonstrates a practical OSS stack, from modeling to analysis, and what enables reuse.

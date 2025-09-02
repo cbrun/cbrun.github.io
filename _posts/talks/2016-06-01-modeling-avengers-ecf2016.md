@@ -11,7 +11,6 @@ tags:
   - gemoc
   - optaplanner
 excerpt: "Mixing open‑source technologies to tackle real engineering problems—what we combined and why it matters."
-draft: true
 ---
 
 For architects and leads assembling modeling stacks. A pragmatic tour of open‑source components and how they fit together in production scenarios.
