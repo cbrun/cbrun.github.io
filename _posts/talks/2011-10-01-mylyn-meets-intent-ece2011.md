@@ -10,13 +10,12 @@ tags:
   - documentation
   - literate-modeling
 excerpt: "Bringing documentation into the development loop—Mylyn and Intent integration patterns."
-draft: true
 ---
 
+At EclipseCon 2011, we (Obeo, France) introduced a new way of thinking about software documentation: **Mylyn Intent**, an open-source project designed to make documentation both **fun** and **useful**. Our talk explored how developers can integrate documentation seamlessly with their models, code, and tools to keep everything up-to-date and engaging.
 
 [![]({{ site.url }}/images/blog/2011/intent.png)]( {{ site.url }}/talks/EclipseConEurope2011/Intent.pdf)
 
-At EclipseCon 2011, we (Obeo, France) introduced a new way of thinking about software documentation: **Mylyn Intent**, an open-source project designed to make documentation both **fun** and **useful**. Our talk explored how developers can integrate documentation seamlessly with their models, code, and tools to keep everything up-to-date and engaging.
 
 ## Why We Need Better Documentation
 
