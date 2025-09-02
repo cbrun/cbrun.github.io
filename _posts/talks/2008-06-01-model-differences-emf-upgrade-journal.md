@@ -7,7 +7,6 @@ tags:
   - ecore
   - compare
 excerpt: "Journal article on model differencing in EMF—foundations and implications for tooling."
-draft: true
 ---
 
 For researchers and tool builders who need robust model comparison. The article explains matching strategies, equivalences, and how structural differences drive meaningful merges in EMF.

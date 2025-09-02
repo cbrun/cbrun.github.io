@@ -16,7 +16,7 @@ For Acceleo users and open‑source practitioners. We shared why moving Acceleo 
 ## Key Takeaways
 - Foundation benefits: vendor‑neutral governance accelerates adoption.
 - Migration: keeping compatibility while opening the development process.
-- Ecosystem: how Acceleo fits among EMF, Sirius, and other tools.
+- Ecosystem: how Acceleo fits among EMF and other tools.
 
 ## Context
 - Event: Eclipse Summit Europe, Ludwigsburg
