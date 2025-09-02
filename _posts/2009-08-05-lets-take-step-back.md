@@ -5,7 +5,6 @@ date: '2009-08-05T01:11:00.000-07:00'
 tags:
 - eclipse
 - community
-- acceleo
 - obeo
 categories: [eclipse]
 modified_time: '2009-08-05T01:18:10.981-07:00'

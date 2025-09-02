@@ -4,7 +4,8 @@ title: Eclipse Modeling Summer of Code 2009
 date: '2009-03-10T08:46:00.000-07:00'
 tags:
 - eclipse
-- acceleo
+- compare
+- emf
 - obeo
 categories: [eclipse]
 modified_time: '2009-05-07T08:06:52.391-07:00'

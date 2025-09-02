@@ -5,7 +5,6 @@ date: '2009-05-05T09:03:00.000-07:00'
 tags:
 - optaplanner
 - eclipse
-- acceleo
 - emf
 - ecore
 categories: [modeling]

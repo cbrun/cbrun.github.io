@@ -7,6 +7,7 @@ tags:
   - conference
   - eclipse
   - acceleo
+  - emf
 modified_time: '2011-11-07T07:58:45.417-08:00'
 thumbnail: https://3.bp.blogspot.com/-oYL86NtznB4/Trf-jbYoqJI/AAAAAAAAApI/cSwQ2ghyGMg/s72-c/title.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-6492194988526543878

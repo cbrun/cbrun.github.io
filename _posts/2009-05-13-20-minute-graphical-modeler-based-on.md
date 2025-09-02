@@ -7,7 +7,6 @@ tags:
 - eclipse
 - viewpoint
 - sirius
-- acceleo
 - ecore
 categories: [modeling]
 modified_time: '2009-05-13T11:21:55.918-07:00'

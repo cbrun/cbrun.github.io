@@ -6,7 +6,7 @@ categories: [eclipse]
 tags:
   - eclipse
   - amalgamation
-  - acceleo
+  - modeling
   - emf
 modified_time: '2011-05-06T05:50:34.521-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8627016920290556582

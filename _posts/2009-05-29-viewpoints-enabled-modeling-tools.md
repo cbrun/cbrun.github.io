@@ -6,7 +6,6 @@ tags:
 - eclipse
 - viewpoint
 - sirius
-- acceleo
 - modeling
 - ecore
 categories: [modeling]

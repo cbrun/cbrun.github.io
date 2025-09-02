@@ -7,7 +7,7 @@ tags:
   - sirius
   - modeling
   - emf
-  - acceleo
+  - ecoretools
 excerpt: "A hands-on look at EcoreTools’ Oxygen revamp powered by Sirius properties: for EMF/Sirius tool builders and modelers; why it matters—lighter code, better UX, and new dialogs landing in Oxygen M7."
 ---
 

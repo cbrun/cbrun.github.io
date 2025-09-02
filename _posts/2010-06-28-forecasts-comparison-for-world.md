@@ -6,7 +6,7 @@ categories: [modeling]
 tags:
   - eclipse
   - compare
-  - acceleo
+  - emf
   - obeo
 modified_time: '2010-06-28T02:23:12.676-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/TCha9tHZZXI/AAAAAAAAAUQ/ZYmMQtmLQRI/s72-c/compare_menu.png

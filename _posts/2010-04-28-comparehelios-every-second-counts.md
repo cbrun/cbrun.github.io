@@ -7,7 +7,6 @@ tags:
   - performance
   - eclipse
   - compare
-  - acceleo
   - ecore
 modified_time: '2010-04-28T07:27:07.112-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/S9gt4IR8UQI/AAAAAAAAASw/J8dPvXGk1OE/s72-c/beforeSprint.png

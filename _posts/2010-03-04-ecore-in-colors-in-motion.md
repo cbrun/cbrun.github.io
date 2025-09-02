@@ -6,7 +6,7 @@ categories: [modeling]
 tags:
   - ecore
   - eclipse
-  - acceleo
+  - ecoretools
 modified_time: '2010-03-04T05:33:16.509-08:00'
 thumbnail: https://4.bp.blogspot.com/_u5tMWln_Ie8/S4-1fNC2YxI/AAAAAAAAAQY/zmAJo1L9Qyg/s72-c/ecoreincolorsplay.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-4997940111087935286

@@ -5,7 +5,8 @@ date: '2010-06-09T23:49:00.000-07:00'
 categories: [eclipse]
 tags:
   - eclipse
-  - acceleo
+  - modeling
+  - amalgamation
   - obeo
 modified_time: '2010-06-11T05:18:27.689-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/TBCSNGcmO4I/AAAAAAAAATA/3uH2Sa365OY/s72-c/icon_twitter.png
