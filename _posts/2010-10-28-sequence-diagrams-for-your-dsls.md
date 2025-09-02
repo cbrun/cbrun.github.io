@@ -8,6 +8,7 @@ tags:
   - eclipse
   - obeo designer
   - ecore
+excerpt: "Obeo Designer 5.0 sneak peek—cleaner diagram UI, embedded toolbars, quick outline for diagrams, and a demo for sequence‑style DSLs."
 modified_time: '2010-10-28T02:00:31.950-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/TMkui6JcLSI/AAAAAAAAAZA/AWrfJ-jKimA/s72-c/newui.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2817152112629443534

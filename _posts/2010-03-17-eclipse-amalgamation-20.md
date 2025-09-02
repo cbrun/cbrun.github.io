@@ -9,6 +9,7 @@ tags:
   - amalgamation
   - modeling
   - obeo
+excerpt: "How Amalgamation reshaped the Eclipse Modeling Package into a lean Modeling SDK with P2 discovery—what changed and why it helps adopters."
 modified_time: '2010-03-17T07:48:04.631-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/S6DqyN0fxrI/AAAAAAAAARI/gjLiFrDCZ6U/s72-c/puzzle.jpg
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-2393432359444410631

@@ -9,6 +9,7 @@ tags:
   - compare
   - acceleo
   - ecore
+excerpt: "A practical tour of EMF Compare in Helios—semantic diff/merge, Team integration, and how the matching engine scales for real model workflows."
 modified_time: '2010-03-23T23:12:44.905-07:00'
 thumbnail: https://3.bp.blogspot.com/_u5tMWln_Ie8/S6JBUCN2b7I/AAAAAAAAARY/E9hWcXn7EDs/s72-c/slide1.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5574820773702427430

@@ -8,6 +8,7 @@ tags:
   - modeling
   - amalgamation
   - obeo
+excerpt: "Quick 6‑question survey to shape the Eclipse Modeling Package for Indigo—what you use, what’s missing, and where to invest next."
 modified_time: '2010-06-11T05:18:27.689-07:00'
 thumbnail: https://1.bp.blogspot.com/_u5tMWln_Ie8/TBCSNGcmO4I/AAAAAAAAATA/3uH2Sa365OY/s72-c/icon_twitter.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-3996130301796475531

@@ -9,6 +9,7 @@ tags:
   - community
   - acceleo
   - opensource
+excerpt: "Reflections on Obeo’s early bet on open‑source and the Eclipse community—why that ‘unusual propulsion system’ powered real, sustainable growth."
 modified_time: '2010-03-01T02:51:44.758-08:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5185109365815226815
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/03/unusual-propulsion-system.html

@@ -6,6 +6,7 @@ categories: [modeling]
 tags:
   - eclipse
   - compare
+excerpt: "Introducing MPatch in EMF Compare—capture changes as reusable model patches and apply them across different models with smart resolution."
 modified_time: '2010-10-13T05:28:41.528-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-8443724993412705362
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/10/model-comparison-patching-with-mpatch.html
@@ -55,4 +56,3 @@ Following the wizard to its end updates the given model and this is the result:
 To wrap up, an **Mpatch** is not only a self-contained patch for models, it is even able to make the changes applicable to different models!
 
 Installation instructions and a lot more information on the project website: https://modeldiff.imm.dtu.dk/.
-

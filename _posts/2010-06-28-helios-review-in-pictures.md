@@ -9,6 +9,7 @@ tags:
   - compare
   - ecoretools
   - obeo
+excerpt: "Three reasons the Helios Modeling Package became my daily driver—hidden EMF goodies, EcoreTools diagrams, and full SDK access—with add‑ons to try."
 modified_time: '2010-07-05T08:51:45.448-07:00'
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-795928650798672137
 blogger_orig_url: https://model-driven-blogging.blogspot.com/2010/06/helios-review-in-pictures.html

@@ -8,6 +8,7 @@ tags:
   - amalgamation
   - acceleo
   - obeo
+excerpt: "What the Eclipse Modeling survey revealed—documentation and examples top the list, plus size trade‑offs and ideas to crowdsource improvements."
 modified_time: '2010-06-18T07:32:14.601-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/TBs4EOCQ0jI/AAAAAAAAATY/iuvwfIcGfR4/s72-c/commiter.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-89262900413695265

@@ -8,6 +8,7 @@ tags:
   - compare
   - emf
   - obeo
+excerpt: "Fun EMF hack: use EMF Compare to diff and merge World Cup forecasts—custom matchers, code snippets, and screenshots included."
 modified_time: '2010-06-28T02:23:12.676-07:00'
 thumbnail: https://2.bp.blogspot.com/_u5tMWln_Ie8/TCha9tHZZXI/AAAAAAAAAUQ/ZYmMQtmLQRI/s72-c/compare_menu.png
 blogger_id: tag:blogger.com,1999:blog-5749374620125186414.post-5597262855966298773
