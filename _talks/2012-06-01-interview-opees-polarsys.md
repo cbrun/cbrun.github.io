@@ -19,4 +19,4 @@ For industry stakeholders investing in long‑term engineering tools. We discuss
 ## Context
 - Event: Eclipse Day Toulouse
 - Date: 2012
-- Video: https://www.youtube.com/watch?v=DD-miRQlnQc
+- Video: [https://www.youtube.com/watch?v=DD-miRQlnQc](https://www.youtube.com/watch?v=DD-miRQlnQc)

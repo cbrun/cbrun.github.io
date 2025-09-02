@@ -20,4 +20,4 @@ For newcomers to the Eclipse Modeling ecosystem. A practical overview of meta‑
 ## Context
 - Event: Eclipse Day Toulouse
 - Date: 2012
-- Video: https://www.youtube.com/watch?v=sFf34a5u92U
+- Video: [https://www.youtube.com/watch?v=sFf34a5u92U](https://www.youtube.com/watch?v=sFf34a5u92U)

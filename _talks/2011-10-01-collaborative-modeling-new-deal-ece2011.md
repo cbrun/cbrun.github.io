@@ -20,4 +20,4 @@ For organizations coordinating modeling across teams and partners. We covered go
 ## Context
 - Event: EclipseCon Europe, Ludwigsburg
 - Date: 2011
-- Program: https://www.eclipsecon.org/europe2011/sessions/collaborative-modeling-new-deal.html
+- Program: [https://www.eclipsecon.org/europe2011/sessions/collaborative-modeling-new-deal.html](https://www.eclipsecon.org/europe2011/sessions/collaborative-modeling-new-deal.html)

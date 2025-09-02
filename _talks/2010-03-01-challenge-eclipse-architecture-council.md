@@ -20,4 +20,4 @@ For project leads and contributors navigating Eclipse governance. A candid Q&A o
 ## Context
 - Event: EclipseCon, San Francisco
 - Date: 2010
-- Program: https://www.eclipsecon.org/2010/sessions/index3b81.html?id=1209
+- Program: [https://www.eclipsecon.org/2010/sessions/index3b81.html?id=1209](https://www.eclipsecon.org/2010/sessions/index3b81.html?id=1209)

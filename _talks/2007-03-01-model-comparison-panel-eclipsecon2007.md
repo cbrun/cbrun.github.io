@@ -21,4 +21,4 @@ For teams versioning models at scale. We discussed the unique challenges of stru
 ## Context
 - Event: EclipseCon, San Francisco
 - Date: 2007
-- Slides: {{ site.url }}/talks/EclipseConUS2007/panel.pdf
+- Slides: [{{ site.url }}/talks/EclipseConUS2007/panel.pdf]({{ site.url }}/talks/EclipseConUS2007/panel.pdf)

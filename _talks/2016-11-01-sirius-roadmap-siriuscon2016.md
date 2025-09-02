@@ -21,4 +21,4 @@ For teams using Sirius to build modeling tools. A look at near‑term priorities
 ## Context
 - Event: SiriusCon 2016, Paris
 - Date: 2016
-- Slides: {{ site.url }}/talks/SiriusCon2016/slides/#/
+- Slides: [{{ site.url }}/talks/SiriusCon2016/slides/#/]({{ site.url }}/talks/SiriusCon2016/slides/#/)

@@ -21,4 +21,4 @@ For toolsmiths and adopters of Sirius. A narrative of how Sirius evolved, the ca
 ## Context
 - Event: SiriusCon 2015, Paris
 - Date: 2015
-- Slides: {{ site.url }}/talks/SiriusOriginsPresentFuture/#/
+- Slides: [{{ site.url }}/talks/SiriusOriginsPresentFuture/#/]({{ site.url }}/talks/SiriusOriginsPresentFuture/#/)

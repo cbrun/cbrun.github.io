@@ -21,4 +21,4 @@ For DSL authors adopting both textual and graphical notations.
 ## Context
 - Event: XtextCon 2014, Kiel, Germany
 - Date: 2014
-- Slides: {{ site.url }}/talks/XtextCon2014/Xtext_Sirius.pdf
+- Slides: [{{ site.url }}/talks/XtextCon2014/Xtext_Sirius.pdf]({{ site.url }}/talks/XtextCon2014/Xtext_Sirius.pdf)

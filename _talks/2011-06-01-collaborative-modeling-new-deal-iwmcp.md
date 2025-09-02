@@ -21,5 +21,5 @@ For leaders enabling collaboration across organizations. The keynote argued for 
 ## Context
 - Event: IWMCP, Zurich
 - Date: 2011
-- Program: https://dl.acm.org/citation.cfm?id=2000411
-- Slides: {{ site.url }}/talks/IWCMP2011/Collaborative_Modeling_New_Deal.pdf
+- Program: [https://dl.acm.org/citation.cfm?id=2000411](https://dl.acm.org/citation.cfm?id=2000411)
+- Slides: [{{ site.url }}/talks/IWCMP2011/Collaborative_Modeling_New_Deal.pdf]({{ site.url }}/talks/IWCMP2011/Collaborative_Modeling_New_Deal.pdf)

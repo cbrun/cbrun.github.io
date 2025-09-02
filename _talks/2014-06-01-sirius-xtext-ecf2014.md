@@ -21,5 +21,5 @@ For teams balancing graphical and textual DSL needs.
 ## Context
 - Event: EclipseCon France 2014, Toulouse
 - Date: 2014
-- Slides: https://www.eclipsecon.org/france2014/sites/default/files/slides/Xtext_Sirius.pdf
-- Video: https://www.youtube.com/watch?v=Ha0FbmcLjYY
+- Slides: [https://www.eclipsecon.org/france2014/sites/default/files/slides/Xtext_Sirius.pdf](https://www.eclipsecon.org/france2014/sites/default/files/slides/Xtext_Sirius.pdf)
+- Video: [https://www.youtube.com/watch?v=Ha0FbmcLjYY](https://www.youtube.com/watch?v=Ha0FbmcLjYY)

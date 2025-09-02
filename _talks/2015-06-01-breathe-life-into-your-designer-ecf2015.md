@@ -20,4 +20,4 @@ For teams building custom designers with Sirius. Practical ways to improve inter
 ## Context
 - Event: EclipseCon France 2015, Toulouse
 - Date: 2015
-- Slides: https://siriuslab.github.io/talks/BreatheLifeInYourDesigner/slides/index.html
+- Slides: [https://siriuslab.github.io/talks/BreatheLifeInYourDesigner/slides/index.html](https://siriuslab.github.io/talks/BreatheLifeInYourDesigner/slides/index.html)

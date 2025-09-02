@@ -20,4 +20,4 @@ For engineers creating DSL tooling. A practical workshop to bootstrap a Siriusâ€
 ## Context
 - Event: EclipseCon France 2014, Toulouse
 - Date: 2014
-- Program: https://www.eclipsecon.org/france2014/session/hands-sirius-create-graphical-editors-your-domain-specific-language
+- Program: [https://www.eclipsecon.org/france2014/session/hands-sirius-create-graphical-editors-your-domain-specific-language](https://www.eclipsecon.org/france2014/session/hands-sirius-create-graphical-editors-your-domain-specific-language)

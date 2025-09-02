@@ -20,4 +20,4 @@ For developers navigating the EMF ecosystem.
 ## Context
 - Event: EclipseCon Europe 2012
 - Date: 2012
-- Slides: {{ site.url }}/talks/EclipseConEU2012/15EMFprojectsin25minutes2012.pdf
+- Slides: [{{ site.url }}/talks/EclipseConEU2012/15EMFprojectsin25minutes2012.pdf]({{ site.url }}/talks/EclipseConEU2012/15EMFprojectsin25minutes2012.pdf)

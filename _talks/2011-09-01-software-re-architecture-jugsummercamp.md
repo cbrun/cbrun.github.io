@@ -21,4 +21,4 @@ For teams modernizing legacy systems. We showed how modeling helps inventory arc
 ## Context
 - Event: JugSummer Camp, La Rochelle
 - Date: 2011
-- Link: https://sites.google.com/site/jugsummercamp/
+- Link: [https://sites.google.com/site/jugsummercamp/](https://sites.google.com/site/jugsummercamp/)

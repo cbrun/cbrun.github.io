@@ -21,4 +21,4 @@ For developers new to EMF and the modeling stack. A pragmatic introduction to me
 ## Context
 - Event: EclipseDay Paris
 - Date: 2011
-- Slides: {{ site.url }}/talks/EclipseDayParis2011/EclipseModeling.pdf
+- Slides: [{{ site.url }}/talks/EclipseDayParis2011/EclipseModeling.pdf]({{ site.url }}/talks/EclipseDayParis2011/EclipseModeling.pdf)

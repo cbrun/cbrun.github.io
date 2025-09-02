@@ -21,4 +21,4 @@ For teams collaborating on EMF models. This session demonstrated how EMF Compare
 ## Context
 - Event: EclipseCon, San Francisco
 - Date: 2009
-- Slides: {{ site.url }}/talks/EclipseConUS2009/TeamWorkWithModels_econ2009.pdf
+- Slides: [{{ site.url }}/talks/EclipseConUS2009/TeamWorkWithModels_econ2009.pdf]({{ site.url }}/talks/EclipseConUS2009/TeamWorkWithModels_econ2009.pdf)

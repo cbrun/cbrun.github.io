@@ -20,6 +20,6 @@ For EMF practitioners and tool builders.
 ## Context
 - Event: EclipseCon Europe 2013, Ludwigsburg, Germany
 - Date: 2013
-- Program: https://www.eclipsecon.org/europe2013/ecoretools-20-making
-- Video: https://www.youtube.com/watch?v=XSP-oAmmS_E
-- Slides: https://www.eclipsecon.org/europe2013/sites/eclipsecon.org.europe2013/files/EcoreTools2.pdf
+- Program: [https://www.eclipsecon.org/europe2013/ecoretools-20-making](https://www.eclipsecon.org/europe2013/ecoretools-20-making)
+- Video: [https://www.youtube.com/watch?v=XSP-oAmmS_E](https://www.youtube.com/watch?v=XSP-oAmmS_E)
+- Slides: [{{ site.url }}talks/EclipseConEU2013/EcoreTools2.pdf]({{ site.url }}talks/EclipseConEU2013/EcoreTools2.pdf)

@@ -21,4 +21,4 @@ For engineers updating to the Helios release. We walked through model diff/merge
 ## Context
 - Event: EclipseCon, San Francisco
 - Date: 2010
-- Slides: {{ site.url }}/talks/EclipseConUS2010/Compare.pdf
+- Slides: [{{ site.url }}/talks/EclipseConUS2010/Compare.pdf]({{ site.url }}/talks/EclipseConUS2010/Compare.pdf)

@@ -21,5 +21,5 @@ For engineers collaborating on models. A 2008 snapshot of EMF Compare—what it 
 ## Context
 - Event: EclipseCon, San Francisco
 - Date: 2008
-- Program: https://www.eclipsecon.org/2008/index7123.html?page=sub/&id=328
-- Slides: {{ site.url }}/talks/EclipseConUS2008/EMFCompare_update_2008.pdf
+- Program: [https://www.eclipsecon.org/2008/index7123.html?page=sub/&id=328](https://www.eclipsecon.org/2008/index7123.html?page=sub/&id=328)
+- Slides: [{{ site.url }}/talks/EclipseConUS2008/EMFCompare_update_2008.pdf]({{ site.url }}/talks/EclipseConUS2008/EMFCompare_update_2008.pdf)

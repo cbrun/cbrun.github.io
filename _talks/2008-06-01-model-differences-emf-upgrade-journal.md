@@ -20,4 +20,4 @@ For researchers and tool builders who need robust model comparison. The article 
 ## Context
 - Publication: UPGRADE, The European Journal for the Informatics Professional, 2008, vol. 9, no 2
 - Date: 2008
-- Link: {{ site.url }}/talks/Upgrade2008/preprint-upgrade-vol-IX-2.pdf
+- Link: [{{ site.url }}/talks/Upgrade2008/preprint-upgrade-vol-IX-2.pdf]({{ site.url }}/talks/Upgrade2008/preprint-upgrade-vol-IX-2.pdf)

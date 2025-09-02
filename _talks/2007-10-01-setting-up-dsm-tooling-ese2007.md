@@ -22,5 +22,5 @@ For teams building DSL tooling. A practical checklist for defining the meta‑mo
 ## Context
 - Event: Eclipse Summit Europe, Ludwigsburg
 - Date: 2007
-- Program: https://www.eclipsecon.org/summiteurope2007/index337e.html?page=detail/&id=17
-- Slides: https://www.eclipsecon.org/summiteurope2007/presentations/ESE2007_SettingUpDSMtooling.pdf
+- Program: [https://www.eclipsecon.org/summiteurope2007/index337e.html?page=detail/&id=17](https://www.eclipsecon.org/summiteurope2007/index337e.html?page=detail/&id=17)
+- Slides: [https://www.eclipsecon.org/summiteurope2007/presentations/ESE2007_SettingUpDSMtooling.pdf](https://www.eclipsecon.org/summiteurope2007/presentations/ESE2007_SettingUpDSMtooling.pdf)

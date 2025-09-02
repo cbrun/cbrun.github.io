@@ -21,4 +21,4 @@ For DSL builders adopting a hybrid approach. A tour of integration benefits and 
 ## Context
 - Event: EclipseCon Europe 2014, Ludwigsburg, Germany
 - Date: October 2014
-- Program: https://www.eclipsecon.org/europe2014/session/sirius-xtext-%E2%99%A5
+- Program: [https://www.eclipsecon.org/europe2014/session/sirius-xtext-%E2%99%A5](https://www.eclipsecon.org/europe2014/session/sirius-xtext-%E2%99%A5)

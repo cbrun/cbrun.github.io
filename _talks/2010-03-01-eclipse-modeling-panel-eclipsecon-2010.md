@@ -22,4 +22,4 @@ For the modeling community. A wide‑angle look at the state of Eclipse Modeling
 ## Context
 - Event: EclipseCon, San Francisco
 - Date: 2010
-- Program: https://www.eclipsecon.org/2010/sessions/index8474.html?id=1528
+- Program: [https://www.eclipsecon.org/2010/sessions/index8474.html?id=1528](https://www.eclipsecon.org/2010/sessions/index8474.html?id=1528)

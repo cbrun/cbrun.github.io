@@ -21,4 +21,5 @@ For tool builders defining domain‑specific environments. We walked through the
 ## Context
 - Event: EclipseCon, Boston
 - Date: 2012–2013
-- Program: https://www.eclipsecon.org/2013/sessions/your-custom-modeling-environment-definition-made-easy-last
+- Program: [https://www.eclipsecon.org/2013/sessions/your-custom-modeling-environment-definition-made-easy-last](https://www.eclipsecon.org/2013/sessions/your-custom-modeling-environment-definition-made-easy-last)
+- Slides: [{{ site.url }}/ talks/EclipseConUS2013/EclipseCon_2013_Sirius_Your_Custom_Environment_Made_Easy_At_Last_0.pdf]({{ site.url }}/ talks/EclipseConUS2013/EclipseCon_2013_Sirius_Your_Custom_Environment_Made_Easy_At_Last_0.pdf)

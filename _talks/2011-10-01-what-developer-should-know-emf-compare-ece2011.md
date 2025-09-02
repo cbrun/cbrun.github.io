@@ -20,4 +20,4 @@ For developers using EMF in teams. A concise field guide to get reliable results
 ## Context
 - Event: EclipseCon Europe, Ludwigsburg
 - Date: 2011
-- Slides: {{ site.url }}/talks/EclipseConEurope2011/CompareEcon.pdf
+- Slides: [{{ site.url }}/talks/EclipseConEurope2011/CompareEcon.pdf]({{ site.url }}/talks/EclipseConEurope2011/CompareEcon.pdf)

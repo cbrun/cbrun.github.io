@@ -19,4 +19,4 @@ For Eclipse adopters, project leads, and contributors curious about what it mean
 
 ## Context
 - Date: 2013
-- Link: https://www.infoq.com/fr/interviews/obeo-designer-open-source-sirius/
+- Link: [https://www.infoq.com/fr/interviews/obeo-designer-open-source-sirius/](https://www.infoq.com/fr/interviews/obeo-designer-open-source-sirius/)

@@ -21,4 +21,4 @@ For architects evaluating MDA in enterprise contexts. This session mapped an ope
 ## Context
 - Event: Solutions Linux, Paris
 - Date: 2008
-- Slides: {{ site.url }}/talks/SolutionsLinux2008/MDAOpenSource.pdf
+- Slides: [{{ site.url }}/talks/SolutionsLinux2008/MDAOpenSource.pdf]({{ site.url }}/talks/SolutionsLinux2008/MDAOpenSource.pdf)

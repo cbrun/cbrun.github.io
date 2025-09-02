@@ -21,4 +21,4 @@ For Acceleo users and open‑source practitioners. We shared why moving Acceleo 
 ## Context
 - Event: Eclipse Summit Europe, Ludwigsburg
 - Date: 2009
-- Slides: {{ site.url }}/talks/EclipseSummit2009/from_Acceleo.org_to_Eclipse_Modeling.pdf
+- Slides: [{{ site.url }}/talks/EclipseSummit2009/from_Acceleo.org_to_Eclipse_Modeling.pdf]({{ site.url }}/talks/EclipseSummit2009/from_Acceleo.org_to_Eclipse_Modeling.pdf)

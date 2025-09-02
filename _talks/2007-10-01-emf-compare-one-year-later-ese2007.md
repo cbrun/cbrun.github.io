@@ -21,5 +21,5 @@ For early adopters and contributors. A look back at what EMF Compare achieved in
 ## Context
 - Event: Eclipse Summit Europe, Ludwigsburg
 - Date: 2007
-- Program: https://www.eclipsecon.org/summiteurope2007/index34ed.html?page=detail/&id=24
-- Slides: {{ site.url }}/talks/EclipseSummit2007/EMFCompare_OneYearLater.pdf
+- Program: [https://www.eclipsecon.org/summiteurope2007/index34ed.html?page=detail/&id=24](https://www.eclipsecon.org/summiteurope2007/index34ed.html?page=detail/&id=24)
+- Slides: [{{ site.url }}/talks/EclipseSummit2007/EMFCompare_OneYearLater.pdf]({{ site.url }}/talks/EclipseSummit2007/EMFCompare_OneYearLater.pdf)
