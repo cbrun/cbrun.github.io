@@ -27,7 +27,7 @@ For researchers and practitioners in the early days of MDE adoption. This talk p
 * **End-to-end Chain**: The process illustrates a complete modernization workflow, from legacy source code to up-to-date documentation and re-implemented applications.
 * **Value**: Demonstrates how Obeo tools create a bridge between legacy systems and modern architectures, ensuring continuity and reducing risks in modernization projects.
 
-[![]({{ site.url }}images/blog/2006/idm.png)]({{ site.url }}/talks/IDM06/Obeo.pdf)
+[![]({{ site.url }}/images/blog/2006/idm.png)]({{ site.url }}/talks/IDM06/Obeo.pdf)
 
 
 ## Context
