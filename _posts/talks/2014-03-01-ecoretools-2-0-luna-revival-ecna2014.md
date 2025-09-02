@@ -25,4 +25,4 @@ For teams evolving meta‑models and tooling.
 ## Context
 - Event: EclipseCon North America 2014, San Francisco
 - Date: 2014
-- Slides: {{ site.url }}/talks/EclipseConUS2014/EcoreTools2.pdf
+- Slides: [{{ site.url }}/talks/EclipseConUS2014/EcoreTools2.pdf]({{ site.url }}/talks/EclipseConUS2014/EcoreTools2.pdf)

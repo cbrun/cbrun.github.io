@@ -29,5 +29,5 @@ That was not my presentation, but my good friend [Mikaël](https://blogs.eclipse
 ## Context
 - Event: Devoxx France 2017, Paris (backup for Mikaël)
 - Date: 2017
-- Slides: https://www.slideshare.net/mikaelbarbero/whats-new-in-eclipse-oxygen-devoxx-france-2017
-- Video: https://www.youtube.com/watch?v=jIcFiFZppSw
+- Slides: [https://www.slideshare.net/mikaelbarbero/whats-new-in-eclipse-oxygen-devoxx-france-2017](https://www.slideshare.net/mikaelbarbero/whats-new-in-eclipse-oxygen-devoxx-france-2017)
+- Video: [https://www.youtube.com/watch?v=jIcFiFZppSw](https://www.youtube.com/watch?v=jIcFiFZppSw)

@@ -21,4 +21,4 @@ For developers curious about code generation with modeling. A hands‑on path fr
 ## Context
 - Event: BreizhCamp, Rennes
 - Date: 2012
-- Link: https://plus.google.com/+C%C3%A9dricBrun/posts/EKgDZ1grtEv
+- Link: [https://plus.google.com/+C%C3%A9dricBrun/posts/EKgDZ1grtEv](https://plus.google.com/+C%C3%A9dricBrun/posts/EKgDZ1grtEv)

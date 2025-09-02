@@ -30,4 +30,4 @@ This presentation introduces **Acceleo**, an open-source model-to-text code gene
 ## Context
 - Event: Solutions Linux, Paris
 - Date: 2007
-- Slides: {{ site.url }}/talks/SolutionsLinux2007/SolutionsLinux2007-Acceleo.pdf
+- Slides: [{{ site.url }}/talks/SolutionsLinux2007/SolutionsLinux2007-Acceleo.pdf]({{ site.url }}/talks/SolutionsLinux2007/SolutionsLinux2007-Acceleo.pdf)

@@ -27,5 +27,5 @@ For teams modernizing engineering workflows. Demonstrates a practical OSS stack,
 ## Context
 - Event: EclipseCon North America 2016, Washington
 - Date: 2016
-- Slides: {{ site.url }}/talks/ModelingAvengers/#/
-- Video: https://www.infoq.com/presentations/smart-farming-system-tools
+- Slides: [{{ site.url }}/talks/ModelingAvengers/#/]({{ site.url }}/talks/ModelingAvengers/#/)
+- Video: [https://www.infoq.com/presentations/smart-farming-system-tools](https://www.infoq.com/presentations/smart-farming-system-tools)

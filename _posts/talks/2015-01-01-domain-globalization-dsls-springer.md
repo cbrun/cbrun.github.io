@@ -21,5 +21,4 @@ For architects and language designers. Discusses how domain‑specific languages
 ## Context
 - Publication: Globalizing Domain‑Specific Languages (Springer)
 - Date: 2015
-- Link: https://link.springer.com/chapter/10.1007/978-3-319-26172-0_5
-
+- Link: [https://link.springer.com/chapter/10.1007/978-3-319-26172-0_5](https://link.springer.com/chapter/10.1007/978-3-319-26172-0_5)

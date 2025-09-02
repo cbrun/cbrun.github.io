@@ -33,4 +33,4 @@ For researchers and practitioners in the early days of MDE adoption. This talk p
 ## Context
 - Event: IDM 2006, Lille
 - Date: 2006
-- Slides: {{ site.url }}/talks/IDM06/Obeo.pdf
+- Slides: [{{ site.url }}/talks/IDM06/Obeo.pdf]({{ site.url }}/talks/IDM06/Obeo.pdf)

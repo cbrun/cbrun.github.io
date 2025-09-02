@@ -21,5 +21,4 @@ For researchers and practitioners exploring executable modeling. Presents a TTCâ
 ## Context
 - Venue: Transformation Tool Contest 2015
 - Date: 2015
-- Link: https://hal.inria.fr/hal-01152342/
-
+- Link: [https://hal.inria.fr/hal-01152342/](https://hal.inria.fr/hal-01152342/)

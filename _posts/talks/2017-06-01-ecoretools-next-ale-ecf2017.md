@@ -24,4 +24,4 @@ For language engineers and system designers. Shows how to leverage ALE and Ecore
 - Event: EclipseCon France 2017, Toulouse
 - Date: 2017
 - Slides: [PDF]({{ site.url }}/talks/EclipseConFR2017/ALE_talk.pdf)
-- Video: https://www.youtube.com/watch?v=x4viqEFN7PU
+- Video: [https://www.youtube.com/watch?v=x4viqEFN7PU](https://www.youtube.com/watch?v=x4viqEFN7PU)

@@ -21,7 +21,7 @@ For engineering leaders and practitioners interested in where modeling tools and
 ## Context
 - Event: Interview by Federico Tomassetti (Strumenta).
 - Date: 2020
-- Link: https://tomassetti.me/interview-with-cedric-brun/
+- Link: [https://tomassetti.me/interview-with-cedric-brun/](https://tomassetti.me/interview-with-cedric-brun/)
 
 
 ## Interview

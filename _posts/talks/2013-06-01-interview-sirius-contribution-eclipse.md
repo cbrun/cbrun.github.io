@@ -19,4 +19,4 @@ For open‑source practitioners and adopters curious about how large, previously
 
 ## Context
 - Date: 2013
-- Video: https://www.youtube.com/watch?v=hyDxSmbSi2g
+- Video: [https://www.youtube.com/watch?v=hyDxSmbSi2g](https://www.youtube.com/watch?v=hyDxSmbSi2g)

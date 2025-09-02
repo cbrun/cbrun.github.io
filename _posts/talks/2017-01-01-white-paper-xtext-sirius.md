@@ -22,5 +22,4 @@ For DSL designers and tool builders considering hybrid modeling experiences. The
 ## Context
 - Publication: Xtext/Sirius White Paper
 - Date: 2017
-- Link: https://www.obeodesigner.com/en/white-paper-xtext-sirius
-
+- Link: [https://www.obeodesigner.com/en/white-paper-xtext-sirius](https://www.obeodesigner.com/en/white-paper-xtext-sirius)
