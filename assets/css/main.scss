@@ -89,5 +89,10 @@ sitemap: false
   display: flex;
   justify-content: flex-end;
   gap: 0.5rem;
-  margin-top: 0.25rem;
+  margin-top: 0.1rem;
+}
+
+/* Tighten space between excerpt and translation links in lists */
+#index article > p {
+  margin-bottom: 0.5rem;
 }
