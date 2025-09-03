@@ -62,19 +62,23 @@
             <h2 class="link-post">{% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}{% if is_paper %}<span class="badge badge--paper" title="Paper">Paper</span>{% endif %}
               <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> 
               <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
-               {% if post.translation_fr %}
-                 <a class="lang-link" href="{{ site.url }}{{ post.url }}">🇬🇧</a>
-             	 <a class="lang-link" href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
-               {% endif %}
             </h2>
+            {% if post.translation_fr %}
+              <div class="lang-links">
+                <a class="lang-link" href="{{ site.url }}{{ post.url }}" aria-label="English version">🇬🇧</a>
+                <a class="lang-link" href="{{ site.url }}{{ post.translation_fr  }}" aria-label="Version française">🇫🇷</a>
+              </div>
+            {% endif %}
           {% else %}
             <h2>{% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}{% if is_paper %}<span class="badge badge--paper" title="Paper">Paper</span>{% endif %}
               <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-               {% if post.translation_fr %}
-                 <a class="lang-link" href="{{ site.url }}{{ post.url }}">🇬🇧</a>
-             	 <a class="lang-link" href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
-               {% endif %}
             <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+            {% if post.translation_fr %}
+              <div class="lang-links">
+                <a class="lang-link" href="{{ site.url }}{{ post.url }}" aria-label="English version">🇬🇧</a>
+                <a class="lang-link" href="{{ site.url }}{{ post.translation_fr  }}" aria-label="Version française">🇫🇷</a>
+              </div>
+            {% endif %}
           {% endif %}
         </article>
       {% endunless %}

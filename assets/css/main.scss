@@ -84,16 +84,10 @@ sitemap: false
   outline-offset: 2px;
 }
 
-/* Place translation flags on the same line as titles in lists */
-#index article h2,
-#index article h2.link-post {
+/* Translation links row under excerpts */
+.lang-links {
   display: flex;
-  align-items: center;
-  column-gap: 0.5rem;
-  row-gap: 0.25rem;
-  flex-wrap: wrap; /* prevent overflow on very long titles */
-}
-
-#index article h2 a.lang-link:first-of-type {
-  margin-left: auto; /* push language links to the right */
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
 }
