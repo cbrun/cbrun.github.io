@@ -57,8 +57,8 @@
             <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
             <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
             {% if post.translation_fr %}
-                 <a href="{{ site.url }}{{ post.url }}">🇬🇧</a>
-             	 <a href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
+                 <a class="lang-link" href="{{ site.url }}{{ post.url }}">🇬🇧</a>
+             	 <a class="lang-link" href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
             {% endif %}
           </h2>
         {% else %}
@@ -67,8 +67,8 @@
             {% if is_paper %}<span class="badge badge--paper" title="Paper">Paper</span>{% endif %}
             <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
             {% if post.translation_fr %}
-                 <a href="{{ site.url }}{{ post.url }}">🇬🇧</a>
-             	 <a href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
+                 <a class="lang-link" href="{{ site.url }}{{ post.url }}">🇬🇧</a>
+             	 <a class="lang-link" href="{{ site.url }}{{ post.translation_fr  }}">🇫🇷</a>       
             {% endif %}
           </h2>
           <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
