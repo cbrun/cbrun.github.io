@@ -97,10 +97,10 @@ sitemap: false
   display: flex;
   justify-content: flex-end;
   gap: 0.25rem;
-  margin-top: 0; /* tighter coupling to excerpt */
+  margin-top: 0;        /* tight to preceding element */
+  margin-bottom: 0.75rem; /* restore space after buttons */
 }
 
-/* Tighten space between excerpt and translation links in lists */
-#index article > p {
-  margin-bottom: 0.25rem; /* reduce vertical gap before lang links */
-}
+/* Fine-tune spacing based on predecessor */
+#index article p + .lang-links { margin-top: 0.125rem; }
+#index article h2 + .lang-links { margin-top: 0.25rem; }
