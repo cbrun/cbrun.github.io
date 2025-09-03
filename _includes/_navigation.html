@@ -44,11 +44,11 @@
 		       {% for link in site.data.navigation_right %}
 				    <li><a href="{{ link.url | absolute_url }}">{{ link.title }}</a></li>
 			   {% endfor %}			    
-			   {% if page.translation_en %}                  
-               	 <li><a rel="alternate"  hreflang="en"  href="{{ domain }}{{ page.translation_en  }}">🇬🇧</a></li>
+               {% if page.translation_en %}                  
+               	 <li><a class="lang-link" rel="alternate"  hreflang="en"  href="{{ domain }}{{ page.translation_en  }}">🇬🇧</a></li>
                {% endif %}
 			   {% if page.translation_fr %}                  
-               	 <li><a rel="alternate"  hreflang="fr" href="{{ domain }}{{ page.translation_fr  }}">🇫🇷</a></li>
+               	 <li><a class="lang-link" rel="alternate"  hreflang="fr" href="{{ domain }}{{ page.translation_fr  }}">🇫🇷</a></li>
                {% endif %}
 		    </ul>
 		    <!--
