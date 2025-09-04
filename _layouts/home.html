@@ -69,13 +69,16 @@
             {% if is_paper %}<span class="badge badge--paper" title="Paper">Paper</span>{% endif %}
             <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
           </h2>
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}{% if post.translation_fr %}
+          <p>
+          {{ post.excerpt | strip_html | truncate: 160 }}
+          {% if post.translation_fr %}
             <div class="lang-links">
               <a class="lang-link" href="{{ site.url }}{{ post.url }}" aria-label="English version">🇬🇧</a>
               <a class="lang-link" href="{{ site.url }}{{ post.translation_fr  }}" aria-label="Version française">🇫🇷</a>
             </div>
           {% endif %}
           </p>
+         
           
         {% endif %}
       </article>
