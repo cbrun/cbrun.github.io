@@ -8,7 +8,6 @@ tags:
   - obeo
   - acceleo
 excerpt: "Tools and approaches for software re‑architecture—how modeling helps plan and execute change."
-draft: true
 ---
 
 For teams modernizing legacy systems. We showed how modeling helps inventory architectures, reason about dependencies, and plan refactorings with less risk.

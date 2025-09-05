@@ -8,7 +8,6 @@ tags:
   - sirius-web
   - siriuscon
 excerpt: "Sirius roadmap highlights from SiriusCon 2016—what’s coming and how it impacts teams building modelers."
-draft: true
 ---
 
 For teams using Sirius to build modeling tools. A look at near‑term priorities and how they affect extensibility, performance, and UX.
@@ -17,6 +16,9 @@ For teams using Sirius to build modeling tools. A look at near‑term priorities
 - Roadmap themes and their practical impact.
 - How to plan migrations safely.
 - Where to follow progress and contribute.
+
+[![]({{ site.url }}/talks/SiriusCon2016/slides/index.thumb.png]({{ site.url }}/talks/SiriusCon2016/slides/#/)
+
 
 ## Context
 - Event: SiriusCon 2016, Paris

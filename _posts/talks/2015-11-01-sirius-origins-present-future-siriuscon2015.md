@@ -8,7 +8,6 @@ tags:
   - sirius-web
   - siriuscon
 excerpt: "The story and roadmap of Sirius—key milestones, current state, and where it’s headed for tool builders."
-draft: true
 ---
 
 For toolsmiths and adopters of Sirius. A narrative of how Sirius evolved, the capabilities it unlocks, and what the community is building next.
@@ -17,6 +16,9 @@ For toolsmiths and adopters of Sirius. A narrative of how Sirius evolved, the ca
 - Why Sirius became the backbone for many tools.
 - Today’s capabilities and adoption patterns.
 - What’s next and how to get involved.
+
+[![]({{ site.url }}/talks/SiriusOriginsPresentFuture/index.thumb.png]({{ site.url }}/talks/SiriusOriginsPresentFuture/#/)
+
 
 ## Context
 - Event: SiriusCon 2015, Paris

@@ -8,7 +8,6 @@ tags:
   - sirius-web
   - ecore
 excerpt: "XtextCon talk on pairing Sirius with Xtext—slides and patterns for robust hybrid editors."
-draft: true
 ---
 
 For DSL authors adopting both textual and graphical notations.
@@ -17,6 +16,9 @@ For DSL authors adopting both textual and graphical notations.
 - How to align metamodels and editors.
 - Validation and services integration.
 - Keeping the toolchain maintainable.
+
+[![]({{ site.url }}/talks/XtextCon2014/Xtext_Sirius.thumb.png]({{ site.url }}/talks/XtextCon2014/Xtext_Sirius.pdf)
+
 
 ## Context
 - Event: XtextCon 2014, Kiel, Germany
