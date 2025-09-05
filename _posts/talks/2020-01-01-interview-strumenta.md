@@ -6,6 +6,7 @@ categories:
 tags:
   - obeo
   - opensource
+  - talk
 excerpt: "Interview about the future of modeling tools, UX, and the role of open‑source in engineering — who should care and why it matters."
 ---
 

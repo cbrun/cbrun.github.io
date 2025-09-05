@@ -6,6 +6,7 @@ categories:
 tags:
   - opensource
   - interview
+  - talk
 excerpt: "Interview for the Eclipse Foundation on why companies and individuals should participate in open source—key points and video."
 
 ---

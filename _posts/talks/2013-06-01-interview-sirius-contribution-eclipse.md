@@ -7,6 +7,7 @@ tags:
   - obeo
   - eclipse
   - opensource
+  - talk
 excerpt: "Discussion on contributing Sirius to Eclipse—why governance matters and what it enables."
 ---
 
