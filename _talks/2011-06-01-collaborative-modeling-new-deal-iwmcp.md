@@ -13,6 +13,9 @@ draft: true
 
 For leaders enabling collaboration across organizations. The keynote argued for shared governance, robust tooling, and lightweight processes that make cross‑company modeling feasible.
 
+[![]({{ site.url }}/talks/IWCMP2011/Collaborative_Modeling_New_Deal.thumb.png)]( {{ site.url }}/talks/IWCMP2011/Collaborative_Modeling_New_Deal.pdf)
+
+
 ## Key Takeaways
 - Governance: align incentives and responsibilities early.
 - Tooling: invest in compare/merge and traceability.
