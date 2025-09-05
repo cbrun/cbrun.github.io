@@ -8,7 +8,6 @@ tags:
   - ecore
   - compare
 excerpt: "Collaborating on EMF models with EMF Compare—workflows and tips for teams."
-draft: true
 ---
 
 For teams collaborating on EMF models. This session demonstrated how EMF Compare in the Galileo timeframe enabled reliable 3‑way merges, practical conflict resolution, and better review flows.

@@ -8,7 +8,6 @@ tags:
   - ecore
   - compare
 excerpt: "EMF Compare after its first year—progress and what’s next."
-draft: true
 ---
 
 For early adopters and contributors. A look back at what EMF Compare achieved in its first year—performance, extensibility—and what we prioritized next.

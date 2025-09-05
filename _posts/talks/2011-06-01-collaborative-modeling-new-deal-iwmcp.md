@@ -8,7 +8,6 @@ tags:
   - obeo
   - compare
 excerpt: "Keynote on collaborative modeling—governance, tooling, and practices to work across organizations."
-draft: true
 ---
 
 For leaders enabling collaboration across organizations. The keynote argued for shared governance, robust tooling, and lightweight processes that make cross‑company modeling feasible.
