@@ -33,3 +33,14 @@ Shout‑out to Mélanie Bats, the pioneer at Obeo for adopting the Framework lap
 
 If you care about sustainability, ease of repair, and Linux support, the Framework Laptop is worth a serious look.
 
+
+---
+*edit:* Update during OCX
+
+> Passed its first test in a conference with flying colors !
+
+
+<figure>
+  <img src="{{ site.url }}/images/blog/2024/framework-laptop/ocx.jpeg" alt="Framework 13 laptop on stage at OCX">
+  <figcaption>Framework 13 laptop on stage at OCX</figcaption>
+</figure>
