@@ -8,7 +8,6 @@ tags:
   - ecore
   - compare
 excerpt: "Panel on model comparison—state, challenges, and directions from EclipseCon 2007."
-draft: true
 ---
 
 For teams versioning models at scale. We discussed the unique challenges of structural diff/merge, why textual diffs fall short, and the techniques that make collaborative modeling sustainable.

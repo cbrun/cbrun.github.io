@@ -8,7 +8,6 @@ tags:
   - ecore
   - acceleo
 excerpt: "Journey from Acceleo.org to Eclipse Modeling—lessons for open tooling and communities."
-draft: true
 ---
 
 For Acceleo users and open‑source practitioners. We shared why moving Acceleo into the Eclipse Foundation mattered—IP clarity, community growth, and predictable releases—and how it shaped the modeling ecosystem.

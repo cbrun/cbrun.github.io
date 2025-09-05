@@ -8,7 +8,6 @@ tags:
   - ecore
   - acceleo
 excerpt: "Open‑source MDA tools applied to JEE—context and resources from Solutions Linux 2008."
-draft: true
 ---
 
 For architects evaluating MDA in enterprise contexts. This session mapped an open‑source toolchain (modeling, transformation, generation) to a JEE stack, highlighting where automation pays off and where hand‑coding remains essential.

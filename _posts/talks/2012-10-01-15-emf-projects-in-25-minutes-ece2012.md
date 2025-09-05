@@ -6,8 +6,7 @@ categories:
 tags:
   - talk
   - ecore
-excerpt: "Fast tour of key EMF projects, what they solve and when to use them."
-draft: true
+excerpt: "Fast tour of nice and fun EMF projects, what they solve and when to use them."
 ---
 
 In this talk, I take you on a whirlwind tour of the Eclipse Modeling Framework (EMF) ecosystem. In just 25 minutes, I go through 15 different projects, each one explained with the same rhythm: what it does, where it fits, and how you can use it. From the early building blocks like **EcoreTools** and **Xcore**, to collaboration enablers like **CDO**, **EMF Compare**, and **M2Doc**, I wanted to give a sense of how these open-source projects connect and evolve.

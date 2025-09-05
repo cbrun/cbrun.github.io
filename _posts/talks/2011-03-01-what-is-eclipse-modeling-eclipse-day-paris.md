@@ -8,7 +8,6 @@ tags:
   - ecore
   - sirius
 excerpt: "Intro to Eclipse Modeling—what problems it solves and where to start."
-draft: true
 ---
 
 For developers new to EMF and the modeling stack. A pragmatic introduction to meta‑modeling, code generation, editors, and compare/merge—when to use modeling and when not to.

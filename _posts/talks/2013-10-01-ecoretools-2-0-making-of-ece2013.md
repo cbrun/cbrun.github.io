@@ -7,7 +7,6 @@ tags:
   - talk
   - ecore
 excerpt: "How EcoreTools 2.0 was built—decisions, trade‑offs, and what it enables for modelers."
-draft: true
 ---
 
 In this talk I open the hood on **EcoreTools 2.0** - the “making-of” of a modeling workbench. I start from the Ecore metamodel itself (EClass, EAttribute, EReference, …) and show how those foundations drive the UX: personas, semi-synchronized class diagrams, documentation/validation layers, smarter palettes and editing, and a revamped look. I then connect the dots in the Eclipse stack (Sirius, GMF/GEF, EMF, Acceleo, EEF) and explain how viewpoints, diagram definitions, and styles map cleanly back to your `.ecore` and model instances.
