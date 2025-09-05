@@ -7,6 +7,7 @@ tags:
   - sirius
   - ecore
   - xtext
+  - talk
 excerpt: "White paper on combining Xtext and Sirius—when to mix textual and graphical DSLs, and how to architect maintainable tools."
 ---
 

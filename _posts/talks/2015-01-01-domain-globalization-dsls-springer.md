@@ -8,6 +8,7 @@ tags:
   - ecore
   - dsl
   - gemoc
+  - talk
 excerpt: "Book chapter on how languages support coordination across teams and domains—why this matters for large‑scale engineering."
 ---
 

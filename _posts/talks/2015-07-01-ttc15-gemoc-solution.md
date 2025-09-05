@@ -8,6 +8,7 @@ tags:
   - gemoc
   - execution
   - simulation
+  - talk
 excerpt: "Technical paper on executing models with GEMOC—what the approach enables and where it fits."
 ---
 

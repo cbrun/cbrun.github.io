@@ -6,6 +6,7 @@ categories:
 tags:
   - ecore
   - compare
+  - talk
 excerpt: "Journal article on model differencing in EMF—foundations and implications for tooling."
 ---
 
