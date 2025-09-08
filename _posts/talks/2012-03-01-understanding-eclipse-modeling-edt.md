@@ -5,17 +5,18 @@ categories:
   - talk
 tags:
   - talk
-  - ecore
+  - ecore  
 excerpt: "An introduction to Eclipse Modeling—core ideas, components, and how they fit together."
-draft: true
 ---
 
 For newcomers to the Eclipse Modeling ecosystem. A practical overview of meta‑modeling with EMF, editing technologies, and generators—when to invest in modeling and how to avoid over‑engineering.
 
+[![]({{ site.url }}/talks/EclipseDayParis2011/EclipseModeling.thumb.png)]( {{ site.url }}/talks/EclipseDayParis2011/EclipseModeling.pdf)
+
 ## Key Takeaways
-- Concepts: meta‑models, instances, constraints, and transformations.
-- Stack: EMF + editors + compare/merge + generation.
-- Adoption: start from clear ROI; keep models close to code and users.
+- Components: EMF, editors (GMF/Sirius), compare/merge, and generators.
+- Benefits: consistency, automation, and communication across teams.
+- Getting started: keep scope small, validate with users, iterate.
 
 ## Context
 - Event: Eclipse Day Toulouse
