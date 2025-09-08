@@ -11,7 +11,7 @@ excerpt: "Interview about Obeo’s strategy with OPEES and PolarSys—why open g
 For industry stakeholders investing in long‑term engineering tools. We discussed why OPEES and PolarSys matter: vendor‑neutral governance, long‑term support, and collaborative R&D that benefits entire sectors.
 
 
-[![]({{ site.url }}/images/blog/2012/interview-polarsys.png)]( {{ site.url }}https://www.youtube.com/watch?v=DD-miRQlnQc)
+[![]({{ site.url }}/images/blog/2012/interview-polarsys.png)](https://www.youtube.com/watch?v=DD-miRQlnQc)
 
 
 ## Key Takeaways
