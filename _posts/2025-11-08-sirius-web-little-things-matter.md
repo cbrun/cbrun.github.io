@@ -2,7 +2,6 @@
 layout: post
 title: "Sirius Web 2025.10 - Little Things Matter"
 categories: [modeling]
-draft: true
 tags:
   - modeling
   - emf  
