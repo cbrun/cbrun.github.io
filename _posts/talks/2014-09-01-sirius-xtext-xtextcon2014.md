@@ -17,7 +17,7 @@ For DSL authors adopting both textual and graphical notations.
 - Validation and services integration.
 - Keeping the toolchain maintainable.
 
-[![]({{ site.url }}/talks/XtextCon2014/Xtext_Sirius.thumb.png]({{ site.url }}/talks/XtextCon2014/Xtext_Sirius.pdf)
+![]({{ site.url }}/talks/XtextCon2014/Xtext_Sirius.thumb.png]({{ site.url }}/talks/XtextCon2014/Xtext_Sirius.pdf)
 
 
 ## Context
