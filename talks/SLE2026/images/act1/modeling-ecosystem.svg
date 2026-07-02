@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="55 76 1515 814" role="img" aria-labelledby="title desc">
+  <title id="title">Modeling ecosystem capability map</title>
+  <desc id="desc">A vector map of modeling technologies grouped around definition, graphical tooling, code generation, design tools, textual languages, and model management.</desc>
+  <defs>
+    <radialGradient id="core" cx="50%" cy="43%" r="62%">
+      <stop offset="0%" stop-color="#0f5060"/>
+      <stop offset="100%" stop-color="#002b3c"/>
+    </radialGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#002b3c" flood-opacity="0.10"/>
+    </filter>
+    <style>
+      .line { stroke: #6e7f88; stroke-width: 1.5; fill: none; }
+      .node { fill: #fff; stroke: #6e7f88; stroke-width: 1.4; }
+      .dot { fill: #00384b; }
+      .pill { fill: #fff; stroke: #8b9aa2; stroke-width: 1.2; }
+      .core-text { fill: #fff; font: 700 40px Arial, sans-serif; }
+      .family-text { fill: #002b3c; font: 700 24px Arial, sans-serif; }
+      .pill-text { fill: #002b3c; font: 700 18px Arial, sans-serif; }
+      .small-pill-text { fill: #002b3c; font: 700 15px Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Core -->
+  <circle cx="836" cy="470" r="126" fill="url(#core)" filter="url(#softShadow)"/>
+  <text x="836" y="484" class="core-text" text-anchor="middle">Modeling</text>
+
+  <!-- Family nodes -->
+  <circle class="node" cx="610" cy="170" r="84"/>
+  <text x="610" y="177" class="family-text" text-anchor="middle">Definition</text>
+
+  <circle class="node" cx="1074" cy="170" r="84"/>
+  <text x="1074" y="177" class="family-text" text-anchor="middle">Graphical</text>
+
+  <circle class="node" cx="1174" cy="470" r="84"/>
+  <text x="1174" y="458" class="family-text" text-anchor="middle">Code &amp;</text>
+  <text x="1174" y="486" class="family-text" text-anchor="middle">doc gen</text>
+
+  <circle class="node" cx="1074" cy="760" r="84"/>
+  <text x="1074" y="767" class="family-text" text-anchor="middle">Design tools</text>
+
+  <circle class="node" cx="610" cy="760" r="84"/>
+  <text x="610" y="767" class="family-text" text-anchor="middle">Textual</text>
+
+  <circle class="node" cx="500" cy="470" r="84"/>
+  <text x="500" y="456" class="family-text" text-anchor="middle">Model</text>
+  <text x="500" y="484" class="family-text" text-anchor="middle">management</text>
+
+  <!-- Core-to-family links -->
+  <line class="line" x1="765" y1="366" x2="663" y2="237"/>
+  <line class="line" x1="907" y1="366" x2="1021" y2="237"/>
+  <line class="line" x1="962" y1="470" x2="1090" y2="470"/>
+  <line class="line" x1="907" y1="574" x2="1021" y2="693"/>
+  <line class="line" x1="765" y1="574" x2="663" y2="693"/>
+  <line class="line" x1="710" y1="470" x2="584" y2="470"/>
+
+  <circle class="dot" cx="663" cy="237" r="5"/>
+  <circle class="dot" cx="1021" cy="237" r="5"/>
+  <circle class="dot" cx="1090" cy="470" r="5"/>
+  <circle class="dot" cx="1021" cy="693" r="5"/>
+  <circle class="dot" cx="663" cy="693" r="5"/>
+  <circle class="dot" cx="584" cy="470" r="5"/>
+
+  <!-- Definition -->
+  <line class="line" x1="526" y1="170" x2="436" y2="170"/>
+  <circle class="dot" cx="436" cy="170" r="5"/>
+  <rect class="pill" x="270" y="146" width="166" height="48" rx="24"/>
+  <text x="353" y="176" class="pill-text" text-anchor="middle">EcoreTools</text>
+
+  <!-- Graphical -->
+  <line class="line" x1="1158" y1="170" x2="1280" y2="126"/>
+  <line class="line" x1="1158" y1="170" x2="1280" y2="214"/>
+  <circle class="dot" cx="1158" cy="170" r="5"/>
+  <circle class="dot" cx="1280" cy="126" r="5"/>
+  <circle class="dot" cx="1280" cy="214" r="5"/>
+  <rect class="pill" x="1280" y="102" width="190" height="48" rx="24"/>
+  <text x="1375" y="132" class="pill-text" text-anchor="middle">GMF Runtime</text>
+  <rect class="pill" x="1280" y="190" width="190" height="48" rx="24"/>
+  <text x="1375" y="220" class="pill-text" text-anchor="middle">Sirius</text>
+
+  <!-- Code and doc generation -->
+  <line class="line" x1="1258" y1="470" x2="1372" y2="438"/>
+  <line class="line" x1="1258" y1="470" x2="1372" y2="502"/>
+  <circle class="dot" cx="1258" cy="470" r="5"/>
+  <circle class="dot" cx="1372" cy="438" r="5"/>
+  <circle class="dot" cx="1372" cy="502" r="5"/>
+  <rect class="pill" x="1372" y="414" width="188" height="48" rx="24"/>
+  <text x="1466" y="444" class="pill-text" text-anchor="middle">Acceleo</text>
+  <rect class="pill" x="1372" y="478" width="188" height="48" rx="24"/>
+  <text x="1466" y="508" class="pill-text" text-anchor="middle">M2Doc</text>
+
+  <!-- Design tools -->
+  <line class="line" x1="1158" y1="760" x2="1280" y2="718"/>
+  <line class="line" x1="1158" y1="760" x2="1280" y2="782"/>
+  <line class="line" x1="1158" y1="760" x2="1280" y2="846"/>
+  <circle class="dot" cx="1158" cy="760" r="5"/>
+  <circle class="dot" cx="1280" cy="718" r="5"/>
+  <circle class="dot" cx="1280" cy="782" r="5"/>
+  <circle class="dot" cx="1280" cy="846" r="5"/>
+  <rect class="pill" x="1280" y="694" width="190" height="48" rx="24"/>
+  <text x="1375" y="724" class="pill-text" text-anchor="middle">Capella</text>
+  <rect class="pill" x="1280" y="758" width="190" height="48" rx="24"/>
+  <text x="1375" y="788" class="pill-text" text-anchor="middle">Papyrus</text>
+  <rect class="pill" x="1280" y="822" width="190" height="48" rx="24"/>
+  <text x="1375" y="852" class="pill-text" text-anchor="middle">SysON</text>
+
+  <!-- Textual -->
+  <line class="line" x1="526" y1="760" x2="436" y2="760"/>
+  <circle class="dot" cx="436" cy="760" r="5"/>
+  <rect class="pill" x="270" y="736" width="166" height="48" rx="24"/>
+  <text x="353" y="766" class="pill-text" text-anchor="middle">Xtext</text>
+
+  <!-- Model management -->
+  <line class="line" x1="416" y1="470" x2="282" y2="318"/>
+  <line class="line" x1="416" y1="470" x2="282" y2="372"/>
+  <line class="line" x1="416" y1="470" x2="282" y2="426"/>
+  <line class="line" x1="416" y1="470" x2="282" y2="480"/>
+  <line class="line" x1="416" y1="470" x2="282" y2="534"/>
+  <line class="line" x1="416" y1="470" x2="282" y2="588"/>
+  <line class="line" x1="416" y1="470" x2="282" y2="642"/>
+  <circle class="dot" cx="282" cy="318" r="5"/>
+  <circle class="dot" cx="282" cy="372" r="5"/>
+  <circle class="dot" cx="282" cy="426" r="5"/>
+  <circle class="dot" cx="282" cy="480" r="5"/>
+  <circle class="dot" cx="282" cy="534" r="5"/>
+  <circle class="dot" cx="282" cy="588" r="5"/>
+  <circle class="dot" cx="282" cy="642" r="5"/>
+
+  <rect class="pill" x="64" y="294" width="218" height="48" rx="24"/>
+  <text x="173" y="324" class="pill-text" text-anchor="middle">EMF Runtime</text>
+  <rect class="pill" x="64" y="348" width="218" height="48" rx="24"/>
+  <text x="173" y="378" class="pill-text" text-anchor="middle">Transaction</text>
+  <rect class="pill" x="64" y="402" width="218" height="48" rx="24"/>
+  <text x="173" y="432" class="pill-text" text-anchor="middle">Compare</text>
+  <rect class="pill" x="64" y="456" width="218" height="48" rx="24"/>
+  <text x="173" y="486" class="pill-text" text-anchor="middle">Validation</text>
+  <rect class="pill" x="64" y="510" width="218" height="48" rx="24"/>
+  <text x="173" y="540" class="small-pill-text" text-anchor="middle">Acceleo Query Language</text>
+  <rect class="pill" x="64" y="564" width="218" height="48" rx="24"/>
+  <text x="173" y="594" class="pill-text" text-anchor="middle">CDO</text>
+  <rect class="pill" x="64" y="618" width="218" height="48" rx="24"/>
+  <text x="173" y="648" class="pill-text" text-anchor="middle">UML</text>
+</svg>

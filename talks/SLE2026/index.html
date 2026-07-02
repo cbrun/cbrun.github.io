@@ -1,0 +1,1883 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+		/>
+
+		<title>We built the languages | SLE 2026 Keynote</title>
+
+		<link rel="stylesheet" href="dist/reset.css" />
+		<link rel="stylesheet" href="dist/reveal.css" />
+		<link rel="stylesheet" href="dist/theme/white.css" />
+		<link rel="stylesheet" href="dist/plugin/highlight/monokai.css" />
+		<link rel="stylesheet" href="css/sle-keynote.css" />
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section class="cover" data-background-color="#ffffff">
+					<p class="kicker">SLE 2026 Keynote</p>
+					<h1>We built the languages.</h1>
+					<p class="subtitle">That was the easy part.</p>
+					<p class="byline">Cédric Brun · Obeo<br>CEO</p>
+					<aside class="notes">
+						<p>(regard, léger sourire)</p>
+
+						<p>It’s a pleasure to be here in Rennes.</p>
+
+						<p>Not far from Nantes... where Obeo was founded, almost 20 years ago.</p>
+
+						<p>(pause)</p>
+
+						<p>And I'm quite proud to be in front of you because, me, joining Obeo as an
+						intern in 2006 right after it was founded, really happened because of my
+						passion for modeling and model driven technologies that I discovered thanks
+						to Jean Bezivin's class in Nantes.</p>
+
+						<p>And for most of those 20 years, I’ve been working on one thing.</p>
+
+						<p>Languages.</p>
+
+						<p>And as a CEO of Obeo, I manage a whole organization of more than 60 peoples,
+						working on such languages.</p>
+
+						<p>Modeling languages. Domain-specific languages. The tools to define them. The
+						platforms to make them usable.</p>
+
+						<p>quick poll, who knows Obeo here ?</p>
+					</aside>
+				</section>
+
+				<section class="chapter" data-background-color="#002B3C">
+					<p class="chapter-number">Act 1</p>
+					<h2>We built the languages.</h2>
+					<aside class="notes">
+						<p>(pause courte)</p>
+
+						<p>And during all that time... we’ve been told something.</p>
+
+						<p>That modeling languages wouldn’t really work.</p>
+
+						<p>(regard salle)</p>
+
+						<p>Not at scale. Not in real organizations. Not outside of expert circles.</p>
+					</aside>
+				</section>
+
+				<section>
+					<p class="eyebrow">For more than twenty years</p>
+					<h2>We made languages more formal, more expressive, better tooled.</h2>
+					<div class="logo-grid" aria-label="Language engineering technologies">
+						<span>EMF</span>
+						<span>Acceleo</span>
+						<span>GMF</span>
+						<span>Xtext</span>
+						<span>Sirius</span>
+						<span>Capella</span>
+					</div>
+					<aside class="notes">
+						<p>(enchaînement plus rapide)</p>
+
+						<p>We were told:</p>
+
+						<p>You need a powerful meta-metamodel. You need standards like UML. You need
+						interoperability through XMI. You need both graphical and textual notations.
+						You need versioning, diff, merge. You need collaboration.</p>
+
+						<p>(pause)</p>
+
+						<p>And all of that... is true.</p>
+
+						<p>(léger silence)</p>
+
+						<p>But none of that... was the real problem.</p>
+
+						<p>(regard, silence un peu plus long)</p>
+
+						<p>Because over the years, we learned how to build languages.</p>
+					</aside>
+				</section>
+
+				<section class="tech-slide">
+					<div class="tech-copy">
+						<p class="eyebrow">EMF</p>
+						<h2>The universal foundation.</h2>
+						<p class="tech-lead">
+							A common modeling substrate for structures, editors, generators,
+							transformations, and tools.
+						</p>
+						<div class="tech-tags">
+							<span>metamodels</span>
+							<span>runtime</span>
+							<span>ecosystem</span>
+						</div>
+					</div>
+					<figure class="tech-media emf-media" aria-label="EMF book and logo">
+						<img src="images/act1/emf_logo.png" alt="EMF logo" />
+						<img src="images/act1/emf-book_cover.jpg" alt="EMF book cover" />
+					</figure>
+					<aside class="notes">
+						<p>Precise languages.</p>
+
+						<p>And the first foundation for many of us was EMF.</p>
+
+						<p>(pause)</p>
+
+						<p>EMF gave us a shared substrate. A way to describe structures. A runtime.
+						Editors. Serialization. Generation.</p>
+
+						<p>EMF gave us Ecore, reflective, strongly typed discovery of model elements, a
+						powerful and extensible runtime Not everything was solved.</p>
+
+						<p>But suddenly, language infrastructure became something reusable.</p>
+
+						<p>You could build a new piece of this infrastructure and it would work with the
+						other pieces, because of this common core.</p>
+					</aside>
+				</section>
+
+				<section class="tech-slide">
+					<div class="tech-copy">
+						<p class="eyebrow">Acceleo</p>
+						<h2>Our first open source project.</h2>
+						<p class="tech-lead">
+							Generators that carried models into many technology stacks.
+						</p>
+						<div class="tech-tags">
+							<span>model-to-text</span>
+							<span>templates</span>
+							<span>code generation</span>
+						</div>
+					</div>
+					<figure class="tech-media logo-media" aria-label="Acceleo logo">
+						<img src="images/act1/acceleo-logo.svg" alt="Acceleo logo" />
+					</figure>
+					<aside class="notes">
+						<p>Then came Acceleo.</p>
+
+						<p>For us, Obeo, it was special. It was our first open source project.</p>
+
+						<p>(pause)</p>
+
+						<p>And it carried a very simple idea:</p>
+
+						<p>A model is useful when it can produce something.</p>
+
+						<p>Java. C# Php C. XML. Documentation. Whatever the project needed.</p>
+
+						<p>Let's automate all the boring part of coding and development. Let's reason on
+						the models first.</p>
+
+						<p>Generators became a bridge between languages and real technologies.</p>
+					</aside>
+				</section>
+
+				<section
+					class="tech-slide gmf-overview-slide"
+					data-auto-animate
+					data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"
+				>
+					<div class="tech-copy">
+						<p class="eyebrow">GMF</p>
+						<h2>The proof by reality.</h2>
+						<p class="tech-lead">
+							Graphical modelers dedicated to a language were not a fantasy.
+							They could be built, shipped, and used.
+						</p>
+						<div class="tech-tags">
+							<span>diagrams</span>
+							<span>notation</span>
+							<span>dedicated tooling</span>
+						</div>
+					</div>
+					<figure class="tech-media screenshot-media gmf-media" aria-label="GMF lineage and example graphical modelers">
+						<div class="gmf-history">
+							<img data-id="gmf-logo" class="gmf-logo" src="images/act1/gmf_logo.png" alt="GMF logo" />
+							<div class="gmf-redbook" aria-label="IBM Redbook about integrating GEF and EMF">
+								<img data-id="gmf-redbook" src="images/ibm-redbook.jpg" alt="IBM Redbook cover about graphical editing with EMF" />
+							</div>
+						</div>
+						<img
+							data-id="gmf-examples"
+							class="gmf-examples"
+							src="images/act1/gmf-example.png"
+							alt="Three examples of GMF-based graphical modelers in Eclipse"
+						/>
+					</figure>
+					<aside class="notes">
+						<p>Then GMF, and that was pretty much when I started my internship in 2006. The
+						Graphical Modeling Framework.</p>
+					</aside>
+				</section>
+
+				<section
+					class="gmf-focus-slide"
+					data-auto-animate
+					data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"
+				>
+					<figure class="gmf-focus-stage" aria-label="IBM Redbook as a precursor to GMF">
+						<img
+							data-id="gmf-logo"
+							class="gmf-logo gmf-context-logo"
+							src="images/act1/gmf_logo.png"
+							alt="GMF logo"
+						/>
+						<img
+							data-id="gmf-redbook"
+							class="gmf-redbook-image gmf-focus-item gmf-focus-redbook-image"
+							src="images/ibm-redbook.jpg"
+							alt="IBM Redbook cover about graphical editing with EMF"
+						/>
+						<img
+							data-id="gmf-examples"
+							class="gmf-examples gmf-context-examples"
+							src="images/act1/gmf-example.png"
+							alt="Three examples of GMF-based graphical modelers in Eclipse"
+						/>
+					</figure>
+					<aside class="notes">
+						<p>The story did not start from nowhere. Before GMF, there was already a bit of
+						knowledge about how to combine EMF with GEF, the graphical editing framework.</p>
+
+						<p>The IBM Redbook captured part of that knowledge. It showed that the pattern
+						was possible: EMF for the model, GEF for the graphical interaction, and a
+						dedicated editor on top.</p>
+					</aside>
+				</section>
+
+				<section
+					class="gmf-focus-slide"
+					data-auto-animate
+					data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"
+				>
+					<figure class="gmf-focus-stage" aria-label="GMF as the framework that made graphical modelers viable">
+						<img
+							data-id="gmf-logo"
+							class="gmf-logo gmf-focus-item gmf-focus-logo-image"
+							src="images/act1/gmf_logo.png"
+							alt="GMF logo"
+						/>
+						<img
+							data-id="gmf-redbook"
+							class="gmf-redbook-image gmf-context-redbook"
+							src="images/ibm-redbook.jpg"
+							alt="IBM Redbook cover about graphical editing with EMF"
+						/>
+						<img
+							data-id="gmf-examples"
+							class="gmf-examples gmf-context-examples"
+							src="images/act1/gmf-example.png"
+							alt="Three examples of GMF-based graphical modelers in Eclipse"
+						/>
+					</figure>
+					<aside class="notes">
+						<p>What GMF - the graphical modeling framework - added was industrialization.</p>
+
+						<p>Borland started building generators to apply these patterns systematically.
+						Then the initiative moved into open source. IBM joined as well, bringing part
+						of the runtime experience that existed in the Rational tools.</p>
+
+						<p>So GMF was not only a technical project. It was also a moment where several
+						actors converged around the same idea.</p>
+
+						<p>GMF was not perfect. But it proved something important.</p>
+
+						<p>Graphical modelers dedicated to a language were viable. You could build one
+						even without a huge team and deep pockets.</p>
+					</aside>
+				</section>
+
+				<section
+					class="gmf-focus-slide"
+					data-auto-animate
+					data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"
+				>
+					<figure class="gmf-focus-stage" aria-label="Examples of graphical modelers built with GMF">
+						<img
+							data-id="gmf-logo"
+							class="gmf-logo gmf-context-logo"
+							src="images/act1/gmf_logo.png"
+							alt="GMF logo"
+						/>
+						<img
+							data-id="gmf-redbook"
+							class="gmf-redbook-image gmf-context-redbook"
+							src="images/ibm-redbook.jpg"
+							alt="IBM Redbook cover about graphical editing with EMF"
+						/>
+						<img
+							data-id="gmf-examples"
+							class="gmf-examples gmf-focus-item gmf-focus-examples-image"
+							src="images/act1/gmf-example.png"
+							alt="Three examples of GMF-based graphical modelers in Eclipse"
+						/>
+					</figure>
+					<aside class="notes">
+						<p>Not only as research prototypes. Not only as demos.</p>
+
+						<p>As real tools. Used by real people. For real languages.</p>
+
+						<p>You could follow the tutorial and get a first working modeler in a few hours.
+						And for a whole generation of projects, that changed the conversation.</p>
+
+						<p>It also shaped some of our first customer work at Obeo: domain-specific
+						modelers for application design, graphical editors, and generators connected
+						to concrete software stacks.</p>
+
+						<p>but god, that was a complex stack, extracted out of Rational in a hurry, MDE
+						principles applied by the book with multiples intertwined models, model
+						transformation, then code generation, with variation points on each step
+						along the way, and generating a huge pile of code.</p>
+					</aside>
+				</section>
+
+				<section class="tech-slide">
+					<div class="tech-copy">
+						<p class="eyebrow">Xtext</p>
+						<h2>Textual syntax. IDE-grade tooling.</h2>
+						<p class="tech-lead">
+							A language could come with parsing, validation, completion,
+							navigation, and developer ergonomics.
+						</p>
+						<div class="tech-tags">
+							<span>syntax</span>
+							<span>validation</span>
+							<span>IDE experience</span>
+						</div>
+					</div>
+					<figure class="tech-media logo-media xtext-media" aria-label="Xtext logo">
+						<img src="images/act1/xtext-logo.png" alt="Xtext logo" />
+					</figure>
+					<aside class="notes">
+						<p>And of course, not every language wants to be graphical.</p>
+
+						<p>Xtext brought the textual side quite a few years later.</p>
+
+						<p>But not just syntax.</p>
+
+						<p>(pause courte)</p>
+
+						<p>Parsing. Validation. Completion. Navigation. IDE integration.</p>
+
+						<p>It showed that a DSL could feel like a real programming language.</p>
+
+						<p>The Itemis then Typefox teams also showed that you could build strongly
+						opiniated frameworks and tools. A great technology and very friendly team.</p>
+					</aside>
+				</section>
+
+				<section class="tech-slide">
+					<div class="tech-copy">
+						<p class="eyebrow">Sirius</p>
+						<h2>A complete modeling workbench.</h2>
+						<p class="tech-lead">
+							Graphical editors, tables, forms, viewpoints, and much more in one
+							environment.
+						</p>
+						<div class="tech-tags">
+							<span>graphics</span>
+							<span>tables</span>
+							<span>forms</span>
+							<span>viewpoints</span>
+						</div>
+					</div>
+					<figure class="tech-media sirius-flow" aria-label="Sirius turns an EcoreTools model into an Arduino Designer">
+						<div class="flow-card flow-source">
+							<img src="images/act1/ecoretools.png" alt="EcoreTools diagram" />
+							<figcaption>EcoreTools</figcaption>
+						</div>
+						<img
+							class="flow-logo"
+							src="images/act1/icon_sirius1024.png"
+							alt="Sirius logo"
+						/>
+						<div class="flow-card flow-result">
+							<img
+								src="images/act1/Sirius_-_Arduino_Designer.png"
+								alt="Arduino Designer diagram"
+							/>
+							<figcaption>Arduino Designer</figcaption>
+						</div>
+					</figure>
+					<aside class="notes">
+						<p>Then we came with Sirius. We had built it based on our experience, and pain,
+						in building GMF modelers for large languages.</p>
+
+						<p>With Sirius, the ambition changed again.</p>
+
+						<p>Not one editor.</p>
+
+						<p>A workbench.</p>
+
+						<p>(pause)</p>
+
+						<p>Graphical representations. Tables. Forms. Viewpoints. Several representations
+						for the same language.</p>
+
+						<p>Here, the language definition is on one side. The dedicated modeler is on the
+						other. And Sirius is what makes that transition possible.</p>
+
+						<p>Because in practice, one language often has several audiences.</p>
+
+						<p>And we made Sirius with fairly strong principles : <b>fast iteration,
+						flexibility through queries, model interpretation</b></p>
+					</aside>
+				</section>
+
+				<section class="tech-slide">
+					<div class="tech-copy">
+						<p class="eyebrow">Capella</p>
+						<h2>A dedicated language at industrial scale.</h2>
+						<p class="tech-lead">
+							System architecture expressed through rich diagrams, viewpoints,
+							engineering method, and extensibility.
+						</p>
+						<div class="tech-tags">
+							<span>systems engineering</span>
+							<span>architecture</span>
+							<span>rich diagrams</span>
+							<span>extensibility</span>
+						</div>
+					</div>
+					<figure class="tech-media logo-media capella-media" aria-label="Capella logo">
+						<img
+							src="images/act1/capella_logo_capella_baseline_black.svg"
+							alt="Capella logo"
+						/>
+						<figcaption class="proof-point">
+							<span>More than 1000</span>
+							Organisations adopted Capella
+						</figcaption>
+					</figure>
+					<aside class="notes">
+						<p>And Sirius enabled Capella. At first it acually was developped <b>FOR</b>
+						Capella, to enable it.</p>
+
+						<p>Here, the language is not an experiment.</p>
+
+						<p>It is used for systems engineering. For architecture definition. With rich
+						diagrams. Viewpoints. Method. Extensibility.</p>
+
+						<p>(pause)</p>
+
+						<p>More than 1000 organisations adopted Capella.</p>
+
+						<p>(pause)</p>
+
+						<p>Capella is important in this story because it show what happens when you
+						bring the language into organizations.</p>
+
+						<p>And that changes everything.</p>
+					</aside>
+				</section>
+
+				<section class="ecosystem-slide">
+					<div class="ecosystem-copy">
+						<h2>We know how to define languages.</h2>
+						<h2 class="fragment">We know how to process their models.</h2>
+						<h2 class="fragment">We know how to build tools around them.</h2>
+					</div>
+					<figure class="ecosystem-map" aria-label="Modeling ecosystem capability map">
+						<img
+							src="images/farming-dsl-ecore-acceleo-xtext-compare2.png"
+							alt="Capability map showing modeling technologies around definition, graphical tooling, code generation, design tools, textual languages, and model management"
+						/>
+					</figure>
+					<aside class="notes">
+						<p>(ralentir légèrement)</p>
+
+						<p>At Obeo, and with the Eclipse community, we contributed to that.</p>
+
+						<p>With EMF. With Acceleo. With Sirius. With Capella.</p>
+
+						<p>(pause)</p>
+
+						<p>And this is not only a list of projects. It is a technical ecosystem around
+						models.</p>
+
+						<p>And more broadly, as a community, we learned how to define languages.</p>
+
+						<p>How to transform, compare, generate from, and document their models.</p>
+
+						<p>How to build tools around them.</p>
+
+						<p>This map is not exhaustive. But it shows the breadth of what was built: core
+						model infrastructure, textual DSLs, graphical tooling, generation, model
+						management, and domain tools.</p>
+					</aside>
+				</section>
+
+				<section class="language-aging-slide">
+					<div class="language-aging-copy">
+						<p class="eyebrow">Engineering discipline</p>
+						<h2>We also learned how languages age.</h2>
+						<div class="aging-list">
+							<span>Evolvability</span>
+							<span>Performance</span>
+							<span>Scalability</span>
+						</div>
+						<div class="checklist-qrcode" aria-label="QR code linking to the Ecore Design Checklist">
+							<img
+								src="images/ecore-design-checklist-part1-qrcode.svg"
+								alt="QR code for the Ecore Design Checklist"
+							/>
+							<span>Ecore Design Checklist</span>
+						</div>
+					</div>
+					<figure class="checklist-visual" aria-label="Ecore design checklist focused on scalability">
+						<img
+							src="images/ecore-design-checklist2.png"
+							alt="Ecore design checklist showing scalability practices for model design"
+						/>
+					</figure>
+					<aside class="notes">
+						<p>We knew how to define languages. Then we learned something more difficult:
+						how to design them so they could survive change.</p>
+
+						<p>At some point, designing an Ecore model was not only about making the
+						metamodel correct.</p>
+
+						<p>We learned that the shape of the language has consequences years later.</p>
+
+						<p>Can it evolve? Can it scale? Can it be serialized efficiently? Can it be
+						split, reused, compared, generated from?</p>
+
+						<p>(pause)</p>
+
+						<p>We even wrote checklists for that.</p>
+
+						<p>They look modest, sometimes even playful, to be fair at that time I just had
+						my daughter and discovered the incredible world of these ponies. But they
+						capture something important: language engineering had become an engineering
+						discipline.</p>
+
+						<p>And this also shaped how we later thought about Sirius Web and SysON: not as
+						isolated tools, but as foundations for languages that must live, evolve, and
+						be used at scale.</p>
+					</aside>
+				</section>
+
+				<section class="punchline" data-background-color="#002B3C">
+					<h2>And it worked.</h2>
+					<p class="fragment">Technically.</p>
+					<aside class="notes">
+						<p>And in many ways...</p>
+
+						<p>that was the easy part.</p>
+
+						<p>(silence)</p>
+
+						<p>Because what happens next is much harder.</p>
+
+						<p>(regard salle)</p>
+
+						<p>What happens when a language meets a real organization.</p>
+
+						<p>(transition douce)</p>
+
+						<p>Adoption. Usability. Collaboration. Time.</p>
+					</aside>
+				</section>
+
+				<section class="video-slide" data-background-color="#002B3C">
+					<video
+						autoplay
+						data-autoplay
+						loop
+						muted
+						playsinline
+						preload="auto"
+						poster="images/act1/sirius-desktop-gallery-video-poster.jpg"
+						src="videos/sirius-desktop-gallery-video.mp4"
+					></video>
+					<aside class="notes">
+						<p>(let the video breathe)</p>
+
+						<p>This is what “technically” means.</p>
+
+						<p>We could build rich, dedicated environments: graphical modelers, tables,
+						forms, and workbenches for many domains.</p>
+
+						<p>Cloud deployment architectures, embedded software in satellites, ontologies,
+						component fault trees, data transformation... technically, we could do it.</p>
+
+						<p>But the next problem was no longer only technical.</p>
+					</aside>
+				</section>
+
+				<section class="chapter" data-background-color="#002B3C">
+					<p class="chapter-number">Act 2</p>
+					<h2>Then languages met organizations.</h2>
+					<aside class="notes">
+						<p>(pause)</p>
+
+						<p>That is where things changed.</p>
+
+						<p>We had learned to define languages. We had learned to transform, compare,
+						generate from, and document their models. We had learned to build tools
+						around them.</p>
+
+						<p>But when a language leaves the laboratory, or the research prototype, or even
+						the first enthusiastic team, the problem changes.</p>
+
+						<p>It is no longer only a technical problem.</p>
+
+						<p>It becomes an organizational one.</p>
+
+						<p>Let me share something that made me smile recently.</p>
+
+						<p>At Obeo, we do R&amp;D. We produce scientific reports, and these reports are
+						audited by external reviewers.</p>
+
+						<p>After one of these audits, someone asked us: your work is about technology,
+						concepts, and tooling. But isn't there also a lot of human factors,
+						organizational aspects, and pedagogy involved?</p>
+
+						<p>And that question was exactly right.</p>
+					</aside>
+				</section>
+
+				<section>
+					<p class="eyebrow">The hard questions changed</p>
+					<div class="question-list">
+						<p>Who uses the language?</p>
+						<p>How do people learn it?</p>
+						<p>Who is allowed to change it?</p>
+						<p>How do teams collaborate?</p>
+						<p>How does it survive fifteen years?</p>
+					</div>
+					<aside class="notes">
+						<p>This is where Capella enters the story.</p>
+
+						<p>Not as a product success story.</p>
+
+						<p>As an experience at industrial scale.</p>
+
+						<p>For many languages and tools, the audience is very small. It is difficult to
+						extract robust patterns from that.</p>
+
+						<p>Capella is different. It is deployed widely enough that the organizational
+						questions become visible.</p>
+
+						<p>Once a language is used by an organization, the hard questions are no longer
+						only about the metamodel.</p>
+
+						<p>Who is going to use it? How do people learn it? Who is allowed to change it?
+						How do teams collaborate? How does it survive not for six months, but for ten
+						or fifteen years?</p>
+					</aside>
+				</section>
+
+				<section class="common-table-illustration">
+					<figure>
+						<img
+							src="images/from many views to a model being the common table.png"
+							alt="Illustration showing a shift from many separate views and conversations to one shared Capella model as the common table"
+						/>
+					</figure>
+					<aside class="notes">
+						<p>I have seen meetings where we arrived with slides, diagrams, and documents,
+						and very quickly the discussion started to drift.</p>
+
+						<p>Everyone had a slightly different representation of the system. Everyone was
+						right from their own point of view, but the views did not quite meet.</p>
+
+						<p>And then someone opened the Capella model.</p>
+
+						<p>(pause)</p>
+
+						<p>We were no longer discussing a frozen picture. We could navigate. We could go
+						back to an operational need. We could follow a function. We could see which
+						component was involved. We could check an interface. Make a change.</p>
+
+						<p>The model became the common table. Not just an engineering deliverable, but a
+						support for conversation between people who did not have exactly the same
+						job.</p>
+
+						<p>and when we build such languages that's what we are trying to achieve</p>
+					</aside>
+				</section>
+
+				<section class="split arcadia-slide">
+					<div>
+						<p class="eyebrow">Capella + Arcadia</p>
+						<h2>The metamodel is only the beginning.</h2>
+						<p class="lead">The tool carried a method.</p>
+					</div>
+					<figure class="arcadia-visual" aria-label="Arcadia methodology viewpoints and architecture levels">
+						<img
+							src="images/arcadia.png"
+							alt="Arcadia methodology diagram showing operational analysis, functional need, logical architecture, and physical architecture"
+						/>
+					</figure>
+					<aside class="notes">
+						<p>And speaking of Capella.</p>
+
+						<p>It is not only a modeling tool. It carry a method, Arcadia. It used the
+						vocabulary of system engineers. It gave people an opinionated way to work.</p>
+
+						<p>And around the tool, a whole ecosystem had to exist: training, documentation,
+						tutorials, books, webinars, case studies, reference material, and experience
+						reports.</p>
+
+						<p>At scale, the metamodel is only the beginning. The language also needs
+						governance, versioning, reviews, integration with other practices, and trust.</p>
+					</aside>
+				</section>
+
+				<section class="language-ecosystem-slide">
+					<div class="language-ecosystem-copy">
+						<p class="eyebrow">Transmission</p>
+						<h2>A language needs an ecosystem to live.</h2>
+						<p class="tech-lead">People need places to meet, stories to learn from, and material to transmit practice.</p>
+					</div>
+					<div class="ecosystem-pillars staged-visual">
+						<figure class="ecosystem-pillar-main fragment" data-fragment-index="0">
+							<img src="images/capella-conference.png" alt="Capella community events and training sessions" />
+							<figcaption>
+								<span>Community</span>
+								<small>Federate practitioners</small>
+							</figcaption>
+						</figure>
+						<figure class="fragment" data-fragment-index="0">
+							<img src="images/capella-case-studies.png" alt="Capella industrial case studies from multiple organizations" />
+							<figcaption>
+								<span>Experience reports</span>
+								<small>Share what worked</small>
+							</figcaption>
+						</figure>
+						<figure class="fragment" data-fragment-index="0">
+							<img src="images/capella_book-crop.jpg" alt="Book cover for Model-based System and Architecture Engineering with the Arcadia Method" />
+							<figcaption>
+								<span>Training</span>
+								<small>Make practice accessible</small>
+							</figcaption>
+						</figure>
+					</div>
+					<aside class="notes">
+						<p>On the Capella side, Obeo also helped with something that was not purely
+						technical.</p>
+
+						<p>We helped federate the community around the tool. We created situations where
+						users could share experience reports. And we helped make training accessible,
+						so that the method and the language could spread beyond the first experts.</p>
+
+						<p>This matters because adoption is not only a product problem. It is a
+						transmission problem.</p>
+
+						<p>(transition)</p>
+
+						<p>And when this transmission works, something interesting happens. People stop
+						talking about the tool itself.</p>
+					</aside>
+				</section>
+
+				<section class="quote" data-background-color="#002B3C">
+					<blockquote>
+						At some point, the tool disappears.
+						<strong>What remains is the language people use to think together.</strong>
+					</blockquote>
+					<aside class="notes">
+						<p>(slow down)</p>
+
+						<p>When things work well, people stop talking about the tool. They talk through
+						the language.</p>
+
+						<p>The language becomes the way they name things, compare options, ask
+						questions, and make decisions together.</p>
+
+						<p>(transition)</p>
+
+						<p>But this also exposed something less comfortable. When languages met
+						organizations, our tools also met users who had not asked to become modeling
+						tool experts.</p>
+					</aside>
+				</section>
+
+				<section class="chapter" data-background-color="#002B3C">
+					<p class="chapter-number">Act 3</p>
+					<h2>We confused expressivity with usability.</h2>
+					<aside class="notes">
+						<p>(pause)</p>
+
+						<p>So the next lesson is more uncomfortable.</p>
+
+						<p>We were not wrong to make languages more expressive. We needed that
+						expressivity.</p>
+
+						<p>But adoption at scale made another problem impossible to ignore.</p>
+					</aside>
+				</section>
+
+				<section>
+					<h2>We kept making languages more expressive.</h2>
+					<p class="fragment lead">But users were often asking for something else.</p>
+					<aside class="notes">
+						<p>For years, a lot of our energy went into precision, coverage, extensibility,
+						and tooling power.</p>
+
+						<p>And none of that was irrational. These languages were used for serious
+						engineering work.</p>
+
+						<p>But many users were asking for something more basic: help me understand what
+						to do. Help me find the right thing. Help me trust that the tool is still
+						responding. Help me collaborate without having to understand the whole
+						technical environment.</p>
+
+						<p>What we call the <b>User Experience</b> as a whole.</p>
+					</aside>
+				</section>
+
+				<section class="workbench-archaeology-slide" data-auto-animate>
+					<div class="workbench-archaeology-copy">
+						<p class="eyebrow">A familiar desktop archaeology</p>
+						<h2 data-id="workbench-title">Many useful concepts.</h2>
+					</div>
+
+					<figure class="workbench-archaeology-visual" data-id="workbench-visual">
+						<img
+							src="images/eclipse-workbench-concepts.png"
+							alt="An Eclipse IDE with all the concepts used in the UI"
+						/>
+					</figure>
+
+					<aside class="notes">
+						<p>Sirius Desktop was based on Eclipse, with the full set of IDE metaphors
+						around it.</p>
+
+						<p>When you spend years in that environment, you see the richness of these
+						metaphors: perspectives, views, editors, properties, commands, builders,
+						validators, problems, preferences.</p>
+
+						<p>Most of them are useful.</p>
+
+						<p>But for a domain expert, or even for many engineers, the experience can feel
+						like an aircraft cockpit.</p>
+
+						<p>A very concrete example is the <b>Eclipse workspace</b>. There is a zone
+						where you import or create projects. It is not necessarily the place where
+						files are stored on disk.</p>
+
+						<p>It may need to be refreshed when something changes outside Eclipse.</p>
+
+						<p>For us, that was normal. For many users, it was just cognitive load.</p>
+					</aside>
+				</section>
+
+				<section class="workbench-archaeology-slide maif-archaeology-slide" data-auto-animate>
+					<div class="workbench-archaeology-copy">
+						<p class="eyebrow">A familiar desktop archaeology</p>
+						<h2 data-id="workbench-title">We had to hid Eclipse.</h2>
+					</div>
+
+					<figure class="workbench-archaeology-visual" data-id="workbench-visual">
+						<img
+							src="images/maif-workbench.png"
+							alt="MAIF dedicated modeling workbench based on Eclipse"
+						/>
+					</figure>
+
+					<aside class="notes">
+						<p>In several customer projects, for instance this one with MAIF, part of the
+						work was to hide Eclipse: the workspace, the perspectives, the menus.</p>
+
+						<p>We kept only the navigation that made sense from the modeling tool. The goal
+						was not to deny the technical richness underneath. The goal was to stop
+						asking every user to understand it before they could do useful work.</p>
+
+						<p>(transition)</p>
+
+						<p>And this is where an important distinction became visible.</p>
+					</aside>
+				</section>
+
+				<section class="statement usability-statement-slide">
+					<h2>None of these choices were irrational.</h2>
+					<h2 class="fragment">Most of them were useful.</h2>
+					<h2 class="fragment accent">But usefulness does not automatically create usability.</h2>
+					<aside class="notes">
+						<p>There is another example I find very revealing.</p>
+
+						<p>For years, one of the topics that came back again and again from Capella
+						users was auto-layout.</p>
+
+						<p>It has an immediate impact on the user experience. People see it. They feel
+						it. It affects whether the model is readable and whether people are willing
+						to work with it.</p>
+
+						<p>And yet, over many years, almost nobody funded significant progress on that
+						topic.</p>
+
+						<p>Everyone agreed that user experience mattered. But when priorities were set,
+						resources naturally went to precise, domain-specific capabilities.</p>
+
+						<p>(pause)</p>
+
+						<p>That says something about our maturity as an industry. We know how to explore
+						technical solutions. We are less disciplined about bringing them all the way
+						to the user.</p>
+
+						<p>(pause)</p>
+
+						<p>We often confused expressivity with usability.</p>
+
+						<p>(transition)</p>
+
+						<p>And once you see that clearly, the next question becomes hard: what do you do
+						with tools that are powerful, adopted, and yet built on assumptions that no
+						longer fit the world you need to reach?</p>
+					</aside>
+				</section>
+
+				<section class="chapter" data-background-color="#002B3C">
+					<p class="chapter-number">Act 4</p>
+					<h2>2019.</h2>
+					<img class="fragment" src="images/sirius-web-logo-white2.svg" width="70%" />
+					<aside class="notes">
+						<p>Fast forward to 2019.</p>
+
+						<p>Sirius Desktop had become a strong platform. It covered a lot of what I
+						described at the beginning: graphical editors, tables, forms, viewpoints,
+						queries, and integration with the Eclipse ecosystem.</p>
+
+						<p>But the world around it had changed.</p>
+
+						<p>User expectations had changed. Modeling was often perceived as heavy, not
+						practical enough, not agile enough, and too difficult to share in everyday
+						collaboration.</p>
+
+						<p>Around 2015, it was already clear that the Web was becoming a major platform
+						for serious applications. Browsers were capable of things that would have
+						seemed unrealistic a few years before.</p>
+
+						<p>For us, 2019 was not the beginning of the question. It was the moment when
+						the question became a public decision.</p>
+
+						<p>And for modeling tools, the Web was an obvious answer to many collaboration
+						problems.</p>
+
+						<p>But the hard part was not why. The hard part was how.</p>
+					</aside>
+				</section>
+
+				<section class="quote">
+					<blockquote>
+						I was convinced modeling had to become more accessible.
+						<strong>
+							I was much less certain we could rebuild the foundations required to make it happen.
+						</strong>
+					</blockquote>
+					<aside class="notes">
+						<p>Between 2015 and 2018, we tried prototypes. Some were useful. Some were false
+						starts.</p>
+
+						<p>The technology world was a jungle, and our choices would engage us for five,
+						ten, maybe fifteen years.</p>
+
+						<p>How much compatibility should we keep? What belongs on the client? What
+						belongs on the server?</p>
+
+						<p>And, more personally, could a small company like Obeo rebuild enough of what
+						IBM, Borland, Eclipse, EMF, and GMF had given us?</p>
+
+						<p>Not everything. But enough. Enough to build serious modeling tools again.</p>
+					</aside>
+				</section>
+
+				<section class="timeline paper-context-slide">
+					<div
+						class="paper-context-image"
+						role="img"
+						aria-label="First page of the Sirius Web experience report in the Journal of Object Technology"
+					></div>
+					<p class="eyebrow">The decision was not “move to the Web”</p>
+					<h2>It was to rebuild the assumptions around modeling tools.</h2>
+
+					<div class="timeline-line">
+						<span>Sirius Desktop</span>
+						<span>Successive prototypes</span>
+						<span>Experience report</span>
+						<span>Sirius Web platform</span>
+					</div>
+					<aside class="notes">
+						<p>By 2018, the ideas were becoming clearer. By the end of 2019, we had
+						something concrete enough to publish as open source.</p>
+
+						<p>But the path was not direct. Before the experience report, there had been
+						several prototypes, experiments, and false starts.</p>
+
+						<p>What we wanted to preserve from Sirius was essential: the visual dimension,
+						the ability to iterate quickly, and the flexibility brought by queries over
+						the language.</p>
+
+						<p>the EMF runtime: still a great brick, especially in a more constrained
+						environment where we could avoid the classic pitfalls.</p>
+
+						<p>This is what the Sirius Web experience report documents: not only the
+						architecture, but the rationale behind the choices we made while moving from
+						an Eclipse workbench to a Web platform.</p>
+
+						<p>But we did not create a separate Web team starting from zero. We trained the
+						people who already carried the Eclipse and modeling experience, and let them
+						bring that experience into the new world.</p>
+
+						<p>That takes time. But it also preserves memory.</p>
+
+						<p>(transition)</p>
+
+						<p>So the decision was not simply to move to the Web. It was to rebuild the
+						assumptions around modeling tools.</p>
+					</aside>
+				</section>
+
+
+				<section>
+					<h2>The Web is not just a technology choice.</h2>
+					<p class="lead">It is a constraint.</p>
+					<div class="constraint-grid">
+						<span>Instant access</span>
+						<span>Shared state</span>
+						<span>Continuous evolution</span>
+						<span>Lower ceremony</span>
+					</div>
+					<aside class="notes">
+						<p>Once we accepted that, the Web became much more than a target technology.</p>
+
+						<p>It became a constraint. And that constraint forced useful questions.</p>
+
+						<p>You know, creativity always stems from constraints.</p>
+
+						<p>With the desktop, many things could remain implicit. With the Web, they
+						become visible.</p>
+
+						<p>What is on the client? What is on the server? What is persistent? What is
+						computed on demand? What is shared? What must remain fast despite latency?</p>
+
+						<p>This is not only architecture. It changes the user experience.</p>
+					</aside>
+				</section>
+
+				<section class="url-social-slide">
+					<div>
+						<p class="eyebrow">Addressability</p>
+						<h2>A URL changes the social life of a model.</h2>
+						<p class="tech-lead">The model is no longer something you send around. It becomes a place you can point to.</p>
+					</div>
+					<div class="url-flow staged-visual" aria-label="A model view can be shared by URL and become part of review and decision workflows">
+						<span>model</span>
+						<span>view</span>
+						<span class="fragment" data-fragment-index="0">URL</span>
+						<span class="fragment" data-fragment-index="0">review</span>
+						<span class="fragment" data-fragment-index="0">decision</span>
+					</div>
+					<aside class="notes">
+						<p>For example, sharing by URL is a simple Web constraint. But once a view or a
+						representation can be addressed by a link, collaboration changes.</p>
+
+						<p>You no longer say: open this project, then find this diagram, then look in
+						this corner. You say: look exactly here.</p>
+
+						<p>That changes reviews. It changes support. It changes documentation. It
+						changes decision making.</p>
+
+						<p>This is one of the moments where the Web stops being a deployment target and
+						starts changing the social life of the model.</p>
+					</aside>
+				</section>
+
+				<section class="rebuild-slide" data-background-color="#002B3C">
+					<h2>Rebuilding Sirius Web meant reopening decisions we thought were settled.</h2>
+					<figure class="rebuild-video fragment current-visible" data-fragment-index="0">
+						<video
+							autoplay
+							loop
+							muted
+							playsinline
+							preload="auto"
+							src="videos/sirius-web-palette.mp4"
+						></video>
+					</figure>
+					<div class="rebuild-grid">
+						<div class="fragment" data-fragment-index="0">
+							<h3>Iterate</h3>
+							<p>Contextual palettes<br />Link creation</p>
+						</div>
+						<div class="fragment" data-fragment-index="1">
+							<h3>Unlearn</h3>
+							<p>Eclipse habits<br />Desktop assumptions</p>
+						</div>
+						<div class="fragment" data-fragment-index="2">
+							<h3>Rediscover</h3>
+							<p>The problems<br />those habits solved</p>
+						</div>
+					</div>
+					<aside class="notes">
+						<p>One Eclipse assumption no longer holds in the same way: that power can
+						justify complexity.</p>
+
+						<p>In the Eclipse ecosystem, a lot of complexity was acceptable because it gave
+						access to a lot of power.</p>
+
+						<p>On the Web, that tolerance is much lower. The experience must be more
+						immediate. The power is still necessary, but it has to be exposed
+						differently.</p>
+
+						<p>And this is not a one-time design decision. In Sirius Web, we are still
+						iterating on very basic elements of the diagram experience.</p>
+
+						<p>For example, we are around the fourth iteration on key interactions such as
+						the contextual palette and the creation of links.</p>
+
+						<p>Sometimes this means unlearning habits inherited from the Eclipse frameworks.
+						And sometimes, just as importantly, it means rediscovering why those habits
+						existed in the first place.</p>
+
+						<p>That is what rebuilding foundations really means. You do not only move
+						technology. You re-open decisions that had become invisible.</p>
+					</aside>
+				</section>
+
+				<section class="performance-slide">
+					<div>
+						<p class="eyebrow">Trust</p>
+						<h2>Performance is part of the language experience.</h2>
+					</div>
+					<div class="trust-ladder staged-visual" aria-label="Response time affects trust in the modeling tool">
+						<span class="fragment" data-fragment-index="0">
+							<strong>Fast enough</strong><small>the tool disappears</small>
+						</span>
+						<span class="fragment" data-fragment-index="1">
+							<strong>Uncertain</strong><small>the user hesitates</small>
+						</span>
+						<span class="fragment" data-fragment-index="2">
+							<strong>Slow</strong><small>the action is avoided</small>
+						</span>
+					</div>
+					<aside class="notes">
+						<p>I wanted to insist on performance here, because in modeling tools performance
+						is often discussed as an architecture topic.</p>
+
+						<p>Of course it is an architecture topic. But it is also an experience topic.</p>
+
+						<p>When a response time depends too much on the size of the model, the tool
+						becomes unpredictable.</p>
+
+						<p>An action is instant on a small model. Then it takes eight seconds. Then
+						thirty seconds. Then it feels blocked.</p>
+
+						<p>And the user does not necessarily know what changed. Did I do something
+						wrong? Is the tool frozen? Is the model too large? Should I avoid this
+						command?</p>
+
+						<p>At that point, the problem is no longer only latency. The problem is trust.</p>
+
+						<p>This is why, in Sirius Web, we care so much about patterns that work with
+						very large models: asynchronous dialogs, filtering, pagination, queries that
+						do not assume that everything is locally available, and UI choices that
+						remain predictable at scale.</p>
+					</aside>
+				</section>
+
+				<section class="split">
+					<div>
+						<p class="eyebrow">From editor to platform</p>
+						<h2>A language needs a platform to live.</h2>
+					</div>
+					<div class="platform-diagram staged-visual" aria-label="Collaborative language platform">
+						<span class="fragment" data-fragment-index="0">Language</span>
+						<span class="fragment" data-fragment-index="1">Experience</span>
+						<span class="fragment" data-fragment-index="2">Collaboration</span>
+						<span class="fragment" data-fragment-index="3">Capitalization</span>
+					</div>
+					<aside class="notes">
+						<p>This is the other shift I would describe.</p>
+
+						<p>There is a difference between porting Sirius to the Web and rethinking Sirius
+						for the Web.</p>
+
+						<p>Porting means rebuilding the diagram, the palette, the properties, the
+						explorer, the actions. That was necessary. But it was not sufficient.</p>
+
+						<p>Rethinking means accepting that the diagram is no longer the whole story.</p>
+
+						<p>First, the <b>language</b> still matters. Its concepts, its constraints, its
+						semantics. Without that, there is no foundation.</p>
+
+						<p>A language needs its definition, of course. But it also needs an
+						<b>experience</b>: diagrams, trees, tables, forms, details views, and
+						guidance adapted to the work people are doing. This is how the user discover
+						the language and manipulate it.</p>
+
+						<p>It needs <b>collaboration</b>, because the model is no longer only a local
+						file opened by one expert. It becomes something people discuss, review,
+						share, and connect to other work. And collaboration have an impact into how
+						you design the model.</p>
+
+						<p>And it needs <b>capitalization</b>: libraries, publication, reusable assets,
+						APIs, extension points, and workflows that let an organization build on what
+						it has already learned.</p>
+
+						<p>(pause)</p>
+
+						<p>when you think about what I said in the begining and what we were told was
+						required for languages, then this gives a slightly different picture.</p>
+
+						<p>That is why I'd like to see Sirius Web less as a diagram editor in a browser,
+						and more as a platform for modeling experiences.</p>
+
+						<p>SysON makes the change concrete: a specialized engineering tool, built on top
+						of Sirius Web, for a language that is itself still emerging and for which
+						it's useful to look through these 4 aspects (transition)</p>
+
+						<p>But before moving to SysON, it is worth looking at Sirius Web as it exists
+						today.</p>
+					</aside>
+				</section>
+
+				<section class="siriusweb-today-slide" data-auto-animate>
+					<div class="siriusweb-today-copy">
+						<p class="eyebrow">Sirius Web today</p>
+						<h2 data-id="siriusweb-today-title">
+							Sirius Web is no longer a rebuild.
+						</h2>
+						<p class="tech-lead">
+							It is a platform people build on.
+						</p>
+						<div class="siriusweb-facts">
+							<span>9 active committers</span>
+							<span>one release every 8 weeks</span>
+							<span>SysON · Papyrus Web · industrial workbenches</span>
+						</div>
+					</div>
+					<div class="siriusweb-demo-grid" aria-label="Three Sirius Web consumers and use cases">
+						<figure class="siriusweb-demo-card" data-id="siriusweb-papyrus">
+							<video muted playsinline preload="metadata" src="videos/siriusweb-papyrus.mp4"></video>
+							<figcaption>Papyrus Web</figcaption>
+						</figure>
+						<figure class="siriusweb-demo-card" data-id="siriusweb-guesstimate">
+							<video muted playsinline preload="metadata" src="videos/siriusweb-guesstimate.mp4"></video>
+							<figcaption>Guesstimate</figcaption>
+						</figure>
+						<figure class="siriusweb-demo-card" data-id="siriusweb-value-chain">
+							<video muted playsinline preload="metadata" src="videos/value-chain-siriusweb.mp4"></video>
+							<figcaption>Value chain workbench</figcaption>
+						</figure>
+					</div>
+					<aside class="notes">
+						<p>At this point, Sirius Web is not only the result of a migration.</p>
+
+						<p>It is a living platform.</p>
+
+						<p>Today it has nine active committers, a release every eight weeks, and it is
+						already used by significant open source consumers.</p>
+
+						<p>SysON is one of them. Papyrus Web is another one.</p>
+
+						<p>And beyond these projects, Sirius Web is also used to build dedicated
+						industrial modeling experiences, where the value is not only the diagram, but
+						the whole modeling workflow around it.</p>
+
+						<p>So the question is no longer only: can we rebuild Sirius on the Web but what
+						can other people build on top of it now ?</p>
+					</aside>
+				</section>
+
+				<section class="siriusweb-today-slide siriusweb-focus-slide" data-auto-animate>
+					<div class="siriusweb-today-copy">
+						<p class="eyebrow">Sirius Web today</p>
+						<h2 data-id="siriusweb-today-title">UML 2 Modeler</h2>
+					</div>
+					<div class="siriusweb-demo-grid is-focused">
+						<figure class="siriusweb-demo-card is-active" data-id="siriusweb-papyrus">
+							<video
+								autoplay
+								data-autoplay
+								loop
+								muted
+								playsinline
+								preload="auto"
+								src="videos/siriusweb-papyrus.mp4"
+							></video>
+							<figcaption>Papyrus Web</figcaption>
+						</figure>
+						<figure class="siriusweb-demo-card is-secondary" data-id="siriusweb-guesstimate">
+							<video muted playsinline preload="metadata" src="videos/siriusweb-guesstimate.mp4"></video>
+							<figcaption>Guesstimate</figcaption>
+						</figure>
+						<figure class="siriusweb-demo-card is-secondary" data-id="siriusweb-value-chain">
+							<video muted playsinline preload="metadata" src="videos/value-chain-siriusweb.mp4"></video>
+							<figcaption>Value chain workbench</figcaption>
+						</figure>
+					</div>
+					<aside class="notes">
+						<p>First, Papyrus Web.</p>
+
+						<p>This matters because it shows Sirius Web being reused by another major open
+						source modeling environment.</p>
+
+						<p>It also matters because UML is not a small example. The metamodel is complex,
+						and the distance between the language structure and the notation is real.</p>
+
+						<p>That is an important test for a platform. It must support complex metamodels,
+						defined elsewhere, and products that are not simply our own.</p>
+					</aside>
+				</section>
+
+				<section class="siriusweb-today-slide siriusweb-focus-slide" data-auto-animate>
+					<div class="siriusweb-today-copy">
+						<p class="eyebrow">Sirius Web today</p>
+						<h2 data-id="siriusweb-today-title">Probability Variables</h2>
+					</div>
+					<div class="siriusweb-demo-grid is-focused">
+						<figure class="siriusweb-demo-card is-secondary" data-id="siriusweb-papyrus">
+							<video muted playsinline preload="metadata" src="videos/siriusweb-papyrus.mp4"></video>
+							<figcaption>Papyrus Web</figcaption>
+						</figure>
+						<figure class="siriusweb-demo-card is-active" data-id="siriusweb-guesstimate">
+							<video
+								autoplay
+								data-autoplay
+								loop
+								muted
+								playsinline
+								preload="auto"
+								src="videos/siriusweb-guesstimate.mp4"
+							></video>
+							<figcaption>Guesstimate</figcaption>
+						</figure>
+						<figure class="siriusweb-demo-card is-secondary" data-id="siriusweb-value-chain">
+							<video muted playsinline preload="metadata" src="videos/value-chain-siriusweb.mp4"></video>
+							<figcaption>Value chain workbench</figcaption>
+						</figure>
+					</div>
+					<aside class="notes">
+						<p>Second, it also supports much more specific modeling experiences.</p>
+
+						<p>Here again, the important point is not only that a diagram is rendered in a
+						browser. It is that the modeling workflow can be shaped for a domain and for
+						a concrete audience.</p>
+
+						<p>Here, the user manipulates probabilities and immediately sees how the
+						distribution of a variable changes.</p>
+
+						<p>It is also a good example of something the Web makes easier: reusing the
+						right third-party libraries instead of rebuilding everything inside the
+						modeling framework.</p>
+
+						<p>This is where the Web becomes interesting: the experience can be lighter,
+						more direct, and closer to the problem people are trying to solve.</p>
+					</aside>
+				</section>
+
+				<section class="siriusweb-today-slide siriusweb-focus-slide" data-auto-animate>
+					<div class="siriusweb-today-copy">
+						<p class="eyebrow">Sirius Web today</p>
+						<h2 data-id="siriusweb-today-title">Flexible Modeling</h2>
+					</div>
+					<div class="siriusweb-demo-grid is-focused">
+						<figure class="siriusweb-demo-card is-secondary" data-id="siriusweb-papyrus">
+							<video muted playsinline preload="metadata" src="videos/siriusweb-papyrus.mp4"></video>
+							<figcaption>Papyrus Web</figcaption>
+						</figure>
+						<figure class="siriusweb-demo-card is-secondary" data-id="siriusweb-guesstimate">
+							<video muted playsinline preload="metadata" src="videos/siriusweb-guesstimate.mp4"></video>
+							<figcaption>Guesstimate</figcaption>
+						</figure>
+						<figure class="siriusweb-demo-card is-active" data-id="siriusweb-value-chain">
+							<video
+								autoplay
+								data-autoplay
+								loop
+								muted
+								playsinline
+								preload="auto"
+								src="videos/value-chain-siriusweb.mp4"
+							></video>
+							<figcaption>Value chain workbench (ITEA)</figcaption>
+						</figure>
+					</div>
+					<aside class="notes">
+						<p>Third, the same foundation can support more flexible workflows.</p>
+
+						<p>If you did submit projects to ITEA in the last few years you know this
+						notation.</p>
+
+						<p>Here the topic is not exactly to be perfectly structured, but it is a
+						language that allows direct change of types so that when you work
+						collaboratively you can change things easily, without loosing relationships.
+						Then validation rules help you get in line with the language.</p>
+
+						<p>More flexible modeling, another important topic barely approached today,
+						which has deep implications in term of user experience.</p>
+
+						<p>And this leads to the next twenty years. Because the next question is not
+						only how we modernize old tools. It is how we help new language ecosystems
+						emerge.</p>
+					</aside>
+				</section>
+
+				<section class="chapter" data-background-color="#002B3C">
+					<p class="chapter-number">Act 6</p>
+					<h2>The next twenty years.</h2>
+					<aside class="notes">
+						<p>Obeo was created 20 years ago, we actually celebrated this anniversary for a
+						whole week at the beginning of June.</p>
+
+						<p>(pause)</p>
+
+						<p>For the next twenty years, I do not think the question is whether we need
+						less language.</p>
+
+						<p>I think we will need more language. But language that is easier to practice,
+						easier to share, easier to integrate, and easier to evolve.</p>
+					</aside>
+				</section>
+
+				<section
+					class="sysml-slide"
+					data-background="images/sysmlv2.png"
+					data-background-size="32rem"
+					data-background-position="73% 50%"
+					>
+						<p class="eyebrow">Open standard</p>
+						<h2>SysML v2 reopens the ecosystem.</h2>
+						<p class="tech-lead">A new standard also means new practices, new tools, and new choices.</p>
+						<aside class="notes">
+							<p>SysML v2 changes the context in a deep way.</p>
+
+							<p>It is not only a new version of SysML. It is probably one of the largest
+							opportunities for renewed adoption that modeling languages have seen in a
+							long time.</p>
+
+							<p>(pause)</p>
+
+							<p>Several things realign at the same time. The standard evolves. Tools have to
+							be rethought. Users have to re-evaluate their practices. Organizations that
+							hesitated with MBSE can start again from a more modern base.</p>
+
+							<p>And for the SLE community, SysML v2 brings language engineering questions
+							back to the center: explicit semantics, textual and graphical syntax, APIs,
+							interoperability, analysis, transformation, and automation.</p>
+
+							<p>It also brings new extension mechanisms: a grounded core, an extensive
+							standard library, and new ways to specialize the language without leaving
+							the standard.</p>
+
+							<p>From a language design POV, this is also, AFAIK, the first language
+							normalizing both a textual and graphical syntax.</p>
+
+							<p>(pause)</p>
+
+							<p>Being a significant actor in the MBSE - Model Based System Engineering
+							world, we were following the directions and developments of this standard
+							with interest. So we created SysON.</p>
+						</aside>
+				</section>
+
+				<section class="standard-window-slide syson-timing-slide">
+					<div class="syson-timing-copy">
+						<p class="eyebrow">Timing</p>
+						<img class="syson-timing-logo" src="images/logo_syson.svg" alt="SysON" />
+						<h2>A new standard is a rare moment of openness.</h2>
+						<p class="tech-lead">With CEA, we started SysON so SysML v2 has a durable open-source platform while practices are still forming.</p>
+					</div>
+					<div class="syson-timing-visual">
+						<figure class="syson-screenshot">
+							<img src="images/syson-screenshot.png" alt="SysON web-based SysML v2 modeling environment" />
+						</figure>
+						<div class="standard-window" aria-label="A standard emerges before practices and ecosystems become locked in">
+							<span>standard appears</span>
+							<span>practices form</span>
+							<span>tools stabilize</span>
+							<span>ecosystem locks in</span>
+						</div>
+						<div class="oss-position staged-visual">
+							<span class="fragment" data-fragment-index="0">open source</span>
+							<span class="fragment" data-fragment-index="0">EPL</span>
+							<span class="fragment" data-fragment-index="0">extensible</span>
+							<span class="fragment" data-fragment-index="0">supported</span>
+						</div>
+					</div>
+					<aside class="notes">
+						<p>This is why SysML v2 is such an interesting moment.</p>
+
+						<p>It is not only a new language. It is a window.</p>
+
+						<p><b>Modeling is cool again</b>. Modeling, but revisited.</p>
+
+						<p>This is also why we started the SysON project with CEA. The goal is not only
+						to have one more SysML v2 tool. The goal is to make sure that a durable,
+						supported, extensible, open-source platform exists for SysML v2 while the
+						ecosystem is still being formed.</p>
+
+						<p>(pause)</p>
+
+						<p>Without that kind of platform, I think many promises of SysML v2 will remain
+						theoretical. A specification is necessary, but it is not enough. People need
+						a way to practice the language, to experiment, to teach it, to extend it, to
+						integrate it, and to build industrial workflows around it.</p>
+
+						<p>(pause)</p>
+
+						<p>And putting this under open source, under the EPL, is not just a licensing
+						detail. It changes where the value has to be.</p>
+
+						<p>If the common ability to model in SysML v2 is available as an open platform,
+						then every actor in the ecosystem has to position its value on more precise
+						things: domain extensions, integration, analysis, methods, services,
+						expertise, collaboration, certification, or deployment at scale.</p>
+
+						<p>For me, that is healthy. It raises the baseline. And it gives the SysML v2
+						ecosystem a better chance to remain open while it grows.</p>
+					</aside>
+				</section>
+
+				<section class="ecosystem-formation-slide">
+					<div class="ecosystem-formation-copy">
+						<p class="eyebrow">SysON</p>
+						<h2>Arriving while the ecosystem is forming.</h2>
+						<p class="fragment lead">Not after the choices are locked in.</p>
+					</div>
+					<div class="formation-window" aria-label="SysON enters while practices and tools are still forming">
+						<div class="formation-track">
+							<div class="formation-phase is-open">
+								<span class="phase-dot"></span>
+								<strong>standard appears</strong>
+								<small>language is new</small>
+							</div>
+							<div class="formation-phase is-open">
+								<span class="phase-dot"></span>
+								<strong>practices form</strong>
+								<small>methods are negotiated</small>
+							</div>
+							<div class="formation-phase">
+								<span class="phase-dot"></span>
+								<strong>tools stabilize</strong>
+								<small>habits settle</small>
+							</div>
+							<div class="formation-phase is-locked">
+								<span class="phase-dot"></span>
+								<strong>ecosystem locks in</strong>
+								<small>choices harden</small>
+							</div>
+						</div>
+						<div class="formation-syson-marker">
+							<span>SysON</span>
+							<small>open platform enters here</small>
+						</div>
+					</div>
+					<aside class="notes">
+						<p>This timing matters a lot.</p>
+
+						<p>When a new standard appears, the ecosystem is not immediately stabilized.
+						People are still learning what the language means in practice. Organizations
+						are still deciding how they want to use it. Tool vendors are still deciding
+						what kind of experience they want to provide.</p>
+
+						<p>That moment does not last forever.</p>
+
+						<p>After a while, tools stabilize. Training material appears. Extensions are
+						written. Formats, habits, integrations, and procurement decisions become
+						harder to change.</p>
+
+						<p>This is what SysON makes possible.</p>
+
+						<p>With UML and SysML v1, open source initiatives like Topcased, Papyrus, and
+						others played a major role. But they often arrived in ecosystems that were
+						already structured.</p>
+
+						<p>Commercial tools were installed. Methods, formats, extensions, training, and
+						toolchains had already formed around them.</p>
+
+						<p>With SysML v2, the timing is different. The standard is new. Practices are
+						still forming. Tools are still appearing. Organizations still have choices to
+						make.</p>
+
+						<p>The goal with SysON is to make a modern, Web-based, extensible, open source
+						SysML v2 modeler available while the ecosystem is being formed.</p>
+
+						<p>Not after the battle. While the choices are being made.</p>
+					</aside>
+				</section>
+				
+				<section class="syson-arcadia-video-slide">
+					<p class="eyebrow">best of both worlds</p>
+					<h2>Arcadia/Capella over SysON</h2>
+					<video
+						autoplay
+						data-autoplay
+						loop
+						muted
+						playsinline
+						preload="auto"
+						src="videos/SysON_Arcadia_video_HD_2x.mp4"
+					></video>
+					<aside class="notes">
+						<p>With SysML v2 and SysON, I do not think the only future is to build pure DSLs
+						completely separated from standards. There is another possibility.</p>
+
+						<p>We can customize the SysML v2 experience itself. We can provide an
+						Arcadia-oriented library. We can customize the editors, the explorer, the
+						views, the actions, the vocabulary exposed to the user.</p>
+
+						<p>Under the hood, it is still SysML v2. The standard is still there. The
+						interoperability story is still there.</p>
+
+						<p>how does it look ? We built a SysMLv2 library for Arcadia, and an extension
+						for Sirius Web.</p>
+					</aside>
+				</section>
+
+				<section class="capella-extension-slide">
+					<div class="capella-extension-copy">
+						<p class="eyebrow">Beyond pure DSLs</p>
+						<h2>Customizing the experience does not mean leaving the standard.</h2>
+						<p class="tech-lead">Under the hood: SysML v2. For the user: a method-aware, Capella-like experience.</p>
+					</div>
+					<div class="capella-extension-visual">
+						<figure class="capella-extension-main">
+							<img
+								src="images/capella-extension-syson.png"
+								alt="Capella-like experience built as an extension on top of SysON"
+							/>
+						</figure>
+						<div class="capella-extension-supporting">
+							<figure class="capella-extension-switch fragment" data-fragment-index="0">
+								<img
+									src="images/capella-extension-syson-switch.png"
+									alt="Switching between Capella Explorer and SysON Explorer"
+								/>
+							</figure>
+							<figure class="capella-extension-underhood fragment" data-fragment-index="0">
+								<img
+									src="images/capella-extension-syson-sysmlv2.png"
+									alt="Underlying SysML v2 model in SysON"
+								/>
+							</figure>
+						</div>
+					</div>
+					<aside class="notes">
+						<p>From our experience with Capella I shared earlier, one thing is very clear:
+						methodology matters. Capella was adopted not only because there was a
+						metamodel, or because there were diagrams. It was adopted because the tool
+						embodied a way of working. It gave system engineers a vocabulary, a
+						progression, and a set of views that made sense for their practice.</p>
+
+						<p>But for the final user, the experience can be much closer to Capella: more
+						guided, more methodological, closer to the way system engineers already
+						think.</p>
+
+						<p>Under the hood, the model is still SysML v2. But the user does not have to
+						start from the generic standard experience.</p>
+
+						<p>The explorer, the diagrams, the available actions, the vocabulary, all of
+						that can be shaped by a method.</p>
+
+						<p>This is the kind of ecosystem movement I would like to see. Not a choice
+						between standard purity and useful methodology. And not a return to closed,
+						isolated tools.</p>
+
+						<p>With a platform like Sirius Web, we can move value higher. Value can be in
+						methods, domain extensions, integrations, analysis, collaboration, and user
+						experience, while the common modeling substrate remains open and standard.</p>
+
+						<p>Arcadia is one methodology, you might have a slightly different one and tool
+						it on top of SysON and SysMLv2, or tool it on top of a native DSL.</p>
+					</aside>
+				</section>
+				
+				<section class="video-slide capella-extension-video-slide" data-background-color="#002B3C">
+					<video
+						autoplay
+						data-autoplay
+						loop
+						muted
+						playsinline
+						preload="auto"
+						src="videos/demo-syson-capella-extension.mp4"
+					></video>
+					<aside class="notes">
+						<p>(let the demo play for a moment)</p>
+
+						<p>Will we work with AI agents in the next 20 years ? I think that's very
+						likely...</p>
+
+						<p>Let's design the architecture of the X Wing. And let's use a nice Assistant
+						for that.</p>
+
+						<p>The agent suggest changes, the ingenier validates, they share the tool. Both
+						the agents and the engineers have access to the modeler feature.</p>
+
+						<p>And what is useful for the engineer, this specialization of SysMLv2, can also
+						guide an agent.</p>
+					</aside>
+				</section>
+
+					<section class="statement">
+						<h2>A model gives agents something to work on.</h2>
+						<h2 class="fragment accent">Something we can inspect, validate, and correct.</h2>
+						<aside class="notes">
+							<p>And that's how comes AI in this presentation.</p>
+
+							<p>(pause)</p>
+
+							<p>Not as a separate topic. As a consequence of the same argument.</p>
+
+							<p>(pause)</p>
+
+							<p>I do not see AI as a threat to modeling tools. I see it as one more reason
+							to have formal, shared, tooled languages.</p>
+
+							<p>A model anchors the agent. It gives the agent structured context, explicit
+							concepts, relationships, and constraints.</p>
+
+							<p>(pause)</p>
+
+							<p>Without a model, AI can produce a convincing answer that is hard to verify.
+							With a model, it acts on an object we can inspect, validate, compare, and
+							correct.</p>
+
+							<p>The model becomes a shared workbench between the engineer and the agent. The
+							agent can propose, transform, explain, or navigate. The engineer can check,
+							adjust, accept, or reject.</p>
+
+							<p>For us as tool builders, AI also becomes a new interaction channel: explain
+							this architecture, find the impacts, propose a simpler view, create the
+							missing elements.</p>
+
+							<p>The demos make this very concrete.</p>
+
+							<p>But the conclusion is not that languages become less necessary. It is the
+							opposite. The more ability we give agents, the more we need shared
+							structures to guide, verify, and control what they do.</p>
+						</aside>
+				</section>
+
+				<section class="contract-slide">
+					<div>
+						<p class="eyebrow">Human · tool · agent</p>
+						<h2>The model becomes a contract.</h2>
+					</div>
+					<div
+						class="contract-loop staged-visual"
+						aria-label="The model connects human intent, formal structure, agent action, and reviewable results"
+					>
+						<span class="fragment" data-fragment-index="0">human intent</span>
+						<span class="fragment" data-fragment-index="1">formal structure</span>
+						<span class="fragment" data-fragment-index="2">agent action</span>
+						<span class="fragment" data-fragment-index="3">reviewable result</span>
+					</div>
+					<aside class="notes">
+						<p>This is the reason I like the word contract here.</p>
+
+						<p>Not contract in a legal sense. Contract in an engineering sense.</p>
+
+						<p>The model carries human intent, but it carries it in a formal structure. That
+						structure gives tools something precise to compute on. And it gives agents
+						something precise to act on. It <b>grounds</b> the agent.</p>
+
+						<p>If an agent proposes a change, the result is not only text. It is a
+						modification of an object we can inspect. We can compare it. We can validate
+						it. We can reject it. We can ask why.</p>
+
+						<p>This is very different from a purely conversational interaction. The model
+						gives us a shared artifact. It gives humans, tools, and agents something
+						common to negotiate around.</p>
+
+						<p>And because the agent uses the same guided environment as the engineer, the
+						method is not lost. It remains part of the interaction.</p>
+					</aside>
+				</section>
+
+					<section class="closing">
+						<p>Twenty years ago, we thought our challenge was to build better languages.</p>
+						<p class="fragment">Today, the challenge is different.</p>
+						<aside class="notes">
+							<p>(transition)</p>
+
+							<p>Let me close the loop.</p>
+
+							<p>Twenty years ago, we thought our challenge was to <b>build better
+							languages</b>.</p>
+
+							<p>And that was a real challenge. The SLE community did extraordinary work
+							there.</p>
+
+							<p>But today, I believe the challenge is different.</p>
+						</aside>
+				</section>
+
+					<section class="closing-list">
+						<h2>A language is not finished when it is defined.</h2>
+						<h2 class="fragment">It is finished when people can practice it.</h2>
+						<aside class="notes">
+							<p>This is the sentence I want to leave you with.</p>
+
+							<p>A language is not finished when it is defined.</p>
+
+							<p>That was the bias we often had as language engineers. If the metamodel was
+							right, if the syntax was expressive, if the semantics were precise, then the
+							language felt complete.</p>
+
+							<p>But after twenty years, I do not think that is enough.</p>
+
+							<p>A language is finished when people can practice it. When they can learn it,
+							discuss with it, extend it, govern it, connect it to their tools, and keep
+							using it over time.</p>
+
+							<p>That is true for organizations. It is true for open source communities. And
+							it will probably be true for agents as well.</p>
+						</aside>
+				</section>
+
+				<section class="finale" data-background-color="#002B3C">
+					<h2>We built the languages.</h2>
+					<h1 class="fragment">Now we have to make them live.</h1>
+					<p class="fragment">With people. With organizations. With tools and agents.</p>
+					<aside class="notes">
+						<p>(pause)</p>
+
+						<p>So yes, we built the languages.</p>
+
+						<p>That was a real achievement.</p>
+
+						<p>But the next challenge is to make them live.</p>
+
+						<p>With people. With organizations. With tools. And with agents.</p>
+
+						<p>That is where I think the next twenty years of language engineering will be:
+						not only in defining languages, but in making them practicable, durable, and
+						shared.</p>
+
+						<p>(pause)</p>
+
+						<p>Thank you.</p>
+					</aside>
+				</section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="dist/plugin/notes.js"></script>
+		<script src="dist/plugin/markdown.js"></script>
+		<script src="dist/plugin/highlight.js"></script>
+		<script>
+			Reveal.initialize({
+				hash: true,
+				controls: false,
+				progress: true,
+				center: true,
+				width: 1280,
+				height: 720,
+				margin: 0.08,
+				transition: "fade",
+				backgroundTransition: "fade",
+				pdfSeparateFragments: true,
+				plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+			});
+		</script>
+	</body>
+</html>
