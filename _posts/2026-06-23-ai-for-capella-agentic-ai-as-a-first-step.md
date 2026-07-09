@@ -12,7 +12,6 @@ tags:
 permalink: /mbse/ai-for-capella-agentic-ai-as-a-first-step/
 translation_fr: /mbse/ia-pour-capella-ia-agentique-comme-premier-pas/
 excerpt: "A practical look at AI for Capella for MBSE teams, starting with controlled agent access that keeps engineers responsible for model decisions."
-draft: true
 ---
 
 Over the last months, we have been experimenting with how AI could be useful in real Capella workflows. One point became clear very quickly: the value is not in letting AI *do systems engineering*, but in helping engineers interact more efficiently with models, while keeping control of engineering decisions.
