@@ -15,7 +15,7 @@ tags:
   - syson
   - obeo
 permalink: /talks/sle-2026-we-built-the-languages/
-excerpt: "A reflection from my SLE 2026 keynote on what twenty years of language engineering taught us: defining languages matters, but making them practicable, durable, and shared is the harder part now."
+excerpt: "A reflection from my SLE 2026 keynote on how each generation of language engineering moved the problem: from metamodels and editors to platforms, communities, practices, and human-agent collaboration."
 draft: true
 ---
 
@@ -23,20 +23,33 @@ Last week I had the pleasure of giving the keynote at [SLE 2026](https://conf.re
 
 > **We built the languages. That was the easy part.**
 
-It was a special moment for me. Rennes is not far from Nantes, where Obeo was founded almost twenty years ago. I joined Obeo as an intern in 2006, right after discovering modeling and model-driven technologies through Jean Bezivin's classes. Since then, most of my professional life has revolved around languages: modeling languages, domain-specific languages, the tools to define them, and the platforms to make them usable.
-
-The keynote was not meant as a retrospective for nostalgia's sake. It was a way to ask a question I believe matters for the next twenty years of software language engineering:
-
-**What happens after we know how to build languages?**
-
-The slides are available here:
-
 <figure>
     <a href="{{ site.url }}/talks/SLE2026/">
-      <img src="{{ site.url }}/talks/SLE2026/images/farming-dsl-ecore-acceleo-xtext-compare.png" alt="Ecore, Acceleo, Xtext and EMF Compare used together in a DSL tooling stack">
+      <img src="{{ site.url }}/images/blog/2026/sle-we_built_the_language.png" alt="SLE 2026 keynote title slide: We built the languages. That was the easy part.">
     </a>
     <figcaption><a href="{{ site.url }}/talks/SLE2026/">Slides: We built the languages. That was the easy part.</a></figcaption>
 </figure>
+
+It was a special moment for me. Rennes is not far from Nantes, where Obeo was founded almost twenty years ago. I joined Obeo as an intern in 2006, right after discovering modeling and model-driven technologies through Jean Bezivin's classes. Since then, most of my professional life has revolved around languages: modeling languages, domain-specific languages, the tools to define them, and the platforms to make them usable.
+
+The keynote was not meant as a retrospective for nostalgia's sake. It was a way to make one progression visible.
+
+Each generation of language engineering moved the problem.
+
+First, we had to build metamodels. Then editors. Then platforms. Then communities around those platforms. Then real practices inside organizations. And now, probably, forms of collaboration where humans, tools, and agents work on the same models.
+
+That is the thread I wanted to pull:
+
+- from building a metamodel;
+- to building an editor;
+- to building a platform;
+- to building a community;
+- to building a practice;
+- to building human-agent collaboration.
+
+The keynote was really about this shift:
+
+**What happens when the hard part is no longer defining the language, but making it live?**
 
 ## We learned how to build languages
 
@@ -64,7 +77,7 @@ Who is going to use the language? How do they learn it? Who is allowed to change
 
 I have seen many meetings where the discussion started with slides, documents, and diagrams, then slowly drifted because everyone had a slightly different mental model of the system. Then someone opened the Capella model, and the discussion changed. We were no longer arguing around a frozen picture. We could navigate from an operational need to functions, components, interfaces, and constraints.
 
-The model became the common table.
+> The model became the common table.
 
 <figure>
     <a href="{{ site.url }}/talks/SLE2026/images/from%20many%20views%20to%20a%20model%20being%20the%20common%20table.png">
@@ -73,9 +86,13 @@ The model became the common table.
     <figcaption>A model is useful when it becomes a shared table for discussion, not just a deliverable.</figcaption>
 </figure>
 
-This is where the metamodel stops being enough. At scale, a language needs training, documentation, tutorials, books, webinars, case studies, reviews, versioning, governance, integration with other practices, and trust. Adoption is not only a product problem. It is a transmission problem.
+This is where the problem moves again. The metamodel was necessary, and the editor was necessary, but neither was sufficient. At scale, a language needs training, documentation, tutorials, books, webinars, case studies, reviews, versioning, governance, integration with other practices, and trust.
 
-When that transmission works, people stop talking about the tool. They talk through the language.
+Adoption is not only a product problem. It is a transmission problem.
+
+When that transmission works, something important happens:
+
+> People stop talking about the tool. They talk through the language.
 
 ## We confused expressivity with usability
 
@@ -112,6 +129,8 @@ Performance is part of that experience too. In modeling tools, performance is of
 
 This is why Sirius Web is not just a rebuild of Sirius Desktop in the browser. It is a platform for modeling experiences: language definition, diagrams, trees, tables, forms, details views, collaboration, APIs, publication, extension points, and workflows that let an organization capitalize on what it has learned.
 
+That is another displacement of the problem. Once we know how to build a modeling editor, we have to build the platform that lets people share, extend, integrate, and evolve the modeling experience.
+
 ## SysML v2 is a rare moment of openness
 
 The next twenty years will not need less language. I think they will need more language, but language that is easier to practice, easier to share, easier to integrate, and easier to evolve.
@@ -143,7 +162,9 @@ I do not see AI as a threat to modeling tools. I see it as one more reason to ha
 
 Without a model, an AI system can produce a convincing answer that is hard to verify. With a model, it acts on an object we can inspect, validate, compare, and correct. The model anchors the agent. It gives the agent structured context, explicit concepts, relationships, constraints, and a shared artifact with the engineer.
 
-The model becomes a contract. Not in a legal sense, but in an engineering sense. It carries human intent in a formal structure. That structure gives tools something precise to compute on, and agents something precise to act on.
+> The model becomes a contract.
+
+Not in a legal sense, but in an engineering sense. It carries human intent in a formal structure. That structure gives tools something precise to compute on, and agents something precise to act on.
 
 If an agent proposes a change, the result should not only be text. It should be a modification of an object we can inspect. We can compare it. We can validate it. We can reject it. We can ask why.
 
@@ -157,6 +178,6 @@ The sentence I wanted to leave with the SLE audience was this:
 
 That is true for organizations. It is true for open-source communities. It will probably be true for agents as well.
 
-We built the languages. That was a real achievement. But the next challenge is to make them live: with people, with organizations, with tools, and with agents.
+We built the languages. That was a real achievement. But each success moved the problem forward. The metamodel led to the editor. The editor led to the platform. The platform led to the community. The community led to practice. And practice now has to include agents without losing human responsibility.
 
 That is where I think the next twenty years of language engineering will be. Not only in defining languages, but in making them practicable, durable, and shared.
