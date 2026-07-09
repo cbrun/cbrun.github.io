@@ -7,6 +7,10 @@ lang: en
 noindex: true
 ---
 
+## 2026
+[![](https://cedric.brun.io/talks/SLE2026/images/farming-dsl-ecore-acceleo-xtext-compare.png)](https://cedric.brun.io/talks/SLE2026/)
+* [We built the languages. That was the easy part.](https://cedric.brun.io/talks/SLE2026/) Keynote at [SLE 2026](https://conf.researchr.org/home/sle-2026#Keynote), Rennes, France, July 2026
+
 ## 2024
 [![](https://cedric.brun.io/talks/OCX2024/thumbnail.png)](https://cedric.brun.io/talks/OCX2024/OCX_Open_Innovation_unleashed.pdf) 
 Open Community Experience 2024 - Mainz, Germany, October 2024
