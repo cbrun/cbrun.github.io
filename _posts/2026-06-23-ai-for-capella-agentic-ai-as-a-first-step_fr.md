@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IA pour Capella : l'IA agentique comme premier pas"
+title: "IA pour Capella : premier pas agentique"
 categories:
   - modeling
 tags:
