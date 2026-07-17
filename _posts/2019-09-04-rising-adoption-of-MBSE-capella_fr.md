@@ -7,7 +7,7 @@ tags:
   - capella
   - obeo
 lang : fr
-translation_en: /eclipse/rising-adoption-of-MBSE-capella/
+translation_en: /modeling/rising-adoption-of-MBSE-capella/
 permalink : /eclipse/adoption-croissante-MBSE-capella/
 ---
 

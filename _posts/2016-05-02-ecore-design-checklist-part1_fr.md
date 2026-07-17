@@ -8,7 +8,7 @@ tags:
   - eclipse
 permalink: /eclipse/checklist-conception-ecore-partie1/
 lang: fr
-translation_en: /eclipse/ecore-design-checklist-part1/
+translation_en: /modeling/ecore-design-checklist-part1/
 excerpt: "Une checklist pratique pour concevoir un métamodèle Ecore (partie 1) : pour créateurs d’outils EMF/Sirius; pourquoi maintenant—poser de bonnes bases pour éviter des refactorings coûteux."
 ---
 

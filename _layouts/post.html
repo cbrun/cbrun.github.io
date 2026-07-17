@@ -1,36 +1,74 @@
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="{{ page.lang }}"><!--<![endif]-->
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="{{ page.lang | default: site.lang | default: 'en' }}"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="{{ page.lang | default: site.lang | default: 'en' }}"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="{{ page.lang | default: site.lang | default: 'en' }}"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="{{ page.lang | default: site.lang | default: 'en' }}"><!--<![endif]-->
 <head>
 {% include _head.html %}
 {% if page.amphtml %}    
   <link rel="amphtml" href="{{ page.amphtml }}">
 {% endif %}
 
+{% assign structured_description = page.description | default: page.excerpt %}
+{% if page.author %}
+  {% assign structured_author = site.data.authors[page.author] %}
+{% else %}
+  {% assign structured_author = site.owner %}
+{% endif %}
+{% assign structured_canonical_path = page.url | replace:'index.html','' %}
+{% if page.canonical %}
+  {% if page.canonical contains '://' %}
+    {% assign structured_canonical = page.canonical %}
+  {% else %}
+    {% assign structured_canonical_first_character = page.canonical | slice: 0 %}
+    {% if structured_canonical_first_character == '/' %}
+      {% assign structured_canonical = site.url | append: page.canonical %}
+    {% else %}
+      {% assign structured_canonical = site.url | append: '/' | append: page.canonical %}
+    {% endif %}
+  {% endif %}
+{% else %}
+  {% assign structured_canonical = site.url | append: structured_canonical_path %}
+{% endif %}
+{% if page.image.feature %}
+  {% if page.image.feature contains '://' %}
+    {% assign structured_image = page.image.feature %}
+  {% else %}
+    {% assign structured_image = site.url | append: '/images/' | append: page.image.feature %}
+  {% endif %}
+{% elsif page.image.thumb %}
+  {% if page.image.thumb contains '://' %}
+    {% assign structured_image = page.image.thumb %}
+  {% else %}
+    {% assign structured_image = site.url | append: '/images/' | append: page.image.thumb %}
+  {% endif %}
+{% else %}
+  {% assign structured_image = site.url | append: '/images/default-thumb.png' %}
+{% endif %}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "url": {{ structured_canonical | jsonify }},
+  "mainEntityOfPage": {"@type": "WebPage", "@id": {{ structured_canonical | jsonify }}},
+  "author": {
+    "@type": "Person",
+    "name": {{ structured_author.name | jsonify }},
+    "url": {{ site.url | append: '/about/' | jsonify }}
+  },
   "publisher": {
     "@type": "Organization",
-    "name": "CEO @ Obeo",
-    "logo": {"@type": "ImageObject","url": "https://cedric.brun.io/favicon.png"}
-  },
-  "headline": "{{ page.title }}"{% if page.excerpt %},
-  "description": "{{ page.excerpt | strip_newlines | escape }}"{% endif %},
-  "author": {"@type": "Person", "name": "{{ author }}"}{% if page.date %},
-  "datePublished": "{{ page.date | date_to_xmlschema }}"{% endif %}{% if page.last_modified_at %},
-  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}"{% endif %},
-  "mainEntityOfPage": {"@type": "WebPage","@id": "{{ site.url }}{{ page.url }}"}{% if page.image.feature %},
-  "image": [
-   {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  ]{% endif %}
+    "name": "Obeo",
+    "url": "https://www.obeosoft.com/",
+    "logo": {"@type": "ImageObject", "url": "{{ site.url }}/favicon.png"}
+  }{% if page.date %},
+  "datePublished": {{ page.date | date_to_xmlschema | jsonify }}{% endif %}{% if page.last_modified_at %},
+  "dateModified": {{ page.last_modified_at | date_to_xmlschema | jsonify }}{% elsif page.date %},
+  "dateModified": {{ page.date | date_to_xmlschema | jsonify }}{% endif %}{% if structured_description %},
+  "description": {{ structured_description | strip_html | normalize_whitespace | jsonify }}{% endif %},
+  "image": {{ structured_image | jsonify }}
 }
 </script>
 </head>

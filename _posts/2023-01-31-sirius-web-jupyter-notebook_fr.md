@@ -13,6 +13,7 @@ tags:
   - sirius-web
   - syson
 permalink: /modeling/sirius-web-et-jupyter-notebook/
+lang: fr
 translation_en: /modeling/sirius-web-jupyter-notebook/
 excerpt: "Une démo de Sirius Web × Jupyter Notebook—pour les ingénieurs et les équipes data—montrant comment concevoir, simuler et analyser en direct peut transformer les workflows dès maintenant."
 ---
@@ -28,4 +29,3 @@ Je ne peux m’empêcher d’imaginer les possibilités offertes par la simulati
 Qu’en pensez‑vous ? Utilisez‑vous **𝗝𝘂𝗽𝘆𝘁𝗲𝗿** ou **𝗘𝗰𝗹𝗶𝗽𝘀𝗲 𝗦𝗶𝗿𝗶𝘂𝘀** dans vos projets ? Comment ? Vous y songeriez ?
 
 <video width="640" height="360" controls><source src="{{ site.url }}/media/SiriusWeb and JupyterNotebook.mp4">Votre navigateur ne supporte pas la balise vidéo.</video>
-

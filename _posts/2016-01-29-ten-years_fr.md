@@ -8,7 +8,7 @@ tags:
   - opensource
 lang: fr
 permalink : /eclipse/obeo-dix-ans/
-translation_en : /eclipse/ten-years/
+translation_en: /obeo/ten-years/
 excerpt: "Obeo a 10 ans : retour sur une décennie d’open‑source et de croissance; pour partenaires, clients et communauté; pourquoi maintenant—des valeurs et des personnes qui nourrissent nos prochains projets."
 ---
 

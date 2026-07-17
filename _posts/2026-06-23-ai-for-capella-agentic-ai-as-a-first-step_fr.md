@@ -10,6 +10,7 @@ tags:
   - ai
   - arcadia
 permalink: /mbse/ia-pour-capella-ia-agentique-comme-premier-pas/
+lang: fr
 translation_en: /mbse/ai-for-capella-agentic-ai-as-a-first-step/
 excerpt: "Un regard concret sur l'IA pour Capella pour les équipes MBSE, avec un premier pas autour d'agents contrôlés qui laissent les ingénieurs responsables des décisions de modèle."
 ---

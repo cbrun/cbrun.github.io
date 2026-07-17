@@ -10,6 +10,7 @@ tags:
   - sirius-web
 excerpt: "Des icônes SVG nettes dans les éditeurs Papyrus Web — pour des interfaces plus lisibles et modernes, et pourquoi le vectoriel change vraiment la donne."
 permalink: /modeling/icones-svg-dans-sirius-web/
+lang: fr
 translation_en: /modeling/svg-icons-in-sirius-web/
 ---
 
@@ -25,4 +26,3 @@ Zoomez, les détails restent impeccables. 🖥️🔍
   <!-- Fallback minimal -->
   <a href="{{ site.url }}/media/zoomSVG2-2023-10-25_12.53.35.mp4">Voir la vidéo</a>
 </video>
-

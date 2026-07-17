@@ -1,25 +1,40 @@
+{% assign social_title = seo_title | default: site.title %}
+{% if page.image.feature %}
+  {% if page.image.feature contains '://' %}
+    {% assign social_image = page.image.feature %}
+  {% else %}
+    {% assign social_image = site.url | append: '/images/' | append: page.image.feature %}
+  {% endif %}
+  {% assign twitter_card = 'summary_large_image' %}
+{% elsif page.image.thumb %}
+  {% if page.image.thumb contains '://' %}
+    {% assign social_image = page.image.thumb %}
+  {% else %}
+    {% assign social_image = site.url | append: '/images/' | append: page.image.thumb %}
+  {% endif %}
+  {% assign twitter_card = 'summary' %}
+{% else %}
+  {% assign social_image = site.url | append: '/images/default-thumb.png' %}
+  {% assign twitter_card = 'summary' %}
+{% endif %}
+
 <!-- Twitter Cards -->
-<meta name="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-{% if page.excerpt %}<meta name="og:description" content="{{ page.excerpt | strip_html | normalize_whitespace | truncate: 220, "" | escape_once  }}">{% endif %}
+<meta name="twitter:card" content="{{ twitter_card }}">
+<meta name="twitter:title" content="{{ social_title | strip_html | escape_once }}">
+{% if meta_description %}<meta name="twitter:description" content="{{ meta_description | strip_html | normalize_whitespace | truncate: 220, '' | escape_once }}">{% endif %}
+<meta name="twitter:image" content="{{ social_image }}">
 {% if site.owner.twitter %}<meta name="twitter:site" content="@{{ site.owner.twitter }}">{% endif %}
 {% if author.twitter %}<meta name="twitter:creator" content="@{{ author.twitter }}">{% endif %}
-{% if page.image.feature %}
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}/images/{{ page.image.feature }}">
-<meta name="og:image" content="{{ site.url }}/images/{{ page.image.feature }}">
-{% else %}
-<meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/default-thumb.png{% endif %}">
-<meta name="og:image" content="{% if page.image.thumb %}{{ site.url }}/images/{{ page.image.thumb }}{% else %}{{ site.url }}/images/default-thumb.png{% endif %}">
 
-{% endif %}
 <!-- Open Graph -->
-<meta property="og:locale" content="{{ site.locale }}">
-<meta property="og:type" content="article">
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-{% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | strip_html  | normalize_whitespace | truncate: 220, "" | escape_once  }}">{% endif %}
-<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<meta property="og:locale" content="{% if page_language == 'fr' %}fr_FR{% else %}{{ site.locale | default: 'en_US' }}{% endif %}">
+{% if page.translation_en or page.translation_fr %}<meta property="og:locale:alternate" content="{% if page_language == 'fr' %}en_US{% else %}fr_FR{% endif %}">{% endif %}
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:title" content="{{ social_title | strip_html | escape_once }}">
+{% if meta_description %}<meta property="og:description" content="{{ meta_description | strip_html | normalize_whitespace | truncate: 220, '' | escape_once }}">{% endif %}
+<meta property="og:url" content="{{ canonical }}">
 <meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:image" content="{{ social_image }}">
 {% if page.last_modified_at %}
 <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">
 <meta property="og:updated_time" content="{{ page.last_modified_at | date_to_xmlschema }}">

@@ -7,7 +7,7 @@ tags:
   - obeo
   - sustainability
 lang: fr
-translation_en: /eclipse/obeo-chronicles/
+translation_en: /obeo/obeo-chronicles/
 permalink: /eclipse/obeo-chroniques-2020/
 excerpt: "Chronique Q4 2020 pour la communauté Eclipse/modélisation—annonce open source de Sirius Web, Capella Days—et pourquoi cela compte pour les bâtisseurs d’outils."
 ---
