@@ -56,7 +56,7 @@ Another challenge is that higher-level abstractions can be limiting. They may no
 
 The Eclipse Modeling platform is generally extensible, and EMF, Compare, Acceleo, Sirius, and other projects provide dedicated extension points to allow their behavior to be customized using Java code and APIs. In addition, Sirius and Acceleo allow for branching out to simple Java code directly, without the need to fully understand the Eclipse platform.
 
-# The Fast and the Furious of Graphical Modeling Tools: Hot Reloading
+## The Fast and the Furious of Graphical Modeling Tools: Hot Reloading
 
 Like the crew in the Fast and Furious franchise, we aim to reduce the complexity of building graphical modeling software by enabling fast iteration and turnaround.
 
@@ -78,3 +78,4 @@ With Sirius Web we even go one step further in reducing this feedback loop: you 
 ----
 To summarize, building a graphical modeling tool can be complex, but there are several ways to approach this complexity. Modular design allows for easier understanding and reuse of code, while higher-level abstractions can hide underlying complexity from the user. Fast iteration and turnaround is also important for efficient development. Obeo has been working on technologies to make building graphical modeling tools more accessible for many years now, and we are excited by the prospects of what is to come on this path : while Sirius on the desktop has proven this is an efficient way to tackle this complexity, [Sirius on the Web](https://www.eclipse.dev/sirius/sirius-web.html) goes even one step further in making such tools accessible to anyone.
 
+The larger decision framework, from buying a product to configuring or building a platform, is covered in [Designing a modeling platform for your domain]({{ site.url }}/modeling-platforms/).

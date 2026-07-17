@@ -10,6 +10,8 @@ tags:
 
 One of the big ideas behind Sirius Web is openness. Not just “open” as in *open source*, but also “open” as in *working smoothly with the rest of the ecosystem*.
 
+This prototype illustrates one integration concern in a broader problem: [designing a modeling platform for a specific domain and engineering practice]({{ site.url }}/modeling-platforms/).
+
 Under the hood, the Sirius Web client talks to the backend using GraphQL. This works great for the web client itself, because GraphQL gives us fine-grained control over what a UI widget asks for. But here’s the catch: GraphQL isn’t always the friendliest option when you want to integrate with other tools and platforms.
 
 That’s what this prototype is about: exposing Sirius Web’s backend through a more classic, pervasive approach, good old REST document APIs.

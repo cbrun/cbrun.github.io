@@ -6,6 +6,7 @@ description: "A practical guide to choosing, designing, integrating, and operati
 permalink: /modeling-platforms/
 canonical: https://cedric.brun.io/modeling-platforms/
 lang: en
+translation_fr: /fr/modeling-platforms/
 tags:
   - sirius-web
   - ecore

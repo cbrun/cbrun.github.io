@@ -505,7 +505,7 @@ $button-size: 1.5rem;
 /* Post content wrapper */
 .article-wrap {
 	@include font-rem(17);
-	line-height: 1.7;
+	line-height: 1.62;
 	text-rendering: optimizeLegibility;
 
 	p {
@@ -519,7 +519,7 @@ $button-size: 1.5rem;
 	}
 
 	li {
-		line-height: 1.65;
+		line-height: 1.58;
 	}
 
 	@media #{$medium} {

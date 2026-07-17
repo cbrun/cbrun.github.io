@@ -67,6 +67,8 @@ La [page du projet Eclipse SysON](https://projects.eclipse.org/projects/modeling
 
 SysON utilise [Eclipse Sirius Web](https://eclipse.dev/sirius/sirius-web.html) comme plateforme de modélisation. Sirius Web fournit des capacités réutilisables pour explorer les modèles, construire des représentations graphiques, éditer des propriétés, créer des formulaires et des tables, valider les données, exécuter des opérations d'édition et bâtir une application web.
 
+Pour les choix d'architecture et de produit qui se cachent derrière un tel environnement, consultez [Concevoir une plateforme de modélisation adaptée à son métier]({{ site.url }}/fr/modeling-platforms/).
+
 SysON ajoute par-dessus le langage et l'expérience d'ingénierie système : le métamodèle SysML v2, les concepts standard, les bibliothèques, les vues, les outils de création, les règles du domaine et les workflows nécessaires à la manipulation des modèles système.
 
 Cette séparation est importante pour l'extensibilité. Une équipe n'a pas besoin de forker chaque partie de l'application pour introduire une représentation ciblée ou un comportement propre à son domaine. La plateforme est conçue pour que les applications basées sur les modèles puissent proposer différentes expériences au-dessus de données sémantiques structurées.
