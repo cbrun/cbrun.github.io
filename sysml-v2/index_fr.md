@@ -135,7 +135,7 @@ Le standard est formel. La maturité industrielle est une question distincte, qu
 
 Une équipe peut lancer dès aujourd'hui un pilote SysML v2 utile. Une grande organisation doit toutefois évaluer la maturité de tout l'environnement dont elle a besoin : couverture du langage, persistance des modèles, éditions graphique et textuelle, API, contrôle d'accès, collaboration, performances, validation, migration, reporting, déploiement, support et gouvernance à long terme.
 
-Méfiez-vous d'une simple case « compatible SysML v2 ». La conformité a plusieurs dimensions et la couverture utile dépend de votre périmètre d'ingénierie. Demandez quels concepts du langage, bibliothèques standard, notations, services API et scénarios d'échange sont pris en charge, puis testez-les avec des modèles représentatifs.
+Méfiez-vous d'une simple case à cocher « compatible SysML v2 ». La conformité a plusieurs dimensions et la couverture utile dépend de votre périmètre d'ingénierie. Demandez quels concepts du langage, bibliothèques standard, notations, services API et scénarios d'échange sont pris en charge, puis testez-les avec des modèles représentatifs.
 
 Le [dépôt officiel des versions de SysML v2](https://github.com/Systems-Modeling/SysML-v2-Release) fournit les spécifications, des exemples, des bibliothèques et des ressources liées à l'implémentation de référence. Il complète utilement les pages normatives de l'OMG lorsque l'on évalue des comportements concrets.
 
@@ -153,11 +153,11 @@ J'aborderais l'adoption comme un changement d'ingénierie, pas comme un projet d
 
 Cette démarche permet aussi aux pratiques SysML v1, Capella et SysML v2 de coexister pendant une transition. Tout remplacer d'un coup est rarement la seule stratégie crédible.
 
-## Pourquoi un outil SysML v2 open source compte
+## Pourquoi un outil SysML v2 open source, c'est important
 
 Un nouveau standard ouvre une courte période pendant laquelle les outils, pratiques, bibliothèques et intégrations sont encore en train de prendre forme. L'open source rend l'implémentation inspectable et donne aux organisations un moyen de collaborer sur la fondation commune avant que ces choix ne se figent derrière des frontières propriétaires.
 
-[Eclipse SysON](https://eclipse.dev/syson/) est un projet de modélisation SysML v2 open source et web, initié par Obeo et le CEA et construit sur Sirius Web. Son objectif dépasse le dessin de diagrammes SysML v2 : des éditeurs graphiques, textuels, tabulaires et à base de formulaires opèrent sur le modèle, avec l'extensibilité et l'API standard comme préoccupations de premier plan.
+[Eclipse SysON]({{ site.url }}/fr/syson/) est un projet de modélisation SysML v2 open source et web, initié par Obeo et le CEA et construit sur Sirius Web. Son objectif dépasse le dessin de diagrammes SysML v2 : des éditeurs graphiques, textuels, tabulaires et à base de formulaires opèrent sur le modèle, avec l'extensibilité et l'API standard comme préoccupations de premier plan.
 
 Pour le projet, sa gouvernance, son code source, ses versions et les moyens d'y contribuer, le [projet Eclipse SysON](https://eclipse.dev/syson/) fait référence. Pour les organisations qui évaluent la personnalisation, le déploiement, le support ou un engagement industriel, [Obeo présente ses offres SysON et son approche d'innovation ouverte](https://www.obeosoft.com/fr/produits/syson/).
 

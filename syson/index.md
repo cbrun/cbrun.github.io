@@ -6,6 +6,7 @@ description: "Understand what Eclipse SysON is, how its web-based SysML v2 envir
 permalink: /syson/
 canonical: https://cedric.brun.io/syson/
 lang: en
+translation_fr: /fr/syson/
 tags:
   - mbse
   - sysmlv2
@@ -35,9 +36,6 @@ nextStep:
   - "/talk/IEEE-ISSE25/"
 image:
   thumb: blog/2026/syson/syson-modeling-environment.webp
-draft: true
-noindex: true
-sitemap: false
 ---
 
 Eclipse SysON is an open-source, web-based modeling environment for creating, editing, and visualizing SysML v2 models. It is built on Eclipse Sirius Web and developed as an Eclipse Foundation project, with public source code, documentation, releases, discussions, and governance.

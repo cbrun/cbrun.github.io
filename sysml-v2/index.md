@@ -6,6 +6,7 @@ description: "SysML v2 is now a formal OMG standard. Understand its semantics, t
 permalink: /sysml-v2/
 canonical: https://cedric.brun.io/sysml-v2/
 lang: en
+translation_fr: /fr/sysml-v2/
 tags:
   - mbse
   - sysmlv2
@@ -35,9 +36,6 @@ nextStep:
   - "/talk/IEEE-ISSE25/"
 image:
   thumb: blog/2026/sysml-v2/sysml-v2-language.webp
-draft: true
-noindex: true
-sitemap: false
 ---
 
 SysML v2 is not a cosmetic update to SysML v1. It is a redesign of the language around a more precise semantic foundation, standard textual and graphical notations, reusable libraries, and a standard API for accessing models.
@@ -157,11 +155,13 @@ This path also allows SysML v1, Capella, and SysML v2 practices to coexist durin
 
 A new standard creates a short period during which tools, practices, libraries, and integrations are still taking shape. Open source makes the implementation inspectable and gives organizations a way to collaborate on the common foundation before those choices harden behind proprietary boundaries.
 
-[Eclipse SysON](https://eclipse.dev/syson/) is an open-source, web-based SysML v2 modeling project initiated by Obeo and CEA and built on Sirius Web. Its goal is broader than drawing SysML v2 diagrams: graphical, textual, form-based, and tabular editors operate on the model, with extensibility and the standard API as first-class concerns.
+[Eclipse SysON]({{ site.url }}/syson/) is an open-source, web-based SysML v2 modeling project initiated by Obeo and CEA and built on Sirius Web. Its goal is broader than drawing SysML v2 diagrams: graphical, textual, form-based, and tabular editors operate on the model, with extensibility and the standard API as first-class concerns.
 
 For the project, governance, source code, releases, and contribution paths, the [Eclipse SysON project](https://eclipse.dev/syson/) is the reference. For organizations evaluating customization, deployment, support, or an industrial engagement, [Obeo presents its SysON offerings and open-innovation approach](https://www.obeosoft.com/en/products/syson/).
 
 This distinction is deliberate. Eclipse is where the open-source project lives. Obeo is one of the places where an organization can obtain productization and engineering support around it.
+
+Our goal at Obeo is to provide a strong, fully open-source platform for SysML v2 because we believe its promises of interoperability and a continuous digital thread cannot be fulfilled without one. Modeling itself should be free and accessible: common ground and a level playing field for every tool. It is up to vendors to provide value on top of it, and there are plenty of opportunities to do so.
 
 The journey is documented in several talks and articles on this site:
 
