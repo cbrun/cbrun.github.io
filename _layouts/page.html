@@ -5,6 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="{{ page.lang | default: site.lang | default: 'en' }}"><!--<![endif]-->
 <head>
 {% include _head.html %}
+{% if page.cluster %}{% include _structured-article.html type='Article' %}{% endif %}
 </head>
 
 <body class="page">
