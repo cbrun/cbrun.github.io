@@ -11,6 +11,7 @@
 			   <li><a href="{{ domain }}{% if is_french %}/fr/topics/{% else %}/topics/{% endif %}">{% if is_french %}Thèmes{% else %}Topics{% endif %}</a></li>
 			   <li><a href="{{ domain }}/posts/">Articles</a></li>
 			   <li><a href="{{ domain }}/tag/talk/">{% if is_french %}Conférences{% else %}Talks{% endif %}</a></li>
+			   <li><a href="{{ domain }}/posts/" aria-label="{% if is_french %}Vue exhaustive du site{% else %}Complete site archive{% endif %}" title="{% if is_french %}Vue exhaustive du site{% else %}Complete site archive{% endif %}">*</a></li>
                {% if page.translation_en %}                  
                	 <li><a class="lang-link" rel="alternate"  hreflang="en"  href="{{ domain }}{{ page.translation_en  }}">🇬🇧</a></li>
                {% endif %}
