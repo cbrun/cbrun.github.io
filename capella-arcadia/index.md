@@ -6,6 +6,7 @@ description: "Understand how the Arcadia method and Eclipse Capella work togethe
 permalink: /capella-arcadia/
 canonical: https://cedric.brun.io/capella-arcadia/
 lang: en
+translation_fr: /fr/capella-arcadia/
 tags:
   - capella
   - mbse
