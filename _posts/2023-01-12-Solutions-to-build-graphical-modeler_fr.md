@@ -8,8 +8,8 @@ tags:
   - eclipse
   - sirius
 lang: fr
-permalink : /modeling/guesstimate-modelisation-probabilite/
-translation_en: /modeling/Solutions-to-build-graphical-modeler/
+permalink : /modeling/solutions-pour-construire-modeleurs-graphiques/
+translation_en: /modeling/solutions-to-build-graphical-modeler/
 excerpt: "Réduire la complexité pour construire des modeleurs graphiques—pour concepteurs d’outils et responsables—grâce au modulaire, aux DSL et à l’itération rapide sur le web."
 ---
 

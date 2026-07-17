@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Building Graphical Modeling Tools, Approaches to Reducing Complexity
-categories: [modeling]
+categories:
+  - modeling
 tags:
   - modeling
   - emf
   - eclipse
   - sirius
   - sirius-web
-permalink: /modeling/Solutions-to-build-graphical-modeler/
-translation_fr: /modeling/guesstimate-modelisation-probabilite/
-excerpt: "How to cut complexity when building graphical modelers—for tool builders and engineering leaders—using modular design, DSLs, and fast iteration on the web."
+permalink: /modeling/solutions-to-build-graphical-modeler/
+translation_fr: /modeling/solutions-pour-construire-modeleurs-graphiques/
+excerpt: How to cut complexity when building graphical modelers—for tool builders and engineering leaders—using modular design, DSLs, and fast iteration on the web.
 ---
 
 Building graphical modeling tools can be a complex undertaking, especially if they need to support many features and functions. At Obeo, we have extensive experience in this area and strive to make the process as easy and accessible as possible. To accomplish this, we rely on several strategies, including modular design, higher-level abstractions, and the ability to iterate quickly on a tool definition. In the last few years we have kept these principles while transitionning the technologies to the Web.
