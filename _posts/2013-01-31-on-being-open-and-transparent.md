@@ -90,3 +90,4 @@ Conclusion
 
 We already have a fairly good track records of openness with many contributions in the history of the project; we'll see if doing so much more efforts will have an impact and I'll sure get back to you then. I can only assure you one thing: it takes a bit more time, it takes commitment, but it feels good.
 
+More than ten years later, these practices remain part of a larger question: [what makes open-source software durable enough for industrial use?]({{ site.url }}/open-source-industrial/)

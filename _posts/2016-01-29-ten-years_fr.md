@@ -51,6 +51,8 @@ J'ai donné environ 3 conférences chaque année et chacune était une occasion 
 
 Nous avons construit un modèle économique où le succès de **nos produits open-source et notre capacité à travailler au sein de cette communauté est un facteur clé dans le succès de nos produits commerciaux**.
 
+J'ai depuis développé cette idée dans un cadre plus complet pour [rendre l'open source durable pour l'industrie]({{ site.url }}/fr/open-source-industrial/), en abordant la gouvernance, le financement, la maintenance et l'indépendance réelle vis-à-vis d'un fournisseur unique.
+
 Je réalise à quel point cela peut paraître fou, mais c'est vraiment ce qui le rend intéressant.
 
 Une entreprise passant de 4 à plus de 50 personnes évolue en partant des valeurs fondatrices (je te regarde, [chocolat](https://cedric.brun.io/chocolate-commit/){:target="_blank"} !). Elle est également façonnée par les personnes qui la composent et s'il y a une chose qui a été omniprésente chez Obeo ces 10 dernières années, c'est la **volonté de s'améliorer, constamment**. Améliorer notre façon de développer, de concevoir, de penser. Cela a été un puissant moteur qui nous a fait expérimenter et j'ai beaucoup appris dans tous les aspects en chemin grâce à cela.
