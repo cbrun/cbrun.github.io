@@ -132,6 +132,8 @@ Papyrus brings a long history of support for OMG modeling standards and an ecosy
 
 SysON creates opportunities to connect those ecosystems with SysML v2 rather than treating migration as a single replacement event. The project scope explicitly includes integration with Papyrus and Capella. The exact approach depends on the engineering objective: exchange models, co-design across languages, reuse method concepts, expose specialized views, or integrate through services.
 
+For a method-centered view of this relationship, see [Understanding Capella, Arcadia, and their place in MBSE]({{ site.url }}/capella-arcadia/). It separates what is already mature in Capella from the exploratory paths toward an Arcadia-oriented SysML v2 experience.
+
 In our [Open Source MBSE at Scale presentation]({{ site.url }}/talk/IEEE-ISSE25/), Asma Charfi and I described this progression from proven open-source MBSE tools to web-native SysML v2 environments. The [MODELS 2024 demonstrations]({{ site.url }}/modeling/models2024/) provide a more concrete view of Sirius Web and SysON in action.
 
 ## How to evaluate SysON

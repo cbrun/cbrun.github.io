@@ -127,6 +127,8 @@ SysML v2 does not decide:
 
 This is why I remain convinced that **language, method, and tool must be considered together**. Capella and Arcadia have repeatedly shown the value of methodological guidance in industrial MBSE. SysML v2 creates new possibilities for expressing and integrating such guidance, but it does not remove the need for it.
 
+The [Capella and Arcadia guide]({{ site.url }}/capella-arcadia/) explains this distinction in depth and presents several ways a proven method-led practice can complement a SysML v2 foundation.
+
 ## Is SysML v2 ready for industrial use?
 
 The standard is formal. Industrial readiness is a separate, contextual question.

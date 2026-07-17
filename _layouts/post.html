@@ -37,7 +37,7 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
     <div class="sidebar-block tag-cloud">
-      <h3>Topics</h3>
+      <h3>{% if page.lang == 'fr' %}Archives par tag{% else %}Browse by tag{% endif %}</h3>
       {% include _tag_cloud.html %}
     </div>
   </div>

@@ -205,11 +205,7 @@ $button-size: 1.5rem;
     max-height: 30em;
   }
 }
-// Displaying the menu when the user has clicked on the button (menu toggle)
-// The two mobile buttons (#menutoggle and #topicstoggle) are injected by
-// assets/js/_main.js at the start of <nav id="site-nav" class="nav">.
-// We use the general sibling selector (~) so the toggled button can be placed
-// before the content and still control it without extra wrappers.
+// Display the navigation after the injected mobile toggle is activated.
 .js .nav #menutoggle.active ~ ul {		
   max-height: 30em;
   overflow: hidden;
@@ -220,60 +216,92 @@ $button-size: 1.5rem;
   transition: max-height .4s;
 }
 
-// Mobile topics (tag cloud) shown inside the toggled menu on small screens
-// Structure expected inside #site-nav (in order):
-//   [#menutoggle][#topicstoggle][ul] [.mobile-topics]
-// When #topicstoggle has .active, reveal the .mobile-topics container.
-.nav .mobile-topics {
-  // hidden by default when JS is enabled
-  max-height: 0;
-  overflow: hidden;
-}
-.js .nav .mobile-topics {
-  max-height: 0;
-  overflow: hidden;
-}
-// Reveal topics when the topics toggle button is active (allow other siblings like <ul> in between)
-.js .nav #topicstoggle.active ~ .mobile-topics {
-  max-height: 30em;
-  overflow: hidden;
-  -webkit-transition: max-height .4s;
-  -moz-transition: max-height .4s;
-  -o-transition: max-height .4s;
-  -ms-transition: max-height .4s;
-  transition: max-height .4s;
-}
-// Ensure inner lists inside mobile-topics are not collapsed by the generic `.js .nav ul` rule
-.js .nav .mobile-topics ul {
-  max-height: none;
-  overflow: visible;
-}
-// Hide the mobile topics completely on larger screens; sidebar shows the desktop tag cloud
-@media #{$small} {
-  .nav .mobile-topics { display: none; }
-}
-.nav .mobile-topics h3 { margin: 10px 0; }
-.nav .mobile-topics ul.tag-cloud {
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-}
-.nav .mobile-topics ul.tag-cloud li a {
-  display: inline-block;
-  padding: 4px 0;
-}
-
-// Make the two nav toggles appear on one line on mobile only
+// Show the single navigation toggle on mobile only.
 @media only screen and (max-width: 37.49em) {
   .nav .navtoogle {
     display: inline-block;
     margin-right: 8px;
   }
-  .nav #menutoggle,
-  .nav #topicstoggle {
-    float: left;
-    margin-right: 8px;
-  }
+}
+
+/* Homepage topic entry points */
+.home-topics {
+	@include container;
+	@include clearfix;
+	clear: both;
+	margin-bottom: 2.5em;
+}
+.home-topics__inner {
+	@include grid(12,10);
+	@include prefix(12,1);
+	@include suffix(12,1);
+	@media #{$x-large} {
+		@include grid(12,8);
+		@include prefix(12,2);
+		@include suffix(12,2);
+	}
+	h1 {
+		margin: 0 0 .3em;
+		@include font-rem(34);
+		line-height: 1.15;
+		letter-spacing: 0;
+	}
+	> h2 {
+		margin: 1.5em 0 .65em;
+		@include font-rem(24);
+		letter-spacing: 0;
+	}
+}
+.home-topics__intro {
+	max-width: 48em;
+	margin: 0;
+	@include font-rem(17);
+	line-height: 1.55;
+}
+.home-topics__grid,
+.topics-directory {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 1em;
+	@media #{$small} {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+	@media #{$large} {
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+	}
+}
+.topic-card {
+	min-width: 0;
+	min-height: 9.5rem;
+	box-sizing: border-box;
+	padding: 1.1rem 1.15rem;
+	background: $white;
+	border: 1px solid lighten($black, 82);
+	border-top: 4px solid #46558a;
+	border-radius: 4px;
+	h3 {
+		margin: 0 0 .5rem;
+		@include font-rem(20);
+		line-height: 1.25;
+		letter-spacing: 0;
+	}
+	p {
+		margin: 0;
+		@include font-rem(15);
+		line-height: 1.48;
+	}
+	a {
+		border-bottom: 0;
+	}
+}
+.topic-card--sysml { border-top-color: #365b8c; }
+.topic-card--syson { border-top-color: #28706c; }
+.topic-card--platforms { border-top-color: #6b568a; }
+.topic-card--opensource { border-top-color: #8b5635; }
+.topic-card--capella { border-top-color: #477245; }
+.home-topics__all {
+	margin: 1em 0 0;
+	@include font-rem(15);
 }
 
 /* Main content */
@@ -319,11 +347,12 @@ $button-size: 1.5rem;
 	@media #{$x-large} {
 		@include grid(12,4.5);
 	}
-	h3 {
+	> .index-heading {
 		margin: 0;
 		padding-bottom: .5em;
 		@include font-rem(28);
 		border-bottom: 1px solid lighten($black,70);
+		letter-spacing: 0;
 	}
 	article {
 		h2 {
@@ -342,6 +371,32 @@ $button-size: 1.5rem;
 			text-indent: 0;
 		}
 	}
+}
+
+/* Curated topics directory */
+.topics-page {
+	@include container;
+	@include grid(12,10);
+	@include prefix(12,1);
+	@include suffix(12,1);
+	margin-bottom: 3em;
+	@media #{$x-large} {
+		@include grid(12,8);
+		@include prefix(12,2);
+		@include suffix(12,2);
+	}
+	> h1 {
+		margin-top: 0;
+		letter-spacing: 0;
+	}
+}
+.topics-directory {
+	margin: 1.5em 0 2.5em;
+}
+.topic-connections {
+	margin-top: 2em;
+	padding-top: .5em;
+	border-top: 1px solid lighten($black, 78);
 }
 
 /* Large feature header image */

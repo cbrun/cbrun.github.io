@@ -21,6 +21,8 @@ Si vous vous demandez ce qu'est Capella et à quoi cela sert, voici une vidéo d
 
 La sensibilisation mondiale à cette solution grandit et son adoption augmente, des organisations d'Europe, d'Amérique du Nord et d'Asie utilisent maintenant Capella et bénéficient des avantages de l'utilisation d'un outil qui met en œuvre une méthode (baptisée "[Arcadia](https://https://mbse-capella.org/html){:target="_blank"}") et **pas seulement un langage.**
 
+Cette distinction entre méthode, langage, outil et pratique d'ingénierie est développée dans [Comprendre Capella, Arcadia et leur place dans le MBSE]({{ site.url }}/fr/capella-arcadia/).
+
 <figure>
     <a href="{{ site.url }}/images/blog/capelladay2019/forum-activity.png"><img src="{{ site.url }}/images/blog/capelladay2019/forum-activity.png"></a>  
     <figcaption>Activité du Forum Capella</figcaption>

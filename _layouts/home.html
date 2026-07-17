@@ -28,16 +28,47 @@
   </div><!-- /.image-wrap -->
 {% endif %}
 
+<section class="home-topics" aria-labelledby="home-topics-title">
+  <div class="home-topics__inner">
+    <h1>Modeling, MBSE, and open-source engineering</h1>
+    <p class="home-topics__intro">Long-form guides grounded in building modeling technologies, engineering practices, and open-source ecosystems.</p>
+    <h2 id="home-topics-title">Explore my main areas of work</h2>
+    <div class="home-topics__grid">
+      <article class="topic-card topic-card--sysml">
+        <h3><a href="{{ site.url }}/sysml-v2/">SysML v2</a></h3>
+        <p>Understand the new standard and plan a progressive MBSE adoption.</p>
+      </article>
+      <article class="topic-card topic-card--syson">
+        <h3><a href="{{ site.url }}/syson/">Eclipse SysON</a></h3>
+        <p>Evaluate an open-source, web-based SysML v2 modeling environment.</p>
+      </article>
+      <article class="topic-card topic-card--platforms">
+        <h3><a href="{{ site.url }}/modeling-platforms/">Modeling platforms</a></h3>
+        <p>Decide whether to buy, configure, or build a domain modeling environment.</p>
+      </article>
+      <article class="topic-card topic-card--opensource">
+        <h3><a href="{{ site.url }}/open-source-industrial/">Industrial open source</a></h3>
+        <p>Assess governance, funding, sovereignty, and long-term maintenance.</p>
+      </article>
+      <article class="topic-card topic-card--capella">
+        <h3><a href="{{ site.url }}/capella-arcadia/">Capella and Arcadia</a></h3>
+        <p>Adopt a method-led MBSE practice and connect it to new standards.</p>
+      </article>
+    </div>
+    <p class="home-topics__all"><a href="{{ site.url }}/topics/">View all topics and their relationships</a></p>
+  </div>
+</section>
+
 <div id="main" role="main"> 
   <div class="article-author-side">
     {% include _author-bio.html %}
       <div class="sidebar-block tag-cloud">
-      <h3>Topics</h3>
+      <h3>Browse by tag</h3>
       {% include _tag_cloud.html %}
     </div>
   </div>
   <div id="index">
-    <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
+    <h2 class="index-heading"><a href="{{ site.url}}/posts/">Recent posts</a></h2>
    {% for post in site.posts limit:10 %}
     {% if post.translation_en == nil or post.translation_en == '' or post.translation_en == false %}
       {% unless post.draft or post.noindex %}

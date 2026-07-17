@@ -20,6 +20,8 @@ If you are wondering what is Capella and what it's used for, here is a 2-minute 
 
 Worldwide awareness of this solution grows and adoption rises, organizations from Europe, North America and Asia are now using Capella and experiencing the benefits of using a tool which implements a method (coined "[Arcadia](https://mbse-capella.org/arcadia.html){:target="_blank"}") and **not only a language.**
 
+This distinction between method, language, tool, and engineering practice is developed further in [Understanding Capella, Arcadia, and their place in MBSE]({{ site.url }}/capella-arcadia/).
+
 <figure>
     <a href="{{ site.url }}/images/blog/capelladay2019/forum-activity.png"><img src="{{ site.url }}/images/blog/capelladay2019/forum-activity.png"></a>  
     <figcaption>Capella Forum Activity</figcaption>

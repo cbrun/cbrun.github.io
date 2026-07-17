@@ -4,46 +4,13 @@
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
-		    <ul>
-			   {% for link in site.data.navigation_left %}
-				    <li><a href="{{ link.url | absolute_url }}">{{ link.title }}</a></li>
-			   {% endfor %}	
-           {% if site.main_categories %}
-             {% assign domain = site.url %}
-             {% for cat in site.main_categories %}
-               {% assign tag_slug = cat | slugify %}
-               {% assign tag_doc = nil %}
-               {% for d in site.tag %}
-                 {% if d.tag %}
-                   {% assign d_slug = d.tag | slugify %}
-                   {% if d_slug == tag_slug %}
-                     {% assign tag_doc = d %}
-                     {% break %}
-                   {% endif %}
-                 {% endif %}
-               {% endfor %}
-               {% if tag_doc %}
-                 <li>
-                   <a href="{{ domain }}{{ tag_doc.url }}">{{ tag_doc.title | default: cat }}</a>
-                 </li>
-               {% else %}
-                 <li>
-                   <a href="{{ domain }}/tag/{{ tag_slug }}/">{{ cat }}</a>
-                 </li>
-               {% endif %}
-             {% endfor %}
-           {% else %}
-             {% for category in site.categories %}
-               <li>
-                 <a href="/category/{{ category[0] | slugify }}">
-                   {{ category | first}}
-                 </a>
-               </li>
-             {% endfor %}
-           {% endif %}
-		       {% for link in site.data.navigation_right %}
-				    <li><a href="{{ link.url | absolute_url }}">{{ link.title }}</a></li>
-			   {% endfor %}			    
+		    <ul id="site-nav-list">
+			   {% assign domain = site.url %}
+			   {% assign is_french = false %}
+			   {% if page.lang == 'fr' %}{% assign is_french = true %}{% endif %}
+			   <li><a href="{{ domain }}{% if is_french %}/fr/topics/{% else %}/topics/{% endif %}">{% if is_french %}Thèmes{% else %}Topics{% endif %}</a></li>
+			   <li><a href="{{ domain }}/posts/">Articles</a></li>
+			   <li><a href="{{ domain }}/tag/talk/">{% if is_french %}Conférences{% else %}Talks{% endif %}</a></li>
                {% if page.translation_en %}                  
                	 <li><a class="lang-link" rel="alternate"  hreflang="en"  href="{{ domain }}{{ page.translation_en  }}">🇬🇧</a></li>
                {% endif %}
@@ -51,24 +18,6 @@
                	 <li><a class="lang-link" rel="alternate"  hreflang="fr" href="{{ domain }}{{ page.translation_fr  }}">🇫🇷</a></li>
                {% endif %}
 		    </ul>
-		    <!--
-		      Mobile "Topics" dropdown content
-		      ---------------------------------------------------------------
-		      The JS (assets/js/_main.js) injects two buttons at the start of
-		      this <nav id="site-nav" class="nav"> element on small screens:
-		        - #menutoggle: toggles the main <ul> menu below (see CSS rule
-		          .js .nav #menutoggle.active ~ ul)
-		        - #topicstoggle: toggles this .mobile-topics block below (see CSS rule
-		          .js .nav #topicstoggle.active ~ .mobile-topics)
-		      The general sibling selector (~) requires that the toggled button
-		      appears before the content to show/hide. That’s why this block is
-		      placed after the <ul> and still inside the same #site-nav container.
-		      The tag cloud include avoids fragile Liquid features (no where_exp).
-		    -->
-		    <div class="mobile-topics">
-		      <h3>Topics</h3>
-		      {% include _tag_cloud.html %}
-		    </div>
 		</nav>
 	</div><!-- /.top-navigation -->
 </div><!-- /.navigation-wrapper -->

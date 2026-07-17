@@ -23,6 +23,8 @@ En ingénierie système, les décisions demandent de l'expertise, du jugement, d
 
 C'est là que l'outil [Capella](https://mbse-capella.org/) et la méthode Arcadia font vraiment la différence. Ils apportent un contexte d'ingénierie structuré, dans lequel l'IA peut être utile sans devenir incontrôlable. L'IA peut aider à formuler une requête, préparer une action ou suggérer une prochaine étape. Capella reste l'environnement dans lequel le modèle est consulté et modifié. L'ingénieur reste responsable de la validation.
 
+Pour replacer la méthode, l'environnement de modélisation et la pratique industrielle dans un cadre plus large, voir [Comprendre Capella, Arcadia et leur place dans le MBSE]({{ site.url }}/fr/capella-arcadia/).
+
 Au cours des derniers mois, nous avons exploré plusieurs cas d'usage de l'IA autour de Capella. Parmi eux, un sujet s'est imposé comme un premier pas particulièrement prometteur : permettre à des agents IA d'interagir avec Capella de façon contrôlée et sécurisée.
 
 Dans cet article, j'aimerais partager la direction que nous prenons, et pourquoi notre premier pas orienté produit consiste à **rendre Capella accessible aux agents IA** de manière contrôlée, explicite et sécurisée. Ce travail a vocation à devenir progressivement disponible à travers une **offre commerciale à partir de fin juillet 2026**.

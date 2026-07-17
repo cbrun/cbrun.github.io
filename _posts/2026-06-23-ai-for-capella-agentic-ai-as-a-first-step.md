@@ -20,6 +20,8 @@ In systems engineering, decisions require expertise, judgment, responsibility, a
 
 This is where the [Capella](https://mbse-capella.org/) tool and the Arcadia method make a real difference. They provide a structured engineering context in which AI can be useful without becoming uncontrolled. AI may help formulate a query, prepare an action, or suggest a next step. Capella remains the environment where the model is accessed and modified. The engineer remains responsible for validation.
 
+For the broader relationship between the method, the modeling environment, and industrial practice, see [Understanding Capella, Arcadia, and their place in MBSE]({{ site.url }}/capella-arcadia/).
+
 Over the past months, we have been exploring several AI use cases around Capella. Among them, one has emerged as a particularly promising first step: enabling AI agents to interact with Capella in a controlled and secure way.
 
 In this article, I would like to share where we are heading, and why our first product-oriented step is to **make Capella accessible to AI agents** in a controlled, explicit, and secure way. This work is intended to become available progressively through a **commercial offering available from the end of July 2026**.

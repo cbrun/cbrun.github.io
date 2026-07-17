@@ -1,6 +1,2 @@
 # Site navigation links
-- title: Talks
-  url: /tag/talk/
-
-- title: "*"
-  url: /posts/
+# Primary navigation is localized in _includes/_navigation.html.

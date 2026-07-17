@@ -1,15 +1,6 @@
-/*! Responsive Menu (mobile two-button nav)
+/*! Responsive Menu
    ---------------------------------------------------------------
-   On small screens we programmatically inject two buttons as the
-   first children of <nav id="site-nav" class="nav">:
-     - #menutoggle: toggles the main <ul> menu
-     - #topicstoggle: toggles the .mobile-topics block
-   CSS uses general sibling selectors (~) so the buttons must be
-   before the elements they control. See _sass/page.scss for rules:
-     .js .nav #menutoggle.active ~ ul { ... }
-     .js .nav #topicstoggle.active ~ .mobile-topics { ... }
-   This file only flips the 'active' class on each button; it does not
-   directly show/hide elements.
+   On small screens, inject one button to toggle the primary navigation.
    Reference: http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/
 */
 //  The function to change the class
@@ -26,12 +17,7 @@ var changeClass = function (r,className1,className2) {
 //  Creating our buttons in JS for smaller screens
 var menuElements = document.getElementById('site-nav');
 if (menuElements) {
-  // Insert Menu and Topics buttons next to each other at the start of the nav
-  menuElements.insertAdjacentHTML('afterBegin','<button type="button" role="button" id="menutoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>menu</button>');
-  var menuToggleEl = document.getElementById('menutoggle');
-  if (menuToggleEl) {
-    menuToggleEl.insertAdjacentHTML('afterend','<button type="button" role="button" id="topicstoggle" class="navtoogle navicon-lines-button x" aria-hidden="true"><span class="navicon-lines"></span>topics</button>');
-  }
+  menuElements.insertAdjacentHTML('afterBegin','<button type="button" id="menutoggle" class="navtoogle navicon-lines-button x" aria-controls="site-nav-list" aria-expanded="false"><span class="navicon-lines"></span>menu</button>');
 }
 
 //  Toggle the class on click to show / hide the menu
@@ -39,12 +25,7 @@ var menutoggleEl = document.getElementById('menutoggle');
 if (menutoggleEl) {
   menutoggleEl.onclick = function() {
     changeClass(this, 'navtoogle active', 'navtoogle');
-  };
-}
-var topicsToggle = document.getElementById('topicstoggle');
-if (topicsToggle) {
-  topicsToggle.onclick = function() {
-    changeClass(this, 'navtoogle active', 'navtoogle');
+    this.setAttribute('aria-expanded', this.className.indexOf('active') !== -1 ? 'true' : 'false');
   };
 }
 // http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/comment-page-2/#comment-438918
@@ -52,15 +33,9 @@ document.onclick = function(e) {
   var mobileButton = document.getElementById('menutoggle');
   if (mobileButton) {
     var buttonStyle =  mobileButton.currentStyle ? mobileButton.currentStyle.display : getComputedStyle(mobileButton, null).display;
-    if(buttonStyle === 'block' && e.target !== mobileButton && new RegExp(' ' + 'active' + ' ').test(' ' + mobileButton.className + ' ')) {
+    if(buttonStyle !== 'none' && !mobileButton.contains(e.target) && new RegExp(' ' + 'active' + ' ').test(' ' + mobileButton.className + ' ')) {
       changeClass(mobileButton, 'navtoogle active', 'navtoogle');
-    }
-  }
-  var topicsButton = document.getElementById('topicstoggle');
-  if (topicsButton) {
-    var topicsStyle = topicsButton.currentStyle ? topicsButton.currentStyle.display : getComputedStyle(topicsButton, null).display;
-    if(topicsStyle === 'block' && e.target !== topicsButton && new RegExp(' ' + 'active' + ' ').test(' ' + topicsButton.className + ' ')) {
-      changeClass(topicsButton, 'navtoogle active', 'navtoogle');
+      mobileButton.setAttribute('aria-expanded', 'false');
     }
   }
 };
