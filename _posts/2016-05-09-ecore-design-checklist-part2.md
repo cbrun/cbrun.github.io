@@ -7,6 +7,8 @@ tags:
   - emf
   - eclipse
 permalink: /modeling/ecore-design-checklist-part2/
+redirect_from:
+  - /eclipse/ecore-design-checklist-part2/
 translation_fr: /eclipse/checklist-conception-ecore-partie2/
 excerpt: "Ecore design checklist (part 2): scalability and Java mapping tips for EMF modelers; for tool builders; why it matters—keep models fast, lean, and maintainable at scale."
 ---
@@ -184,5 +186,4 @@ Give it a shot, it's all Open-Source and part of Eclipse!
 <br>
 
 *Credits: thanks to Pierre-Charles and [Mélanie](https://melb.enix.org/) for the proof-reading, [Jan](https://twitter.com/jankoehnlein/status/729930181289349120) for bringing a new item and Roxanne for some of the ponies.*
-
 

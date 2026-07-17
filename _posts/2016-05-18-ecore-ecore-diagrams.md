@@ -6,6 +6,8 @@ tags:
   - ecore
   - eclipse
   - ecoretools
+redirect_from:
+  - /eclipse/ecore-ecore-diagrams/
 translation_fr: /eclipse/ecore-ecore-diagrammes/
 excerpt: "Fresh, high‑res Ecore.ecore diagrams recreated with EcoreTools: for EMF users and educators; why it matters—clear visuals and how‑to tips to document the metamodel today."
 ---
@@ -130,7 +132,6 @@ For these kind of diagrams with many un-connected shapes your best friends are t
 
 
 So now, who wants a nice poster in the office ?
-
 
 
 
