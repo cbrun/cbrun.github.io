@@ -16,7 +16,6 @@ tags:
   - obeo
 permalink: /talks/sle-2026-we-built-the-languages/
 excerpt: "A reflection from my SLE 2026 keynote on how each generation of language engineering moved the problem: from metamodels and editors to platforms, communities, practices, and human-agent collaboration."
-draft: true
 ---
 
 Last week I had the pleasure of giving the keynote at [SLE 2026](https://conf.researchr.org/home/sle-2026#Keynote) in Rennes. The title was:
@@ -57,9 +56,9 @@ For years, the modeling and language engineering communities were told that mode
 
 And yet, collectively, we built a remarkable ecosystem.
 
-EMF gave us a shared substrate: Ecore, reflection, serialization, generation, a runtime, and a way to make model-based infrastructure reusable. Acceleo showed that models could produce real artifacts: code, XML, documentation, whatever the project needed. GMF industrialized graphical modeling enough to make dedicated modelers viable outside large tool vendors. Xtext brought textual syntax, parsing, validation, completion, navigation, and IDE-grade tooling to DSLs.
+[Eclipse Modeling Framework](https://eclipse.dev/emf/) gave us a shared substrate: Ecore, reflection, serialization, generation, a runtime, and a way to make model-based infrastructure reusable. Acceleo showed that models could produce real artifacts: code, XML, documentation, whatever the project needed. GMF industrialized graphical modeling enough to make dedicated modelers viable outside large tool vendors. Xtext brought textual syntax, parsing, validation, completion, navigation, and IDE-grade tooling to DSLs.
 
-Then Sirius changed the shape of the problem again. It was no longer only about one editor for one language, but about a complete modeling workbench: diagrams, tables, forms, viewpoints, multiple representations for the same language, and fast iteration over the user experience.
+Then [Sirius](https://eclipse.dev/sirius/) changed the shape of the problem again. It was no longer only about one editor for one language, but about a complete modeling workbench: diagrams, tables, forms, viewpoints, multiple representations for the same language, and fast iteration over the user experience.
 
 That trajectory matters because it changed the question. We spent years making languages more formal, more expressive, better tooled, more interoperable, more versionable, more collaborative. All of that was necessary.
 
@@ -67,9 +66,9 @@ But it was not the end of the story.
 
 ## The metamodel is only the beginning
 
-Capella made this lesson very concrete for me.
+[Capella](https://mbse-capella.org/) made this lesson very concrete for me.
 
-Capella is not only a modeling tool. It carries a method, Arcadia. It uses the vocabulary of systems engineers. It gives people an opinionated way to work. It is also used widely enough that organizational questions become visible.
+Capella is not only a modeling tool. It carries the [Arcadia method](https://mbse-capella.org/arcadia.html). It uses the vocabulary of systems engineers. It gives people an opinionated way to work. It is also used widely enough that organizational questions become visible.
 
 When a language leaves the lab, the first enthusiastic team, or the first research prototype, the problem changes. It is no longer only a technical problem. It becomes an organizational one.
 
@@ -110,7 +109,7 @@ That distinction matters. Usefulness does not automatically create usability.
 
 ## The Web changed the assumptions
 
-Around 2015, it was already clear that the Web was becoming a serious platform for serious applications. By 2019, this had become a public decision for us with Sirius Web.
+Around 2015, it was already clear that the Web was becoming a serious platform for serious applications. By 2019, this had become a public decision for us with [Sirius Web](https://eclipse.dev/sirius/sirius-web.html).
 
 The question was not only "can we put diagrams in a browser?" The harder question was: **which assumptions about modeling tools do we need to rebuild?**
 
@@ -135,11 +134,11 @@ That is another displacement of the problem. Once we know how to build a modelin
 
 The next twenty years will not need less language. I think they will need more language, but language that is easier to practice, easier to share, easier to integrate, and easier to evolve.
 
-SysML v2 is important in that context. It is not only a new version of SysML. It is one of the largest opportunities for renewed adoption that modeling languages have seen in a long time. The standard evolves. Tools have to be rethought. Organizations that hesitated with MBSE can start again from a more modern base.
+[SysML v2](https://www.omg.org/sysml/sysmlv2/) is important in that context. It is not only a new version of SysML. It is one of the largest opportunities for renewed adoption that modeling languages have seen in a long time. The standard evolves. Tools have to be rethought. Organizations that hesitated with MBSE can start again from a more modern base.
 
 For the SLE community, SysML v2 brings language engineering questions back to the center: explicit semantics, textual and graphical syntax, APIs, interoperability, analysis, transformation, automation, and extension mechanisms.
 
-This is also why we started [SysON](https://eclipse.dev/syson/) with CEA. The goal is not only to have one more SysML v2 tool. The goal is to make sure that a durable, supported, extensible, open-source platform exists for SysML v2 while the ecosystem is still being formed.
+This is also why we started [SysON](https://mbse-syson.org/) with CEA. The goal is not only to have one more SysML v2 tool. The goal is to make sure that a durable, supported, extensible, open-source platform exists for SysML v2 while the ecosystem is still being formed.
 
 <figure>
     <a href="{{ site.url }}/talks/SLE2026/images/syson-screenshot.png">

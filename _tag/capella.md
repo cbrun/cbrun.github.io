@@ -27,7 +27,7 @@ If you’re in systems engineering, Capella gives you a way to:
 
 And if you’re an engineer who just wants to get work done? Capella gives you diagrams that *mean something* — not just pretty pictures, but views tied to a formal model you can check, query, and share.
 
-> This hub collects **some of my posts about Capella** — stories from the field, ecosystem updates, and reflections on what open tooling means for MBSE programs. It’s not exhaustive (there’s way more on the official [Capella website](https://www.eclipse.org/capella/)), but you’ll find here a personal take on practical benefits, integration strategies and ecosystem signals.:
+> This hub collects **some of my posts about Capella** — stories from the field, ecosystem updates, and reflections on what open tooling means for MBSE programs. It’s not exhaustive (there’s way more on the official [Capella website](https://mbse-capella.org/)), but you’ll find here a personal take on practical benefits, integration strategies and ecosystem signals.
 
 If you care about systems engineering or just want to see how open-source tools can reshape an entire discipline, this is a good place to start.
 
