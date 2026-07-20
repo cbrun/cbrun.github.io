@@ -1,0 +1,157 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="{{ page.lang | default: site.lang | default: 'en' }}"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="{{ page.lang | default: site.lang | default: 'en' }}"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="{{ page.lang | default: site.lang | default: 'en' }}"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="{{ page.lang | default: site.lang | default: 'en' }}"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="tag-index-landing">
+
+{% include _browser-upgrade.html %}
+{% include _navigation.html %}
+
+{%- assign tag_items = '' | split: '' -%}
+{%- for tag_doc in site.tag -%}
+  {%- assign document_tag = tag_doc.tag | default: tag_doc.title -%}
+  {%- assign document_slug = document_tag | slugify -%}
+  {%- assign matching_posts = nil -%}
+  {%- for site_tag in site.tags -%}
+    {%- assign site_tag_slug = site_tag[0] | slugify -%}
+    {%- if site_tag_slug == document_slug -%}
+      {%- assign matching_posts = site_tag[1] -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if matching_posts -%}
+    {%- assign published_posts = matching_posts
+      | where_exp: "post", "post.draft != true"
+      | where_exp: "post", "post.translation_en == nil" -%}
+    {%- assign post_count = published_posts | size -%}
+    {%- if post_count > 1 -%}
+      {%- capture padded_count -%}00000{{ post_count }}{%- endcapture -%}
+      {%- assign padded_count = padded_count | slice: -5, 5 -%}
+      {%- assign is_main_topic = false -%}
+      {%- if site.main_categories contains document_slug -%}{%- assign is_main_topic = true -%}{%- endif -%}
+      {%- assign clean_tag_url = tag_doc.url | replace: 'index.html', '' -%}
+      {%- capture tag_item -%}{{ padded_count }}|{{ post_count }}|{{ document_slug }}|{{ tag_doc.title | default: document_tag }}|{{ clean_tag_url }}|{{ is_main_topic }}{%- endcapture -%}
+      {%- assign tag_items = tag_items | push: tag_item -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign tag_items = tag_items | sort | reverse -%}
+
+<main class="tag-index-page" id="main" role="main">
+  <header class="tag-index-intro">
+    <p class="tag-index-eyebrow">Article and talk archive</p>
+    <h1>{{ page.title }}</h1>
+    <div class="tag-index-intro__copy">{{ content }}</div>
+    <nav class="tag-index-shortcuts" aria-label="Archive navigation">
+      <a href="{{ site.url }}/topics/">Explore curated topics <span aria-hidden="true">→</span></a>
+      <a href="{{ site.url }}/posts/">Browse all articles <span aria-hidden="true">→</span></a>
+    </nav>
+  </header>
+
+  <section class="tag-index-directory" aria-labelledby="tag-directory-title">
+    <div class="tag-index-directory__heading">
+      <div>
+        <p class="tag-index-eyebrow">Detailed index</p>
+        <h2 id="tag-directory-title">All active tags</h2>
+      </div>
+      <p><span data-tag-visible-count>{{ tag_items | size }}</span> tags with at least two published entries</p>
+    </div>
+
+    <div class="tag-index-controls" data-tag-controls>
+      <label for="tag-search">Search tags</label>
+      <div class="tag-index-controls__row">
+        <input id="tag-search" type="search" placeholder="Eclipse, Capella, modeling…" autocomplete="off" data-tag-search>
+        <div class="tag-index-sort" role="group" aria-label="Sort tags">
+          <button class="is-active" type="button" data-tag-sort="popularity" aria-pressed="true">By popularity</button>
+          <button type="button" data-tag-sort="alphabetical" aria-pressed="false">A–Z</button>
+        </div>
+      </div>
+    </div>
+
+    <ul class="tag-index-list" data-tag-list>
+      {%- for entry in tag_items %}
+        {%- assign parts = entry | split: '|' -%}
+        {%- assign count = parts[1] | plus: 0 -%}
+        {%- assign slug = parts[2] -%}
+        {%- assign label = parts[3] -%}
+        {%- assign url = parts[4] -%}
+        {%- assign is_main_topic = parts[5] -%}
+        <li data-tag-item data-tag-name="{{ label | downcase | escape }}" data-tag-count="{{ count }}">
+          <a href="{{ site.url }}{{ url }}">
+            <span class="tag-index-list__label">{{ label }}</span>
+            <span class="tag-index-list__count" aria-label="{{ count }} published entries">{{ count }}</span>
+            {% if is_main_topic == 'true' %}<span class="tag-index-list__topic">Core topic</span>{% endif %}
+          </a>
+        </li>
+      {%- endfor %}
+    </ul>
+    <p class="tag-index-empty" data-tag-empty hidden>No tag matches this search.</p>
+  </section>
+</main>
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div>
+
+{% include _scripts.html %}
+<script>
+(function () {
+  var search = document.querySelector('[data-tag-search]');
+  var list = document.querySelector('[data-tag-list]');
+  var items = list ? Array.prototype.slice.call(list.querySelectorAll('[data-tag-item]')) : [];
+  var sortButtons = document.querySelectorAll('[data-tag-sort]');
+  var visibleCount = document.querySelector('[data-tag-visible-count]');
+  var empty = document.querySelector('[data-tag-empty]');
+  if (!search || !list || !items.length) return;
+
+  function normalize(value) {
+    return value.toLocaleLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  }
+
+  function filterTags() {
+    var query = normalize(search.value.trim());
+    var count = 0;
+    items.forEach(function (item) {
+      var visible = !query || normalize(item.getAttribute('data-tag-name') || '').indexOf(query) !== -1;
+      item.hidden = !visible;
+      if (visible) count += 1;
+    });
+    visibleCount.textContent = count;
+    empty.hidden = count !== 0;
+  }
+
+  function sortTags(mode) {
+    items.sort(function (left, right) {
+      if (mode === 'alphabetical') {
+        return left.getAttribute('data-tag-name').localeCompare(right.getAttribute('data-tag-name'), undefined, { sensitivity: 'base' });
+      }
+      return Number(right.getAttribute('data-tag-count')) - Number(left.getAttribute('data-tag-count')) ||
+        left.getAttribute('data-tag-name').localeCompare(right.getAttribute('data-tag-name'), undefined, { sensitivity: 'base' });
+    });
+    items.forEach(function (item) { list.appendChild(item); });
+  }
+
+  search.addEventListener('input', filterTags);
+  sortButtons.forEach(function (button) {
+    button.addEventListener('click', function () {
+      var mode = button.getAttribute('data-tag-sort');
+      sortButtons.forEach(function (candidate) {
+        var active = candidate === button;
+        candidate.classList.toggle('is-active', active);
+        candidate.setAttribute('aria-pressed', active ? 'true' : 'false');
+      });
+      sortTags(mode);
+    });
+  });
+}());
+</script>
+
+</body>
+</html>

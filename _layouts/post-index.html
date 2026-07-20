@@ -34,6 +34,10 @@
   </div>
   <div id="index">
     <h1>{{ page.title }}</h1>
+    <nav class="archive-tools" aria-label="Article archive navigation">
+      <span aria-current="page">All articles</span>
+      <a href="{{ site.url }}/tags/">Browse by tag <span aria-hidden="true">→</span></a>
+    </nav>
     {% assign articles = site.posts | sort: 'date' | reverse %}
     {% assign last_year = nil %}
     {% for item in articles %}

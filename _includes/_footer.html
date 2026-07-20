@@ -12,4 +12,11 @@
 </div><!-- /.google-ads -->
 {% endif %}
 
+<nav class="footer-navigation" aria-label="{% if page.lang == 'fr' %}Navigation secondaire{% else %}Secondary navigation{% endif %}">
+  <a href="{{ site.url }}{% if page.lang == 'fr' %}/fr/topics/{% else %}/topics/{% endif %}">{% if page.lang == 'fr' %}Thèmes{% else %}Topics{% endif %}</a>
+  <a href="{{ site.url }}/posts/">Articles</a>
+  <a href="{{ site.url }}/tag/talk/">{% if page.lang == 'fr' %}Conférences{% else %}Talks{% endif %}</a>
+  <a href="{{ site.url }}/tags/">{% if page.lang == 'fr' %}Index des tags{% else %}Tag index{% endif %}</a>
+  <a href="{{ site.url }}{% if page.lang == 'fr' %}/apropos/{% else %}/about/{% endif %}">{% if page.lang == 'fr' %}À propos{% else %}About{% endif %}</a>
+</nav>
 <span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
