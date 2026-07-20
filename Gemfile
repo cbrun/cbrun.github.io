@@ -14,3 +14,7 @@ gem 'coffee-script'
 gem 'compass'
 gem 'sass'
 gem 'uglifier'
+gem 'csv'
+gem 'bigdecimal'
+gem 'webrick'
+
