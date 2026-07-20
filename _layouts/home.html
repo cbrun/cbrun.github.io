@@ -13,111 +13,150 @@
 
 {% include _navigation.html %}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img loading="eager" src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+{% assign featured_post = nil %}
+{% for post in site.posts %}
+  {% if post.translation_en == nil or post.translation_en == '' or post.translation_en == false %}
+    {% unless post.draft or post.noindex %}
+      {% assign featured_post = post %}
+      {% break %}
+    {% endunless %}
   {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
+{% endfor %}
 
-<section class="home-topics" aria-labelledby="home-topics-title">
-  <div class="home-topics__inner">
-    <h1>Modeling, MBSE, and open-source engineering</h1>
-    <p class="home-topics__intro">Long-form guides grounded in building modeling technologies, engineering practices, and open-source ecosystems.</p>
-    <h2 id="home-topics-title">Core topics</h2>
+<main class="home-shell" id="main" role="main">
+  <section class="home-hero" aria-labelledby="home-title">
+    <div class="home-hero__content">
+      <p class="home-eyebrow">Cédric Brun <span aria-hidden="true">·</span> CEO at Obeo</p>
+      <h1 id="home-title">Building the future of modeling, in the open.</h1>
+      <p class="home-hero__intro">Practical perspectives on MBSE, SysML v2, modeling platforms and industrial open source, grounded in twenty years of building the technologies behind them.</p>
+      <div class="home-hero__actions">
+        <a class="home-button home-button--primary" href="#topics">Explore the topics</a>
+        {% if featured_post %}<a class="home-button home-button--secondary" href="{{ site.url }}{{ featured_post.url }}">Read the latest article <span aria-hidden="true">→</span></a>{% endif %}
+      </div>
+      <ul class="home-credentials" aria-label="Experience and projects">
+        <li>CEO at Obeo</li>
+        <li>Eclipse contributor</li>
+        <li>Sirius and SysON</li>
+        <li>Capella ecosystem</li>
+      </ul>
+    </div>
+    <a class="home-portrait" href="{{ site.url }}/about/" aria-label="About Cédric Brun">
+      <picture>
+        <source srcset="{{ site.url }}/images/bio-photo-2023.avif" type="image/avif">
+        <img src="{{ site.url }}/images/bio-photo-2023.jpg" width="1300" height="1462" loading="eager" alt="Cédric Brun">
+      </picture>
+    </a>
+  </section>
+
+  {% if featured_post %}
+  {% assign featured_words = featured_post.content | number_of_words %}
+  {% assign featured_minutes = featured_words | divided_by: 200 | plus: 1 %}
+  <section class="home-section home-featured" aria-labelledby="featured-title">
+    <div class="home-section__heading">
+      <p class="home-eyebrow">Featured article</p>
+      <h2 id="featured-title"><a href="{{ site.url }}{{ featured_post.url }}">{{ featured_post.title }}</a></h2>
+    </div>
+    <div class="home-featured__body">
+      <p>{{ featured_post.excerpt | strip_html }}</p>
+      <div class="home-article-meta">
+        <time datetime="{{ featured_post.date | date_to_xmlschema }}">{{ featured_post.date | date: "%B %-d, %Y" }}</time>
+        <span>{{ featured_minutes }} min read</span>
+        {% for tag in featured_post.tags limit:2 %}<span>{{ tag }}</span>{% endfor %}
+      </div>
+      <a class="home-text-link" href="{{ site.url }}{{ featured_post.url }}">Read the article <span aria-hidden="true">→</span></a>
+    </div>
+  </section>
+  {% endif %}
+
+  <section class="home-section home-topics" id="topics" aria-labelledby="home-topics-title">
+    <div class="home-section__heading">
+      <p class="home-eyebrow">Explore my work</p>
+      <h2 id="home-topics-title">Three ways into modern MBSE</h2>
+    </div>
     <div class="home-topics__grid">
-      <article class="topic-card topic-card--sysml">
+      <article class="topic-card">
+        <span class="topic-card__index" aria-hidden="true">01</span>
         <h3><a href="{{ site.url }}/sysml-v2/">SysML v2</a></h3>
-        <p>Understand the new standard and plan a progressive MBSE adoption.</p>
+        <p>Understand the standard, what changes from SysML v1, and how to plan practical adoption.</p>
+        <span class="topic-card__arrow" aria-hidden="true">→</span>
       </article>
-      <article class="topic-card topic-card--syson">
+      <article class="topic-card">
+        <span class="topic-card__index" aria-hidden="true">02</span>
         <h3><a href="{{ site.url }}/syson/">Eclipse SysON</a></h3>
-        <p>Evaluate an open-source, web-based SysML v2 modeling environment.</p>
+        <p>Discover an open-source, web-based environment for building and sharing SysML v2 models.</p>
+        <span class="topic-card__arrow" aria-hidden="true">→</span>
       </article>
-      <article class="topic-card topic-card--platforms">
-        <h3><a href="{{ site.url }}/modeling-platforms/">Modeling platforms</a></h3>
-        <p>Decide whether to buy, configure, or build a domain modeling environment.</p>
-      </article>
-      <article class="topic-card topic-card--opensource">
-        <h3><a href="{{ site.url }}/open-source-industrial/">Industrial open source</a></h3>
-        <p>Assess governance, funding, sovereignty, and long-term maintenance.</p>
-      </article>
-      <article class="topic-card topic-card--capella">
-        <h3><a href="{{ site.url }}/capella-arcadia/">Capella and Arcadia</a></h3>
-        <p>Adopt a method-led MBSE practice and connect it to new standards.</p>
+      <article class="topic-card">
+        <span class="topic-card__index" aria-hidden="true">03</span>
+        <h3><a href="{{ site.url }}/capella-arcadia/">Capella &amp; Arcadia</a></h3>
+        <p>Combine method-led MBSE practice with an established open ecosystem and emerging standards.</p>
+        <span class="topic-card__arrow" aria-hidden="true">→</span>
       </article>
     </div>
-    <p class="home-topics__all"><a href="{{ site.url }}/topics/">View all topics and their relationships</a></p>
-  </div>
-</section>
+    <div class="home-topic-links" aria-label="Cross-cutting topics">
+      <a href="{{ site.url }}/modeling-platforms/">Modeling platforms <span aria-hidden="true">→</span></a>
+      <a href="{{ site.url }}/open-source-industrial/">Industrial open source <span aria-hidden="true">→</span></a>
+      <a class="home-topic-links__all" href="{{ site.url }}/topics/">All topics</a>
+    </div>
+  </section>
 
-<div id="main" role="main"> 
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-      <div class="sidebar-block tag-cloud">
-      <h3>Browse by tag</h3>
-      {% include _tag_cloud.html %}
+  <section class="home-section home-recent" aria-labelledby="recent-title">
+    <div class="home-section__heading home-section__heading--row">
+      <div>
+        <p class="home-eyebrow">Recent writing</p>
+        <h2 id="recent-title">Ideas from the field</h2>
+      </div>
+      <a class="home-text-link" href="{{ site.url }}/posts/">Browse all articles <span aria-hidden="true">→</span></a>
     </div>
-  </div>
-  <div id="index">
-    <h2 class="index-heading"><a href="{{ site.url}}/posts/">Recent posts</a></h2>
-   {% for post in site.posts limit:10 %}
-    {% if post.translation_en == nil or post.translation_en == '' or post.translation_en == false %}
-      {% unless post.draft or post.noindex %}
-      {% assign is_talk = false %}
-      {% assign is_paper = false %}
-      {% if post.collection == 'talks' or post.categories contains 'talk' %}
-          {% assign is_talk = true %}
-      {% endif %}
-      {% if post.categories contains 'paper' %}
-          {% assign is_paper = true %}
-      {% endif %}
-      <article>
-        {% if post.link %}
-          <h2 class="link-post">
-            {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
-            {% if is_paper %}<span class="badge badge--paper" title="Paper">Paper</span>{% endif %}
-            <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-            <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a>
-          </h2>
-          {% if post.translation_fr %}
-            <span class="lang-links">
-              <a class="lang-link" href="{{ site.url }}{{ post.url }}" aria-label="English version">🇬🇧</a>
-              <a class="lang-link" href="{{ site.url }}{{ post.translation_fr  }}" aria-label="Version française">🇫🇷</a>
-            </span>
-          {% endif %}
-        {% else %}
-          <h2>
-            {% if is_talk %}<span class="badge badge--talk" title="Talk">Talk</span>{% endif %}
-            {% if is_paper %}<span class="badge badge--paper" title="Paper">Paper</span>{% endif %}
-            <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-          </h2>
-          <p>
-          {{ post.excerpt | strip_html | truncate: 160 }}
-          {% if post.translation_fr %}
-            <span class="lang-links">
-              <a class="lang-link" href="{{ site.url }}{{ post.url }}" aria-label="English version">🇬🇧</a>
-              <a class="lang-link" href="{{ site.url }}{{ post.translation_fr  }}" aria-label="Version française">🇫🇷</a>
-            </span>
-          {% endif %}
-          </p>
-         
-          
+    <div class="home-recent__list">
+      {% assign recent_count = 0 %}
+      {% for post in site.posts %}
+        {% if post.translation_en == nil or post.translation_en == '' or post.translation_en == false %}
+          {% unless post.draft or post.noindex %}
+            {% if post.url != featured_post.url and recent_count < 6 %}
+              {% assign is_talk = false %}
+              {% assign is_paper = false %}
+              {% if post.collection == 'talks' or post.categories contains 'talk' %}{% assign is_talk = true %}{% endif %}
+              {% if post.categories contains 'paper' %}{% assign is_paper = true %}{% endif %}
+              <article class="home-article">
+                <div class="home-article__content">
+                  <div class="home-article__labels">
+                    {% if is_talk %}<span class="badge badge--talk">Talk</span>{% endif %}
+                    {% if is_paper %}<span class="badge badge--paper">Paper</span>{% endif %}
+                    {% for tag in post.tags limit:2 %}<span>{{ tag }}</span>{% endfor %}
+                  </div>
+                  <h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+                  <p>{{ post.excerpt | strip_html | truncate: 210 }}</p>
+                  {% if post.translation_fr %}
+                  <div class="home-article__languages" aria-label="Available languages">
+                    <span aria-current="page">EN</span><span aria-hidden="true">/</span><a rel="alternate" hreflang="fr" href="{{ site.url }}{{ post.translation_fr }}">FR</a>
+                  </div>
+                  {% endif %}
+                </div>
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+              </article>
+              {% assign recent_count = recent_count | plus: 1 %}
+            {% endif %}
+          {% endunless %}
         {% endif %}
-      </article>
-      {% endunless %}
-     {% endif %}
-    {% endfor %}
-  </div><!-- /#index -->
-</div><!-- /#main -->
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="home-section home-more" aria-labelledby="home-more-title">
+    <h2 id="home-more-title" class="visually-hidden">More about Cédric Brun</h2>
+    <a href="{{ site.url }}/tag/talk/">
+      <span class="home-eyebrow">Talks &amp; keynotes</span>
+      <strong>Ideas are better when discussed.</strong>
+      <span>Browse conference talks and materials <span aria-hidden="true">→</span></span>
+    </a>
+    <a href="{{ site.url }}/about/">
+      <span class="home-eyebrow">About</span>
+      <strong>Two decades building modeling technology.</strong>
+      <span>Read the longer story <span aria-hidden="true">→</span></span>
+    </a>
+  </section>
+</main>
 
 <div class="footer-wrap">
   <footer>

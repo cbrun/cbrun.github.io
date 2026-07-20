@@ -1,6 +1,9 @@
 <div class="navigation-wrapper">
 	<div class="site-name">
-		<a href="{{ site.url }}/">{{ site.title }}</a>
+		<a href="{{ site.url }}/" class="site-identity" aria-label="Cédric Brun — home">
+			<span class="site-identity__name">Cédric Brun</span>
+			<span class="site-identity__role">CEO, Obeo</span>
+		</a>
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
@@ -8,16 +11,19 @@
 			   {% assign domain = site.url %}
 			   {% assign is_french = false %}
 			   {% if page.lang == 'fr' %}{% assign is_french = true %}{% endif %}
+			   {% assign english_url = page.translation_en | default: '/' %}
+			   {% assign french_url = page.translation_fr | default: '/fr/topics/' %}
 			   <li><a href="{{ domain }}{% if is_french %}/fr/topics/{% else %}/topics/{% endif %}">{% if is_french %}Thèmes{% else %}Topics{% endif %}</a></li>
 			   <li><a href="{{ domain }}/posts/">Articles</a></li>
 			   <li><a href="{{ domain }}/tag/talk/">{% if is_french %}Conférences{% else %}Talks{% endif %}</a></li>
-			   <li><a href="{{ domain }}/posts/" aria-label="{% if is_french %}Vue exhaustive du site{% else %}Complete site archive{% endif %}" title="{% if is_french %}Vue exhaustive du site{% else %}Complete site archive{% endif %}">*</a></li>
-               {% if page.translation_en %}                  
-               	 <li><a class="lang-link" rel="alternate"  hreflang="en"  href="{{ domain }}{{ page.translation_en  }}">🇬🇧</a></li>
-               {% endif %}
-			   {% if page.translation_fr %}                  
-               	 <li><a class="lang-link" rel="alternate"  hreflang="fr" href="{{ domain }}{{ page.translation_fr  }}">🇫🇷</a></li>
-               {% endif %}
+			   <li><a href="{{ domain }}{% if is_french %}/apropos/{% else %}/about/{% endif %}">{% if is_french %}À propos{% else %}About{% endif %}</a></li>
+			   <li class="nav-language" aria-label="Language">
+			   {% if is_french %}
+				<a rel="alternate" hreflang="en" href="{{ domain }}{{ english_url }}">EN</a><span aria-hidden="true">/</span><span aria-current="page">FR</span>
+			   {% else %}
+				<span aria-current="page">EN</span><span aria-hidden="true">/</span><a rel="alternate" hreflang="fr" href="{{ domain }}{{ french_url }}">FR</a>
+			   {% endif %}
+			   </li>
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
