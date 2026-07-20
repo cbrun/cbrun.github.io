@@ -354,6 +354,28 @@
   }
 }
 
+@media only screen and (min-width: 56.25em) {
+  .about-hero {
+    padding: clamp(3.5rem, 5vw, 5rem) 0;
+  }
+
+  .about-section {
+    padding: clamp(2.75rem, 4vw, 4rem) 0;
+  }
+
+  .about-focus-grid article {
+    min-height: 17rem;
+  }
+
+  .about-links-grid > a {
+    min-height: 10.5rem;
+  }
+
+  .about-contact {
+    margin-top: clamp(1.5rem, 3vw, 2.5rem);
+  }
+}
+
 @media only screen and (max-width: 56.25em) {
   .about-hero {
     grid-template-columns: minmax(0, 1.25fr) minmax(15rem, .75fr);
