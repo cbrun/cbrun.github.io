@@ -10,6 +10,10 @@ tags:
   - MBSE
   - syson
 excerpt: "MODELS 2024 Industry Day session for engineers exploring web‑based modeling—Sirius Web and SysON resources and why it matters."
+talk:
+  event: "MODELS 2024 · Industry Day"
+  location: "Vienna, Austria"
+  slides: "/talks/Models2024/Advancing_Web-Based_Modeling_Tools_with_Sirius_Web_An_Illustration_with_SysON.pdf"
 ---
 
 For MBSE practitioners, modeling tool builders, and researchers evaluating web‑based engineering tools. The session shows how Sirius Web enables rich diagramming on the web and how SysON brings open SysMLv2 editing to the Eclipse ecosystem, with an emphasis on collaboration, extensibility, and interoperability.

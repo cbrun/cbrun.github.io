@@ -1,0 +1,161 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="{{ page.lang | default: site.lang | default: 'en' }}"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="{{ page.lang | default: site.lang | default: 'en' }}"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="{{ page.lang | default: site.lang | default: 'en' }}"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="{{ page.lang | default: site.lang | default: 'en' }}"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="talks-landing">
+
+{% include _browser-upgrade.html %}
+{% include _navigation.html %}
+
+{% assign talk_posts = site.tags[page.tag] | where_exp: "post", "post.translation_en == nil" | where_exp: "post", "post.draft != true" %}
+{% assign featured_talk = '' %}
+{% for candidate in talk_posts %}
+  {% if candidate.url == page.featured_talk or candidate.permalink == page.featured_talk %}
+    {% assign featured_talk = candidate %}
+  {% endif %}
+{% endfor %}
+
+<main class="talks-page" id="main" role="main">
+  <header class="talks-intro">
+    <p class="talks-intro__eyebrow">Cédric Brun · Conference archive</p>
+    <h1>{{ page.title }}</h1>
+    <div class="talks-intro__copy">
+      {{ content }}
+    </div>
+  </header>
+
+  <div class="talk-filters" role="group" aria-label="Filter talks by topic">
+    <button type="button" class="talk-filter is-active" data-talk-filter="all" aria-pressed="true">All</button>
+    <button type="button" class="talk-filter" data-talk-filter="sysml">SysML v2</button>
+    <button type="button" class="talk-filter" data-talk-filter="mbse">MBSE</button>
+    <button type="button" class="talk-filter" data-talk-filter="opensource">Open source</button>
+    <button type="button" class="talk-filter" data-talk-filter="platforms">Modeling platforms</button>
+  </div>
+
+  {% if featured_talk.title %}
+  <section class="featured-talk" aria-labelledby="featured-talk-title">
+    <div class="featured-talk__copy">
+      <p class="featured-talk__eyebrow">Featured talk{% if featured_talk.talk.format %} · {{ featured_talk.talk.format }}{% endif %}</p>
+      <h2 id="featured-talk-title"><a href="{{ site.url }}{{ featured_talk.url }}">{{ featured_talk.title }}</a></h2>
+      <p class="featured-talk__summary">{{ featured_talk.excerpt | strip_html }}</p>
+      <p class="featured-talk__meta">
+        {% if featured_talk.talk.event %}<span>{{ featured_talk.talk.event }}</span>{% endif %}
+        {% if featured_talk.talk.location %}<span>{{ featured_talk.talk.location }}</span>{% endif %}
+        <time datetime="{{ featured_talk.date | date_to_xmlschema }}">{{ featured_talk.date | date: "%B %Y" }}</time>
+      </p>
+      <div class="talk-resources" aria-label="Featured talk resources">
+        {% if featured_talk.talk.slides %}<a class="talk-resource talk-resource--primary" href="{% if featured_talk.talk.slides contains '://' %}{{ featured_talk.talk.slides }}{% else %}{{ site.url }}{{ featured_talk.talk.slides }}{% endif %}">View slides <span aria-hidden="true">→</span></a>{% endif %}
+        {% if featured_talk.talk.video %}<a class="talk-resource" href="{{ featured_talk.talk.video }}">Watch recording <span aria-hidden="true">↗</span></a>{% endif %}
+        <a class="talk-resource" href="{{ site.url }}{{ featured_talk.url }}">Read transcript <span aria-hidden="true">→</span></a>
+      </div>
+    </div>
+    {% if featured_talk.talk.image %}
+    <a class="featured-talk__visual" href="{% if featured_talk.talk.slides %}{% if featured_talk.talk.slides contains '://' %}{{ featured_talk.talk.slides }}{% else %}{{ site.url }}{{ featured_talk.talk.slides }}{% endif %}{% else %}{{ site.url }}{{ featured_talk.url }}{% endif %}" aria-label="View the SLE 2026 keynote slides">
+      <img src="{{ site.url }}{{ featured_talk.talk.image }}" alt="{{ featured_talk.talk.image_alt | default: featured_talk.title }}" loading="eager">
+    </a>
+    {% endif %}
+  </section>
+  {% endif %}
+
+  <section class="talks-archive" aria-labelledby="all-talks-title">
+    <div class="talks-section-heading">
+      <p class="talks-section-heading__eyebrow">Archive</p>
+      <h2 id="all-talks-title">All talks and resources</h2>
+    </div>
+
+    {% assign posts_by_year = talk_posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in posts_by_year %}
+    <section class="talk-year" id="talks-{{ year.name }}" data-talk-year>
+      <h3 class="talk-year__heading">{{ year.name }}</h3>
+      <div class="talk-year__items">
+        {% for post in year.items %}
+          {% capture talk_topics %}
+            {% if post.tags contains 'SysMLv2' or post.tags contains 'sysmlv2' or post.tags contains 'syson' %}sysml {% endif %}
+            {% if post.tags contains 'MBSE' or post.tags contains 'mbse' or post.tags contains 'capella' or post.tags contains 'SysMLv2' or post.tags contains 'sysmlv2' or post.tags contains 'syson' %}mbse {% endif %}
+            {% if post.tags contains 'opensource' or post.tags contains 'open-source' or post.tags contains 'eclipse' or post.tags contains 'obeo' %}opensource {% endif %}
+            {% if post.tags contains 'sirius' or post.tags contains 'sirius-web' or post.tags contains 'papyrus' or post.tags contains 'syson' %}platforms{% endif %}
+          {% endcapture %}
+        <article class="talk-item" data-talk-item data-topics="{{ talk_topics | strip | normalize_whitespace }}">
+          <div class="talk-item__meta">
+            <p>
+              {% if post.talk.event %}<span>{{ post.talk.event }}</span>{% endif %}
+              {% if post.talk.location %}<span>{{ post.talk.location }}</span>{% endif %}
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %Y" }}</time>
+            </p>
+            <div class="talk-item__badges" aria-label="Available resource types">
+              {% if post.talk.format %}<span>{{ post.talk.format }}</span>{% elsif post.categories contains 'interview' %}<span>Interview</span>{% elsif post.categories contains 'paper' %}<span>Publication</span>{% endif %}
+              {% if post.talk.video %}<span>Video</span>{% endif %}
+              {% if post.talk.slides %}<span>Slides</span>{% endif %}
+              {% if post.talk.demo %}<span>Demo</span>{% endif %}
+            </div>
+          </div>
+          <h4><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h4>
+          {% if post.excerpt %}<p class="talk-item__summary">{{ post.excerpt | strip_html | normalize_whitespace }}</p>{% endif %}
+          <div class="talk-item__topics" aria-label="Topics">
+            {% if talk_topics contains 'sysml' %}<span>SysML v2</span>{% endif %}
+            {% if talk_topics contains 'mbse' %}<span>MBSE</span>{% endif %}
+            {% if talk_topics contains 'opensource' %}<span>Open source</span>{% endif %}
+            {% if talk_topics contains 'platforms' %}<span>Modeling platforms</span>{% endif %}
+          </div>
+          <div class="talk-resources talk-resources--item">
+            <a href="{{ site.url }}{{ post.url }}">{% if post == featured_talk %}Read transcript{% else %}Read notes{% endif %} <span aria-hidden="true">→</span></a>
+            {% if post.talk.video %}<a href="{{ post.talk.video }}">{% if post.categories contains 'interview' %}Watch interview{% else %}Watch recording{% endif %} <span aria-hidden="true">↗</span></a>{% endif %}
+            {% if post.talk.slides %}<a href="{% if post.talk.slides contains '://' %}{{ post.talk.slides }}{% else %}{{ site.url }}{{ post.talk.slides }}{% endif %}">Slides <span aria-hidden="true">↗</span></a>{% endif %}
+            {% if post.talk.publication %}<a href="{{ post.talk.publication }}">Read publication <span aria-hidden="true">↗</span></a>{% endif %}
+            {% if post.talk.external %}<a href="{{ post.talk.external }}">{{ post.talk.external_label | default: 'Related resource' }} <span aria-hidden="true">↗</span></a>{% endif %}
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+    </section>
+    {% endfor %}
+    <p class="talks-filter-empty" data-talk-empty hidden>No talk in this archive matches this topic yet.</p>
+  </section>
+</main>
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div>
+
+{% include _scripts.html %}
+<script>
+(function () {
+  var filters = document.querySelectorAll('[data-talk-filter]');
+  var items = document.querySelectorAll('[data-talk-item]');
+  var years = document.querySelectorAll('[data-talk-year]');
+  var empty = document.querySelector('[data-talk-empty]');
+  if (!filters.length || !items.length) return;
+
+  filters.forEach(function (button) {
+    button.addEventListener('click', function () {
+      var filter = button.getAttribute('data-talk-filter');
+      var visibleCount = 0;
+      filters.forEach(function (item) {
+        var active = item === button;
+        item.classList.toggle('is-active', active);
+        item.setAttribute('aria-pressed', active ? 'true' : 'false');
+      });
+      items.forEach(function (item) {
+        var topics = (item.getAttribute('data-topics') || '').split(/\s+/);
+        var visible = filter === 'all' || topics.indexOf(filter) !== -1;
+        item.hidden = !visible;
+        if (visible) visibleCount += 1;
+      });
+      years.forEach(function (year) {
+        year.hidden = !year.querySelector('[data-talk-item]:not([hidden])');
+      });
+      empty.hidden = visibleCount !== 0;
+    });
+  });
+}());
+</script>
+
+</body>
+</html>

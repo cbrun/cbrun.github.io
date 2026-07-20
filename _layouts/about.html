@@ -1,0 +1,63 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="{{ page.lang | default: site.lang | default: 'en' }}"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="{{ page.lang | default: site.lang | default: 'en' }}"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="{{ page.lang | default: site.lang | default: 'en' }}"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="{{ page.lang | default: site.lang | default: 'en' }}"><!--<![endif]-->
+<head>
+{% include _head.html %}
+{% include _structured-person.html %}
+</head>
+
+<body class="about-landing">
+
+{% include _browser-upgrade.html %}
+{% include _navigation.html %}
+
+<main class="about-page" id="main" role="main">
+  <section class="about-hero" aria-labelledby="about-title">
+    <div class="about-hero__copy">
+      <p class="about-eyebrow">{{ page.profile.eyebrow }}</p>
+      <h1 id="about-title">{{ page.profile.headline }}</h1>
+      <p class="about-hero__intro">{{ page.profile.introduction }}</p>
+      <ul class="about-credentials" aria-label="{% if page.lang == 'fr' %}Repères professionnels{% else %}Professional background{% endif %}">
+        {% for credential in page.profile.credentials %}<li>{{ credential }}</li>{% endfor %}
+      </ul>
+      <div class="about-hero__actions">
+        <a class="about-button about-button--primary" href="#work">{{ page.profile.primary_action }}</a>
+        <a class="about-button about-button--secondary" href="{{ site.url }}/tag/talk/">{{ page.profile.talks_action }} <span aria-hidden="true">→</span></a>
+      </div>
+    </div>
+    <figure class="about-portrait">
+      <img src="{{ site.url }}{{ page.portrait.src }}" alt="{{ page.portrait.alt }}" width="1524" height="2032" loading="eager">
+    </figure>
+  </section>
+
+  <div class="about-content">
+    {{ content }}
+  </div>
+
+  <section class="about-contact" aria-labelledby="about-contact-title">
+    <div>
+      <p class="about-eyebrow">{% if page.lang == 'fr' %}Échanger{% else %}Continue the conversation{% endif %}</p>
+      <h2 id="about-contact-title">{% if page.lang == 'fr' %}Parlons modélisation, open source ou ingénierie.{% else %}Let’s talk modeling, open source, or engineering.{% endif %}</h2>
+      <p>{% if page.lang == 'fr' %}Pour une conférence, une collaboration open source ou un projet de modélisation, vous pouvez me contacter directement ou découvrir le travail d'Obeo.{% else %}For a speaking opportunity, an open-source collaboration, or a modeling initiative, contact me directly or explore the work we do at Obeo.{% endif %}</p>
+    </div>
+    <div class="about-contact__links">
+      <a href="mailto:{{ site.owner.email }}">Email <span aria-hidden="true">↗</span></a>
+      <a href="https://www.linkedin.com/in/{{ site.owner.linkedin }}/">LinkedIn <span aria-hidden="true">↗</span></a>
+      <a href="https://github.com/{{ site.owner.github }}">GitHub <span aria-hidden="true">↗</span></a>
+      <a href="https://www.obeosoft.com/{% if page.lang == 'fr' %}fr/{% else %}en/{% endif %}">Obeo <span aria-hidden="true">↗</span></a>
+    </div>
+  </section>
+</main>
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div>
+
+{% include _scripts.html %}
+
+</body>
+</html>

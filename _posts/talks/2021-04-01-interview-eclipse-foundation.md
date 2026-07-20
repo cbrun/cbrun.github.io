@@ -8,6 +8,9 @@ tags:
   - interview
   - talk
 excerpt: "Interview for the Eclipse Foundation on why companies and individuals should participate in open source—key points and video."
+talk:
+  event: "Eclipse Foundation interview"
+  video: "https://www.youtube.com/watch?v=zh6uTWMIqzs"
 
 ---
 
@@ -20,4 +23,3 @@ excerpt: "Interview for the Eclipse Foundation on why companies and individuals 
 - Program: [Link](https://www.youtube.com/watch?v=zh6uTWMIqzs)
 
 ## Related Blog Posts
-

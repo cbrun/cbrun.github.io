@@ -9,6 +9,9 @@ tags:
   - eclipse
   - talk
 excerpt: "Contribution to the Eclipse Foundation eBook on open‑source participation—audience, why it matters, and where to read."
+talk:
+  event: "Eclipse Foundation eBook"
+  publication: "https://outreach.eclipse.foundation/participate-open-source-ebook"
 ---
 
 [![]({{ site.url }}/talks/2021-book.webp)](https://outreach.eclipse.foundation/participate-open-source-ebook)
@@ -20,4 +23,3 @@ excerpt: "Contribution to the Eclipse Foundation eBook on open‑source particip
 - Program: [Link](https://outreach.eclipse.foundation/participate-open-source-ebook)
 
 ## Related Blog Posts
-

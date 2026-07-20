@@ -11,6 +11,10 @@ tags:
   - obeo
   - MBSE
 excerpt: "OCX 2024 talk resources for Eclipse/MBSE practitioners—context, slides, and why open innovation and stewardship matter now."
+talk:
+  event: "Open Community Experience 2024"
+  location: "Mainz, Germany"
+  slides: "/talks/OCX2024/OCX_Open_Innovation_unleashed.pdf"
 ---
 
 For open‑source leaders, engineering managers, and foundation stewards who care about building sustainable ecosystems. The talk shares how Obeo’s 19‑year journey leverages open innovation and stewardship to align business value with community health in a fast‑moving regulatory context.

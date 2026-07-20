@@ -1,0 +1,36 @@
+{% assign person_page_url = page.canonical | default: page.url %}
+{% unless person_page_url contains '://' %}{% assign person_page_url = site.url | append: person_page_url %}{% endunless %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "url": {{ person_page_url | jsonify }},
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Cédric Brun",
+    "url": "{{ site.url }}/about/",
+    "image": "{{ site.url }}{{ page.portrait.src }}",
+    "jobTitle": "CEO",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Obeo",
+      "url": "https://www.obeosoft.com/"
+    },
+    "knowsAbout": [
+      "Model-Based Systems Engineering",
+      "SysML v2",
+      "Eclipse SysON",
+      "Eclipse Sirius",
+      "Capella",
+      "Arcadia",
+      "Open-source software"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/{{ site.owner.linkedin }}/",
+      "https://github.com/{{ site.owner.github }}",
+      "https://twitter.com/{{ site.owner.twitter }}",
+      "https://www.youtube.com/channel/{{ site.owner.youtube }}"
+    ]
+  }
+}
+</script>

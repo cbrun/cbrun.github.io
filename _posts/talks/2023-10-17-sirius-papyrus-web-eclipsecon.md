@@ -11,6 +11,11 @@ tags:
   - uml
   - MBSE
 excerpt: "EclipseCon 2023 session: collaboration between Obeo and CEA on Sirius Web and Papyrus Web—slides, video, and who should care."
+talk:
+  event: "EclipseCon 2023"
+  location: "Ludwigsburg, Germany"
+  video: "https://www.youtube.com/watch?v=18MuxEVm6y0"
+  slides: "/talks/EclipseCon2023/EclipseCon_SiriusPapyrus_Web.pdf"
 ---
 ## Collaborative Modeling: Obeo, CEA Join Forces in Eclipse
 

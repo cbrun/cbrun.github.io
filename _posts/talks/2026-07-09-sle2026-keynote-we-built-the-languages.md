@@ -16,6 +16,13 @@ tags:
   - obeo
 permalink: /talks/sle-2026-we-built-the-languages/
 excerpt: "A reflection from my SLE 2026 keynote on how each generation of language engineering moved the problem: from metamodels and editors to platforms, communities, practices, and human-agent collaboration."
+talk:
+  event: "SLE 2026"
+  location: "Rennes, France"
+  format: "Keynote"
+  slides: "/talks/SLE2026/"
+  image: "/images/blog/2026/sle-we_built_the_language.png"
+  image_alt: "Title slide for the SLE 2026 keynote: We built the languages. That was the easy part."
 ---
 
 Last week I had the pleasure of giving the keynote at [SLE 2026](https://conf.researchr.org/home/sle-2026#Keynote) in Rennes. The title was:

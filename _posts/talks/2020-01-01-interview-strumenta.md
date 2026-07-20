@@ -8,6 +8,10 @@ tags:
   - opensource
   - talk
 excerpt: "Interview about the future of modeling tools, UX, and the role of open‑source in engineering — who should care and why it matters."
+talk:
+  event: "Strumenta interview"
+  external: "https://tomassetti.me/interview-with-cedric-brun/"
+  external_label: "Read interview"
 ---
 
 For engineering leaders and practitioners interested in where modeling tools and open‑source are heading. We discussed UX, collaboration at scale, and how open ecosystems enable faster innovation.
