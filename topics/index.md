@@ -1,6 +1,6 @@
 ---
 layout: topics
-title: "Topics"
+title: "Modeling, MBSE, and industrial open source"
 seoTitle: "Topics: modeling, MBSE, and industrial open source"
 description: "Explore Cédric Brun's reference guides on SysML v2, Eclipse SysON, modeling platforms, industrial open source, Capella, and Arcadia."
 permalink: /topics/

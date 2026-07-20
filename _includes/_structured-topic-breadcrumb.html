@@ -1,0 +1,36 @@
+{% assign topic_hub_path = '/topics/' %}
+{% assign topic_hub_label = 'Topics' %}
+{% if page.lang == 'fr' %}
+  {% assign topic_hub_path = '/fr/topics/' %}
+  {% assign topic_hub_label = 'Thèmes' %}
+{% endif %}
+{% assign breadcrumb_current_path = page.url | replace: 'index.html', '' %}
+{% if page.canonical %}
+  {% if page.canonical contains '://' %}
+    {% assign breadcrumb_current_url = page.canonical %}
+  {% else %}
+    {% assign breadcrumb_current_url = site.url | append: page.canonical %}
+  {% endif %}
+{% else %}
+  {% assign breadcrumb_current_url = site.url | append: breadcrumb_current_path %}
+{% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": {{ topic_hub_label | jsonify }},
+      "item": {{ site.url | append: topic_hub_path | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ page.title | jsonify }},
+      "item": {{ breadcrumb_current_url | jsonify }}
+    }
+  ]
+}
+</script>

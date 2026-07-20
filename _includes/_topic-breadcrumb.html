@@ -1,0 +1,12 @@
+{% assign topic_hub_path = '/topics/' %}
+{% assign topic_hub_label = 'Topics' %}
+{% if page.lang == 'fr' %}
+  {% assign topic_hub_path = '/fr/topics/' %}
+  {% assign topic_hub_label = 'Thèmes' %}
+{% endif %}
+<nav class="topic-breadcrumb" aria-label="{% if page.lang == 'fr' %}Fil d’Ariane{% else %}Breadcrumb{% endif %}">
+  <ol>
+    <li><a href="{{ site.url }}{{ topic_hub_path }}">{{ topic_hub_label }}</a></li>
+    <li aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>

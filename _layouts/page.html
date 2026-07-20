@@ -5,7 +5,10 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="{{ page.lang | default: site.lang | default: 'en' }}"><!--<![endif]-->
 <head>
 {% include _head.html %}
-{% if page.cluster %}{% include _structured-article.html type='Article' %}{% endif %}
+{% if page.cluster %}
+  {% include _structured-article.html type='Article' %}
+  {% include _structured-topic-breadcrumb.html %}
+{% endif %}
 </head>
 
 <body class="page">
@@ -41,8 +44,9 @@
   {% for t in page.translations %}
     <a href="{{ t.url }}">{{ t.lang | language_name }}</a>
   {% endfor %}
-{% endif %}
+  {% endif %}
   <article class="page">
+    {% if page.cluster %}{% include _topic-breadcrumb.html %}{% endif %}
     <h1>{{ page.title }}</h1> 
     {% if page.textra %} 
    		 {{ page.textra }}

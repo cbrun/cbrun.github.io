@@ -774,6 +774,39 @@ $button-size: 1.5rem;
 	border-top: 1px solid lighten($black, 78);
 }
 
+/* Topic hierarchy */
+.topic-breadcrumb {
+	margin: 0 0 1em;
+	color: lighten($textcolor, 28);
+	@include font-rem(14);
+
+	ol {
+		display: flex;
+		align-items: center;
+		flex-wrap: wrap;
+		gap: .45em;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	li + li:before {
+		content: "/";
+		margin-right: .45em;
+		color: lighten($textcolor, 45);
+	}
+
+	a {
+		color: $linkcolor;
+		text-decoration: none;
+
+		&:hover,
+		&:focus {
+			text-decoration: underline;
+		}
+	}
+}
+
 /* Large feature header image */
 .image-wrap {
 	position: relative;

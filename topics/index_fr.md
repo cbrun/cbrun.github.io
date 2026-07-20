@@ -1,6 +1,6 @@
 ---
 layout: topics
-title: "Thèmes"
+title: "Modélisation, MBSE et open source industriel"
 seoTitle: "Thèmes : modélisation, MBSE et open source industriel"
 description: "Explorez les guides de référence de Cédric Brun sur SysML v2, Eclipse SysON, les plateformes de modélisation, l'open source industriel, Capella et Arcadia."
 permalink: /fr/topics/
