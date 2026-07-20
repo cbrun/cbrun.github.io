@@ -7,79 +7,76 @@
 {% include _head.html %}
 </head>
 
-<body class="post-index">
+<body class="articles-landing">
 
 {% include _browser-upgrade.html %}
-
 {% include _navigation.html %}
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img loading="eager" src=
-    {% if page.image.feature contains 'http' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
+{% assign sorted_articles = site.posts | sort: 'date' | reverse %}
+{% assign published_articles = sorted_articles
+  | where_exp: "post", "post.draft != true"
+  | where_exp: "post", "post.translation_en == nil" %}
+{% assign draft_articles = sorted_articles
+  | where_exp: "post", "post.draft == true"
+  | where_exp: "post", "post.translation_en == nil" %}
+{% assign articles_by_year = published_articles | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% assign oldest_first = published_articles | sort: 'date' %}
+{% assign oldest_article = oldest_first | first %}
 
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
-  <div id="index">
+<main class="articles-page" id="main" role="main">
+  <header class="articles-intro">
+    <p class="articles-eyebrow">Writing archive</p>
     <h1>{{ page.title }}</h1>
-    <nav class="archive-tools" aria-label="Article archive navigation">
-      <span aria-current="page">All articles</span>
-      <a href="{{ site.url }}/tags/">Browse by tag <span aria-hidden="true">→</span></a>
+    <div class="articles-intro__copy">{{ content }}</div>
+    <nav class="articles-shortcuts" aria-label="Article archive navigation">
+      <a class="articles-shortcut articles-shortcut--primary" href="{{ site.url }}/tags/">Browse by tag <span aria-hidden="true">→</span></a>
+      <a class="articles-shortcut" href="{{ site.url }}/topics/">Explore curated topics <span aria-hidden="true">→</span></a>
     </nav>
-    {% assign articles = site.posts | sort: 'date' | reverse %}
-    {% assign last_year = nil %}
-    {% for item in articles %}
-      {% if item.draft != true and item.translation_en == nil %}
-        {% capture year %}{{ item.date | date: '%Y' }}{% endcapture %}
-        {% if year != last_year %}
-          <h3>{{ year }}</h3>
-          {% assign last_year = year %}
-        {% endif %}
-        <article>
-          {% if item.link %}
-            <h2 class="link-post"><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a> <a href="{{ item.link }}" target="_blank" title="{{ item.title }}"><i class="fa fa-link"></i></a></h2>
-          {% else %}
-            <h2><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></h2>
-            <p>{{ item.excerpt | strip_html | truncate: 160 }}</p>
-          {% endif %}
-        </article>
-      {% endif %}
+    <p class="articles-summary">{{ published_articles | size }} published entries{% if oldest_article %}, from {{ oldest_article.date | date: "%Y" }} to today{% endif %}.</p>
+  </header>
+
+  <section class="articles-archive" aria-labelledby="articles-archive-title">
+    <div class="articles-section-heading">
+      <p class="articles-eyebrow">Chronology</p>
+      <h2 id="articles-archive-title">All articles and resources</h2>
+    </div>
+
+    {% for year in articles_by_year %}
+    <section class="article-index-year" id="articles-{{ year.name }}">
+      <h3>{{ year.name }}</h3>
+      <div class="article-index-year__items">
+        {% for item in year.items %}
+          {% include _article-index-item.html item=item %}
+        {% endfor %}
+      </div>
+    </section>
     {% endfor %}
-    <h3>Drafts</h3>    
-    {% for post in site.posts %}  
-    {% if post.draft %}    
-      <article>
-        {% if post.link %}
-          <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
-        {% else %}
-          <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-        {% endif %}
-      </article>
-      {% endif %}
-    {% endfor %}
-  </div><!-- /#index -->
-</div><!-- /#main -->
+  </section>
+
+  {% assign draft_count = draft_articles | size %}
+  {% if draft_count > 0 %}
+  <section class="articles-drafts" aria-labelledby="articles-drafts-title">
+    <div class="articles-section-heading">
+      <p class="articles-eyebrow">Preview</p>
+      <h2 id="articles-drafts-title">Drafts in progress</h2>
+      <p>These working notes are shown separately and are not part of the feeds or published chronology yet.</p>
+    </div>
+    <div class="articles-drafts__items">
+      {% for item in draft_articles %}
+        {% include _article-index-item.html item=item is_draft=true %}
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</main>
 
 <div class="footer-wrap">
   <footer>
     {% include _footer.html %}
   </footer>
-</div><!-- /.footer-wrap -->
+</div>
 
 {% include _scripts.html %}
-  
+
 </body>
 </html>

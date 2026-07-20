@@ -1,0 +1,33 @@
+{% assign item = include.item %}
+{% assign is_talk = false %}
+{% assign is_paper = false %}
+{% if item.categories contains 'talk' %}{% assign is_talk = true %}{% endif %}
+{% if item.categories contains 'paper' %}{% assign is_paper = true %}{% endif %}
+
+<article class="article-index-item{% if include.is_draft %} article-index-item--draft{% endif %}">
+  <div class="article-index-item__meta">
+    <p>
+      <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%B %-d, %Y" }}</time>
+      {% if is_talk %}<span>Talk</span>{% elsif is_paper %}<span>Paper</span>{% elsif include.is_draft %}<span>Draft</span>{% endif %}
+    </p>
+    {% if item.tags %}
+    <div class="article-index-item__tags" aria-label="Topics">
+      {% for tag in item.tags limit:3 %}<span>{{ tag }}</span>{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+
+  <h4><a href="{{ site.url }}{{ item.url }}">{{ item.title }}</a></h4>
+  {% if item.excerpt %}<p class="article-index-item__excerpt">{{ item.excerpt | strip_html | normalize_whitespace | truncate: 220 }}</p>{% endif %}
+
+  {% if item.link or item.translation_fr %}
+  <div class="article-index-item__links">
+    {% if item.link %}<a href="{{ item.link }}">External resource <span aria-hidden="true">↗</span></a>{% endif %}
+    {% if item.translation_fr %}
+      <span class="article-index-item__languages" aria-label="Available languages">
+        <span aria-current="page">EN</span><span aria-hidden="true">/</span><a href="{{ site.url }}{{ item.translation_fr }}" lang="fr" hreflang="fr">FR</a>
+      </span>
+    {% endif %}
+  </div>
+  {% endif %}
+</article>

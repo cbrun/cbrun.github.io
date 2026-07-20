@@ -748,30 +748,6 @@ $button-size: 1.5rem;
 	}
 }
 
-.archive-tools {
-	display: flex;
-	flex-wrap: wrap;
-	gap: .65rem 1.25rem;
-	margin: 0 0 2rem;
-	padding: .85rem 0;
-	color: #667085;
-	@include font-rem(14);
-	border-top: 1px solid #e7e7e2;
-	border-bottom: 1px solid #e7e7e2;
-
-	span[aria-current="page"] {
-		font-weight: 700;
-		color: #202124;
-	}
-
-	a,
-	a:visited {
-		font-weight: 700;
-		color: #315f9c;
-		border: 0;
-	}
-}
-
 /* Curated topics directory */
 .topics-page {
 	@include container;
