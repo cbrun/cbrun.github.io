@@ -46,4 +46,4 @@ They are not five separate shelves. [SysML v2]({{ site.url }}/sysml-v2/) defines
 
 ## Article archives
 
-The pillars are curated entry points. For the complete chronology, browse [all articles]({{ site.url }}/posts/) or the exhaustive archives by tag: [SysML and MBSE]({{ site.url }}/tag/mbse/), [Sirius Web and SysON]({{ site.url }}/tag/sirius-web/), [Ecore and EMF]({{ site.url }}/tag/ecore/), [Capella]({{ site.url }}/tag/capella/), and [Obeo and community]({{ site.url }}/tag/obeo/).
+The pillars are curated entry points. For the complete chronology, browse [all articles]({{ site.url }}/posts/) or the main archives by tag: [SysML and MBSE]({{ site.url }}/tag/mbse/), [Sirius Web and SysON]({{ site.url }}/tag/sirius-web/), [Ecore and EMF]({{ site.url }}/tag/ecore/), [Capella]({{ site.url }}/tag/capella/), and [Obeo and community]({{ site.url }}/tag/obeo/). The [complete tag index]({{ site.url }}/tags/) covers technologies, events, and historical subjects beyond these five areas.

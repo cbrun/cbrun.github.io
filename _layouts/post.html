@@ -60,17 +60,67 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap">
+  {% assign current_is_french = false %}
+  {% if page.lang == 'fr' or page.translation_en %}{% assign current_is_french = true %}{% endif %}
+  {% assign selected_related_posts = '' | split: '' %}
+
+  {% comment %}First pass: related posts in the same language.{% endcomment %}
+  {% for candidate in site.related_posts %}
+    {% assign selected_count = selected_related_posts | size %}
+    {% if selected_count < 3 %}
+      {% assign exclude_candidate = false %}
+      {% if candidate.draft == true or candidate.url == page.url %}{% assign exclude_candidate = true %}{% endif %}
+      {% if page.translation_fr and candidate.url == page.translation_fr %}{% assign exclude_candidate = true %}{% endif %}
+      {% if page.translation_en and candidate.url == page.translation_en %}{% assign exclude_candidate = true %}{% endif %}
+      {% if candidate.translation_fr and candidate.translation_fr == page.url %}{% assign exclude_candidate = true %}{% endif %}
+      {% if candidate.translation_en and candidate.translation_en == page.url %}{% assign exclude_candidate = true %}{% endif %}
+
+      {% assign candidate_is_french = false %}
+      {% if candidate.lang == 'fr' or candidate.translation_en %}{% assign candidate_is_french = true %}{% endif %}
+      {% if exclude_candidate == false and candidate_is_french == current_is_french %}
+        {% assign selected_related_posts = selected_related_posts | push: candidate %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% comment %}Second pass: fill any remaining slots with other-language results.{% endcomment %}
+  {% assign selected_count = selected_related_posts | size %}
+  {% if selected_count < 3 %}
+    {% for candidate in site.related_posts %}
+      {% assign selected_count = selected_related_posts | size %}
+      {% if selected_count < 3 %}
+        {% assign exclude_candidate = false %}
+        {% if candidate.draft == true or candidate.url == page.url %}{% assign exclude_candidate = true %}{% endif %}
+        {% if page.translation_fr and candidate.url == page.translation_fr %}{% assign exclude_candidate = true %}{% endif %}
+        {% if page.translation_en and candidate.url == page.translation_en %}{% assign exclude_candidate = true %}{% endif %}
+        {% if candidate.translation_fr and candidate.translation_fr == page.url %}{% assign exclude_candidate = true %}{% endif %}
+        {% if candidate.translation_en and candidate.translation_en == page.url %}{% assign exclude_candidate = true %}{% endif %}
+
+        {% assign candidate_is_french = false %}
+        {% if candidate.lang == 'fr' or candidate.translation_en %}{% assign candidate_is_french = true %}{% endif %}
+        {% if exclude_candidate == false and candidate_is_french != current_is_french %}
+          {% assign selected_related_posts = selected_related_posts | push: candidate %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% assign selected_count = selected_related_posts | size %}
+  {% if selected_count > 0 %}
   <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
+  <h4>{% if current_is_french %}À lire également{% else %}You might also enjoy{% endif %} <small class="pull-right">(<a href="{{ site.url }}/posts/">{% if current_is_french %}Voir tous les articles{% else %}View all posts{% endif %}</a>)</small></h4>
     <ul>
-    {% for post in site.related_posts limit:3 %}
-      {% unless post.draft %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-      {% endunless %}
+    {% for post in selected_related_posts %}
+      {% assign related_is_french = false %}
+      {% if post.lang == 'fr' or post.translation_en %}{% assign related_is_french = true %}{% endif %}
+      <li>
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" lang="{% if related_is_french %}fr{% else %}en{% endif %}" hreflang="{% if related_is_french %}fr{% else %}en{% endif %}">{{ post.title }}{% if related_is_french != current_is_french %} <span class="related-article__language">{% if related_is_french %}FR{% else %}EN{% endif %}</span>{% endif %}</a>
+      </li>
     {% endfor %}
     </ul>
     <hr />
   </div><!-- /.related-articles -->
+  {% endif %}
   <footer>
     {% include _footer.html %}
   </footer>
