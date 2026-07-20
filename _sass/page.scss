@@ -790,9 +790,9 @@ $button-size: 1.5rem;
 		list-style: none;
 	}
 
-	li + li:before {
+	li:not(:last-child):after {
 		content: "/";
-		margin-right: .45em;
+		margin-left: .45em;
 		color: lighten($textcolor, 45);
 	}
 
