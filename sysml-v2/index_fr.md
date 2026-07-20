@@ -40,11 +40,11 @@ image:
 
 > Cette page a été traduite automatiquement depuis la version anglaise.
 
-SysML v2 n'est pas une retouche cosmétique de SysML v1. Le langage a été repensé autour d'une fondation sémantique plus précise, de notations textuelle et graphique standardisées, de bibliothèques réutilisables et d'une API standard pour accéder aux modèles.
+Le [standard SysML v2](https://www.omg.org/sysml/sysmlv2/) n'est pas une retouche cosmétique de SysML v1. Le langage a été repensé autour d'une fondation sémantique plus précise, de notations textuelle et graphique standardisées, de bibliothèques réutilisables et d'une API standard pour accéder aux modèles.
 
 Le changement pratique dépasse largement l'arrivée de quelques nouveaux diagrammes. Avec SysML v2, le modèle système devient plus facile à traiter comme une véritable donnée d'ingénierie : quelque chose que l'on peut parcourir à travers différentes vues, que les outils peuvent interroger et transformer, et auquel d'autres services peuvent se connecter grâce à une interface partagée.
 
-[L'OMG a publié SysML 2.0 comme spécification formelle en septembre 2025](https://www.omg.org/spec/SysML/2.0), avec [KerML 1.0](https://www.omg.org/spec/KerML/1.0) et [Systems Modeling API and Services 1.0](https://www.omg.org/spec/SystemsModelingAPI/1.0). Le standard est prêt à être lu et implémenté. Les outils et les pratiques industrielles qui l'entourent continuent toutefois de mûrir. Cette distinction compte lorsque l'on prépare une adoption.
+[L'OMG a publié SysML 2.0 comme spécification formelle en septembre 2025](https://www.omg.org/spec/SysML/2.0/About-SysML), avec [KerML 1.0](https://www.omg.org/spec/KerML/1.0/About-KerML) et [Systems Modeling API and Services 1.0](https://www.omg.org/spec/SystemsModelingAPI/1.0/About-SystemsModelingAPI). Le standard est prêt à être lu et implémenté. Les outils et les pratiques industrielles qui l'entourent continuent toutefois de mûrir. Cette distinction compte lorsque l'on prépare une adoption.
 
 <figure>
     <a href="{{ site.url }}/images/blog/2026/sysml-v2/sysml-v2-language.webp">
@@ -83,7 +83,7 @@ La bonne question n'est donc pas seulement : « Peut-on convertir ce modèle ? �
 
 ## KerML fournit la fondation sémantique du langage
 
-[KerML](https://www.omg.org/spec/KerML/1.0) est le Kernel Modeling Language sur lequel repose SysML v2. Il fournit des constructions indépendantes du domaine pour la classification, les relations, le comportement, la structure, les espaces de noms et d'autres besoins récurrents de modélisation.
+[KerML](https://www.omg.org/spec/KerML/1.0/About-KerML) est le Kernel Modeling Language sur lequel repose SysML v2. Il fournit des constructions indépendantes du domaine pour la classification, les relations, le comportement, la structure, les espaces de noms et d'autres besoins récurrents de modélisation.
 
 La plupart des ingénieurs système n'ont pas besoin de commencer par apprendre chaque concept de KerML. Ils doivent en revanche comprendre pourquoi il existe.
 
@@ -107,7 +107,7 @@ Le point important est que toutes ces représentations opèrent sur le même mod
 
 ## L'API standard change la donne pour les intégrations
 
-La spécification [Systems Modeling API and Services](https://www.omg.org/spec/SystemsModelingAPI/1.0) définit un modèle de services indépendant des plateformes et des liaisons propres à certaines technologies. Elle fournit aux outils une base partagée pour exposer les projets, commits, éléments de modèle, relations, requêtes et services associés.
+La spécification [Systems Modeling API and Services](https://www.omg.org/spec/SystemsModelingAPI/1.0/About-SystemsModelingAPI) définit un modèle de services indépendant des plateformes et des liaisons propres à certaines technologies. Elle fournit aux outils une base partagée pour exposer les projets, commits, éléments de modèle, relations, requêtes et services associés.
 
 Cela ne rend pas l'interopérabilité automatique. Deux outils peuvent implémenter des sous-ensembles différents, prendre en charge des workflows différents ou imposer des contraintes opérationnelles différentes à l'API. Mais celle-ci crée quelque chose qui manquait cruellement à l'écosystème SysML : une frontière standard pour relier les référentiels de modèles aux services d'analyse, de simulation, de gestion des exigences, de PLM, d'ALM, de reporting et d'automatisation.
 
@@ -161,7 +161,7 @@ Un nouveau standard ouvre une courte période pendant laquelle les outils, prati
 
 [Eclipse SysON]({{ site.url }}/fr/syson/) est un projet de modélisation SysML v2 open source et web, initié par Obeo et le CEA et construit sur Sirius Web. Son objectif dépasse le dessin de diagrammes SysML v2 : des éditeurs graphiques, textuels, tabulaires et à base de formulaires opèrent sur le modèle, avec l'extensibilité et l'API standard comme préoccupations de premier plan.
 
-Pour le projet, sa gouvernance, son code source, ses versions et les moyens d'y contribuer, le [projet Eclipse SysON](https://eclipse.dev/syson/) fait référence. Pour les organisations qui évaluent la personnalisation, le déploiement, le support ou un engagement industriel, [Obeo présente ses offres SysON et son approche d'innovation ouverte](https://www.obeosoft.com/fr/produits/syson/).
+Pour le projet, sa gouvernance, son code source, ses versions et les moyens d'y contribuer, le [site de SysON](https://mbse-syson.org/) constitue le point d'entrée de référence. Pour les organisations qui évaluent la personnalisation, le déploiement, le support ou un engagement industriel, [Obeo Enterprise for SysON](https://www.obeosoft.com/en/products/obeo-enterprise-for-syson/) est l'offre professionnelle pertinente.
 
 Cette distinction est volontaire. Eclipse est le lieu où vit le projet open source. Obeo est l'un des acteurs auprès desquels une organisation peut obtenir une industrialisation et un accompagnement d'ingénierie autour de ce projet.
 

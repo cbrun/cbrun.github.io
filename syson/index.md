@@ -38,7 +38,7 @@ image:
   thumb: blog/2026/syson/syson-modeling-environment.webp
 ---
 
-Eclipse SysON is an open-source, web-based modeling environment for creating, editing, and visualizing SysML v2 models. It is built on Eclipse Sirius Web and developed as an Eclipse Foundation project, with public source code, documentation, releases, discussions, and governance.
+[Eclipse SysON](https://mbse-syson.org/) is an open-source, web-based modeling environment for creating, editing, and visualizing SysML v2 models. It is built on Eclipse Sirius Web and developed as an Eclipse Foundation project, with public source code, documentation, releases, discussions, and governance.
 
 That short definition matters because several different questions are often mixed together. SysON is an implementation of a modeling environment, not the SysML v2 standard itself. It is an open-source project, not a method. And while organizations can use and extend the project directly, they can also obtain productization, deployment, customization, and support from companies involved in its development.
 
@@ -77,7 +77,7 @@ It also means SysON benefits from capabilities developed for a broader family of
 
 SysON provides a project and model environment in which engineers can create SysML v2 elements, navigate their semantic structure, edit properties, and work through graphical and structured representations.
 
-The [SysON user documentation](https://doc.mbse-syson.org/syson/v2026.5.0/user-manual/index.html) describes views for complementary engineering concerns, including general structure, interconnections, action flows, state transitions, sequences, geometry, grids, and hierarchical browsing. Coverage and maturity vary by view and release, so this list should not be read as a claim that every SysML v2 concept is implemented equally.
+The [SysON feature documentation](https://doc.mbse-syson.org/syson/main/user-manual/features/features.html) describes views for complementary engineering concerns, including general structure, interconnections, action flows, state transitions, sequences, geometry, grids, and hierarchical browsing. Coverage and maturity vary by view and release, so this list should not be read as a claim that every SysML v2 concept is implemented equally.
 
 The practical capabilities to evaluate include:
 
@@ -104,7 +104,7 @@ When evaluating SysON, test the transitions between representations. Can an engi
 
 The Systems Modeling API and Services specification is strategically important to SysON. It defines a standard boundary for accessing model repositories and connecting them with analysis, simulation, requirements, PLM, ALM, reporting, and automation services.
 
-The project is implementing this standard progressively. The [SysON API documentation](https://doc.mbse-syson.org/syson/v2026.5.0/developer-guide/api/api.html) distinguishes the standard REST API work from the GraphQL APIs inherited from the application platform. They should not be treated as interchangeable: one targets interoperability across the SysML v2 ecosystem, while the other supports application and extension needs in the SysON stack.
+The project is implementing this standard progressively. The [SysON API documentation](https://doc.mbse-syson.org/syson/main/developer-guide/api/api.html) distinguishes the standard REST API work from the GraphQL APIs inherited from the application platform. They should not be treated as interchangeable: one targets interoperability across the SysML v2 ecosystem, while the other supports application and extension needs in the SysON stack.
 
 Before planning an integration, verify the exact API services supported by the release you intend to use. If a required standard service is not available yet, textual exchange or a dedicated integration may still provide a viable boundary, but that choice should be explicit.
 
@@ -122,7 +122,7 @@ The Eclipse project is the authoritative place for source code, governance, rele
 
 Organizations often need additional work around that project: packaged distributions, controlled deployments, identity and access integration, monitoring, backups, upgrades, support commitments, method-specific viewpoints, migration, or connections to the rest of the engineering system.
 
-[Obeo presents its services and offerings around SysON](https://www.obeosoft.com/en/products/syson/) for those industrial concerns. Other organizations can also build services on top of the open-source project. The existence of commercial value around SysON does not change the governance or availability of the Eclipse codebase.
+[Obeo Enterprise for SysON](https://www.obeosoft.com/en/products/obeo-enterprise-for-syson/) addresses those industrial concerns. Other organizations can also build services on top of the open-source project. The existence of commercial value around SysON does not change the governance or availability of the Eclipse codebase.
 
 ## How SysON relates to Capella and Papyrus
 
@@ -151,7 +151,7 @@ Start with a bounded engineering question, not a generic product tour.
 
 This approach reveals whether SysON fits the actual practice you want to establish. It also produces useful feedback for the open-source project when something is missing.
 
-Consider that we are releasing a new version every 8 weeks, so this project moves fast and something which is not yet there can appear quickly. By the way you can also make it happen through [sponsored development and open innovation](https://www.obeosoft.com/en/company/open-innovation/)
+Consider that we are releasing a new version every 8 weeks, so this project moves fast and something which is not yet there can appear quickly. By the way you can also make it happen through [sponsored development and open innovation](https://www.obeosoft.com/en/products/syson/)
 
 ## How to get started and contribute
 
@@ -159,9 +159,9 @@ Use the official resources according to what you need:
 
 - the [Eclipse project page](https://projects.eclipse.org/projects/modeling.syson) for governance and project identity;
 - the [SysON website](https://mbse-syson.org/) for the project entry point;
-- the [user and developer documentation](https://doc.mbse-syson.org/syson/v2026.5.0/) for installation, features, APIs, and extension guidance;
+- the [user and developer documentation](https://doc.mbse-syson.org/syson/main/index.html) for installation, features, APIs, and extension guidance;
 - the [GitHub repository](https://github.com/eclipse-syson/syson) for source code, releases, issues, and discussions;
-- the [Obeo SysON page](https://www.obeosoft.com/en/products/syson/) for professional support and industrial offerings.
+- [Obeo Enterprise for SysON](https://www.obeosoft.com/en/products/obeo-enterprise-for-syson/) for professional support and industrial offerings.
 
 You can begin as a user, report an issue with a reproducible example, discuss a use case, improve documentation, or contribute code. In an emerging ecosystem, precise feedback about real engineering workflows is as valuable as another isolated feature request.
 

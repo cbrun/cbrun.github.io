@@ -141,7 +141,7 @@ When a representation becomes the model, several problems appear:
 
 A platform should let tool builders define which semantic elements a view exposes, how they appear, what operations users can perform, and how those operations modify the model. The same command and validation logic should remain usable from other views and APIs.
 
-This separation is central to [Eclipse Sirius](https://eclipse.dev/sirius/): a modeler definition describes how domain data is projected into representations and how users can interact with it. [Sirius Web](https://github.com/eclipse-sirius/sirius-web) carries those principles into a web stack.
+This separation is central to [Eclipse Sirius](https://eclipse.dev/sirius/): a modeler definition describes how domain data is projected into representations and how users can interact with it. [Sirius Web](https://eclipse.dev/sirius/sirius-web.html) carries those principles into a web stack; its [source repository](https://github.com/eclipse-sirius/sirius-web) is the place to inspect the implementation and contribute code.
 
 ## Collaboration is more than simultaneous editing
 
@@ -177,7 +177,7 @@ For each connection, decide:
 
 APIs are necessary, but an API inventory is not an integration architecture. Stable identifiers, transactions, permissions, event semantics, and error handling matter just as much.
 
-The [Sirius Web REST API prototype]({{ site.url }}/modeling/sirius-web-resfull-api-proto/) explored how EMF models could be exposed to familiar clients and formats. The [Sirius Web and Jupyter demonstration]({{ site.url }}/modeling/sirius-web-jupyter-notebook/) illustrates the larger objective: connect design, simulation, and analysis without turning each exchange into manual file handling.
+The [Sirius Web REST API prototype]({{ site.url }}/modeling/sirius-web-resfull-api-proto/) explored how [EMF](https://eclipse.dev/emf/) models could be exposed to familiar clients and formats. The [Sirius Web and Jupyter demonstration]({{ site.url }}/modeling/sirius-web-jupyter-notebook/) illustrates the larger objective: connect design, simulation, and analysis without turning each exchange into manual file handling.
 
 ## Performance is part of trust
 
@@ -213,15 +213,15 @@ Plan a vertical slice that proves one complete workflow: load representative dat
 
 ## Where Sirius Web fits
 
-[Eclipse Sirius Web](https://github.com/eclipse-sirius/sirius-web) is an open-source framework for building and deploying web-based modeling studios. Its repository provides reusable Spring Boot backend components and React frontend components, along with a sample application.
+[Eclipse Sirius Web](https://eclipse.dev/sirius/sirius-web.html) is an open-source framework for building and deploying web-based modeling studios. Its [source repository](https://github.com/eclipse-sirius/sirius-web) provides reusable Spring Boot backend components and React frontend components, along with a sample application.
 
 It is relevant when an organization needs a dedicated modeling experience rather than a fixed general-purpose editor. The platform provides building blocks for model exploration, diagrams, forms, tables, details views, validation, editing operations, and extensibility. Tool builders concentrate on the domain model, views, behavior, and integrations instead of implementing every interaction from first principles.
 
 The approach preserves an important lesson from Sirius Desktop: define modeling experiences at a higher level and shorten the feedback loop between a tool definition and its use. I described those principles in [Building Graphical Modeling Tools: Approaches to Reducing Complexity]({{ site.url }}/modeling/solutions-to-build-graphical-modeler/).
 
-Sirius Web is not a finished solution for every organization. A production platform still needs decisions about packaging, identity, permissions, persistence, deployment, monitoring, upgrades, migration, support, and the method presented to users. Depending on the project, those capabilities may come from an application built on the framework or from a supported distribution.
+Sirius Web is not a finished solution for every organization. A production platform still needs decisions about packaging, identity, permissions, persistence, deployment, monitoring, upgrades, migration, support, and the method presented to users. Depending on the project, those capabilities may come from an application built on the framework or from a supported distribution such as [Obeo Enterprise for Sirius](https://www.obeosoft.com/en/products/obeo-enterprise-for-sirius/).
 
-[Eclipse SysON]({{ site.url }}/syson/) is a concrete example: it uses Sirius Web to provide a SysML v2 modeling environment, then adds the language, libraries, views, rules, workflows, and interoperability concerns of systems engineering.
+[Eclipse SysON]({{ site.url }}/syson/) is a concrete example: it uses Sirius Web to provide a SysML v2 modeling environment. The [official SysON website](https://mbse-syson.org/) describes the project, while SysON adds the language, libraries, views, rules, workflows, and interoperability concerns of systems engineering.
 
 ## A pragmatic delivery path
 

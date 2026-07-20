@@ -21,13 +21,13 @@ Building graphical modeling tools can be a complex undertaking, especially if th
 Just like how the quest to destroy the One Ring in the Lord of the Rings was made easier by breaking it down into smaller tasks and delegating them to various members of the fellowship, we at Eclipse modeling technologies use a modular design to manage complexity in our software. Each project is responsible for a specific task, delivering components that can be reused and integrated into a tool for the end user.
 
 For example, 
-- [EMF](https://www.eclipse.dev/modeling/emf/) handles model data and its API, 
-- [Sirius](https://www.eclipse.dev/sirius) focuses on editors and tooling, 
-- [EMF Compare](https://www.eclipse.dev/emf/compare/) enables the comparison, merging, and conflict resolution of different versions of models, 
-- [Acceleo](https://www.eclipse.dev/acceleo/) allows for code or text generation from models, 
+- [EMF](https://eclipse.dev/emf/) handles model data and its API,
+- [Sirius](https://eclipse.dev/sirius/) focuses on editors and tooling,
+- [EMF Compare](https://eclipse.dev/emf/compare/) enables the comparison, merging, and conflict resolution of different versions of models,
+- [Acceleo](https://eclipse.dev/acceleo/) allows for code or text generation from models,
 - [M2Doc](https://www.m2doc.org/) produces reports and documents using models and diagrams as inputs.
 
-This modular design has several benefits. It makes the software easier to understand and work on, as you can focus on one module at a time rather than trying to comprehend the entire system all at once. Modular design also facilitates code and functionality reuse. If you build a module that does something useful, you can use it in other projects. The Sirius project is a good example of this, as it provides a complete set of features that are reused and exposed through hundreds of graphical modelers. You can see some examples in the [Sirius Gallery]( https://www.eclipse.dev/sirius/gallery.html)
+This modular design has several benefits. It makes the software easier to understand and work on, as you can focus on one module at a time rather than trying to comprehend the entire system all at once. Modular design also facilitates code and functionality reuse. If you build a module that does something useful, you can use it in other projects. The Sirius project is a good example of this, as it provides a complete set of features that are reused and exposed through hundreds of graphical modelers. You can see some examples in the [Sirius Gallery](https://eclipse.dev/sirius/gallery.html)
 
 While modular design is useful, it is not a perfect solution and does have some challenges. One challenge is ensuring that the modules work well together and do not have conflicts or dependencies. This can be especially difficult when the modules are evolving independently within their own projects. To address this issue, we coordinate with other projects within the Eclipse Release Train and build an integrated suite called the "Obeo Designer Community," which is a ready-to-use packaging.
 
@@ -50,7 +50,7 @@ When you define a tool using Sirius, you specify the graphical modeler you want 
     <figcaption>Part of a tool definition and the corresponding result for the "Family" DSL.</figcaption>
 </figure>
 
-However, higher-level abstractions also have their challenges. One challenge is that they can add an extra layer of complexity to the software. Developers must understand how the abstraction works and how to use it correctly. To help with this, we offer support and expertise, training, and tutorials for getting started with Sirius. We also hold the SiriusCon conference each year since 2015 to help our community discover what they can do with Sirius.
+However, higher-level abstractions also have their challenges. One challenge is that they can add an extra layer of complexity to the software. Developers must understand how the abstraction works and how to use it correctly. To help with this, we offer [support and expertise](https://www.obeosoft.com/en/services/modeling/), [training](https://www.obeosoft.com/en/services/training/), and tutorials for getting started with Sirius. We also hold the SiriusCon conference each year since 2015 to help our community discover what they can do with Sirius.
 
 Another challenge is that higher-level abstractions can be limiting. They may not provide all the features and flexibility that developers need, or they may make it difficult to do things in a different way. To address this, we allow for tool behavior to be extended with Java code when necessary. This is useful when the tool needs to interface with another tool directly, rather than through file exchanges, or when specific computations or user interfaces are required.
 
@@ -76,6 +76,6 @@ With Sirius Web we even go one step further in reducing this feedback loop: you 
 
 
 ----
-To summarize, building a graphical modeling tool can be complex, but there are several ways to approach this complexity. Modular design allows for easier understanding and reuse of code, while higher-level abstractions can hide underlying complexity from the user. Fast iteration and turnaround is also important for efficient development. Obeo has been working on technologies to make building graphical modeling tools more accessible for many years now, and we are excited by the prospects of what is to come on this path : while Sirius on the desktop has proven this is an efficient way to tackle this complexity, [Sirius on the Web](https://www.eclipse.dev/sirius/sirius-web.html) goes even one step further in making such tools accessible to anyone.
+To summarize, building a graphical modeling tool can be complex, but there are several ways to approach this complexity. Modular design allows for easier understanding and reuse of code, while higher-level abstractions can hide underlying complexity from the user. Fast iteration and turnaround is also important for efficient development. Obeo has been working on technologies to make building graphical modeling tools more accessible for many years now, and we are excited by the prospects of what is to come on this path : while Sirius on the desktop has proven this is an efficient way to tackle this complexity, [Sirius on the Web](https://eclipse.dev/sirius/sirius-web.html) goes even one step further in making such tools accessible to anyone.
 
 The larger decision framework, from buying a product to configuring or building a platform, is covered in [Designing a modeling platform for your domain]({{ site.url }}/modeling-platforms/).

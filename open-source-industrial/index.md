@@ -144,11 +144,11 @@ Maintenance includes reviewing issues, reproducing failures, updating dependenci
 
 A sustainable economic model makes the beneficiaries of the software fund enough of this common work. Common patterns include:
 
-- support and maintenance subscriptions;
+- [support and maintenance subscriptions](https://www.obeosoft.com/en/services/support-maintenance/);
 - enterprise distributions or complementary products;
 - managed hosting and operations;
 - consulting, integration, migration, and training;
-- sponsored development of roadmap items;
+- [sponsored development of roadmap items](https://www.obeosoft.com/en/services/custom-development/);
 - consortium or working-group membership;
 - joint investment by organizations sharing the same infrastructure;
 - public or research funding for defined outcomes.

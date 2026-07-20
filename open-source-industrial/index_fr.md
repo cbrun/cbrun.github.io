@@ -146,11 +146,11 @@ La maintenance consiste à examiner les tickets, reproduire les erreurs, mettre 
 
 Un modèle économique durable conduit les bénéficiaires du logiciel à financer une part suffisante de ce travail commun. Plusieurs approches sont possibles :
 
-- abonnements de support et de maintenance ;
+- [abonnements de support et de maintenance](https://www.obeosoft.com/en/services/support-maintenance/) ;
 - distributions d'entreprise ou produits complémentaires ;
 - hébergement et exploitation managés ;
 - conseil, intégration, migration et formation ;
-- développement sponsorisé de fonctionnalités prévues dans la roadmap ;
+- [développement sponsorisé de fonctionnalités prévues dans la roadmap](https://www.obeosoft.com/en/services/custom-development/) ;
 - adhésion à un consortium ou à un groupe de travail ;
 - investissement commun d'organisations partageant la même infrastructure ;
 - financement public ou de recherche pour des résultats définis.

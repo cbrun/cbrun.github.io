@@ -40,7 +40,7 @@ image:
 
 Capella and Arcadia are often named together, which can make them sound like two versions of the same thing. They are not.
 
-**Arcadia is a model-based engineering method. Eclipse Capella is the open-source workbench that implements and supports that method.** The method structures the questions engineers ask, the perspectives they build, and the reasoning that connects operational needs to a physical architecture. The tool provides the language, views, guidance, validation, and engineering environment needed to put that approach into practice.
+**Arcadia is a model-based engineering method. [Eclipse Capella](https://mbse-capella.org/) is the open-source workbench that implements and supports that method.** The method structures the questions engineers ask, the perspectives they build, and the reasoning that connects operational needs to a physical architecture. The tool provides the language, views, guidance, validation, and engineering environment needed to put that approach into practice.
 
 This distinction is more than vocabulary. A modeling language can define what may be expressed without explaining when to express it, in which order to investigate a problem, or how several engineering roles should work together. A tool can draw diagrams without creating a coherent practice. Arcadia and Capella were designed so that method, language, and tool reinforce one another.
 
@@ -123,7 +123,7 @@ This is an important part of tailoring Arcadia. The core method provides a stron
 
 [Eclipse Capella](https://projects.eclipse.org/projects/polarsys.capella) is the open-source graphical modeling workbench that implements Arcadia. The Eclipse Foundation classifies it as a mature project. Its source code, releases, project governance, contribution process, and Eclipse Public License 2.0 licensing are public.
 
-Capella provides a dedicated language and user experience for systems architecture rather than exposing a generic modeling canvas. Its capabilities include:
+Capella provides a dedicated language and user experience for systems architecture rather than exposing a generic modeling canvas. Its [add-ons and extensions](https://mbse-capella.org/addons.html) broaden that ecosystem beyond the core workbench. Its capabilities include:
 
 - an embedded methodological browser and guidance through Arcadia perspectives;
 - semantic model navigation and contextual properties;

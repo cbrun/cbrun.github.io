@@ -42,7 +42,7 @@ image:
 
 Capella et Arcadia sont souvent cités ensemble, au point de parfois donner l'impression qu'il s'agit de deux variantes de la même chose. Ce n'est pas le cas.
 
-**Arcadia est une méthode d'ingénierie basée sur les modèles. Eclipse Capella est l'atelier open source qui implémente et soutient cette méthode.** La méthode structure les questions que se posent les ingénieurs, les perspectives qu'ils construisent et le raisonnement qui relie les besoins opérationnels à une architecture physique. L'outil fournit le langage, les vues, le guidage, la validation et l'environnement d'ingénierie nécessaires pour mettre cette approche en pratique.
+**Arcadia est une méthode d'ingénierie basée sur les modèles. [Eclipse Capella](https://mbse-capella.org/) est l'atelier open source qui implémente et soutient cette méthode.** La méthode structure les questions que se posent les ingénieurs, les perspectives qu'ils construisent et le raisonnement qui relie les besoins opérationnels à une architecture physique. L'outil fournit le langage, les vues, le guidage, la validation et l'environnement d'ingénierie nécessaires pour mettre cette approche en pratique.
 
 Cette distinction ne relève pas seulement du vocabulaire. Un langage de modélisation peut définir ce qu'il est possible d'exprimer sans expliquer quand l'exprimer, dans quel ordre explorer un problème ou comment faire travailler ensemble plusieurs métiers de l'ingénierie. Un outil peut dessiner des diagrammes sans créer une pratique cohérente. Arcadia et Capella ont été conçus pour que méthode, langage et outil se renforcent mutuellement.
 
@@ -125,7 +125,7 @@ C'est une dimension importante de l'adaptation d'Arcadia. Le cœur de la méthod
 
 [Eclipse Capella](https://projects.eclipse.org/projects/polarsys.capella) est l'atelier graphique open source qui implémente Arcadia. La Fondation Eclipse le classe comme projet mature. Son code source, ses versions, sa gouvernance, son processus de contribution et sa licence Eclipse Public License 2.0 sont publics.
 
-Capella fournit un langage et une expérience utilisateur dédiés à l'architecture système, plutôt qu'une surface de modélisation générique. Ses fonctionnalités comprennent :
+Capella fournit un langage et une expérience utilisateur dédiés à l'architecture système, plutôt qu'une surface de modélisation générique. Ses [add-ons et extensions](https://mbse-capella.org/addons.html) élargissent cet écosystème au-delà de l'atelier central. Ses fonctionnalités comprennent :
 
 - un navigateur méthodologique intégré et un guidage à travers les perspectives Arcadia ;
 - la navigation dans le modèle sémantique et des propriétés contextuelles ;

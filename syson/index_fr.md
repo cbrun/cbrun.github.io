@@ -40,7 +40,7 @@ image:
 
 > Cette page a été traduite automatiquement depuis la version anglaise.
 
-Eclipse SysON est un environnement de modélisation web et open source pour créer, éditer et visualiser des modèles SysML v2. Il est construit sur Eclipse Sirius Web et développé comme un projet de la Fondation Eclipse, avec un code source, une documentation, des versions, des discussions et une gouvernance publics.
+[Eclipse SysON](https://mbse-syson.org/) est un environnement de modélisation web et open source pour créer, éditer et visualiser des modèles SysML v2. Il est construit sur Eclipse Sirius Web et développé comme un projet de la Fondation Eclipse, avec un code source, une documentation, des versions, des discussions et une gouvernance publics.
 
 Cette courte définition compte, car plusieurs questions différentes sont souvent mélangées. SysON est l'implémentation d'un environnement de modélisation, pas le standard SysML v2 lui-même. C'est un projet open source, pas une méthode. Et si les organisations peuvent utiliser et étendre directement le projet, elles peuvent aussi obtenir des services d'industrialisation, de déploiement, de personnalisation et de support auprès d'entreprises qui participent à son développement.
 
@@ -79,7 +79,7 @@ Cela signifie aussi que SysON bénéficie de capacités développées pour une f
 
 SysON fournit un environnement de projets et de modèles dans lequel les ingénieurs peuvent créer des éléments SysML v2, parcourir leur structure sémantique, éditer leurs propriétés et travailler à travers des représentations graphiques et structurées.
 
-La [documentation utilisateur de SysON](https://doc.mbse-syson.org/syson/v2026.5.0/user-manual/index.html) décrit des vues répondant à différents besoins d'ingénierie : structure générale, interconnexions, flux d'actions, transitions d'états, séquences, géométrie, grilles et navigation hiérarchique. La couverture et la maturité varient selon les vues et les versions ; cette liste ne signifie donc pas que tous les concepts SysML v2 sont implémentés au même niveau.
+La [documentation des fonctionnalités de SysON](https://doc.mbse-syson.org/syson/main/user-manual/features/features.html) décrit des vues répondant à différents besoins d'ingénierie : structure générale, interconnexions, flux d'actions, transitions d'états, séquences, géométrie, grilles et navigation hiérarchique. La couverture et la maturité varient selon les vues et les versions ; cette liste ne signifie donc pas que tous les concepts SysML v2 sont implémentés au même niveau.
 
 Parmi les capacités pratiques à évaluer :
 
@@ -106,7 +106,7 @@ Lorsque vous évaluez SysON, testez les passages d'une représentation à l'autr
 
 La spécification Systems Modeling API and Services est stratégiquement importante pour SysON. Elle définit une frontière standard pour accéder aux référentiels de modèles et les connecter aux services d'analyse, de simulation, de gestion des exigences, de PLM, d'ALM, de reporting et d'automatisation.
 
-Le projet implémente progressivement ce standard. La [documentation des API SysON](https://doc.mbse-syson.org/syson/v2026.5.0/developer-guide/api/api.html) distingue le travail sur l'API REST standard des API GraphQL héritées de la plateforme applicative. Elles ne sont pas interchangeables : l'une vise l'interopérabilité dans l'écosystème SysML v2, tandis que les autres répondent aux besoins de l'application et de ses extensions dans la pile SysON.
+Le projet implémente progressivement ce standard. La [documentation des API SysON](https://doc.mbse-syson.org/syson/main/developer-guide/api/api.html) distingue le travail sur l'API REST standard des API GraphQL héritées de la plateforme applicative. Elles ne sont pas interchangeables : l'une vise l'interopérabilité dans l'écosystème SysML v2, tandis que les autres répondent aux besoins de l'application et de ses extensions dans la pile SysON.
 
 Avant de planifier une intégration, vérifiez les services API précisément pris en charge par la version que vous comptez utiliser. Si un service standard nécessaire n'est pas encore disponible, l'échange textuel ou une intégration dédiée peut fournir une frontière viable, mais ce choix doit être explicite.
 
@@ -124,7 +124,7 @@ Le projet Eclipse est la source de référence pour le code, la gouvernance, les
 
 Les organisations ont souvent besoin de travail supplémentaire autour du projet : distributions packagées, déploiements contrôlés, intégration des identités et des accès, supervision, sauvegardes, mises à jour, engagements de support, points de vue propres à une méthode, migration ou connexions avec le reste du système d'ingénierie.
 
-[Obeo présente ses services et ses offres autour de SysON](https://www.obeosoft.com/fr/produits/syson/) pour répondre à ces préoccupations industrielles. D'autres organisations peuvent également construire des services au-dessus du projet open source. L'existence de valeur commerciale autour de SysON ne change ni la gouvernance ni la disponibilité du code Eclipse.
+[Obeo Enterprise for SysON](https://www.obeosoft.com/en/products/obeo-enterprise-for-syson/) répond à ces préoccupations industrielles. D'autres organisations peuvent également construire des services au-dessus du projet open source. L'existence de valeur commerciale autour de SysON ne change ni la gouvernance ni la disponibilité du code Eclipse.
 
 ## Comment SysON s'articule avec Capella et Papyrus
 
@@ -153,7 +153,7 @@ Commencez par une question d'ingénierie délimitée, pas par une visite génér
 
 Cette démarche révèle si SysON correspond réellement à la pratique que vous souhaitez établir. Elle produit aussi des retours utiles pour le projet open source lorsqu'un élément manque.
 
-Gardez à l'esprit que nous publions une nouvelle version toutes les huit semaines. Le projet avance donc vite et une capacité encore absente peut arriver rapidement. Vous pouvez aussi contribuer à la faire exister grâce au [développement sponsorisé et à l'innovation ouverte](https://www.obeosoft.com/fr/societe/open-innovation/).
+Gardez à l'esprit que nous publions une nouvelle version toutes les huit semaines. Le projet avance donc vite et une capacité encore absente peut arriver rapidement. Vous pouvez aussi contribuer à la faire exister grâce au [développement sponsorisé et à l'innovation ouverte](https://www.obeosoft.com/fr/produits/syson/).
 
 ## Comment démarrer et contribuer
 
@@ -161,9 +161,9 @@ Utilisez les ressources officielles selon votre besoin :
 
 - la [page du projet Eclipse](https://projects.eclipse.org/projects/modeling.syson) pour sa gouvernance et son identité ;
 - le [site de SysON](https://mbse-syson.org/) comme point d'entrée du projet ;
-- la [documentation utilisateur et développeur](https://doc.mbse-syson.org/syson/v2026.5.0/) pour l'installation, les fonctionnalités, les API et les guides d'extension ;
+- la [documentation utilisateur et développeur](https://doc.mbse-syson.org/syson/main/index.html) pour l'installation, les fonctionnalités, les API et les guides d'extension ;
 - le [dépôt GitHub](https://github.com/eclipse-syson/syson) pour le code source, les versions, les tickets et les discussions ;
-- la [page SysON d'Obeo](https://www.obeosoft.com/fr/produits/syson/) pour le support professionnel et les offres industrielles.
+- [Obeo Enterprise for SysON](https://www.obeosoft.com/en/products/obeo-enterprise-for-syson/) pour le support professionnel et les offres industrielles.
 
 Vous pouvez commencer comme utilisateur, signaler un problème avec un exemple reproductible, discuter d'un cas d'usage, améliorer la documentation ou contribuer au code. Dans un écosystème émergent, un retour précis sur un vrai workflow d'ingénierie vaut autant qu'une demande de fonctionnalité isolée de plus.
 

@@ -8,18 +8,18 @@ tags:
   - sirius-web
 ---
 
-One of the big ideas behind Sirius Web is openness. Not just “open” as in *open source*, but also “open” as in *working smoothly with the rest of the ecosystem*.
+One of the big ideas behind [Sirius Web](https://eclipse.dev/sirius/sirius-web.html) is openness. Not just “open” as in *open source*, but also “open” as in *working smoothly with the rest of the ecosystem*.
 
 This prototype illustrates one integration concern in a broader problem: [designing a modeling platform for a specific domain and engineering practice]({{ site.url }}/modeling-platforms/).
 
 Under the hood, the Sirius Web client talks to the backend using GraphQL. This works great for the web client itself, because GraphQL gives us fine-grained control over what a UI widget asks for. But here’s the catch: GraphQL isn’t always the friendliest option when you want to integrate with other tools and platforms.
 
-That’s what this prototype is about: exposing Sirius Web’s backend through a more classic, pervasive approach, good old REST document APIs.
+That’s what this prototype is about: exposing Sirius Web’s backend through a more classic, pervasive approach, good old REST document APIs. It is a prototype around the platform, not an implementation of the OMG Systems Modeling API.
 
 
 ## Why REST?
 
-By going REST, we can make the Sirius Web backend feel familiar to a much broader range of tools and workflows. I also made sure this API plays nicely with EMF’s use of URIs. That means you can simply get and set model content with nothing more than EMF Core (yes, that tiny Java library you can pull from Maven). The prototype also takes care of element IDs for you.
+By going REST, we can make the Sirius Web backend feel familiar to a much broader range of tools and workflows. I also made sure this API plays nicely with [EMF Core](https://eclipse.dev/emf/)’s use of URIs. That means you can simply get and set model content with nothing more than EMF Core (yes, that tiny Java library you can pull from Maven). The prototype also takes care of element IDs for you.
 
 In practice, this opens up some fun possibilities:
 
@@ -71,7 +71,7 @@ If you’re curious, give it a try, just don’t forget it’s early days, and p
 
 This document provides an overview of the RESTful EMF (Eclipse Modeling Framework) backend system built on Eclipse Sirius. The system exposes EMF models through REST APIs, enabling remote access to modeling data in multiple serialization formats including binary XML, XMI, CSV, and compressed variants. The system supports both read and write operations through standard HTTP methods, making EMF models accessible to diverse client applications including Jupyter notebooks, Java EMF clients, and Sirius Desktop tools.
 
-For detailed information about specific REST API endpoints and serialization formats, see [API Endpoints and Serialization Formats](/cbrun/sirius-web-playground/2.1-api-endpoints-and-serialization-formats). For event-driven document management details, see [Event-Driven Document Management](/cbrun/sirius-web-playground/3-event-driven-document-management). For configuration and setup information, see [EMF and Sirius Configuration](/cbrun/sirius-web-playground/5-emf-and-sirius-configuration).
+For detailed information about specific REST API endpoints and serialization formats, see the [prototype README](https://github.com/cbrun/sirius-web-playground/blob/1c2f7809/restfulemf/backend/sirius-components-restfulemf/README.md). For event-driven document management details, inspect the [REST resource controller](https://github.com/cbrun/sirius-web-playground/blob/1c2f7809/restfulemf/backend/sirius-components-restfulemf/src/main/java/fr/obeo/playground/restfulemf/controllers/RestfulEMFResourceController.java). Configuration and setup are also described in that source repository.
 
 ### System Architecture
 

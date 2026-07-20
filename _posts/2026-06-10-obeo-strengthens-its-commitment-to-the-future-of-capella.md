@@ -46,13 +46,13 @@ As an illustration of this work, Siemens has already leveraged this capability t
     </a>
 </figure>
 
-These developments will be delivered in the upcoming Capella 7.1 release, scheduled for June.
+These developments were delivered in [Capella 7.1.0](https://projects.eclipse.org/projects/polarsys.capella/releases/7.1.0), released on July 10, 2026.
 
 This is not the most visible kind of work, but it is the kind of work that makes Capella stronger and more sustainable for everyone.
 
 ## Capella and SysMLv2 - An Arcadia Library
 
-You probably already know that Obeo has been investing a lot in SysML v2 over the last few years, in particular through Eclipse SysON, our open-source web-based graphical modeling tool for SysML v2.
+You probably already know that Obeo has been investing a lot in SysML v2 over the last few years, in particular through [Eclipse SysON](https://mbse-syson.org/), our open-source web-based graphical modeling tool for SysML v2.
 
 At the same time, we strongly believe in Capella and Arcadia. For us, **the convergence between Capella, Arcadia and SysML v2 is a major opportunity for the future of open MBSE**.
 
@@ -80,7 +80,7 @@ By opening this component with Thales, we want to make it easier for the communi
 
 The add-on is now fully open source under the Eclipse Public License, and the [code is available here](https://github.com/eclipse-capella/capella-simulink-connector).
 
-If your organization wants to contribute improvements to this project, feel free to reach out to us. We would be happy to explore [an open-innovation collaboration](https://www.obeosoft.com/en/company/open-innovation/).
+If your organization wants to contribute improvements to this project, feel free to reach out to us. We would be happy to explore [a custom-development and open-innovation collaboration](https://www.obeosoft.com/en/services/custom-development/).
 
 By opening this add-on, we hope to make advanced architecture-to-simulation workflows easier to share, improve and adopt across the community.
 
@@ -126,7 +126,7 @@ Over the years, Capella Days has become the flagship event for sharing experienc
 
 The [Call for Papers is now open](https://tinyurl.com/capelladays2026cfp) and will remain open **until September 6**. To encourage early submissions and help shape the program, a first selection of talks will be announced starting on August 16.
 
-[Registration](https://www.bigmarker.com/series/capella-days-2026/series_summit?utm_bmcr_source=obeo_blog_cbr) is also already open, allowing participants to secure their place and start planning for this special edition.
+[Registration](https://www.bigmarker.com/series/capella-days-2026/series_summit) is also already open, allowing participants to secure their place and start planning for this special edition.
 
 Whether you are a Capella practitioner, researcher, tool developer, or systems engineering leader, we encourage you to submit your proposal and join us in celebrating this important milestone for the community.
 

@@ -143,7 +143,7 @@ Lorsqu'une représentation devient le modèle, plusieurs problèmes apparaissent
 
 Une plateforme doit permettre aux concepteurs d'outils de définir les éléments sémantiques qu'une vue expose, leur apparence, les opérations proposées aux utilisateurs et la façon dont ces opérations modifient le modèle. Les mêmes commandes et règles de validation doivent rester utilisables depuis d'autres vues et API.
 
-Cette séparation est au coeur d'[Eclipse Sirius](https://eclipse.dev/sirius/) : une définition de modeleur décrit la projection des données métier dans les représentations et les interactions possibles. [Sirius Web](https://github.com/eclipse-sirius/sirius-web) transpose ces principes dans une pile web.
+Cette séparation est au coeur d'[Eclipse Sirius](https://eclipse.dev/sirius/) : une définition de modeleur décrit la projection des données métier dans les représentations et les interactions possibles. [Sirius Web](https://eclipse.dev/sirius/sirius-web.html) transpose ces principes dans une pile web ; son [dépôt source](https://github.com/eclipse-sirius/sirius-web) permet d'en examiner l'implémentation et d'y contribuer.
 
 ## La collaboration dépasse l'édition simultanée
 
@@ -179,7 +179,7 @@ Pour chaque connexion, déterminez :
 
 Les API sont nécessaires, mais un inventaire d'API n'est pas une architecture d'intégration. Les identifiants stables, transactions, permissions, sémantiques d'événements et traitements d'erreurs comptent tout autant.
 
-Le [prototype d'API REST Sirius Web]({{ site.url }}/modeling/sirius-web-resfull-api-proto/) a exploré comment exposer des modèles EMF à des clients et formats familiers. La [démonstration Sirius Web et Jupyter]({{ site.url }}/modeling/sirius-web-et-jupyter-notebook/) illustre l'objectif plus large : relier conception, simulation et analyse sans transformer chaque échange en manipulation manuelle de fichiers.
+Le [prototype d'API REST Sirius Web]({{ site.url }}/modeling/sirius-web-resfull-api-proto/) a exploré comment exposer des modèles [EMF](https://eclipse.dev/emf/) à des clients et formats familiers. La [démonstration Sirius Web et Jupyter]({{ site.url }}/modeling/sirius-web-et-jupyter-notebook/) illustre l'objectif plus large : relier conception, simulation et analyse sans transformer chaque échange en manipulation manuelle de fichiers.
 
 ## Les performances sont une question de confiance
 
@@ -215,15 +215,15 @@ Planifiez une tranche verticale qui prouve un workflow complet : charger des don
 
 ## La place de Sirius Web
 
-[Eclipse Sirius Web](https://github.com/eclipse-sirius/sirius-web) est un framework open source pour construire et déployer des studios de modélisation web. Son dépôt fournit des composants backend Spring Boot et frontend React réutilisables, ainsi qu'une application d'exemple.
+[Eclipse Sirius Web](https://eclipse.dev/sirius/sirius-web.html) est un framework open source pour construire et déployer des studios de modélisation web. Son [dépôt source](https://github.com/eclipse-sirius/sirius-web) fournit des composants backend Spring Boot et frontend React réutilisables, ainsi qu'une application d'exemple.
 
 Il est pertinent lorsqu'une organisation a besoin d'une expérience de modélisation dédiée plutôt que d'un éditeur généraliste figé. La plateforme fournit des briques pour l'exploration des modèles, les diagrammes, formulaires, tables, vues de détails, validations, opérations d'édition et extensions. Les concepteurs d'outils peuvent ainsi se concentrer sur le modèle du domaine, les vues, les comportements et les intégrations plutôt que de réimplémenter chaque interaction depuis zéro.
 
 Cette approche conserve un enseignement important de Sirius Desktop : définir les expériences de modélisation à un niveau d'abstraction supérieur et raccourcir la boucle de retour entre la définition d'un outil et son utilisation. J'ai décrit ces principes dans [Construire des outils de modélisation graphique : approches pour réduire la complexité]({{ site.url }}/modeling/solutions-pour-construire-modeleurs-graphiques/).
 
-Sirius Web n'est pas une solution terminée pour toutes les organisations. Une plateforme de production exige encore des décisions concernant le packaging, les identités, les permissions, la persistance, le déploiement, la supervision, les mises à jour, la migration, le support et la méthode présentée aux utilisateurs. Selon le projet, ces capacités peuvent provenir d'une application construite sur le framework ou d'une distribution supportée.
+Sirius Web n'est pas une solution terminée pour toutes les organisations. Une plateforme de production exige encore des décisions concernant le packaging, les identités, les permissions, la persistance, le déploiement, la supervision, les mises à jour, la migration, le support et la méthode présentée aux utilisateurs. Selon le projet, ces capacités peuvent provenir d'une application construite sur le framework ou d'une distribution supportée comme [Obeo Enterprise for Sirius](https://www.obeosoft.com/en/products/obeo-enterprise-for-sirius/).
 
-[Eclipse SysON]({{ site.url }}/fr/syson/) constitue un exemple concret : il utilise Sirius Web pour fournir un environnement de modélisation SysML v2, puis y ajoute le langage, les bibliothèques, les vues, les règles, les workflows et les préoccupations d'interopérabilité propres à l'ingénierie système.
+[Eclipse SysON]({{ site.url }}/fr/syson/) constitue un exemple concret : il utilise Sirius Web pour fournir un environnement de modélisation SysML v2. Le [site officiel de SysON](https://mbse-syson.org/) présente le projet, qui ajoute ensuite le langage, les bibliothèques, les vues, les règles, les workflows et les préoccupations d'interopérabilité propres à l'ingénierie système.
 
 ## Une démarche de réalisation pragmatique
 

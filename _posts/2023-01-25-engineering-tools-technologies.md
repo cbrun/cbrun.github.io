@@ -18,8 +18,7 @@ When you pick technologies to build tools empowering hundreds of your engineers,
 
 
 
-The [Eclipse Foundation](https://www.eclipse.dev/) ensures that all the metrics related to an Open-Source project are exposed on its 
-website, helping you to assess the effort which goes into maintaining and updating the technology.
+The [Eclipse Sirius project page](https://projects.eclipse.org/projects/modeling.sirius) exposes project activity and release information, helping you to assess the effort which goes into maintaining and updating the technology. The [Eclipse Project Handbook](https://www.eclipse.org/projects/handbook/) explains the governance and transparency mechanisms behind those project records.
 
 
 
@@ -27,7 +26,7 @@ With **𝟭𝟮 𝗿𝗲𝗹𝗲𝗮𝘀𝗲𝘀 𝗶𝗻 𝟮𝟬𝟮𝟮** : �
 
 
 
-We are committed to maintain a similar pace for 2023. We are still at the beginning of the year and both Sirius and Sirius Web have already shipped one, enjoy!
+At the time of publication, we were committed to maintaining a similar pace for 2023. We were still at the beginning of that year and both Sirius and Sirius Web had already shipped one release.
 
 
 
@@ -35,8 +34,6 @@ Building graphical modeling tools can be a complex undertaking, especially if th
 
 
 <figure>
-    <a href="https://projects.eclipse.org/projects/modeling.sirius/releases/"><img src="{{ site.url }}/images/blog/2023/Sirius-2022-releases-hd.png"></a>
+    <a href="https://projects.eclipse.org/projects/modeling.sirius"><img src="{{ site.url }}/images/blog/2023/Sirius-2022-releases-hd.png"></a>
     <figcaption>Eclipse Sirius release records</figcaption>
 </figure>
-
-
