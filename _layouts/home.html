@@ -5,6 +5,15 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="{{ page.lang | default: site.lang | default: 'en' }}"><!--<![endif]-->
 <head>
 {% include _head.html %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "alternateName": "cedric.brun.io",
+  "url": {{ site.url | append: '/' | jsonify }}
+}
+</script>
 </head>
 
 <body class="home">

@@ -3,8 +3,6 @@ title: "aql"
 tag: "aql"
 description: "Posts related to the Acceleo Query Language."
 ---
-# AQL (Acceleo Query Language)
-
 ## What is AQL?
 
 TL;DR: AQL is a small, fast, EMF-native query language. You use it to navigate and filter models in tools like Eclipse Sirius and M2Doc—typically with expressions that start with aql:. It’s OCL-ish in spirit, but simpler and tuned for modeling tool builders. 
@@ -27,5 +25,4 @@ From Acceleo 2.x with its XPath-like syntax, to a language inheriting from OCL (
 * **AQL reference (syntax + standard services)** — [the canonical doc](https://eclipse.dev/acceleo/documentation/aql.html).
 * **Sirius “Writing Queries”** — [how AQL plugs into VSMs, key differences, and setup](https://eclipse.dev/sirius/doc/specifier/general/Writing_Queries.html).
 * **What’s new in Sirius 3.0** — [background on why AQL was introduced](https://eclipse.dev/sirius/whatsnew/whatsnew3.html).
-
 

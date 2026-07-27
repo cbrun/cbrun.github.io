@@ -49,10 +49,9 @@
     "url": {{ site.url | append: '/about/' | jsonify }}
   },
   "publisher": {
-    "@type": "Organization",
-    "name": "Obeo",
-    "url": "https://www.obeosoft.com/",
-    "logo": {"@type": "ImageObject", "url": "{{ site.url }}/favicon.png"}
+    "@type": "Person",
+    "name": "Cédric Brun",
+    "url": "{{ site.url }}/about/"
   }{% if page.date %},
   "datePublished": {{ page.date | date_to_xmlschema | jsonify }}{% endif %}{% if page.last_modified_at %},
   "dateModified": {{ page.last_modified_at | date_to_xmlschema | jsonify }}{% elsif page.date %},

@@ -96,6 +96,12 @@ exclude:
   - talks/lib
   - LICENSE
   - vendor
+  - AGENTS.md
+  - AGENTS_HISTORY.md
+  - REFONTE.md
+  - TESTING.md
+  - audit
+  - plan-maillage-externe-cedric-brun-io.md
 
 plugins:
   - jekyll-last-modified-at

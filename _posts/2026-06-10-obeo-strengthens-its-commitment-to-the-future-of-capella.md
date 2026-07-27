@@ -13,6 +13,7 @@ tags:
   - whatsnew
 permalink: /mbse/obeo-strengthens-its-commitment-to-the-future-of-capella/
 canonical: https://blog.obeosoft.com/obeo-strengthens-its-commitment-to-the-future-of-capella
+sitemap: false
 excerpt: "An overview for the Capella and MBSE community of Obeo's new contributions to Capella, SysML v2 interoperability, simulation, AI, and Capella Days."
 image:
   thumb: blog/2026/obeo-strengthens-its-commitment-to-the-future-of-capella/capella-jp.png

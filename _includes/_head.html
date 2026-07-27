@@ -59,7 +59,7 @@
   <link rel="alternate" hreflang="fr" href="{{ site.url }}{{ page.translation_fr }}">
   {% assign x_default = canonical %}
 {% endif %}
-<link rel="alternate" hreflang="x-default" href="{{ x_default | default: canonical }}">
+{% if x_default %}<link rel="alternate" hreflang="x-default" href="{{ x_default }}">{% endif %}
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- https://t.co/dKP3o1e -->
