@@ -19,9 +19,9 @@
 			   <li><a href="{{ domain }}{% if is_french %}/apropos/{% else %}/about/{% endif %}">{% if is_french %}À propos{% else %}About{% endif %}</a></li>
 			   <li class="nav-language" aria-label="Language">
 			   {% if is_french %}
-				<a rel="alternate" hreflang="en" href="{{ domain }}{{ english_url }}">EN</a><span aria-hidden="true">/</span><span aria-current="page">FR</span>
+				<a{% if page.translation_en %} rel="alternate" hreflang="en"{% endif %} href="{{ domain }}{{ english_url }}">EN</a><span aria-hidden="true">/</span><span aria-current="page">FR</span>
 			   {% else %}
-				<span aria-current="page">EN</span><span aria-hidden="true">/</span><a rel="alternate" hreflang="fr" href="{{ domain }}{{ french_url }}">FR</a>
+				<span aria-current="page">EN</span><span aria-hidden="true">/</span><a{% if page.translation_fr %} rel="alternate" hreflang="fr"{% endif %} href="{{ domain }}{{ french_url }}">FR</a>
 			   {% endif %}
 			   </li>
 		    </ul>
