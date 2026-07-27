@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Siemens partnering with Obeo on Model Based Systems Engineering solution - a major recognition for OSS Modeling Techs
+seoTitle: "Siemens and Obeo partner on open-source MBSE"
 categories: [obeo]
 tags:
   - eclipse
@@ -58,5 +59,4 @@ See you next week!
     <a href="https://www.eclipsecon.org/france2018/"><img src="{{ site.url }}/images/blog/2018/eclipsecon.png"></a>    
     <figcaption></figcaption>
 </figure>
-
 

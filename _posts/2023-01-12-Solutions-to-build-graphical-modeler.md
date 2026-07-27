@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Building Graphical Modeling Tools, Approaches to Reducing Complexity
+seoTitle: "How to build graphical modeling tools"
 categories:
   - modeling
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Collaborative Modeling : the New Deal"
+noindex: true
 date: '2011-09-07T04:55:00.000-07:00'
 categories: [eclipse]
 tags:
@@ -20,4 +21,3 @@ Benjamin Muskalla (Tasktop), Martin Fluegge and I did prepare something for you.
 ![Lock]({{ site.url }}/images/blog/2011/collaborative-modeling-new-deal/s320_lock.png)
 
 All you have to do is to vote for [this talk](https://eclipsecon.org/sessions/collaborative-modeling-new-deal) and come to EclipseCon Europe!
-

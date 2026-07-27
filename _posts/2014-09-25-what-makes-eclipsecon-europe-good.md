@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What makes EclipseCon Europe a good conference ?"
+excerpt: "A first-hand case for attending EclipseCon Europe 2014: direct access to project teams, strong modeling content, practical tutorials, and an unusually collaborative community."
 date: '2014-09-25T02:12:00.000-07:00'
 categories: [eclipse]
 tags:

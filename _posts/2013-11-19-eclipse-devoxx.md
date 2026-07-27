@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Eclipse @Devoxx"
+excerpt: "Lessons from Devoxx 2013 on what Java developers expected from Eclipse, how the IDE could improve discovery and configuration, and how Sirius was received beyond the modeling community."
 date: '2013-11-19T07:07:00.002-08:00'
 categories: [eclipse]
 tags:

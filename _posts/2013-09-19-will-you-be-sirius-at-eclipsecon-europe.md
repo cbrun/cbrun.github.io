@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Will you be Sirius at EclipseCon Europe ?"
+excerpt: "A snapshot of Eclipse Sirius before its first Eclipse release, covering the project migration, API cleanup, planned releases, and talks prepared for EclipseCon Europe 2013."
 date: '2013-09-19T01:05:00.000-07:00'
 categories: [eclipse]
 tags:
@@ -49,3 +50,5 @@ Then the team will gather for a Sirius BOF (to be announced). You get to ask any
 Last but no least, Obeo will have a booth during the whole conference; feel free to come by to ask questions or even just to have a chat. We are always eager to learn about use cases or experiments.
 
 I'm looking forward to it. If you're interested in modeling and did not register for EclipseCon Europe yet, [consider doing it,](https://www.eclipsecon.org/europe2013/) I guarantee you'll learn a lot!
+
+The platform has changed substantially since this early milestone; [Designing and building domain-specific modeling platforms]({{ site.url }}/modeling-platforms/) places Sirius and Sirius Web in today's broader tool-building landscape.

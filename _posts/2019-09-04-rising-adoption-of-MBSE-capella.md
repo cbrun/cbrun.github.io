@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Rising Adoption of Capella
+excerpt: "A 2019 snapshot of Capella's accelerating worldwide adoption, with download trends, industrial deployments, webinars, and community events around Arcadia-based MBSE."
 categories: [modeling]
 tags:
   - eclipse

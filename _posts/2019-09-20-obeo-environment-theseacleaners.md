@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Let's Do It! Obeo loves The SeaCleaners
+excerpt: "Why Obeo stopped producing conference goodies and partnered with The SeaCleaners, linking practical environmental responsibility with open-source values."
 categories: [obeo]
 tags:
   - eclipse
@@ -53,3 +54,5 @@ Furthermore, **all the designs and blueprints of the Manta boat will be Open-Sou
 
 
 That being said, it is **just one step on a very specific part of our activity**, but a step starting a journey with more to do to improve the way Obeo operates regarding its environmental responsibility. When you start building awareness of our impact on all the ins and outs of what we do, you realize even a non-industrial, software company can contribute.
+
+This initiative is one concrete example of the values and long-term responsibilities discussed in [Industrial open source: governance, sustainability, and durable value]({{ site.url }}/open-source-industrial/).

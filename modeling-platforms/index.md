@@ -219,6 +219,8 @@ It is relevant when an organization needs a dedicated modeling experience rather
 
 The approach preserves an important lesson from Sirius Desktop: define modeling experiences at a higher level and shorten the feedback loop between a tool definition and its use. I described those principles in [Building Graphical Modeling Tools: Approaches to Reducing Complexity]({{ site.url }}/modeling/solutions-to-build-graphical-modeler/).
 
+That lineage is also visible in the [Sirius-based rebuild of EcoreTools 2.0]({{ site.url }}/ecoretools-20-luna-revival/), the [introduction of AQL as a query language designed for Sirius]({{ site.url }}/eclipse/introducing-aql/), and the interaction refinements described in [Sirius Web 2025.10 — Little Things Matter]({{ site.url }}/modeling/sirius-web-little-things-matter/). Together, these examples show how higher-level tool definitions and sustained attention to user experience reinforce one another.
+
 Sirius Web is not a finished solution for every organization. A production platform still needs decisions about packaging, identity, permissions, persistence, deployment, monitoring, upgrades, migration, support, and the method presented to users. Depending on the project, those capabilities may come from an application built on the framework or from a supported distribution such as [Obeo Enterprise for Sirius](https://www.obeosoft.com/en/products/obeo-enterprise-for-sirius/).
 
 [Eclipse SysON]({{ site.url }}/syson/) is a concrete example: it uses Sirius Web to provide a SysML v2 modeling environment. The [official SysON website](https://mbse-syson.org/) describes the project, while SysON adds the language, libraries, views, rules, workflows, and interoperability concerns of systems engineering.

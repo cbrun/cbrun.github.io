@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "EclipseCon Europe - Time to hurry up !"
+noindex: true
 date: '2012-07-03T07:09:00.000-07:00'
 categories: [eclipse]
 tags:

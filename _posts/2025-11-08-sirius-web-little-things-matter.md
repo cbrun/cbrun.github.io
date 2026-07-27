@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sirius Web 2025.10 - Little Things Matter"
+excerpt: "A tour of the small interaction and customization improvements in Sirius Web 2025.10 that make diagram editing more predictable, fluid, and trustworthy."
 categories: [modeling]
 tags:
   - modeling
@@ -33,3 +34,4 @@ This is exactly the kind of incremental refinement we aim for: fewer surprises, 
 (If you missed August, that release showcases the start of the appearance customization work.)
 [https://blog.obeosoft.com/sirius-web-2025-8](https://blog.obeosoft.com/sirius-web-2025-8)
 
+These interaction details complement the architectural choices covered in [Designing and building domain-specific modeling platforms]({{ site.url }}/modeling-platforms/).

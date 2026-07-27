@@ -1,6 +1,7 @@
 --- 
 layout: post 
 title: Construire des Outils de Modélisation Graphique, Approches pour Réduire la Complexité 
+seoTitle: "Comment construire un modeleur graphique"
 categories: [modeling] 
 tags:
   - modeling

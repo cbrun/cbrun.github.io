@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  EclipseCon Europe 2015 is over but SiriusCon is coming!
+excerpt: "A field report from EclipseCon Europe 2015 covering Sirius 3.1, AQL's graduation, community-built Sirius tools, and the road to the first international SiriusCon."
 categories: [eclipse]
 tags:
   - eclipsecon
@@ -115,3 +116,5 @@ In a nutshell : **if you are willing to spare some heap memory,  IncQuery can bo
 All in all a great conference, thanks to the Eclipse Foundation staff and to the community at large for making it happen. I'm looking forward to the next one.
 
 Next stop : **SiriusCon** in Paris where I hope we'll meet. Did I mention it's  **free** ? Well, it is, but it doesn't mean we have infinite rooms so [register now](https://www.siriuscon.org/register.php){:target="_blank"}, **places are limited**!
+
+The talks and experiments gathered here helped shape the longer-term platform approach described in [Designing and building domain-specific modeling platforms]({{ site.url }}/modeling-platforms/).

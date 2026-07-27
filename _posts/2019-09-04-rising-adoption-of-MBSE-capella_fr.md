@@ -1,6 +1,7 @@
 ---
 layout: post
 title: L'Adoption Croissante de Capella
+excerpt: "Un état des lieux de l'adoption mondiale de Capella en 2019, entre téléchargements, déploiements industriels, webinaires et événements communautaires autour du MBSE avec Arcadia."
 categories: [modeling]
 tags:
   - eclipse

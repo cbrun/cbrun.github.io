@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "EcoreTools 2.0 - The Luna Revival"
+excerpt: "An overview of the Sirius-based EcoreTools 2.0 rebuild for Eclipse Luna, focused on productive, readable, and maintainable Ecore model design."
 date: '2014-06-20T01:49:00.000-07:00'
 categories: [modeling]
 tags:
@@ -46,3 +47,5 @@ Package Dependencies
 Intro screenshot
 
 ![Intro]({{ site.url }}/images/blog/2014/intro.png)
+
+EcoreTools 2.0 is an early example of defining a domain-specific editor at a higher level rather than rebuilding every graphical interaction. That approach and its evolution toward the web are explored in [Designing and building domain-specific modeling platforms]({{ site.url }}/modeling-platforms/).

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On being open and transparent"
+excerpt: "A field report on the practices that make an Eclipse project genuinely open: transparent plans, reproducible builds, public reviews, contributor guidance, and sustained engagement."
 date: '2013-01-31T04:19:00.001-08:00'
 categories: [eclipse]
 tags:

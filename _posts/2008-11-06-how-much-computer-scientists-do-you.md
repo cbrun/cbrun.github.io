@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How much computer scientists do you need...
+noindex: true
 date: '2008-11-06T10:17:00.000-08:00'
 tags:
 - acceleo

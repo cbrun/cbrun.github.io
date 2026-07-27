@@ -141,6 +141,8 @@ The core project should be distinguished from the broader ecosystem. Open-source
 
 Capella is not an emerging tool waiting for its first serious deployments. It has accumulated years of industrial use across aerospace, defense, transportation, energy, space, semiconductors, and other domains where architecture decisions have long consequences. The method is taught, documented, and discussed through books, training, webinars, case studies, a worldwide practitioner community, and Capella Days. This breadth matters: teams can learn not only from product documentation, but from organizations that have already confronted scale, integration, governance, and adoption.
 
+The adoption signals were already visible in 2019 through growing downloads, industrial deployments, webinars, and an increasingly international community, as documented in [The Rising Adoption of Capella]({{ site.url }}/modeling/rising-adoption-of-MBSE-capella/).
+
 Maturity should not be confused with immobility. Capella remains an active project with new releases, direct investment in its foundations, and work extending its place in the engineering ecosystem. In 2026, [Obeo strengthened its commitment to the future of Capella](https://blog.obeosoft.com/obeo-strengthens-its-commitment-to-the-future-of-capella) through several concrete initiatives:
 
 - direct contributions to Capella 7.1 focused on robustness, security, maintainability, Java 21, and internationalization;

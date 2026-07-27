@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Synchronizing data : Dropbox-like based on open-source stack"
+excerpt: "A practical 2011 comparison of SparkleShare, Git, csync, and filesystem notifications for building an open-source, self-hosted alternative to Dropbox."
 date: '2011-09-28T03:36:00.000-07:00'
 categories: [eclipse]
 tags:
@@ -26,4 +27,3 @@ I'm pretty sure using the new [Java 7 filesystem notifications](https://thecoder
 If you are an OpenSuse user here is the [magic repository](https://download.opensuse.org/repositories/network:/synchronization:/files/openSUSE_11.4/).
 
 We'll see in a few months if I'm still happy with these solutions. Feel free to add a comment if you have other options!
-

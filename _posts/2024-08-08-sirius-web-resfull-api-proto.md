@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Opening Up Sirius Web: A REST API Prototype"
+excerpt: "A hands-on Sirius Web prototype exposing EMF models through REST in XMI, binary, zipped, and CSV formats for desktop tools, automation, and data-science workflows."
 categories: [modeling]
 tags:
   - modeling

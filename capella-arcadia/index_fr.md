@@ -143,6 +143,8 @@ Il faut distinguer le cœur du projet de son écosystème plus large. Des add-on
 
 Capella n'est pas un outil émergent en attente de ses premiers déploiements sérieux. Il a accumulé des années d'utilisation industrielle dans l'aéronautique, la défense, les transports, l'énergie, le spatial, les semi-conducteurs et d'autres domaines où les décisions d'architecture ont des conséquences durables. La méthode est enseignée, documentée et discutée à travers des livres, des formations, des webinaires, des études de cas, une communauté mondiale de praticiens et Capella Days. Cette richesse compte : les équipes peuvent apprendre non seulement de la documentation du produit, mais aussi d'organisations qui ont déjà affronté les questions d'échelle, d'intégration, de gouvernance et d'adoption.
 
+Les signes de cette adoption étaient déjà visibles en 2019 à travers la progression des téléchargements, les déploiements industriels, les webinaires et une communauté de plus en plus internationale, comme le montre [L'adoption croissante de Capella]({{ site.url }}/eclipse/adoption-croissante-MBSE-capella/).
+
 La maturité ne doit pas être confondue avec l'immobilité. Capella reste un projet actif, avec de nouvelles versions, des investissements directs dans ses fondations et des travaux qui étendent sa place dans l'écosystème d'ingénierie. En 2026, [Obeo a renforcé son engagement pour l'avenir de Capella](https://blog.obeosoft.com/obeo-strengthens-its-commitment-to-the-future-of-capella) à travers plusieurs initiatives concrètes :
 
 - des contributions directes à Capella 7.1 portant sur la robustesse, la sécurité, la maintenabilité, Java 21 et l'internationalisation ;

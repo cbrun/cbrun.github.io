@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Are your engineering tools built on top of strong and well-maintained technologies?
+seoTitle: "Why engineering tools need strong technology foundations"
 categories: [eclipse]
 tags:
   - modeling

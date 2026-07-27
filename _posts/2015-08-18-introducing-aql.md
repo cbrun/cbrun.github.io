@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  AQL - a new interpreter for Sirius
+excerpt: "The original introduction to AQL, explaining why Sirius needed a small, fast, extensible query interpreter and how it compared with its legacy alternatives."
 categories: [modeling]
 tags:
   - eclipse
@@ -179,11 +180,4 @@ Since the Sirius 3.0 release we are ramping up :
 
 All of these to make [AQL the recommended query language implementation](https://bugs.eclipse.org/bugs/show_bug.cgi?id=470460) for Sirius 3.1 !
 
-
-
-
-
-
-
-
-
+Query languages such as AQL are one of the reusable assets behind a domain-specific workbench. [Designing and building domain-specific modeling platforms]({{ site.url }}/modeling-platforms/) explains how those assets fit into a complete modeling platform.
