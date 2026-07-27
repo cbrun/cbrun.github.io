@@ -1,11 +1,13 @@
 ---
 layout: null
 permalink: /robots.txt
+sitemap: false
 ---
 # robots.txt for https://cedric.brun.io
 
 User-agent: *
 # Prevent indexing/crawling of slide assets and subfolders
+Allow: /talks/sle-2026-we-built-the-languages/
 Disallow: /talks/
 
 # Allow everything else
@@ -13,4 +15,3 @@ Allow: /
 
 # Sitemaps
 Sitemap: {{ site.url }}/sitemap.xml
-

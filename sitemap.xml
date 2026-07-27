@@ -8,7 +8,7 @@ permalink: /sitemap.xml
   {%- comment -%} Pages {%- endcomment -%}
   {%- for page in site.pages -%}
     {%- assign page_url = page.url | replace:'index.html','' -%}
-    {%- unless page.noindex or page.sitemap == false or page_url contains '/assets/' or page_url contains '.css' or page_url contains '.js' or page_url contains '.map' -%}
+    {%- unless page.noindex or page.sitemap == false or page_url contains '/assets/' or page_url contains '/talks/' or page_url contains '.css' or page_url contains '.js' or page_url contains '.map' -%}
       <url>
         <loc>{{ site.url }}{{ page_url }}</loc>
         {%- assign lm = page.last_modified_at | default: page.date -%}
@@ -38,8 +38,6 @@ permalink: /sitemap.xml
           {%- if c.label != 'tag' or tag_posts and tag_posts.size >= 3 -%}
           <url>
             <loc>{{ site.url }}{{ doc.url | replace:'index.html','' }}</loc>
-            {%- assign lm = doc.last_modified_at | default: doc.date -%}
-            {%- if lm -%}<lastmod>{{ lm | date_to_xmlschema }}</lastmod>{%- endif -%}
           </url>
           {%- endif -%}
         {%- endunless -%}
