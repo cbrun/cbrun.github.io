@@ -8,6 +8,7 @@ sitemap: false
 User-agent: *
 # Prevent indexing/crawling of slide assets and subfolders
 Allow: /talks/sle-2026-we-built-the-languages/
+Allow: /talks/OCX2024/OCX_Open_Innovation_unleashed.pdf
 Disallow: /talks/
 
 # Allow everything else
