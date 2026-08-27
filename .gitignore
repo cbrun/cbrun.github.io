@@ -4,6 +4,11 @@ _site
 .directory
 *.sublime-project
 *.sublime-workspace
+__pycache__
 codekit-config.json
 _asset_bundler_cache
 AGENTS.md
+private
+.project
+.obsidian
+.bundle
