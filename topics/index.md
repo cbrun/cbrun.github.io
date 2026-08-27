@@ -1,15 +1,15 @@
 ---
 layout: topics
-title: "Modeling, MBSE, and industrial open source"
-seoTitle: "Topics: modeling, MBSE, and industrial open source"
-description: "Explore Cédric Brun's reference guides on SysML v2, Eclipse SysON, modeling platforms, industrial open source, Capella, and Arcadia."
+title: "Modeling technologies and organizational practice"
+seoTitle: "Topics: MBSE, modeling, open source, and organizational practice"
+description: "Explore Cédric Brun's reference guides on SysML v2, Eclipse SysON, Capella, modeling platforms, industrial open source, and organizational practice."
 permalink: /topics/
 canonical: https://cedric.brun.io/topics/
 lang: en
 translation_fr: /fr/topics/
 ---
 
-These five guides organize the main subjects I write and speak about. Each one is designed as a stable starting point: choose the question closest to yours, then follow the links to detailed articles, talks, and practical examples.
+These six guides organize the main subjects I write and speak about. Each one is designed as a stable starting point: choose the question closest to yours, then follow the links to detailed articles, talks, and practical examples.
 
 <div class="topics-directory">
   <article class="topic-card topic-card--sysml">
@@ -32,18 +32,24 @@ These five guides organize the main subjects I write and speak about. Each one i
     <h3><a href="{{ site.url }}/capella-arcadia/">Capella and Arcadia</a></h3>
     <p>Build a method-led MBSE practice with a mature, widely used, and actively evolving open-source ecosystem.</p>
   </article>
+  <article class="topic-card topic-card--organizations">
+    <h3><a href="{{ site.url }}/organizational-practices/">Making organizations work</a></h3>
+    <p>Explore practical ways to reduce uncertainty, preserve organizational memory, and turn strategy into everyday decisions.</p>
+  </article>
 </div>
 
 <section class="topic-connections" markdown="1">
 
 ## How these topics connect
 
-They are not five separate shelves. [SysML v2]({{ site.url }}/sysml-v2/) defines a new language and interoperability foundation; [Eclipse SysON]({{ site.url }}/syson/) turns that standard into a collaborative web environment. SysON itself is an example of a broader [modeling platform]({{ site.url }}/modeling-platforms/) built to support domain-specific engineering work.
+They are not six separate shelves. [SysML v2]({{ site.url }}/sysml-v2/) defines a new language and interoperability foundation; [Eclipse SysON]({{ site.url }}/syson/) turns that standard into a collaborative web environment. SysON itself is an example of a broader [modeling platform]({{ site.url }}/modeling-platforms/) built to support domain-specific engineering work.
 
 [Capella and Arcadia]({{ site.url }}/capella-arcadia/) approach MBSE from the complementary perspective of an established method and tool ecosystem. Across these technologies, [industrial open source]({{ site.url }}/open-source-industrial/) is what makes governance, investment, and long-term availability part of the engineering strategy.
+
+Technology is only part of that story. [Making organizations work]({{ site.url }}/organizational-practices/) examines the decisions, working rhythms, and shared memory that allow people to build and sustain these systems together.
 
 </section>
 
 ## Article archives
 
-The pillars are curated entry points. For the complete chronology, browse [all articles]({{ site.url }}/posts/) or the main archives by tag: [SysML and MBSE]({{ site.url }}/tag/mbse/), [Sirius Web and SysON]({{ site.url }}/tag/sirius-web/), [Ecore and EMF]({{ site.url }}/tag/ecore/), [Capella]({{ site.url }}/tag/capella/), and [Obeo and community]({{ site.url }}/tag/obeo/). The [complete tag index]({{ site.url }}/tags/) covers technologies, events, and historical subjects beyond these five areas.
+The pillars are curated entry points. For the complete chronology, browse [all articles]({{ site.url }}/posts/) or the main archives by tag: [SysML and MBSE]({{ site.url }}/tag/mbse/), [Sirius Web and SysON]({{ site.url }}/tag/sirius-web/), [Ecore and EMF]({{ site.url }}/tag/ecore/), [Capella]({{ site.url }}/tag/capella/), and [Obeo and community]({{ site.url }}/tag/obeo/). The [complete tag index]({{ site.url }}/tags/) covers technologies, events, and historical subjects beyond these six areas.
