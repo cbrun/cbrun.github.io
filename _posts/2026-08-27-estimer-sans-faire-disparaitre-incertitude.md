@@ -28,11 +28,21 @@ Et dans l’informatique, cette question revient tout le temps. On est développ
 
 Si vous avez un peu trempé dans le développement logiciel, vous voyez probablement déjà où l’on va : dans le mur.
 
+<figure>
+    <a href="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_1.png"><img src="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_1.png"></a>
+    <figcaption>Un point cache une étendue</figcaption>
+</figure>
+
 Mes « deux heures », c’était en gros le temps nécessaire pour avoir une première version sur mon poste. Sans avoir traité tous les cas aux limites, sans tests automatiques, sans documentation, sans les retours du client qui arriveraient après la livraison. Bref, le temps qu’il me fallait pour que vous veniez à côté de moi et que je puisse vous montrer quelque chose qui « quasi-fonctionne ».
 
 Sauf que tout ce qui reste à faire après ce « quasi » prend au moins autant de temps, et souvent beaucoup plus.
 
 Les premières versions de Sirius sont parfois sorties dans la douleur. La date était figée, le périmètre également, le tout sur la base de nos estimations. Quand arrivait le jour de la livraison, tout était à peu près là, mais rien n’était complètement terminé. On en a fait, des livraisons qui se terminaient à trois heures du matin, voire plus tard.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_2.png"><img src="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_2.png"></a>
+    <figcaption>Quand “deux heures” voulait dire “une première démo”</figcaption>
+</figure>
 
 J’ai raconté le contexte de ces premières années dans [Obeo fête ses 10 ans]({{ site.url }}/eclipse/obeo-dix-ans/).
 
@@ -122,6 +132,11 @@ Prenons un exemple :
 | T10 | 3 | — | 3 ~ 3 ~ 3 |
 | **Total** | **46** | **15** | **47,17 ~ 50,31 ~ 44,02** |
 | **Charge + risques** | **61** |  | **≈ 50** |
+
+<figure>
+    <a href="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_3.png"><img src="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_3.png"></a>
+    <figcaption>61 jours vs estimation à trois points</figcaption>
+</figure>
 
 Avec notre ancienne méthode, nous avions une charge de 46 jours et 15 jours de risque. En additionnant les deux, nous arrivions donc à 61 jours.
 

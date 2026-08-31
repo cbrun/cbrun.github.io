@@ -20,6 +20,13 @@ For a long time, I thought a good estimate was a precise number. If someone answ
 
 And in software, this question comes up all the time. You are a developer, a need emerges, and someone asks: “How long will it take to build this?”
 
+
+<figure>
+    <a href="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_1.png"><img src="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_1.png"></a>
+    <figcaption>A point hides a range</figcaption>
+</figure>
+
+
 ## When “two hours” meant “a first demo”
 
 At [Obeo](https://www.obeosoft.com/en/company/), our journey with estimation was something of an initiation. In the early days, there were fewer than ten of us, working on the foundations of what would become [Eclipse Sirius](https://eclipse.dev/sirius/). I was a developer then, working directly with the customer. We would discuss their situation, a need would emerge, and then came the inevitable question:
@@ -33,6 +40,11 @@ If you have spent any time in software development, you can probably see where t
 My “two hours” was roughly the time I needed to get a first version running on my machine. It did not include every edge case, automated tests, documentation, or the customer feedback that would arrive after delivery. In other words, it was the time I needed before you could stand next to me and watch something that “almost worked.”
 
 Except that everything left after that “almost” takes at least as much time, and often much more.
+
+<figure>
+    <a href="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_2.png"><img src="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_2.png"></a>
+    <figcaption>When two hours meant a first demo</figcaption>
+</figure>
 
 Some of the early Sirius releases were painful. The date was fixed, the scope was fixed, and both were based on our estimates. When delivery day came around, almost everything was there, but nothing was completely finished. We had our share of deliveries that ended at three in the morning, or later.
 
@@ -124,6 +136,14 @@ Consider this example:
 | T10 | 3 | — | 3 ~ 3 ~ 3 |
 | **Total** | **46** | **15** | **47.17 ~ 50.31 ~ 44.02** |
 | **Effort + risks** | **61** |  | **≈ 50** |
+
+
+<figure>
+    <a href="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_3.png"><img src="{{ site.url }}/images/blog/2026/threepoint_estimates/estimates_3.png"></a>
+    <figcaption>61 days vs three-point estimation</figcaption>
+</figure>
+
+
 
 With our old method, we had 46 days of effort and 15 days of risk. Adding them together gave us 61 days.
 
