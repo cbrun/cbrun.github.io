@@ -96,6 +96,7 @@ exclude:
   - talks/lib
   - LICENSE
   - vendor
+  - "**/node_modules"
   - AGENTS.md
   - AGENTS_HISTORY.md
   - REFONTE.md
