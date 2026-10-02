@@ -1,0 +1,1318 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta
+			name="description"
+			content="Your AI Agent Needs a Model — Cédric Brun, MODELS 2026 Industry Day."
+		/>
+		<title>Your AI Agent Needs a Model · MODELS 2026</title>
+		<link rel="icon" href="data:," />
+		<link rel="stylesheet" href="dist/reset.css" />
+		<link rel="stylesheet" href="dist/reveal.css" />
+		<link rel="stylesheet" href="keynote.css" />
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section
+					id="title"
+					class="dark title-slide"
+					data-background-color="#262057"
+					data-timing="25"
+				>
+					<p class="eyebrow" data-id="eyebrow">MODELS 2026 / Industry Day</p>
+					<p class="conference-details">Málaga, Spain · 4–9 October 2026</p>
+					<img
+						class="conference-emblem"
+						src="assets/models-2026-emblem.png"
+						alt="Adapted MODELS 2026 emblem: Málaga castle, Mediterranean waves, and birds."
+						width="360"
+						height="360"
+					/>
+					<h1 data-id="title">Your AI agent<br />needs <span class="accent">a model.</span></h1>
+					<div class="signature">
+						<p>Cédric Brun<span>Obeo</span></p>
+						<img src="assets/obeo-logo-white.svg" alt="Obeo" width="112" />
+					</div>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 0:00–0:25]</strong></p>
+						<p>
+							Over the last couple of years, we have seen large language models become surprisingly
+							good at working with engineering information. They can read requirements. They can
+							generate documentation. They can write code. They can even produce models.
+						</p>
+						<p>That raises a legitimate question for our community.</p>
+						<p>
+							<small
+								>[Visual source] images/MODELS2026_header_op.webp. Emblem adapted with image
+								generation for this keynote; this is not a replacement for the official conference
+								logo.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section id="question" class="dark" data-background-color="#262057" data-timing="20">
+					<p class="eyebrow" data-id="eyebrow">A question for the modeling community</p>
+					<h2 class="statement">
+						If AI can do all this,<br /><span class="accent">do we still need<br />models?</span>
+					</h2>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 0:25–0:45]</strong></p>
+						<p>If AI becomes this capable, do we still need models?</p>
+						<p><strong>[Pause.]</strong></p>
+						<p>
+							From what we have been experimenting with, I actually reach the opposite conclusion. I
+							think AI may make models considerably more valuable.
+						</p>
+					</aside>
+				</section>
+
+				<section id="three-claims" class="dark" data-background-color="#262057" data-timing="25">
+					<p class="eyebrow" data-id="eyebrow">Three claims</p>
+					<div class="three-claims">
+						<p class="fragment fade-up"><span>01</span>Engineering semantics</p>
+						<p class="fragment fade-up"><span>02</span>Model-enabled reasoning</p>
+						<p class="fragment fade-up"><span>03</span>A model and a method</p>
+					</div>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 0:45–1:10]</strong></p>
+						<p>I will make three claims.</p>
+						<p><strong>[Next: reveal claim 1.]</strong></p>
+						<p>First, a model provides engineering semantics.</p>
+						<p><strong>[Next: reveal claim 2.]</strong></p>
+						<p>Second, models support reasoning about an architecture.</p>
+						<p><strong>[Next: reveal claim 3.]</strong></p>
+						<p>Third, an agent needs both a model and a method to do useful engineering.</p>
+						<p>
+							I am going to use one of our product as the basis of this talk, we've been working
+							integrating LLMs in all of our product, from our language workbench Sirius Web, to
+							SysON for Sysmlv2, our SmartEA product for enterprise architecture to Capella. Today
+							I'll focus on the Capella one...
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="demo-architecture"
+					class="light"
+					data-background-color="#ffffff"
+					data-timing="20"
+				>
+					<p class="eyebrow">The desktop demonstrations</p>
+					<h2>How the agent reaches the model.</h2>
+					<a class="product-qr" href="https://www.obeosoft.com/en/products/ai-for-capella/">
+						<img
+							src="assets/ai-for-capella-qrcode.svg"
+							alt="Scan to visit the AI for Capella product page"
+							width="180"
+							height="180"
+						/>
+						<span>AI for Capella</span>
+					</a>
+					<div
+						class="demo-architecture"
+						aria-label="Claude Desktop with Opus 5.5 connects over MCP to AI for Capella inside Capella Desktop, which accesses the engineering model."
+					>
+						<div class="architecture-card">
+							<div class="architecture-card-heading">
+								<p class="architecture-label">Agent client in the recordings</p>
+								<img src="assets/claude-symbol.svg" alt="" width="40" height="40" />
+							</div>
+							<strong>Claude Desktop</strong>
+							<p class="architecture-detail">Model: Opus 5.5</p>
+						</div>
+						<div class="architecture-connector" aria-label="MCP, Model Context Protocol">
+							<span aria-hidden="true">⟷</span>
+							<strong>MCP</strong>
+						</div>
+						<div class="architecture-card">
+							<div class="architecture-card-heading">
+								<p class="architecture-label">Capella Desktop</p>
+								<img src="assets/capella-logo-black.svg" alt="" width="132" />
+							</div>
+							<strong>AI for Capella</strong>
+							<p class="architecture-detail">Engineering model</p>
+						</div>
+					</div>
+					<p class="footnote architecture-alternatives">
+						Other possible choices:
+						<span
+							><img src="assets/openai-blossom-black.svg" alt="" width="25" height="25" />OpenAI
+							Codex CLI (client)</span
+						>
+						<span aria-hidden="true">·</span>
+						<span
+							><img src="assets/mistral-symbol.svg" alt="" width="25" height="25" />Mistral
+							(model)</span
+						>
+					</p>
+					<aside class="notes">
+						<p><strong>[Talk 1:10–1:30]</strong></p>
+						<p>
+							Why AI for Capella? Because in this case, we bridge the LLM with a Model Based System
+							engineering tool which is complete and mature, well known accrosss the globe with
+							several hundreds organizations using it day to day. This mean we won't get "noise"
+							from using emerging products. Here I'm using Claude Desktop with Opus 5.5, it could be
+							Open AI, Mistral or Tencent Workbuddy as we are using the MCP standard for that. It
+							reaches the model in Capella Desktop through Obeo AI for Capella, using MCP, the Model
+							Context Protocol. This commercial add-on is available today. Other clients and
+							language models are possible.
+						</p>
+						<p>
+							I could show you videos where we scaffold an impressive model in a few prompts, that's
+							definitely something the add-on can be used for, but as we'll have a lot of AI content
+							today, I wanted to focus on smaller use cases which are closer to a real interaction
+							in between the engineer and an LLM.
+						</p>
+						<p>Same spirit in both cases, being anchored in what we can do <b>right now</b></p>
+						<p><small>[Source] https://www.obeosoft.com/en/products/ai-for-capella/</small></p>
+					</aside>
+				</section>
+
+				<section
+					id="context"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="20"
+					data-auto-animate
+					data-auto-animate-id="semantics"
+				>
+					<p class="eyebrow" data-id="eyebrow">01 / Engineering semantics</p>
+					<h2 class="statement" data-id="claim">
+						A model gives AI<br /><span class="muted">more than context.</span>
+					</h2>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 1:30–1:50]</strong></p>
+						<p>
+							We often talk about putting more information into the context window of a language
+							model. More documents. More requirements. More specifications.
+						</p>
+						<p>A model gives us something different.</p>
+					</aside>
+				</section>
+
+				<section
+					id="semantics"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="30"
+					data-auto-animate
+					data-auto-animate-id="semantics"
+				>
+					<p class="eyebrow" data-id="eyebrow">01 / Engineering semantics</p>
+					<h2 class="statement" data-id="claim">
+						A model gives AI<br /><span class="accent">engineering<br />semantics.</span>
+					</h2>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 1:50–2:20]</strong></p>
+						<p>
+							A model tells us that this function is allocated to this component. That a capability
+							is realized through these scenarios. That components exchange information. That one
+							abstraction level realizes another.
+						</p>
+						<p>
+							Those relationships have a precise meaning in engineering. They give an agent paths it
+							can follow when answering a question about the system.
+						</p>
+					</aside>
+				</section>
+
+				<section id="relationships" class="light" data-background-color="#ffffff" data-timing="35">
+					<p class="eyebrow" data-id="eyebrow">01 / Following the model</p>
+					<h2>Relationships carry the meaning.</h2>
+					<div class="relationship">
+						<div><small>Behavior</small><strong>Function</strong></div>
+						<p>allocated to<span class="line-arrow">⟶</span></p>
+						<div><small>Architecture</small><strong>Component</strong></div>
+					</div>
+					<p class="footnote">A relation the agent can navigate, explain, and check.</p>
+					<aside class="notes">
+						<p><strong>[Talk 2:20–2:55]</strong></p>
+						<p>
+							Take this relationship: a function is allocated to a component. It connects what the
+							system must do with the part of the architecture responsible for doing it.
+						</p>
+						<p>
+							Let us try this on Capella's in-flight entertainment example. I ask the agent to trace
+							the mission “Provide Entertainment Solutions” down to the physical equipment. Watch
+							how it connects the mission to the hardware, and where the trace stops.
+						</p>
+						<p><strong>[Advance to start the trace video.]</strong></p>
+					</aside>
+				</section>
+
+				<section
+					id="trace-demo"
+					class="light video-slide"
+					data-background-color="#ffffff"
+					data-timing="40"
+				>
+					<p class="eyebrow" data-id="eyebrow">01 / Following engineering relationships</p>
+					<h2 class="demo-title">“Trace the mission down to the equipment.”</h2>
+					<video
+						class="demo"
+						controls
+						muted
+						playsinline
+						preload="auto"
+						data-autoplay
+						data-src="assets/media/trace.mp4"
+						poster="assets/media/trace.jpg"
+						aria-label="“Trace the mission down to the equipment.”. Silent screen recording, narrated by the speaker."
+					>
+						Your browser cannot play this recording.
+						<a href="assets/media/trace.mp4">Open the video</a>.
+					</video>
+					<p class="footnote">Recorded demonstration · In-flight entertainment example</p>
+					<aside class="notes">
+						<p><strong>[Talk 2:55–3:35]</strong></p>
+						<p><strong>[Video starts automatically · 0:00 — the question]</strong></p>
+						<p>
+							The conversation is on the left, and Capella is on the right. The agent queries the
+							model to build its answer.
+						</p>
+						<p><strong>[When the trace table appears · about 0:12]</strong></p>
+						<p>
+							Here it connects functions to logical components, then to software and physical
+							equipment. Further down, it lists gaps: scenarios that are unfinished, and functions
+							it cannot trace to equipment.
+						</p>
+						<p><strong>[After the video · hold the final frame]</strong></p>
+						<p>
+							The useful result is a trace with visible limits. Let us step back and look at what
+							that tells us.
+						</p>
+						<p>
+							<small
+								>[Sources] videos/2 - Understanding a Model.mp4, 00:27–00:54; companion transcript,
+								prompt 3.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section id="coverage" class="light" data-background-color="#ffffff" data-timing="45">
+					<p class="eyebrow" data-id="eyebrow">01 / What the model actually supports</p>
+					<div class="coverage">
+						<p class="big-number">2<span>/13</span></p>
+						<div>
+							<h2>Only partially realized.</h2>
+							<p>System capabilities traced<br />to the physical architecture.</p>
+						</div>
+					</div>
+					<div class="coverage-marks" aria-hidden="true">
+						<span class="filled"></span><span class="filled"></span><span class=""></span
+						><span class=""></span><span class=""></span><span class=""></span><span class=""></span
+						><span class=""></span><span class=""></span><span class=""></span><span class=""></span
+						><span class=""></span><span class=""></span>
+					</div>
+					<p class="footnote">Separate whole-model query · Agent-reported coverage</p>
+					<aside class="notes">
+						<p><strong>[Talk 3:35–4:20]</strong></p>
+						<p>
+							The same idea becomes clearer when we look across the whole model. In a separate
+							query, which I have not shown, the agent reports that only two of thirteen system
+							capabilities are even partially realized down to the physical level.
+						</p>
+						<p>
+							This is an example model, so gaps are expected. What matters is that the agent can
+							say: “I can follow this thread until here. After that, information is missing.”
+						</p>
+						<p>That gives the engineer a concrete place to investigate.</p>
+						<p>
+							The LLM, went through the all the functions in the model, and found gaps, things which
+							were not covered.
+						</p>
+						<p><small>[Sources] videos/2 - Understanding a Model.txt, prompt 7.</small></p>
+					</aside>
+				</section>
+
+				<section
+					id="structure-for-reasoning"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="40"
+				>
+					<p class="eyebrow" data-id="eyebrow">01 / Engineering semantics</p>
+					<h2 class="statement">Structure<br /><span class="accent">for reasoning.</span></h2>
+					<p class="footnote">The relationships. The traceability. The gaps.</p>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 4:20–5:00]</strong></p>
+						<p>What interests me here is where the answer comes from.</p>
+						<p>
+							Language models are already good at explaining things. In this example, the agent
+							follows engineering relationships that already exist in the model. Those relationships
+							support its explanation, and the gaps show where the explanation must stop.
+						</p>
+						<p>That is my first claim: models provide structure for reasoning.</p>
+						<p>Now let us use that structure to ask more demanding questions.</p>
+					</aside>
+				</section>
+
+				<section
+					id="generation"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="30"
+					data-auto-animate
+					data-auto-animate-id="reasoning"
+				>
+					<p class="eyebrow" data-id="eyebrow">02 / Model-enabled reasoning</p>
+					<div class="reasoning-shift">
+						<p class="shift-before" data-id="generation">Model generation</p>
+						<h2 data-id="reasoning">Model-enabled<br /><span class="accent">reasoning</span></h2>
+					</div>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 5:00–5:30]</strong></p>
+						<p>
+							A lot of what we see today about AI and modeling is about generation. Generate a
+							diagram. Generate some components. Generate requirements. That is useful.
+						</p>
+						<p>
+							But after experimenting for a while, I increasingly want to ask: what can the AI
+							discover in a model that would take an engineer a long time to find?
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="reasoning"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="25"
+					data-auto-animate
+					data-auto-animate-id="reasoning"
+				>
+					<p class="eyebrow" data-id="eyebrow">02 / Model-enabled reasoning</p>
+					<div class="reasoning-shift emphasized">
+						<p class="shift-before" data-id="generation">Model generation</p>
+						<h2 data-id="reasoning">Model-enabled<br /><span class="accent">reasoning</span></h2>
+					</div>
+					<p class="footnote">What would break? What is missing? What is inconsistent?</p>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 5:30–5:55]</strong></p>
+						<p>
+							We will stay with the in-flight entertainment model and ask three questions. What
+							would fail? Where is a safety behavior implemented? And are two architectural levels
+							consistent?
+						</p>
+						<p>
+							First, let us take one processor in the architecture, called the ASU Processor, and
+							ask what happens if it fails.
+						</p>
+						<p><strong>[Advance to start the failure video.]</strong></p>
+					</aside>
+				</section>
+
+				<section
+					id="failure-demo"
+					class="light video-slide"
+					data-background-color="#ffffff"
+					data-timing="45"
+				>
+					<p class="eyebrow" data-id="eyebrow">02 / Reasoning · 1 of 3 · Failure</p>
+					<h2 class="demo-title">“What happens if the ASU Processor fails?”</h2>
+					<video
+						class="demo"
+						controls
+						muted
+						playsinline
+						preload="auto"
+						data-autoplay
+						data-src="assets/media/failure.mp4"
+						poster="assets/media/failure.jpg"
+						aria-label="“What happens if the ASU Processor fails?”. Silent screen recording, narrated by the speaker."
+					>
+						Your browser cannot play this recording.
+						<a href="assets/media/failure.mp4">Open the video</a>.
+					</video>
+					<p class="footnote">Recorded demonstration · In-flight entertainment example</p>
+					<aside class="notes">
+						<p><strong>[Talk 5:55–6:40]</strong></p>
+						<p><strong>[Video starts automatically · while the agent works]</strong></p>
+						<p>
+							To answer, the agent needs to find which functions depend on that processor and what
+							would be lost with them.
+						</p>
+						<p><strong>[When the answer appears · about 0:12]</strong></p>
+						<p>
+							It identifies a single point of failure in the model. Several functions rely on this
+							processor, and no redundant processor is modeled. It also identifies missing failure
+							behavior and suggests changes to investigate.
+						</p>
+						<p><strong>[After the video · hold the final frame]</strong></p>
+						<p>
+							So we have a dependency analysis and questions for review. Next, let us follow one
+							safety-related behavior: the response to cabin decompression.
+						</p>
+						<p>
+							<small
+								>[Sources] videos/3-4 - Analysis - Consistency - Automation of the model.mp4,
+								00:54–01:23; companion transcript, prompt 3.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="decompression-demo"
+					class="light video-slide"
+					data-background-color="#ffffff"
+					data-timing="45"
+				>
+					<p class="eyebrow" data-id="eyebrow">02 / Reasoning · 2 of 3 · Completeness</p>
+					<h2 class="demo-title">“Is decompression handled down to the equipment?”</h2>
+					<video
+						class="demo"
+						controls
+						muted
+						playsinline
+						preload="auto"
+						data-autoplay
+						data-src="assets/media/decompression.mp4"
+						poster="assets/media/decompression.jpg"
+						aria-label="“Is decompression handled down to the equipment?”. Silent screen recording, narrated by the speaker."
+					>
+						Your browser cannot play this recording.
+						<a href="assets/media/decompression.mp4">Open the video</a>.
+					</video>
+					<p class="footnote">Recorded demonstration · In-flight entertainment example</p>
+					<aside class="notes">
+						<p><strong>[Talk 6:40–7:25]</strong></p>
+						<p><strong>[Video starts automatically · while the question is processed]</strong></p>
+						<p>
+							The question is whether that response is described all the way down to equipment. A
+							behavior can appear at a high level while its implementation remains incomplete.
+						</p>
+						<p><strong>[When the answer appears · about 0:18]</strong></p>
+						<p>
+							Here the agent follows the decompression notification through the functions. Then it
+							reports a gap: the physical connections and scenario are not sufficiently described to
+							demonstrate the response.
+						</p>
+						<p><strong>[After the video · hold the final frame]</strong></p>
+						<p>
+							That gives us a specific modeling gap to review. The third question concerns
+							consistency: does the intended behavior survive as we refine the architecture?
+						</p>
+						<p>
+							<small
+								>[Sources] videos/3-4 - Analysis - Consistency - Automation of the model.mp4,
+								01:24–01:56; companion transcript, prompt 4.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="consistency-demo"
+					class="light video-slide"
+					data-background-color="#ffffff"
+					data-timing="40"
+				>
+					<p class="eyebrow" data-id="eyebrow">02 / Reasoning · 3 of 3 · Consistency</p>
+					<h2 class="demo-title">“Are the Seat TV modes consistent?”</h2>
+					<video
+						class="demo"
+						controls
+						muted
+						playsinline
+						preload="auto"
+						data-autoplay
+						data-src="assets/media/consistency.mp4"
+						poster="assets/media/consistency.jpg"
+						aria-label="“Are the Seat TV modes consistent?”. Silent screen recording, narrated by the speaker."
+					>
+						Your browser cannot play this recording.
+						<a href="assets/media/consistency.mp4">Open the video</a>.
+					</video>
+					<p class="footnote">Recorded demonstration · In-flight entertainment example</p>
+					<aside class="notes">
+						<p><strong>[Talk 7:25–8:05]</strong></p>
+						<p>
+							<strong>[Video starts automatically · while the agent compares the modes]</strong>
+						</p>
+						<p>
+							We compare the Seat TV modes in System Analysis, which describes expected behavior,
+							with Logical Architecture, which describes how the system is organized to deliver it.
+						</p>
+						<p><strong>[When the comparison appears · about 0:15]</strong></p>
+						<p>
+							The agent reports similar modes, but missing transitions. One reported consequence is
+							that safety instructions can no longer interrupt a passenger playing a game at the
+							logical level.
+						</p>
+						<p><strong>[After the video · advance after this sentence]</strong></p>
+						<p>Let me isolate that finding so we can see why it matters.</p>
+						<p>
+							<small
+								>[Sources] videos/3-4 - Analysis - Consistency - Automation of the model.mp4,
+								01:57–02:26; companion transcript, prompt 5.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="consistency-result"
+					class="light"
+					data-background-color="#ffffff"
+					data-timing="40"
+				>
+					<p class="eyebrow" data-id="eyebrow">02 / A reported gap between architectural levels</p>
+					<h2>Aligned does not mean consistent.</h2>
+					<div class="comparison">
+						<div>
+							<p class="level">System Analysis</p>
+							<p>Playing a game <span class="teal">⟶</span> Safety instructions</p>
+							<small>Interruption represented</small>
+						</div>
+						<div>
+							<p class="level">Logical Architecture</p>
+							<p>Playing a game <span class="missing">↛</span> Safety instructions</p>
+							<small class="issue">Interruption missing</small>
+						</div>
+					</div>
+					<p class="footnote">Simplified agent finding · To be checked by an engineer</p>
+					<aside class="notes">
+						<p><strong>[Talk 8:05–8:45]</strong></p>
+						<p>
+							This is a simplified picture of the agent's finding. At the system level, the
+							passenger's game can be interrupted by safety instructions. At the logical level, the
+							corresponding transition is reported missing.
+						</p>
+						<p>The two views can look broadly aligned while allowing different behavior.</p>
+						<p>
+							That is the kind of question I want help with: does the intended behavior survive the
+							refinement? The agent has pointed us to something specific to check.
+						</p>
+						<p>
+							<small
+								>[Sources] videos/3-4 - Analysis - Consistency - Automation of the model.txt,
+								prompts 5–6.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section id="review" class="dark" data-background-color="#262057" data-timing="45">
+					<p class="eyebrow" data-id="eyebrow">02 / Keep the engineer in the loop</p>
+					<h2 class="statement">
+						Explore. Question.<br />Prepare changes.<br /><span class="accent">Review.</span>
+					</h2>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 8:45–9:30]</strong></p>
+						<p>
+							There is an important limit here. Later in the full recording, in a sequence I have
+							not shown, I ask the agent to apply its suggested corrections.
+						</p>
+						<p>
+							It makes changes, revises some of its initial conclusions, and leaves some issues
+							unresolved.
+						</p>
+						<p>
+							So these findings are hypotheses for an engineer to review. We have a fast assistant
+							that can explore a model, find suspicious areas, and prepare changes.
+						</p>
+						<p>
+							That is my second claim: models enable useful reasoning. To guide what the agent does
+							next, we need the third ingredient: a method.
+						</p>
+						<p>
+							<small
+								>[Sources] videos/3-4 - Analysis - Consistency - Automation of the model.txt, prompt
+								6. Correction sequence is outside the excerpts shown in this talk.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="model"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="20"
+					data-auto-animate
+					data-auto-animate-id="method"
+				>
+					<p class="eyebrow" data-id="eyebrow">03 / A model and a method</p>
+					<div class="model-method"><h2 data-id="model">A model</h2></div>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 9:30–9:50]</strong></p>
+						<p>
+							So far, we have asked questions about an existing model. What happens when we ask the
+							agent to build or change one?
+						</p>
+						<p>
+							“Here is Capella. Go model something” gives it very little guidance about the
+							engineering work we expect.
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="model-method"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="30"
+					data-auto-animate
+					data-auto-animate-id="method"
+				>
+					<p class="eyebrow" data-id="eyebrow">03 / A model and a method</p>
+					<div class="model-method expanded">
+						<h2 data-id="model">A model</h2>
+						<p class="plus">+</p>
+						<h2 class="accent">a method</h2>
+					</div>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 9:50–10:20]</strong></p>
+						<p>
+							Capella comes with Arcadia, an engineering method. It gives the work a progression:
+							what we need to establish, at which level, and what comes next.
+						</p>
+						<p>
+							The agent can use that progression to guide a user. In this next example, someone
+							wants to model an optical mouse and is new to both Arcadia and Capella.
+						</p>
+						<p><strong>[Advance to start the discovery video.]</strong></p>
+					</aside>
+				</section>
+
+				<section
+					id="discovery-demo"
+					class="light video-slide"
+					data-background-color="#ffffff"
+					data-timing="60"
+				>
+					<p class="eyebrow" data-id="eyebrow">03 / Using the method to guide the next step</p>
+					<h2 class="demo-title">“I am new to Arcadia. Where should I start?”</h2>
+					<video
+						class="demo"
+						controls
+						muted
+						playsinline
+						preload="auto"
+						data-autoplay
+						data-src="assets/media/discovery.mp4"
+						poster="assets/media/discovery.jpg"
+						aria-label="“I am new to Arcadia. Where should I start?”. Silent screen recording, narrated by the speaker."
+					>
+						Your browser cannot play this recording.
+						<a href="assets/media/discovery.mp4">Open the video</a>.
+					</video>
+					<p class="footnote">Recorded demonstration · Optical mouse</p>
+					<aside class="notes">
+						<p><strong>[Talk 10:20–11:20]</strong></p>
+						<p><strong>[Video starts automatically · opening question and answer]</strong></p>
+						<p>
+							The user asks: “What should I start with?” The agent explains the stages of the method
+							and proposes starting with System Analysis: the mouse's functions and its interactions
+							with the outside world.
+						</p>
+						<p><strong>[At the edit · 0:26, a populated model appears]</strong></p>
+						<p>
+							We now jump forward. In the work between these excerpts, the agent has helped build
+							functions, exchanges, and chains. The user asks: “What could be the next step?”
+						</p>
+						<p><strong>[When the two options appear · about 0:40]</strong></p>
+						<p>
+							The agent offers a choice: finish refining System Analysis, or move to Logical
+							Architecture. It explains what each choice involves.
+						</p>
+						<p><strong>[After the video]</strong></p>
+						<p>
+							That is guidance about the engineering process, at the point where the user needs it.
+						</p>
+						<p>
+							<small
+								>[Sources] videos/1 - Arcadia-Capella Discovery.mp4, 00:00–00:26 and 02:44–03:11;
+								companion transcript.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="outside-the-model"
+					class="light"
+					data-background-color="#ffffff"
+					data-timing="25"
+				>
+					<p class="eyebrow" data-id="eyebrow">03 / Starting outside the model</p>
+					<h2 class="statement smaller">
+						What if the information<br />starts <span class="teal">in a spreadsheet?</span>
+					</h2>
+					<p class="support">Supplier data · Requirements · Program targets</p>
+					<aside class="notes">
+						<p><strong>[Talk 11:20–11:45]</strong></p>
+						<p>
+							As a Capella user, you can understand your system and still be unsure what the method
+							expects next. That is where this guidance helps.
+						</p>
+						<p>
+							Now let us push further. Purchasing sends us a spreadsheet with supplier data,
+							requirements, and targets for an Automatic Emergency Braking system, or AEB. Can we
+							turn it into an architecture and check it?
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="engineering-instructions"
+					class="light"
+					data-background-color="#ffffff"
+					data-timing="25"
+				>
+					<p class="eyebrow" data-id="eyebrow">03 / Making the method explicit</p>
+					<h2>Tell the agent how to engineer.</h2>
+					<div class="instruction-lines">
+						<p><span>01</span>Mapping rules</p>
+						<p><span>02</span>Topology constraints</p>
+						<p><span>03</span>Properties and checks</p>
+					</div>
+					<p class="footnote">Detailed instructions accompany the supplier spreadsheet.</p>
+					<aside class="notes">
+						<p><strong>[Talk 11:45–12:10]</strong></p>
+						<p>
+							Here I give the agent detailed instructions: how supplier parts become components, how
+							to derive functions, and which properties to attach.
+						</p>
+						<p>
+							I also specify the connections, including which traffic must pass through the central
+							gateway.
+						</p>
+						<p>
+							Watch two stages: first it builds the architecture; then I ask it to check the design
+							against the targets.
+						</p>
+						<p><strong>[Advance to start the AEB video.]</strong></p>
+						<p><small>[Sources] videos/6 - Importing Data.txt, prompt 1.</small></p>
+					</aside>
+				</section>
+
+				<section
+					id="aeb-demo"
+					class="light video-slide"
+					data-background-color="#ffffff"
+					data-timing="95"
+				>
+					<p class="eyebrow" data-id="eyebrow">03 / From engineering instructions to checks</p>
+					<h2 class="demo-title">Supplier data → architecture → verification</h2>
+					<video
+						class="demo"
+						controls
+						muted
+						playsinline
+						preload="auto"
+						data-autoplay
+						data-src="assets/media/aeb.mp4"
+						poster="assets/media/aeb.jpg"
+						aria-label="Supplier data → architecture → verification. Silent screen recording, narrated by the speaker."
+					>
+						Your browser cannot play this recording.
+						<a href="assets/media/aeb.mp4">Open the video</a>.
+					</video>
+					<p class="footnote">Recorded demonstration · Automatic Emergency Braking</p>
+					<aside class="notes">
+						<p><strong>[Talk 12:10–13:45]</strong></p>
+						<p>
+							<strong>[Video starts automatically · 0:00 — spreadsheet and instructions]</strong>
+						</p>
+						<p>
+							The spreadsheet is attached to the conversation. The agent reads it and proposes the
+							components, functions, and connections it will create.
+						</p>
+						<p><strong>[As elements appear in Capella · about 0:15]</strong></p>
+						<p>
+							Now it builds them in Capella through the modeling tools. On the right, you can see
+							model elements appearing in the tree and the diagram. Mass, power, and latency values
+							are attached to the components.
+						</p>
+						<p><strong>[When the architecture fills the screen · about 0:50]</strong></p>
+						<p>
+							Here is the resulting architecture. The braking chain runs from obstacle detection to
+							brake pressure. An engineer can open these elements and inspect the values and
+							relationships.
+						</p>
+						<p><strong>[When the second prompt appears · about 1:02]</strong></p>
+						<p>
+							Now I ask for the checks: total mass, power, cost, and end-to-end latency, then safety
+							integrity and temperature against the program targets.
+						</p>
+						<p><strong>[When the result tables appear · about 1:12]</strong></p>
+						<p>
+							The agent reads back the model values. It also distinguishes information still coming
+							from the spreadsheet. It reports the results and proposes fixes without applying them.
+						</p>
+						<p><strong>[At the end · advance to the results slide]</strong></p>
+						<p>Let us look at the main findings.</p>
+						<p>
+							<small
+								>[Sources] videos/6 - Importing Data.mp4, full recording; videos/6 - Importing
+								Data.txt.</small
+							>
+						</p>
+						<p>
+							<small
+								>[Playback detail] The result table identifies mass, power, and latency as model
+								read-backs; cost, ASIL, and temperature are taken from the supplier spreadsheet.
+								Some exchange allocations remain manual. This is a generated architecture to review,
+								not a fully validated design.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="aeb-checks"
+					class="light"
+					data-background-color="#ffffff"
+					data-timing="25"
+					data-auto-animate
+					data-auto-animate-id="checks"
+				>
+					<p class="eyebrow" data-id="eyebrow">03 / Checking the architecture</p>
+					<h2 data-id="result-heading">The model makes the tradeoffs visible.</h2>
+					<div class="check-layout">
+						<div class="checks">
+							<p><span>Mass</span><strong class="teal">Pass</strong></p>
+							<p><span>Power</span><strong class="teal">Pass</strong></p>
+							<p><span>Decision ECU</span><strong class="issue">Below ASIL D</strong></p>
+						</div>
+						<div class="latency" data-id="latency">
+							<p class="level">End-to-end latency</p>
+							<p class="latency-value">
+								<strong data-id="latency-value">146</strong><span>ms</span>
+							</p>
+							<p>Target: 120 ms</p>
+						</div>
+					</div>
+					<p class="footnote">
+						Agent-reported checks on the AEB example · Engineering review required
+					</p>
+					<aside class="notes">
+						<p><strong>[Talk 13:45–14:10]</strong></p>
+						<p>
+							Here are the agent's reported results. Mass and power pass. Latency is 146
+							milliseconds against a target of 120.
+						</p>
+						<p>
+							The decision controller is also below ASIL D, the safety integrity level requested in
+							this example.
+						</p>
+						<p>
+							We now have specific design issues to investigate, with the architecture available for
+							inspection.
+						</p>
+						<p>
+							<small
+								>[Sources] videos/6 - Importing Data.txt, prompt 2 and accompanying
+								narration.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="latency"
+					class="light"
+					data-background-color="#ffffff"
+					data-timing="15"
+					data-auto-animate
+					data-auto-animate-id="checks"
+				>
+					<p class="eyebrow" data-id="eyebrow">03 / Checking the architecture</p>
+					<h2 data-id="result-heading">An architecture to challenge.</h2>
+					<div class="latency-focus">
+						<div class="latency" data-id="latency">
+							<p class="level">End-to-end latency</p>
+							<p class="latency-value">
+								<strong data-id="latency-value">146</strong><span>ms</span>
+							</p>
+							<p>Target: 120 ms</p>
+						</div>
+						<div class="decision">
+							<p class="delta">+26 ms</p>
+							<p>Which design change<br />closes the gap?</p>
+						</div>
+					</div>
+					<p class="footnote">A result to investigate, with values traceable to model elements.</p>
+					<aside class="notes">
+						<p><strong>[Talk 14:10–14:25]</strong></p>
+						<p>
+							Take the latency result: we need to remove 26 milliseconds. Which design change closes
+							that gap, and what else would it affect?
+						</p>
+						<p>That is an engineering decision the model helps us examine.</p>
+						<p>
+							<small
+								>[Sources] 146 ms and 120 ms: videos/6 - Importing Data.txt. The 26 ms difference is
+								calculated from those values.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="data-model"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="10"
+					data-auto-animate
+					data-auto-animate-id="pipeline"
+				>
+					<p class="eyebrow" data-id="eyebrow">03 / A model and a method</p>
+					<div class="pipeline">
+						<p data-id="data">Data</p>
+						<span data-id="arrow1">→</span>
+						<p data-id="model">Model</p>
+					</div>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 14:25–14:35]</strong></p>
+						<p>
+							Look at the path we have taken. We started with supplier data and requirements, and
+							turned them into a structured architecture.
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="engineering-decision"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="15"
+					data-auto-animate
+					data-auto-animate-id="pipeline"
+				>
+					<p class="eyebrow" data-id="eyebrow">03 / A model and a method</p>
+					<div class="pipeline complete">
+						<p data-id="data">Data</p>
+						<span data-id="arrow1">→</span>
+						<p data-id="model">Model</p>
+						<span>→</span>
+						<p>Reasoning</p>
+						<span>→</span>
+						<p class="accent">Engineering<br />decision</p>
+					</div>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 14:35–14:50]</strong></p>
+						<p>
+							Then we used that architecture to reason about the design and prepare an engineering
+							decision.
+						</p>
+						<p>
+							And what seems important to me here, is that this design, we've been able to work on
+							it, iterate with the LLM, and we are un-ambigously defining it. The same information
+							is modified, and this information is processable by deterministic algorithms, it can
+							be validated, checked, reviewed in detail.
+						</p>
+						<p>
+							Before discussing the limits, one short example shows this interaction in a web
+							modeling environment.
+						</p>
+						<p><strong>[Advance to start the Capella for SysON video.]</strong></p>
+					</aside>
+				</section>
+
+				<section
+					id="syson-demo"
+					class="light video-slide"
+					data-background-color="#ffffff"
+					data-timing="40"
+				>
+					<p class="eyebrow">03 / The same principles on the web</p>
+					<h2 class="demo-title">Capella for SysON: Arcadia meets SysML v2.</h2>
+					<video
+						class="demo"
+						controls
+						muted
+						playsinline
+						preload="auto"
+						data-autoplay
+						data-src="assets/media/syson.mp4"
+						poster="assets/media/syson.jpg"
+						aria-label="An AI assistant adds exchanges to a Capella for SysON model in a web environment. Silent screen recording, narrated by the speaker."
+					>
+						Your browser cannot play this recording.
+						<a href="assets/media/syson.mp4">Open the video</a>.
+					</video>
+					<p class="footnote">
+						Capella for SysON · New open-source modeling project · Recorded demonstration
+					</p>
+					<aside class="notes">
+						<p><strong>[Talk 14:50–15:30]</strong></p>
+						<p>
+							<strong
+								>[Video starts automatically · the existing model and assistant are visible]</strong
+							>
+						</p>
+						<p>
+							This is Capella for SysON, our new open-source project bringing the Arcadia approach
+							to web modeling on a SysML v2 foundation. It is still at an early stage.
+						</p>
+						<p><strong>[As exchanges appear between functions · about 0:18]</strong></p>
+						<p>
+							Here the user asks the assistant to add functional exchanges. The assistant proposes
+							them, the user confirms, and the model updates.
+						</p>
+						<p>
+							The interaction is familiar: the agent works with engineering concepts, and the
+							engineer can inspect the result.
+						</p>
+						<p><strong>[At the end · advance to the limits of the approach.]</strong></p>
+						<p>
+							<small
+								>[Sources] videos/demo-syson-capella-extension.mp4, 01:20–01:58.77. Project context:
+								https://blog.obeosoft.com/capella-for-syson (Stéphane Lacrampe, 9 September 2026).
+								The open-source description concerns the modeling project; the article describes AI
+								capabilities separately in the enterprise offering.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section
+					id="necessary"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="20"
+					data-auto-animate
+					data-auto-animate-id="limits"
+				>
+					<p class="eyebrow" data-id="eyebrow">What this does not solve</p>
+					<h2 class="statement" data-id="limit">The model<br />is necessary.</h2>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 15:30–15:50]</strong></p>
+						<p>
+							Across these examples, the model gives the agent something structured to work with,
+							and the method gives it a direction.
+						</p>
+						<p>But does that automatically make it a good systems engineer?</p>
+						<p><strong>[Pause, then advance.]</strong></p>
+					</aside>
+				</section>
+
+				<section
+					id="not-sufficient"
+					class="dark"
+					data-background-color="#262057"
+					data-timing="30"
+					data-auto-animate
+					data-auto-animate-id="limits"
+				>
+					<p class="eyebrow" data-id="eyebrow">What this does not solve</p>
+					<h2 class="statement" data-id="limit">
+						The model<br />is necessary.<br /><span class="accent">It is not sufficient.</span>
+					</h2>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 15:50–16:20]</strong></p>
+						<p>
+							No. In another experiment, which I am not showing today, I ask the agent to generate
+							design requirements from the physical architecture.
+						</p>
+						<p>
+							One requirement bundles processing an announcement, interrupting passenger services,
+							and distributing the audio, without an interruption deadline. We need separate,
+							testable obligations and measurable acceptance criteria supplied by engineers.
+						</p>
+						<p>
+							That result is informative. Access to the architecture did not tell the agent what we
+							consider to be a good requirement in this project.
+						</p>
+						<p>
+							<small
+								>[Sources] videos/5 - From Model to Requirements.mp4, 00:22–00:29; companion
+								transcript.</small
+							>
+						</p>
+					</aside>
+				</section>
+
+				<section id="constraints" class="light" data-background-color="#ffffff" data-timing="40">
+					<p class="eyebrow" data-id="eyebrow">The engineering context still matters</p>
+					<h2>What does “good” mean in this project?</h2>
+					<div class="instruction-lines">
+						<p><span>01</span>Project rules and objectives</p>
+						<p><span>02</span>Modeling guidelines and conventions</p>
+						<p><span>03</span>Verification strategy</p>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 16:20–17:00]</strong></p>
+						<p>
+							It also needs our project rules, modeling guidelines, conventions, and objectives.
+							Potentially, it needs our verification strategy too.
+						</p>
+						<p>
+							Before the braking video, I showed the instructions: map supplier parts to components,
+							apply the gateway rule, and attach properties. I then asked the agent to check the
+							result against the targets. Those instructions shaped its work.
+						</p>
+						<p>
+							The open question is how to make this engineering context explicit and usable, so that
+							the agent's work can be reviewed against it.
+						</p>
+					</aside>
+				</section>
+
+				<section id="better-context" class="dark" data-background-color="#262057" data-timing="30">
+					<p class="eyebrow" data-id="eyebrow">A research and engineering challenge</p>
+					<h2 class="statement">
+						Better engineering<br /><span class="accent">context.</span><br />Better
+						<span class="accent">constraints.</span>
+					</h2>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 17:00–17:30]</strong></p>
+						<p>
+							That is where I see a research and engineering challenge: giving agents better
+							engineering context and better constraints.
+						</p>
+						<p>
+							The model supplies meaning and traceability. The method gives the work a direction.
+							Project rules help define what an acceptable result looks like.
+						</p>
+						<p>
+							These examples are an early indication of what becomes possible when we bring those
+							things together.
+						</p>
+					</aside>
+				</section>
+
+				<section id="closing-claims" class="dark" data-background-color="#262057" data-timing="15">
+					<p class="eyebrow" data-id="eyebrow">Three claims</p>
+					<div class="closing-claims">
+						<p>Engineering semantics.</p>
+						<p>Model-enabled reasoning.</p>
+						<p>A model <span class="accent">and a method.</span></p>
+					</div>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 17:30–17:45]</strong></p>
+						<p>
+							So, three claims. Models give agents engineering semantics. They support reasoning
+							about a design. And methods guide how agents work.
+						</p>
+						<p>The structure we put into models becomes accessible through natural language.</p>
+						<p>This structure, the tools, and the method associated are the common ground in between the system engineer and the agent. Models are a perfect match for efficient work with an LLM, bringing back determinism, validation on top of this automated generation.</p>
+					</aside>
+				</section>
+
+				<section
+					id="closing"
+					class="dark title-slide"
+					data-background-color="#262057"
+					data-timing="15"
+				>
+					<p class="eyebrow" data-id="eyebrow">MODELS 2026 / Industry Day</p>
+					<h2 class="closing-title">
+						Your AI agent<br />needs <span class="accent">a model.</span>
+					</h2>
+					<p class="closing-invitation">Experiment with it. Challenge it. Tell us what you find.</p>
+					<div class="signature">
+						<p>Cédric Brun<span>Obeo</span></p>
+						<img src="assets/obeo-logo-white.svg" alt="Obeo" width="112" />
+					</div>
+					<div class="model-motif" data-id="model-motif" aria-hidden="true">
+						<span></span><span></span><span></span>
+					</div>
+					<aside class="notes">
+						<p><strong>[Talk 17:45–18:00]</strong></p>
+						<p>That is why I believe your AI agent needs a model.</p>
+						<p>
+							This is working software. Experiment with it, challenge it, and tell us what you find.
+							Thank you.
+						</p>
+						<p><strong>[Leave this slide on screen for the two-minute Q&amp;A.]</strong></p>
+					</aside>
+				</section>
+			</div>
+		</div>
+		<script src="dist/reveal.js"></script>
+		<script src="dist/plugin/notes.js"></script>
+		<script>
+			const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+			Reveal.initialize({
+				width: 1280,
+				height: 720,
+				margin: 0.02,
+				center: false,
+				hash: true,
+				controls: true,
+				controlsTutorial: false,
+				controlsBackArrows: 'visible',
+				progress: false,
+				transition: reducedMotion ? 'none' : 'fade',
+				transitionSpeed: 'slow',
+				backgroundTransition: reducedMotion ? 'none' : 'fade',
+				autoAnimate: !reducedMotion,
+				autoAnimateDuration: 0.7,
+				autoAnimateEasing: 'cubic-bezier(0.22, 1, 0.36, 1)',
+				autoAnimateStyles: [
+					'opacity',
+					'color',
+					'background-color',
+					'font-size',
+					'line-height',
+					'letter-spacing',
+				],
+				view: 'slide',
+				viewDistance: 2,
+				totalTime: 1080,
+				pdfSeparateFragments: false,
+				plugins: [RevealNotes],
+			});
+		</script>
+	</body>
+</html>
