@@ -15,7 +15,6 @@ tags:
   - obeo
 permalink: /talks/models-2026-your-ai-agent-needs-a-model/
 excerpt: "Practical examples from MODELS 2026 of how systems engineers can use AI for Capella today to explore architectures, question designs, and prepare changes for review."
-draft: true
 talk:
   event: "MODELS 2026 Industry Day"
   location: "Málaga, Spain"
