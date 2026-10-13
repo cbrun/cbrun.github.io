@@ -25,18 +25,25 @@ talk:
 
 I came back from [MODELS 2026](https://conf.researchr.org/home/models-2026) in Málaga with plenty to think about. Thank you to Lola and the organizing team for a great conference. Everything was so well organized, and it was a pleasure to catch up with people I have known in the academic modeling community for years, and to meet new people getting involved.
 
-I was particularly happy to see so many people at Industry Day. My presentation, **“Your AI Agent Needs a Model,”** led to many interesting questions. I had brought a few practical examples of what systems engineers can do with AI and models **right now**.
-
 <figure>
-    <a href="{{ site.url }}/talks/Models2026/">
-      <img src="{{ site.url }}/images/blog/2026/models2026/title.png" alt="Your AI agent needs a model: Cédric Brun, Obeo, at MODELS 2026 Industry Day in Málaga." width="1600" height="900">
+    <a href="{{ site.url }}/images/blog/2026/models2026/models2026-selfie.png">
+      <img src="{{ site.url }}/images/blog/2026/models2026/models2026-selfie.png" alt="Selfie beside the MODELS 2026 conference banner in Málaga." width="1448" height="1086">
     </a>
-    <figcaption>Your AI agent needs a model. Click to explore the slides and recorded demonstrations.</figcaption>
+    <figcaption>A quick souvenir from MODELS 2026 in Málaga.</figcaption>
 </figure>
+
+I was particularly happy to see so many people at Industry Day. My presentation, **“Your AI Agent Needs a Model,”** led to many interesting questions. I had brought a few practical examples of what systems engineers can do with AI and models **right now**.
 
 At [Obeo](https://www.obeosoft.com/en/), we have been exploring these interactions across our modeling tools. For this talk, I focused on [Capella](https://mbse-capella.org/), a mature environment with an established engineering method. [AI for Capella](https://www.obeosoft.com/en/products/ai-for-capella/) is our commercial add-on connecting it to AI agents through MCP, the Model Context Protocol. It is available today.
 
 In June, I wrote about [making Capella accessible to AI agents]({{ site.url }}/mbse/ai-for-capella-agentic-ai-as-a-first-step/). This time, I wanted to show what engineers can actually ask them to do.
+
+<figure>
+    <a href="{{ site.url }}/talks/Models2026/">
+      <img src="{{ site.url }}/images/blog/2026/models2026/title.png" alt="Your AI agent needs a model: Cédric Brun, Obeo, at MODELS 2026 Industry Day in Málaga." width="1600" height="900" loading="lazy">
+    </a>
+    <figcaption>Your AI agent needs a model. Click to explore the slides and recorded demonstrations.</figcaption>
+</figure>
 
 ## Where does the trace stop?
 
