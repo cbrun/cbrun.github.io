@@ -1,11 +1,11 @@
 <div class="social-share">
-  <h4>Share on</h4>
+  <h4>{% if page.lang == 'fr' or page.translation_en %}Partager sur{% else %}Share on{% endif %}</h4>
   <ul>
     <li>
-      <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://bsky.app/intent/compose?text={{ page.title | truncate: 120 | append: ' ' | append: canonical | url_encode }}" class="bluesky" title="{% if page.lang == 'fr' or page.translation_en %}Partager sur Bluesky{% else %}Share on Bluesky{% endif %}"><span>Bluesky</span></a>
     </li>
     <li>
-      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}" class="linkedin" title="Share on LinkedIn"><i class="fa fa-linkedin"></i><span> LinkedIn</span></a>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ canonical | url_encode }}" class="linkedin" title="{% if page.lang == 'fr' or page.translation_en %}Partager sur LinkedIn{% else %}Share on LinkedIn{% endif %}"><span>LinkedIn</span></a>
     </li>	
   </ul>
 </div><!-- /.social-share -->

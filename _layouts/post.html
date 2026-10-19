@@ -49,6 +49,7 @@
       {{ content }}
       <hr />
       <footer role="contentinfo">
+        {% include _social-follow.html %}
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
         <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.last_modified_at %} and last updated on <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%B %d, %Y" }}</time>{% endif %}.</p>
       </footer>

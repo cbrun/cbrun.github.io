@@ -14,6 +14,7 @@ tags:
   - syson
   - obeo
 permalink: /talks/models-2026-your-ai-agent-needs-a-model/
+bluesky_post: https://bsky.app/profile/cedric.brun.io/post/3myaa7yvz3k2f
 excerpt: "Practical examples from MODELS 2026 of how systems engineers can use AI for Capella today to explore architectures, question designs, and prepare changes for review."
 talk:
   event: "MODELS 2026 Industry Day"

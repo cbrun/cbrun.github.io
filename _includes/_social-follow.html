@@ -1,0 +1,10 @@
+<aside class="social-follow" aria-label="{% if page.lang == 'fr' or page.translation_en %}Suivre Cédric Brun{% else %}Follow Cédric Brun{% endif %}">
+  <p>{% if page.lang == 'fr' or page.translation_en %}Je partage des notes plus courtes sur la modélisation, le MBSE et l’open source sur Bluesky, et mon actualité professionnelle et celle d’Obeo sur LinkedIn.{% else %}I share shorter notes on modeling, MBSE and open source on Bluesky, and professional and Obeo updates on LinkedIn.{% endif %}</p>
+  <div class="social-follow__links">
+    <a href="https://bsky.app/profile/{{ site.owner.bluesky }}" rel="me">{% if page.lang == 'fr' or page.translation_en %}Suivre sur Bluesky{% else %}Follow on Bluesky{% endif %} <span aria-hidden="true">↗</span></a>
+    <a href="https://www.linkedin.com/in/{{ site.owner.linkedin }}/" rel="me">{% if page.lang == 'fr' or page.translation_en %}Échanger sur LinkedIn{% else %}Connect on LinkedIn{% endif %} <span aria-hidden="true">↗</span></a>
+  </div>
+  {% if page.bluesky_post %}
+  <p class="social-follow__discussion"><a href="{{ page.bluesky_post }}">{% if page.lang == 'fr' or page.translation_en %}Discuter de cet article sur Bluesky{% else %}Discuss this article on Bluesky{% endif %} <span aria-hidden="true">→</span></a></p>
+  {% endif %}
+</aside>

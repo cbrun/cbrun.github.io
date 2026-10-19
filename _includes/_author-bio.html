@@ -17,11 +17,11 @@
 
   <h3 itemprop="name">{{ author.name }}</h3>
   <p>{{ author.bio }}</p>
+  {% if author.bluesky %}<a href="https://bsky.app/profile/{{ author.bluesky }}" class="author-social" rel="me">{% if page.lang == 'fr' or page.translation_en %}Suivre sur Bluesky{% else %}Follow on Bluesky{% endif %}</a>{% endif %}
+  {% if author.linkedin %}<a href="https://www.linkedin.com/in/{{ author.linkedin }}/" class="author-social" rel="me"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>{% endif %}
   {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
-  {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
   {% if author.facebook %}<a href="https://facebook.com/{{ author.facebook }}" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
   {% if author.google.plus %}<a href="https://plus.google.com/+{{ author.google.plus }}" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
-  {% if author.linkedin %}<a href="https://linkedin.com/in/{{ author.linkedin }}" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}
   {% if author.xing %}<a href="https://www.xing.com/profile//{{ author.xing }}" class="author-social" target="_blank"><i class="fa fa-fw fa-xing-square"></i> XING</a>{% endif %}
   {% if author.instagram %}<a href="https://instagram.com/{{ author.instagram }}" class="author-social" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>{% endif %}
   {% if author.tumblr %}<a href="https://{{ author.tumblr }}.tumblr.com" class="author-social" target="_blank"><i class="fa fa-fw fa-tumblr-square"></i> Tumblr</a>{% endif %}

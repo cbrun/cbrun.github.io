@@ -1488,6 +1488,34 @@ $button-size: 1.5rem;
 	}
 }
 
+.social-follow {
+  margin: 2rem 0;
+  padding: 1.25rem;
+  background: #eef4fa;
+  border: 1px solid #dce7f2;
+  border-radius: .7rem;
+
+  p {
+    margin: 0 0 1rem;
+    text-align: left;
+    text-indent: 0;
+  }
+
+  .social-follow__discussion {
+    margin: 1rem 0 0;
+  }
+}
+.social-follow__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem 1.5rem;
+
+  a {
+    font-weight: 700;
+    text-decoration: underline;
+  }
+}
+
 /* Social sharing links */
 /* Social media brand buttons */
 .social-share {
@@ -1511,12 +1539,15 @@ $button-size: 1.5rem;
   (pinterest, $pinterest-color),
   (rss, $rss-color),
   (tumblr, $tumblr-color),
-  (twitter, $twitter-color),
+  (bluesky, $bluesky-color),
   (vimeo, $vimeo-color),
   (youtube, $youtube-color);
   @each $socialnetwork, $color in $social {
     .#{$socialnetwork} {
       background: $color;
+      &:hover, &:focus {
+        background: darken($color, 10%);
+      }
     }    
   }
   a {
@@ -1528,17 +1559,9 @@ $button-size: 1.5rem;
 	  font-family: $heading-font;
 	  font-weight: 700;
 	  color: $white;
-	  opacity: 0.8;
-	  &:hover {
-	    opacity: 1;
-	  }
 	}
 	span {
-		display: none;
-		@media #{$medium} {
-			display: inline;
-			padding-left: 5px;
-		}
+		display: inline;
 	}
 	h4 {
 		@include font-rem(14);

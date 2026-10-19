@@ -43,8 +43,9 @@
       <p>{% if page.lang == 'fr' %}Pour une conférence, une collaboration open source ou un projet de modélisation, vous pouvez me contacter directement ou découvrir le travail d'Obeo.{% else %}For a speaking opportunity, an open-source collaboration, or a modeling initiative, contact me directly or explore the work we do at Obeo.{% endif %}</p>
     </div>
     <div class="about-contact__links">
+      <a href="https://bsky.app/profile/{{ site.owner.bluesky }}" rel="me">{% if page.lang == 'fr' %}Suivre sur Bluesky{% else %}Follow on Bluesky{% endif %} <span aria-hidden="true">↗</span></a>
+      <a href="https://www.linkedin.com/in/{{ site.owner.linkedin }}/" rel="me">{% if page.lang == 'fr' %}Échanger sur LinkedIn{% else %}Connect on LinkedIn{% endif %} <span aria-hidden="true">↗</span></a>
       <a href="mailto:{{ site.owner.email }}">Email <span aria-hidden="true">↗</span></a>
-      <a href="https://www.linkedin.com/in/{{ site.owner.linkedin }}/">LinkedIn <span aria-hidden="true">↗</span></a>
       <a href="https://github.com/{{ site.owner.github }}">GitHub <span aria-hidden="true">↗</span></a>
       <a href="https://www.obeosoft.com/{% if page.lang == 'fr' %}fr/{% else %}en/{% endif %}">Obeo <span aria-hidden="true">↗</span></a>
     </div>

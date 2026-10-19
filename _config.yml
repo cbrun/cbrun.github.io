@@ -52,6 +52,7 @@ owner:
   email: cedric.brun@obeo.fr
   disqus-shortname: 
   twitter: bruncedric
+  bluesky: cedric.brun.io
   facebook: #username
   google:    
     verify: 
@@ -102,6 +103,7 @@ exclude:
   - REFONTE.md
   - TESTING.md
   - audit
+  - private
   - plan-maillage-externe-cedric-brun-io.md
 
 plugins:
